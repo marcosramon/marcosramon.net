@@ -40,6 +40,9 @@ collections:
   notes:
     output: true
     permalink: /note/:title
+  posts:
+    output: true
+    permalink: /post/:title
 
 # Markdown settings
 markdown: kramdown
