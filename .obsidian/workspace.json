@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/A ausência da memória.md",
+                "file": "_posts/teste.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A ausência da memória"
+              "title": "teste"
             }
           }
         ],
@@ -186,14 +186,14 @@
   },
   "active": "91b269e2ba468b23",
   "lastOpenFiles": [
+    "_posts/how-to.md",
+    "_posts/A ausência da memória.md",
     "_notes/Public/Welcome to the garden.md",
     "_notes/Public/Markdown Rendered.md",
     "_notes/Public/Hidden Note.md",
     "_notes/Public/Credits.md",
-    "_posts/A ausência da memória.md",
     "_posts/features.md",
     "_posts/obsidian-indice.json",
-    "_posts/how-to.md",
     "_posts/teste.md",
     "_posts/A beleza trágica.md",
     "_posts/A beleza do absurdo.md",
