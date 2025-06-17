@@ -16,7 +16,7 @@ Eu também gosto da beleza certa daquilo que é padronizado, mas o absurdo sempr
 
 Um prazer gigantesco que eu tenho é colecionar esses absurdos na internet. Faço isso menos do que eu gostaria, mas sempre que me deparo com algo estranho o suficiente para me tirar do sério, coloco em uma [revista no Flipboard](https://flipboard.com/@marcosramon/nonsense-nb212gnqz). Me segue lá, se tiver a mesma necessidade que eu, de fugir do agradável, de se maravilhar com o absurdo.
 
-![[a-beleza-do absurdo-medium.jpeg]]
+<img src="/assets/img/a-beleza-do absurdo-medium.jpeg">
 
 Um dos sapatos de [Anna Vasof](https://vimeo.com/annavasof)
 
