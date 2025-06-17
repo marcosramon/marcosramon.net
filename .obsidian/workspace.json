@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/index.md",
+                "file": "_posts/2018-01-05-a-ausencia-da-memoria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2018-01-05-a-ausencia-da-memoria"
             }
           }
         ],
@@ -186,9 +186,10 @@
   },
   "active": "91b269e2ba468b23",
   "lastOpenFiles": [
+    "pages/index.md",
     "_posts/2025-06-17-teste.md",
     "_posts/how-to.md",
-    "_posts/A ausência da memória.md",
+    "_posts/2018-01-05-a-ausencia-da-memoria.md",
     "_notes/Public/Welcome to the garden.md",
     "_notes/Public/Markdown Rendered.md",
     "_notes/Public/Hidden Note.md",

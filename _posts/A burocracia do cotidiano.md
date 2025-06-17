@@ -28,5 +28,5 @@ Ilustração de [Ana Yael](http://www.anayael.net/)
 > [!leia] Leia também:
 > - [[Saia e divirta-se!]]
 > - [[A beleza do absurdo]]
-> - [[A ausência da memória]]
+> - [[2018-01-05-a-ausencia-da-memoria]]
 > -

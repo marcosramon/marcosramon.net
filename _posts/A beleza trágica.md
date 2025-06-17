@@ -29,5 +29,5 @@ Mas [Nietzsche não achava que devíamos destruir o apolíneo em nós](http://am
 ---
 > [!leia] Leia também:
 > - [[A beleza do absurdo]]
-> - [[A ausência da memória]]
+> - [[2018-01-05-a-ausencia-da-memoria]]
 > - [[A realidade se impõe]]
