@@ -22,7 +22,7 @@ Beleza tem a ver com serenidade e é por isso que na cultura pop, na moda e nos 
 
 Mas [Nietzsche não achava que devíamos destruir o apolíneo em nós](http://amzn.to/2jEbjMx). Precisamos dessa mansidão para não vivermos na loucura, da mesma forma que precisamos de instantes de loucura para não morrermos na ilusão do controle. A beleza controlada é tão terrível quanto a ausência de racionalidade; e só o meio-termo, o reconhecimento da tragicidade da vida, pode nos aproximar de uma experiência do belo que não nos adoeça e nem nos faça perder a esperança no mundo.
 
-![[more.jpeg]]
+![[assets/img/more.jpeg]]
 “More Legends”, por [Nathalie Gaouyer](http://nathaliegaouyer.tumblr.com/post/146803678912/more-legends)
 
 #estética #filosofia
