@@ -5,8 +5,9 @@ tags:
   - pensamentos
 description: A ausência da memória
 image: 
-aliases:
+aliases: 
 permalink: a-ausencia-da-memoria
+layout: post
 ---
 > [!data] <small><i>Por Marcos Ramon, em 05/01/2018</i></small>
 
