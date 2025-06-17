@@ -12,6 +12,7 @@ image: graffitiremoval.jpg
 aliases:
   - "[[arte]]"
 permalink: a-arte-depois-da-arte
+feed: show
 ---
 > [!data] <small><i>Por Marcos Ramon, em 14/09/2013</i></small>
 
