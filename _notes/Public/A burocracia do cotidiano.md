@@ -6,8 +6,9 @@ tags:
   - cotidiano
 description: A maioria das pessoas — e eu estou nesse grupo — trata a vida como um evento burocrático. Organizamos nossas tarefas, afazeres e desejos em…
 image: 
-aliases:
+aliases: 
 permalink: a-burocracia-do-cotidiano
+feed: show
 ---
 > [!data] <small><i>Por Marcos Ramon, em 12/08/2016</i></small>
 

@@ -5,8 +5,9 @@ tags:
   - pensamentos
 description: A beleza do absurdo
 image: 
-aliases:
+aliases: 
 permalink: a-beleza-do-absurdo
+feed: show
 ---
 > [!data] <small><i>Por Marcos Ramon, em 25/02/2017</i></small>
 
