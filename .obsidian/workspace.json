@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/teste.md",
+                "file": "_posts/2025-06-17-teste.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "teste"
+              "title": "2025-06-17-teste"
             }
           }
         ],
@@ -194,7 +194,7 @@
     "_notes/Public/Credits.md",
     "_posts/features.md",
     "_posts/obsidian-indice.json",
-    "_posts/teste.md",
+    "_posts/2025-06-17-teste.md",
     "_posts/A beleza trágica.md",
     "_posts/A beleza do absurdo.md",
     "_posts/A arte depois da arte.md",
