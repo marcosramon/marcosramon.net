@@ -1,6 +1,6 @@
 ---
 title: A ausência da memória
-date: 2018-01-05
+date: 05-01-2018
 tags:
   - pensamentos
 description: A ausência da memória

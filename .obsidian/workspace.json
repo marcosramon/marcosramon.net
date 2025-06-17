@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Credits.md",
+                "file": "_posts/A ausência da memória.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Credits"
+              "title": "A ausência da memória"
             }
           }
         ],
@@ -186,6 +186,10 @@
   },
   "active": "91b269e2ba468b23",
   "lastOpenFiles": [
+    "_notes/Public/Welcome to the garden.md",
+    "_notes/Public/Markdown Rendered.md",
+    "_notes/Public/Hidden Note.md",
+    "_notes/Public/Credits.md",
     "_posts/A ausência da memória.md",
     "_posts/features.md",
     "_posts/obsidian-indice.json",
