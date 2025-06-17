@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/A ausência da memória.md",
+                "file": "_notes/Public/Credits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A ausência da memória"
+              "title": "Credits"
             }
           }
         ],
@@ -186,10 +186,13 @@
   },
   "active": "91b269e2ba468b23",
   "lastOpenFiles": [
+    "_posts/A ausência da memória.md",
+    "_posts/features.md",
+    "_posts/obsidian-indice.json",
+    "_posts/how-to.md",
     "_posts/teste.md",
     "_posts/A beleza trágica.md",
     "_posts/A beleza do absurdo.md",
-    "_posts/A ausência da memória.md",
     "_posts/A arte depois da arte.md",
     "_posts/4'33''.md",
     "_posts/A burocracia do cotidiano.md",
