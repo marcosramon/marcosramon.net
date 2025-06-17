@@ -3,6 +3,7 @@ title: A arte depois da arte
 date: 2013-09-14 00:00:00 Z
 categories:
   - blog
+feed: show
 tags:
   - arte
   - comportamento
@@ -11,6 +12,7 @@ image: graffitiremoval.jpg
 aliases:
   - "[[arte]]"
 permalink: a-arte-depois-da-arte
+feed: show
 ---
 > [!data] <small><i>Por Marcos Ramon, em 14/09/2013</i></small>
 

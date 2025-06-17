@@ -12,6 +12,7 @@ tags:
 - Controle
 published: true
 permalink: a-beleza-tragica
+feed: show
 ---
 > [!data] <small><i>Por Marcos Ramon, em 09/08/2021</i></small>
 
