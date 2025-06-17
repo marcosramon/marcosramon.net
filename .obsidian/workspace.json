@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2018-01-05-a-ausencia-da-memoria.md",
+                "file": "pages/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2018-01-05-a-ausencia-da-memoria"
+              "title": "index"
             }
           }
         ],
@@ -186,8 +186,44 @@
   },
   "active": "91b269e2ba468b23",
   "lastOpenFiles": [
-    "_posts/2025-06-17-teste.md",
+    "_notes/Public/A beleza do absurdo.md",
+    "_notes/Public/A arte depois da arte.md",
+    "_notes/Public/A burocracia do cotidiano.md",
+    "_notes/Public/A beleza trágica.md",
+    "images/índice2.png",
+    "images/índice.png",
+    "images/yoon.gif",
+    "images/yan.gif",
+    "images/Xaviera+López.gif",
+    "images/willem+weismann.png",
+    "images/wilde.jpg",
+    "images/Weird_Trees_Mark_Bartkiw.jpg",
+    "images/web.png",
+    "images/warhol-dollar-bill-sothebys-2.jpg",
+    "images/teste.md",
+    "images/nada.md",
+    "images/imagens.md",
+    "images",
+    "arquivos/teste.md",
+    "arquivos/peanuts",
+    "arquivos/o-desapego-medium",
+    "arquivos/nada.md",
+    "arquivos/imagens.md",
+    "arquivos/goodreads-(ou",
+    "arquivos/ayrin (1).mp3",
+    "arquivos",
+    "Callouts.md",
+    "templates/Textos recentes.md",
+    "templates/Início.md",
+    "templates/indice-lista.md",
+    "templates/indice-ano.md",
+    "templates/Blog posts.md",
+    "templates",
+    "scripts python/renomear.py",
+    "scripts python/podcast-change.py",
+    "scripts python/organizar_textos.py",
     "_posts/2018-01-05-a-ausencia-da-memoria.md",
+    "_posts/2025-06-17-teste.md",
     "_posts/how-to.md",
     "pages/index.md",
     "_notes/Public/Welcome to the garden.md",
@@ -195,15 +231,6 @@
     "_notes/Public/Hidden Note.md",
     "_notes/Public/Credits.md",
     "_posts/features.md",
-    "_posts/obsidian-indice.json",
-    "_posts/A beleza trágica.md",
-    "_posts/A beleza do absurdo.md",
-    "_posts/A arte depois da arte.md",
-    "_posts/4'33''.md",
-    "_posts/A burocracia do cotidiano.md",
-    "pages/posts.md",
-    "_posts/2020-03-01-how-to.md",
-    "_posts/2020-03-01-features.md",
-    "_posts/2020-03-01-teste.md"
+    "_posts/A beleza trágica.md"
   ]
 }
