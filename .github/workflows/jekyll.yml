@@ -31,12 +31,14 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.0' # Set Ruby version
+          ruby-version: '3.0'
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
+        # A linha abaixo é a que executa o build. A opção bundler-cache: true acima já deve cuidar do bundle install.
+        # Vamos garantir que o comando de build esteja correto.
         run: bundle exec jekyll build --source . --destination ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
