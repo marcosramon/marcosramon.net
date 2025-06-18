@@ -46,7 +46,7 @@ A única solução foi configurar Leo novamente, em uma nova conversa. Mas ele n
 
 Aqui está um trecho da conversa exibida no episódio, gravada no telefone de Ayrin, após ela entrar em uma nova conversa, com um novo “Leo”. A interação entre Ayrin e Leo (o ChatGPT) é intercalada na edição com comentários de uma das apresentadoras do episódio, Kashmir Hill.
 
-<img src="/assets/img/ayrin (1).mp3">
+![[ayrin (2).mp3]]
 <small>Fonte: <a href="https://pca.st/icogm4ja?t=1082,1172">https://pca.st/icogm4ja?t=1082,1172</a></small>
 
 Mesmo que você não tenha entendido todo o diálogo acima, certamente percebeu pela voz de Ayrin o nível de dependência emocional que desenvolveu em relação ao ChatGPT.
