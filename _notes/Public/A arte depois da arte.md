@@ -1,6 +1,6 @@
 ---
 title: A arte depois da arte
-date: 2013-09-14 00:00:00 Z
+date: 2013-09-14
 categories:
   - blog
 feed: show
@@ -12,7 +12,6 @@ image: graffitiremoval.jpg
 aliases:
   - "[[arte]]"
 permalink: a-arte-depois-da-arte
-feed: show
 ---
 Um artista de rua chamado [DS](http://www.dsart.co.uk/profile/) foi avisado que alguém ia remover um grafite dele num lugar específico. Ele foi lá, conseguiu tirar uma foto do cara bem na hora e depois grafitou o removedor de grafites na parede. Muito bom!
 
