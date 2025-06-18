@@ -31,12 +31,12 @@ Sendo professor, sei que isso parece um contrassenso. Afinal, eu deveria saber d
 
 Pior é que a vida que temos é tão integrada, e a informação circula tão bem, que este drama que relato aqui não é só meu. Como todas as pessoas, estou sabendo demais; como todas, estou cansado e sem perspectiva. Então, quero ao menos que este ano novo que está quase chegando nos traga força para resistirmos, para cuidarmos de nós, cuidarmos dos nossos. 
 
-Quero ter [[2024-11-26-espaco|espaço]] na cabeça para pensar e desejar, mas por mim mesmo, sem algoritmos ou acumulação. Quero ter espaço para viver. Nesse próximo ano, te desejo o mesmo.
+Quero ter espaço na cabeça para pensar e desejar, mas por mim mesmo, sem algoritmos ou acumulação. Quero ter espaço para viver. Nesse próximo ano, te desejo o mesmo.
 
 <img src="assets/img/Pasted%20image%2020250224205847.png">
 *Untitled (Dada) por Hannah Höch, 1922*
 
 <h4>Leia também:</h4>
-- [[2024-04-18-olhando-com-cuidado|Olhando com cuidado]]
+- <a href="/olhando-com-cuidado">Olhando com cuidado</a>
 - <a href="/ler-menos">Ler menos</a>
 - <a href="/progredir-sem-medo-de-errar">Progredir, sem medo de errar</a>

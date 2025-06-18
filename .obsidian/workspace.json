@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Não quero saber.md",
+                "file": "_posts/2024-12-30-nao-quero-saber.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Não quero saber"
+              "title": "2024-12-30-nao-quero-saber"
             }
           }
         ],
@@ -186,10 +186,10 @@
   },
   "active": "91b269e2ba468b23",
   "lastOpenFiles": [
+    "_notes/Public/Não quero saber.md",
     "_notes/Public/A burocracia do cotidiano.md",
     "_notes/Public/A beleza do absurdo.md",
     "_posts/2024-12-30-nao-quero-saber.md",
-    "_notes/Public/Não quero saber.md",
     "_notes/Public/A arte depois da arte.md",
     "_posts/2025-03-18-um-caso-de-amor-com-o-chatgpt.md",
     "_posts/2016-08-12-a-burocracia-do-cotidiano.md",
