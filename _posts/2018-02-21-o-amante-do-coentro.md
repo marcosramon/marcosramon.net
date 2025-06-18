@@ -21,6 +21,6 @@ Quando ele escolheu — e foram só dois maços — eu já estava nas la
 #pensamentos #ética
 
 > Leia também:
-> - [[O pior e o melhor de todos nós]]
-> - [[O que contamos de nós mesmos]]
-> - [[Entender o tempo]]
+> - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
+> - <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>
+> - <a href="/entender-o-tempo">Entender o tempo</a>

@@ -24,9 +24,6 @@ Se sentir só é terrível. Mas todo mundo precisa passar por isso, para entende
 
 
 > Leia também:
-> - [[A experiência negativa]]
-> - [[A maior derrota que se pode ter]]
-> - [[Saber a felicidade]]
-> -
-> -
-> -
+> - <a href="/a-experiencia-negativa">A experiência negativa</a>
+> - <a href="/a-maior-derrota-que-se-pode-ter">A maior derrota que se pode ter</a>
+> - <a href="/saber-a-felicidade">Saber a felicidade</a>

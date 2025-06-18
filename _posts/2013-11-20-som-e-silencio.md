@@ -25,7 +25,6 @@ Somos bombardeados por estímulos visuais e sonoros o tempo todo, mas nem sempre
 #pensamentos #música
 
 > Leia também:
-> - [[Aprender a olhar]]
-> - [[Teses, Romances e seus leitores]]
-> - [[O pior e o melhor de todos nós]]
-> -
+> - <a href="/aprender-a-olhar">Aprender a olhar</a>
+> - <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>
+> - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>

@@ -22,6 +22,6 @@ Ilustração de [Mariana, a miserável](http://marianaamiseravel.tictail.com/)
 #pensamentos #pensamento
 
 > Leia também:
-> - [[Muito papel]]
-> - [[Uma semana nas férias]]
-> - [[A matéria das memórias]]
+> - <a href="/muito-papel">Muito papel</a>
+> - <a href="/uma-semana-nas-ferias">Uma semana nas férias</a>
+> - <a href="/a-materia-das-memorias">A matéria das memórias</a>

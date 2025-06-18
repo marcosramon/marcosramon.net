@@ -22,6 +22,6 @@ Instalação de rua de [Slinkachu](http://www.slinkachu.com/)
 #pensamentos #estética
 
 > Leia também:
-> - [[Mais individualismo]]
-> - [[O pior e o melhor de todos nós]]
-> - [[Os contos e suas releituras]]
+> - <a href="/mais-individualismo">Mais individualismo</a>
+> - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
+> - <a href="/os-contos-e-suas-releituras">Os contos e suas releituras</a>

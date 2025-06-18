@@ -22,6 +22,6 @@ Ilustração de [Siggi Eggertsson](http://www.siggieggertsson.com/)
 #educação #conhecimento
 
 > Leia também:
-> - [[Teses, Romances e seus leitores]]
-> - [[O que é ser criativo]]
-> - [[Viver em sociedade]]
+> - <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>
+> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+> - <a href="/viver-em-sociedade">Viver em sociedade</a>

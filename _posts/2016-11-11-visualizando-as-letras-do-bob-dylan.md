@@ -27,7 +27,6 @@ Não sei bem o que fazer com essas coisas, mas vou continuar testando possibilid
 #música #Grafos
 
 > Leia também:
-> - [[Blog/Visualizando a hashtag diadopodcast|Visualizando a hashtag diadopodcast]]
-> - [[A importância do contexto]]
-> - [[4'33'']]
-
+> - <a href="/visualizando-a-hashtag-diadopodcast">Visualizando a hashtag diadopodcast</a>
+> - <a href="/a-importancia-do-contexto">A importância do contexto</a>
+> - <a href="/433">4'33''</a>

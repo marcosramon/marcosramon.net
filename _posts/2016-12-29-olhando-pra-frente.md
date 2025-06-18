@@ -29,7 +29,6 @@ _Feliz Ano Novo._
 #filosofia #reflexão
 
 > Leia também:
-> - [[A realidade e nós mesmos]]
-> - [[Saber a felicidade]]
-> - [[Uma vida sem reflexão]]
-> -
+> - <a href="/a-realidade-e-nos-mesmos">A realidade e nós mesmos</a>
+> - <a href="/saber-a-felicidade">Saber a felicidade</a>
+> - <a href="/uma-vida-sem-reflexao">Uma vida sem reflexão</a>

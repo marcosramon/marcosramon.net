@@ -41,7 +41,6 @@ Estamos em um mundo melhor para leitores e escritores. Eu acredito nisso. A ques
 #tecnologia #leitura
 
 > Leia também:
-> - [[A tecnologia da interação]]
-> - [[Como ler mais]]
-> - [[O totalitarismo e a gente]]
-> -
+> - <a href="/a-tecnologia-da-interacao">A tecnologia da interação</a>
+> - <a href="/como-ler-mais">Como ler mais</a>
+> - <a href="/o-totalitarismo-e-a-gente">O totalitarismo e a gente</a>

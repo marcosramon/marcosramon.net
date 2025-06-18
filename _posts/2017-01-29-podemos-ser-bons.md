@@ -21,6 +21,6 @@ Colagem criada por [Beth Hoeckel](http://bethhoeckel.com/)
 #filosofia #Ética
 
 > Leia também:
-> - [[Blog/A necessidade de estar inteiro|A necessidade de estar inteiro]]
-> - [[Podcast/Rousseau e a contradição entre as ideias e todo o resto|Rousseau e a contradição entre as ideias e todo o resto]]
-> - [[Blog/Saber a felicidade|Saber a felicidade]]
+> - <a href="/a-necessidade-de-estar-inteiro">A necessidade de estar inteiro</a>
+> - <a href="/podcastrousseau-e-a-contradicao-entre-as-ideias-e-todo-o-resto">Rousseau e a contradição entre as ideias e todo o resto</a>
+> - <a href="/saber-a-felicidade">Saber a felicidade</a>

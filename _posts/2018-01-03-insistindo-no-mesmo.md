@@ -27,6 +27,6 @@ Foto de [Dudi Ben Simon](https://www.instagram.com/dudibensimon/)
 #cultura #arte
 
 > Leia também:
-> - [[A arte depois da arte]]
-> - [[A Nintendo continua a mesma — ainda bem]]
-> - [[Distraídos]]
+> - <a href="/a-arte-depois-da-arte">A arte depois da arte</a>
+> - <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>
+> - <a href="/distraidos">Distraídos</a>

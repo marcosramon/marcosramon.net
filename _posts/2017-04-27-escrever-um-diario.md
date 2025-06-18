@@ -27,6 +27,6 @@ Diários não são mais um fetiche para a maior parte das pessoas. Quando temos 
 #arte #cultura
 
 > Leia também:
-> - [[Todos iguais]]
-> - [[Judith Butler e a reflexão filosófica sobre gênero]]
-> - [[Viver o trabalho]]
+> - <a href="/todos-iguais">Todos iguais</a>
+> - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
+> - <a href="/viver-o-trabalho">Viver o trabalho</a>

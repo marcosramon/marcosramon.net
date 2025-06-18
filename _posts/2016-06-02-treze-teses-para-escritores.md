@@ -53,7 +53,6 @@ _13. O trabalho é a máscara mortuária de sua concepção.”_
 #filosofia #escrita
 
 > Leia também:
-> - [[Cidades para pessoas]]
-> - [[A incompatibilidade entre a ideia e a ação]]
-> - [[Desistir]]
-> -
+> - <a href="/cidades-para-pessoas">Cidades para pessoas</a>
+> - <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
+> - <a href="/desistir">Desistir</a>

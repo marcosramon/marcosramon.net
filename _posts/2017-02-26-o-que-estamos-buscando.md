@@ -21,9 +21,6 @@ Comprar um Nokia 3310, um toca discos, uma câmera analógica e um nintendinho 8
 #Consumo #tecnologia
 
 > Leia também:
-> - [[O que é ser criativo]]
-> - [[Estamos perdidos]]
-> - [[O que todo mundo é]]
-> -
-> -
-> -
+> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+> - <a href="/estamos-perdidos">Estamos perdidos</a>
+> - <a href="/o-que-todo-mundo-e">O que todo mundo é</a>

@@ -26,7 +26,6 @@ Pintura de [David Shrigley](http://blog.ocula.com/post/150113355609/david-shrigl
 #cultura #Livros
 
 > Leia também:
-> - [[O meio termo]]
-> - [[O possível amanhã]]
-> - [[Abraçando o nada]]
-> -
+> - <a href="/o-meio-termo">O meio termo</a>
+> - <a href="/o-possivel-amanha">O possível amanhã</a>
+> - <a href="/abracando-o-nada">Abraçando o nada</a>

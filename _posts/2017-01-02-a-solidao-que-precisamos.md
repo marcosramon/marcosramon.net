@@ -20,6 +20,6 @@ Ilustração de [Miguel Almagro](http://miguelalmagro.tumblr.com/post/105901059
 #pensamentos #consumo
 
 > Leia também:
-> - [[O que contamos de nós mesmos]]
-> - [[A ausência da memória]]
-> - [[Sobre escrever e fazer podcasts]]
+> - <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>
+> - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
+> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>

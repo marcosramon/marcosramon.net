@@ -24,6 +24,6 @@ Cena do clipe da música “[Everybody Hurts](https://www.youtube.com/watch?v=5r
 #arte #reflexão
 
 > Leia também:
-> - [[As primeiras horas da manhã]]
-> - [[O melhor lugar para você estar em 2018]]
-> - [[Viver o trabalho]]
+> - <a href="/as-primeiras-horas-da-manha">As primeiras horas da manhã</a>
+> - <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>
+> - <a href="/viver-o-trabalho">Viver o trabalho</a>

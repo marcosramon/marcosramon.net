@@ -22,6 +22,6 @@ Pintura de [Martin Wehmer](http://www.missmoss.co.za/2015/06/17/martin-wehmer/)
 #arte #filosofia
 
 > Leia também:
-> - [[Felicidade em dia de chuva]]
-> - [[A incompatibilidade entre a ideia e a ação]]
-> - [[O que aprendi fazendo um episódio de podcast por dia durante 2016]]
+> - <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>
+> - <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
+> - <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>

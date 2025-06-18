@@ -30,7 +30,6 @@ _A solidão, a liberdade e a felicidade possível. "Aforismos para a sabedoria d
 #cotidiano #sociedade
 
 > Leia também:
-> - [[A maior derrota que se pode ter]]
-> - [[A experiência negativa]]
-> - [[O pior e o melhor de todos nós]]
-> -
+> - <a href="/a-maior-derrota-que-se-pode-ter">A maior derrota que se pode ter</a>
+> - <a href="/a-experiencia-negativa">A experiência negativa</a>
+> - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>

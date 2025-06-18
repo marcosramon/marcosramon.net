@@ -14,9 +14,9 @@ Fiquei olhando aquelas pessoas e pensando que se eu perguntasse a qualquer uma d
 
 Mas não é assim. E nunca vai ser. Pelo simples fato de que temos medo de sermos o que somos e por isso fugimos da nossa imagem no espelho. Assim fica mais fácil olhar para os artistas e celebridades e pensar: "Que histórias incríveis! Que exemplo de vida!" E na verdade qualquer história é uma grande história, qualquer uma.
 
-<img src="/assets/img/arquivos/Pasted image 20250310152648.png"><small>Foto de <a href="http://www.reiniergerritsen.nl">Reinier Gerritsen</a></small>
+<img src="/assets/img/Pasted image 20250310152648.png"><small>Foto de <a href="http://www.reiniergerritsen.nl">Reinier Gerritsen</a></small>
 
 > Leia também:
-> - [[Trabalho, antes de tudo]]
-> - [[O destino inglório dos livros gigantes]]
-> - [[Aprender a perder]]
+> - <a href="/trabalho-antes-de-tudo">Trabalho, antes de tudo</a>
+> - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
+> - <a href="/aprender-a-perder">Aprender a perder</a>

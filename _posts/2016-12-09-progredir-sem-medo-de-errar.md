@@ -28,7 +28,6 @@ O conhecimento não é uma caixinha de ideias certas e erradas dentro da cabeç
 #ensino #pensamentos
 
 > Leia também:
-> - [[Passividade]]
-> - [[Alerta de spoiler]]
-> - [[Caminhando longe de tudo]]
-> -
+> - <a href="/passividade">Passividade</a>
+> - <a href="/alerta-de-spoiler">Alerta de spoiler</a>
+> - <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>

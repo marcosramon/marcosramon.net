@@ -31,9 +31,6 @@ Torço de longe para que o serviço se estabilize e que a proposta vingue de fat
 
 
 > Leia também:
-> - [[Ficções #09   um pouco de verdade]]
-> - [[É só um algoritmo]]
-> - [[Análise de um Fórum de EAD]]
-> -
-> -
-> -
+> - <a href="/ficcoes-09-um-pouco-de-verdade">Ficções #09   um pouco de verdade</a>
+> - <a href="/e-so-um-algoritmo">É só um algoritmo</a>
+> - <a href="/analise-de-um-forum-de-ead">Análise de um Fórum de EAD</a>

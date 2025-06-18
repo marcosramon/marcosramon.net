@@ -22,6 +22,6 @@ Gif criado por [Nicolas Monterrat](https://www.behance.net/UGDTG)
 #pensamentos #grafos
 
 > Leia também:
-> - [[A ausência da memória]]
-> - [[Basta estar vivo]]
-> - [[Não é só um jogo]]
+> - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
+> - <a href="/basta-estar-vivo">Basta estar vivo</a>
+> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>

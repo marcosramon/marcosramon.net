@@ -25,9 +25,6 @@ A única explicação que consigo imaginar para isso é uma esperteza da naturez
 
 
 > Leia também:
-> - [[A solidão liberta]]
-> - [[Uma vida sem reflexão]]
-> - [[A maior derrota que se pode ter]]
-> -
-> -
-> -
+> - <a href="/a-solidao-liberta">A solidão liberta</a>
+> - <a href="/uma-vida-sem-reflexao">Uma vida sem reflexão</a>
+> - <a href="/a-maior-derrota-que-se-pode-ter">A maior derrota que se pode ter</a>

@@ -26,6 +26,6 @@ Não combina, mas também não tem nada de errado. Afinal, quem pode dizer que u
 #filosofia #arte
 
 > Leia também:
-> - [[O que aprendi fazendo um episódio de podcast por dia durante 2016]]
-> - [[A incompatibilidade entre a ideia e a ação]]
-> - [[Dia de comprar]]
+> - <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>
+> - <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
+> - <a href="/dia-de-comprar">Dia de comprar</a>

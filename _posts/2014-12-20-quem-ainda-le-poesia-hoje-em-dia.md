@@ -34,9 +34,6 @@ _Fotografia de_ [_Elizabeth Gadd_](http://www.elizabethgadd.com/)
 #arte #poesia
 
 > Leia também:
-> - [[O melhor lugar para você estar em 2018]]
-> - [[O que é ser criativo]]
-> - [[A felicidade pelo caminho]]
-> -
-> -
-> -
+> - <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>
+> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>

@@ -29,7 +29,6 @@ Palavras mais utilizadas nos tweets.
 #educação #pensamentos
 
 > Leia também:
-> - [[A burocracia do cotidiano]]
-> - [[A beleza do absurdo]]
-> - [[A ausência da memória]]
-> -
+> - <a href="/a-burocracia-do-cotidiano">A burocracia do cotidiano</a>
+> - <a href="/a-beleza-do-absurdo">A beleza do absurdo</a>
+> - <a href="/a-ausencia-da-memoria">A ausência da memória</a>

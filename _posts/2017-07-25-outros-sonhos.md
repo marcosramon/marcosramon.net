@@ -22,6 +22,6 @@ Gif criado por [Andrey Kasay](http://andreykasay.com/wall/)
 #pensamentos #comunicação
 
 > Leia também:
-> - [[A beleza do absurdo]]
-> - [[Sentir-se preso]]
-> - [[Colagem]]
+> - <a href="/a-beleza-do-absurdo">A beleza do absurdo</a>
+> - <a href="/sentir-se-preso">Sentir-se preso</a>
+> - <a href="/colagem">Colagem</a>

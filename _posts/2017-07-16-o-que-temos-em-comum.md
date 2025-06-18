@@ -21,6 +21,6 @@ Ilustração de [James Lipnickas](https://www.instagram.com/jameslipnickasart/)
 #pensamentos #leitura
 
 > Leia também:
-> - [[O que contamos de nós mesmos]]
-> - [[O tempo que dedicamos aos livros]]
-> - [[O medo que nos move]]
+> - <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>
+> - <a href="/o-tempo-que-dedicamos-aos-livros">O tempo que dedicamos aos livros</a>
+> - <a href="/o-medo-que-nos-move">O medo que nos move</a>

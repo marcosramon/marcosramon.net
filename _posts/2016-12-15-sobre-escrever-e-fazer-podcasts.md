@@ -41,7 +41,6 @@ Então é isso. Seja para a escrita ou para o podcast, apenas _comece_. Se você
 #pensamentos #podcast
 
 > Leia também:
-> - [[Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015]]
-> - [[A hora e a vez do podcast]]
-> - [[Sofrimento alheio]]
-
+> - <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>
+> - <a href="/a-hora-e-a-vez-do-podcast">A hora e a vez do podcast</a>
+> - <a href="/sofrimento-alheio">Sofrimento alheio</a>

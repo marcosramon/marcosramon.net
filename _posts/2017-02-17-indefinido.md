@@ -22,6 +22,6 @@ Fotografia de [Csenge Vass](https://www.behance.net/gallery/33409681/PCKT-TRNSP
 #arte #educação
 
 > Leia também:
-> - [[O que precisamos consertar]]
-> - [[Aprendendo]]
-> - [[Se perder no caminho]]
+> - <a href="/o-que-precisamos-consertar">O que precisamos consertar</a>
+> - <a href="/aprendendo">Aprendendo</a>
+> - <a href="/se-perder-no-caminho">Se perder no caminho</a>

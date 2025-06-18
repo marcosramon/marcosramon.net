@@ -23,7 +23,6 @@ Mas pra resolver isso não precisamos abandonar a informação, só precisamos d
 #tecnologia #comportamento
 
 > Leia também:
-> - [[Estamos perdidos]]
-> - [[Espaços para respirar]]
-> - [[Olhando com cuidado]]
-> -
+> - <a href="/estamos-perdidos">Estamos perdidos</a>
+> - <a href="/espacos-para-respirar">Espaços para respirar</a>
+> - <a href="/olhando-com-cuidado">Olhando com cuidado</a>

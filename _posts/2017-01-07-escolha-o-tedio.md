@@ -20,6 +20,6 @@ Se eu tiver que dar apenas uma dica para os futuros pais — e pros atuais t
 #pensamentos #cotidiano
 
 > Leia também:
-> - [[O pior e o melhor de todos nós]]
-> - [[O medo que nos move]]
-> - [[O que é ter uma carreira]]
+> - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
+> - <a href="/o-medo-que-nos-move">O medo que nos move</a>
+> - <a href="/o-que-e-ter-uma-carreira">O que é ter uma carreira</a>

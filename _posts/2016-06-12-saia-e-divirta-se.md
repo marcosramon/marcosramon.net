@@ -29,7 +29,6 @@ Colagem de [Tristram Mason](https://br.pinterest.com/pin/633387425123140/)
 #pensamentos #cotidiano
 
 > Leia também:
-> - [[O pior e o melhor de todos nós]]
-> - [[A burocracia do cotidiano]]
-> - [[Sobre escrever e fazer podcasts]]
-> -
+> - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
+> - <a href="/a-burocracia-do-cotidiano">A burocracia do cotidiano</a>
+> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>

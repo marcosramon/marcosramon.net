@@ -20,6 +20,6 @@ Só lutamos porque a natureza é sábia e nos permite sonhar; assim acreditamos 
 #pensamentos #ensino
 
 > Leia também:
-> - [[Sobre escrever e fazer podcasts]]
-> - [[Progredir, sem medo de errar]]
-> - [[Aprender a olhar]]
+> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+> - <a href="/progredir-sem-medo-de-errar">Progredir, sem medo de errar</a>
+> - <a href="/aprender-a-olhar">Aprender a olhar</a>

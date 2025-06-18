@@ -27,7 +27,6 @@ A crença de que as coisas são como são e que simplesmente devemos aceitar a i
 #pesquisa #leitura
 
 > Leia também:
-> - [[Sobre escrever e fazer podcasts]]
-> - [[O tempo que dedicamos aos livros]]
-> - [[Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015]]
-> -
+> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+> - <a href="/o-tempo-que-dedicamos-aos-livros">O tempo que dedicamos aos livros</a>
+> - <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>

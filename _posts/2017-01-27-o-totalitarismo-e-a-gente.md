@@ -22,6 +22,6 @@ Cena do filme “1984”, [adaptação inglesa produzida em 1956](https://en.wi
 #política #leitura
 
 > Leia também:
-> - [[O clima e a gente]]
-> - [[A internet e o olhar dos outros]]
-> - [[O melhor lugar para você estar em 2018]]
+> - <a href="/o-clima-e-a-gente">O clima e a gente</a>
+> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+> - <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>

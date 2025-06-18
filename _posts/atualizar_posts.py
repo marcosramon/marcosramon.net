@@ -1,132 +1,126 @@
 import os
 import re
 import yaml
-import shutil
 from unidecode import unidecode
 
 # --- CONFIGURAÇÃO ---
-# Altere para o caminho exato da sua pasta de posts.
-# Usei 'r' antes da string para o Python lidar corretamente com as barras invertidas do Windows.
 PASTA_POSTS = r'C:\Users\marco\Documents\marcosramon.github.io\_posts'
 # --- FIM DA CONFIGURAÇÃO ---
 
-
 def slugify(text):
-    """
-    Converte um texto em um formato "slug" amigável para URLs.
-    Ex: "A beleza do absurdo" -> "a-beleza-do-absurdo"
-    """
-    # Converte para minúsculas e remove acentos
+    """Converte um texto em um formato "slug" amigável para URLs."""
+    # Remove acentos e converte para minúsculas
     text = unidecode(text).lower()
-    # Mantém apenas letras, números e hífens
+    # Remove caracteres que não são letras, números, espaços ou hífens
     text = re.sub(r'[^a-z0-9\s-]', '', text)
-    # Substitui espaços por hífens
-    text = re.sub(r'\s+', '-', text).strip('-')
-    return text
+    # Substitui espaços e múltiplos hífens por um único hífen
+    text = re.sub(r'\s+', '-', text)
+    text = re.sub(r'-+', '-', text)
+    return text.strip('-')
+
+def processar_leia_tambem(texto_completo):
+    """
+    Encontra e reformata a seção "Leia também" inteira.
+    Converte wikilinks para HTML e limpa a formatação.
+    """
+    # Regex para encontrar o bloco inteiro do "Leia também", começando com ">"
+    bloco_regex = re.compile(r'((?:> .*\n)*> (\[!leia\] )?Leia também:?[\s\S]*)', re.IGNORECASE)
+    match = bloco_regex.search(texto_completo)
+
+    if not match:
+        return texto_completo # Retorna o texto original se não encontrar a seção
+
+    bloco_antigo = match.group(1)
+    links_html = []
+
+    # Processa cada linha dentro do bloco encontrado
+    for linha in bloco_antigo.splitlines():
+        # Procura por links no formato [[...]]
+        link_match = re.search(r'\[\[(.*?)\]\]', linha)
+        if link_match:
+            conteudo_link = link_match.group(1)
+
+            # Remove o prefixo "Blog/" se existir
+            if conteudo_link.startswith('Blog/'):
+                conteudo_link = conteudo_link[5:]
+
+            # Separa o título real do texto de exibição (se usar "|")
+            partes = conteudo_link.split('|')
+            titulo_real = partes[0].strip()
+            texto_exibicao = partes[-1].strip()
+
+            # Cria o slug e o link HTML
+            slug = slugify(titulo_real)
+            link_html = f'<a href="/{slug}">{texto_exibicao}</a>'
+            links_html.append(f"> - {link_html}")
+
+    if not links_html:
+        # Se não encontrou nenhum link válido, remove o bloco inteiro
+        return texto_completo.replace(bloco_antigo, '')
+
+    # Reconstrói a seção com a formatação correta
+    bloco_novo = "> Leia também:\n" + "\n".join(links_html)
+
+    # Substitui o bloco antigo pelo novo no texto completo
+    return texto_completo.replace(bloco_antigo, bloco_novo)
 
 
 def processar_arquivo(caminho_arquivo):
-    """
-    Aplica todas as transformações necessárias em um único arquivo.
-    """
+    """Aplica todas as transformações de conteúdo em um único arquivo."""
+    print(f"Processando: {os.path.basename(caminho_arquivo)}")
     try:
         with open(caminho_arquivo, 'r', encoding='utf-8') as f:
             conteudo_completo = f.read()
 
-        # 1. Separar o YAML frontmatter do resto do conteúdo
+        # Separa o frontmatter do corpo do texto
         partes = conteudo_completo.split('---', 2)
         if len(partes) < 3:
-            print(f"  -> AVISO: Arquivo não parece ter um frontmatter YAML. Pulando: {os.path.basename(caminho_arquivo)}")
+            print("  -> AVISO: Não foi possível encontrar o frontmatter. Pulando.")
             return
 
         frontmatter_str = partes[1]
         corpo_markdown = partes[2]
         
-        # Carregar o frontmatter para obter os metadados
-        metadados = yaml.safe_load(frontmatter_str)
-        
-        titulo = metadados.get('title')
-        data = metadados.get('date')
+        # 1. Ajuste dos caminhos das imagens
+        corpo_markdown = corpo_markdown.replace('src="/assets/img/arquivos/', 'src="/assets/img/')
 
-        if not titulo or not data:
-            print(f"  -> ERRO: Título ou data não encontrados no frontmatter. Pulando: {os.path.basename(caminho_arquivo)}")
-            return
+        # 2. Processamento da seção "Leia também"
+        corpo_markdown = processar_leia_tambem(corpo_markdown)
 
-        # 2. Remover o callout [!data]
-        # Esta regex procura por "> [!data]" seguido por qualquer coisa até o final da linha,
-        # e opcionalmente por uma linha em branco logo após.
-        corpo_markdown_novo = re.sub(r'>\s*\[!data\].*?\n\n?', '', corpo_markdown, flags=re.IGNORECASE)
+        # 3. Limpeza final: remove linhas vazias de marcadores
+        corpo_markdown = re.sub(r'>\s*-\s*\n', '', corpo_markdown)
 
-        # 3. Alterar formato da imagem
-        # Captura o nome do arquivo dentro de ![[...]] e o substitui pelo formato <img>
-        corpo_markdown_novo = re.sub(
-            r'!\[\[(.*?)\]\]',
-            r'<img src="/assets/img/\1">',
-            corpo_markdown_novo
-        )
-        
-        # 4. Retirar o callout do final ([!leia])
-        # Procura pela linha horizontal, a linha do callout e as substitui.
-        corpo_markdown_novo = re.sub(
-            r'\n---\n>\s*\[!leia\]\s*(Leia também:)',
-            r'\n> \1',
-            corpo_markdown_novo,
-            flags=re.IGNORECASE
-        )
+        # Reconstrói o arquivo
+        novo_conteudo_completo = f"---\n{frontmatter_str.strip()}\n---\n{corpo_markdown.strip()}\n"
 
-        # Monta o novo conteúdo do arquivo
-        novo_conteudo_completo = f"---\n{frontmatter_str.strip()}\n---\n{corpo_markdown_novo.lstrip()}"
-
-        # Define o novo nome do arquivo
-        slug_titulo = slugify(titulo)
-        nome_arquivo_antigo = os.path.basename(caminho_arquivo)
-        novo_nome_arquivo = f"{data}-{slug_titulo}.md"
-        novo_caminho_arquivo = os.path.join(os.path.dirname(caminho_arquivo), novo_nome_arquivo)
-
-        # Salva o conteúdo no novo arquivo
-        with open(novo_caminho_arquivo, 'w', encoding='utf-8') as f:
+        # Salva as alterações no mesmo arquivo
+        with open(caminho_arquivo, 'w', encoding='utf-8') as f:
             f.write(novo_conteudo_completo)
         
-        print(f"  -> Processado e salvo como: {novo_nome_arquivo}")
+        print("  -> Conteúdo atualizado com sucesso.")
 
-        # Se o nome do arquivo antigo for diferente do novo, apaga o antigo.
-        if caminho_arquivo.lower() != novo_caminho_arquivo.lower():
-            os.remove(caminho_arquivo)
-            print(f"  -> Arquivo original '{nome_arquivo_antigo}' removido.")
-            
     except Exception as e:
-        print(f"  -> ERRO ao processar o arquivo {os.path.basename(caminho_arquivo)}: {e}")
-
+        print(f"  -> ERRO ao processar o arquivo: {e}")
 
 def main():
-    """
-    Função principal que percorre a pasta e processa os arquivos.
-    """
+    """Função principal que percorre e processa todos os arquivos."""
     if not os.path.isdir(PASTA_POSTS):
         print(f"ERRO: A pasta '{PASTA_POSTS}' não foi encontrada.")
-        print("Por favor, verifique o caminho no início do script.")
         return
 
-    print(f"Iniciando a atualização de arquivos na pasta: {PASTA_POSTS}\n")
+    print(f"Iniciando a atualização de conteúdo na pasta: {PASTA_POSTS}\n")
     
-    # Lista todos os arquivos que terminam com .md ou .markdown
     arquivos_markdown = [f for f in os.listdir(PASTA_POSTS) if f.lower().endswith(('.md', '.markdown'))]
     
     total_arquivos = len(arquivos_markdown)
-    print(f"Encontrados {total_arquivos} arquivos Markdown para processar.\n")
+    print(f"Encontrados {total_arquivos} arquivos para verificar e atualizar.\n")
 
     for i, nome_arquivo in enumerate(arquivos_markdown):
         caminho_completo = os.path.join(PASTA_POSTS, nome_arquivo)
-        if os.path.isfile(caminho_completo):
-            print(f"Processando arquivo {i+1}/{total_arquivos}: {nome_arquivo}...")
-            processar_arquivo(caminho_completo)
-            print("-" * 20)
+        processar_arquivo(caminho_completo)
+        print("-" * 20)
 
     print("\nProcesso concluído!")
 
-# Executa a função principal
 if __name__ == "__main__":
-    # Para rodar o script sem a dependência `unidecode`, comente a linha `from unidecode import unidecode`
-    # e descomente a próxima linha `import unicodedata`. Você também precisará ajustar a função `slugify`.
-    # Se você instalou o `unidecode`, não precisa fazer nada.
     main()

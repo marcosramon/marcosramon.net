@@ -25,6 +25,6 @@ Uma coisa que sempre vou querer saber, mas que imagino que nenhum escritor saiba
 #arte #comportamento
 
 > Leia também:
-> - [[A felicidade pelo caminho]]
-> - [[A internet e o olhar dos outros]]
-> - [[Dia de comprar]]
+> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+> - <a href="/dia-de-comprar">Dia de comprar</a>

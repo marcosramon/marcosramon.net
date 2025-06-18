@@ -33,7 +33,6 @@ E eu acredito nisso? Não sei ao certo, mas o assunto certamente me deixou intri
 #arte #filosofia
 
 > Leia também:
-> - [[A incompatibilidade entre a ideia e a ação]]
-> - [[O que aprendi fazendo um episódio de podcast por dia durante 2016]]
-> - [[Felicidade em dia de chuva]]
-> -
+> - <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
+> - <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>
+> - <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>

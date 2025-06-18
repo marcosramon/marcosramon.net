@@ -22,15 +22,12 @@ Esse é o problema das generalizações. A maior parte delas, especialmente no q
 
 Como na maior parte das vezes, temos que nos conformar diante do fato de que as coisas não irão mudar. O difícil é aceitar que ser *diferente* não é sinônimo de ser *errado*. Por mais que estejamos sempre diante de uma defesa clara da tolerância, o que vemos no dia a dia não passa nem perto dela. Para entender o mundo atual, precisamos primeiro desacreditar de nós mesmos. Sem isso, iremos sempre adotar uma postura agressiva e belicosa, o que gera mais incompreensão, mais desinformação, mais infelicidade. E ninguém quer viver em um mundo assim, ou quer?
 
-<img src="/assets/img/arquivos/Pasted image 20250225130215.png">
+<img src="/assets/img/Pasted image 20250225130215.png">
 *Ilustração de [Virginia Mori](https://virginiamori.tumblr.com/post/185884649853/find-my-new-fine-art-prints-collection-online)*
 
 [^1]: Eu sei que nem todo mundo vê isso como utopia. E talvez seja mesmo o oposto. Mas as sociedades ocidentais democráticas defendem abertamente a perspectiva de que existem alguns valores bons (os ocidentais) e outros ruins. Nesse sentido, o que a maioria de nós busca, mesmo que indiretamente, é um mundo em que possamos, se não falar a mesma língua, pelo menos nos entender aceitando como básicos os mesmos princípios sociais.
 
 > Leia também:
-> - [[Entender o tempo]]
-> - [[É só o tempo que passa]]
-> - [[O melhor lugar para você estar em 2018]]
-> -
-> -
-> -
+> - <a href="/entender-o-tempo">Entender o tempo</a>
+> - <a href="/e-so-o-tempo-que-passa">É só o tempo que passa</a>
+> - <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>

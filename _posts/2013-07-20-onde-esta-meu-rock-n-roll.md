@@ -26,9 +26,6 @@ Alguém me diz aí: **_Onde é que está meu rock n' roll?_**
 #música #arte
 
 > Leia também:
-> - [[A importância do contexto]]
-> - [[Quando a arte nos define]]
-> - [[Valorizar a busca]]
-> -
-> -
-> -
+> - <a href="/a-importancia-do-contexto">A importância do contexto</a>
+> - <a href="/quando-a-arte-nos-define">Quando a arte nos define</a>
+> - <a href="/valorizar-a-busca">Valorizar a busca</a>

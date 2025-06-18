@@ -24,12 +24,12 @@ Desde o final de 2022 que tenho me interessado pelo tema da [[inteligência arti
 
 Era óbvio. Sempre foi. Eu não vi porque não quis.
 
-<img src="/assets/img/arquivos/smartphone-surreal.png">
+<img src="/assets/img/smartphone-surreal.png">
 *Imagem criada com o Midjourney. Prompt: "surreal photography, a smartphone talking, as someone who is helping someone else, AI, 4k --ar 4:5 --style raw"*
 
 #tecnologia #comportamento #inteligência-artificial
 
 > Leia também:
-> - [[Olhando com cuidado]]
-> - [[Espaços para respirar]]
-> - [[O que estamos buscando]]
+> - <a href="/olhando-com-cuidado">Olhando com cuidado</a>
+> - <a href="/espacos-para-respirar">Espaços para respirar</a>
+> - <a href="/o-que-estamos-buscando">O que estamos buscando</a>

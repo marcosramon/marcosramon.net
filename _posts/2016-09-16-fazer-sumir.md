@@ -31,7 +31,6 @@ _O desenho apagado de De Kooning_ não é uma grande obra técnica e nem um prod
 #arte #cultura
 
 > Leia também:
-> - [[Necessidades básicas]]
-> - [[Todos iguais]]
-> - [[A Nintendo continua a mesma — ainda bem]]
-> -
+> - <a href="/necessidades-basicas">Necessidades básicas</a>
+> - <a href="/todos-iguais">Todos iguais</a>
+> - <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>

@@ -21,7 +21,6 @@ Considerando essa realidade do ônibus apresentada no vídeo e dos espaços púb
 #pensamentos #escrita
 
 > Leia também:
-> - [[Pessoas e horários]]
-> - [[Caminhando longe de tudo]]
-> - [[O pior e o melhor de todos nós]]
-> -
+> - <a href="/pessoas-e-horarios">Pessoas e horários</a>
+> - <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>
+> - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>

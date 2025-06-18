@@ -38,35 +38,35 @@ O Ivan Mizanzuk (do [Anticast](http://anticast.com.br/) e Projeto Humanos) suger
 
 O Murilo Ferraz do [Filosofia Pop](http://filosofiapop.com.br/) me marcou na postagem e eu comprei o desafio. Então, o que fiz foi o seguinte: extraí os dados de ontem do Twitter para chegar em algo próximo dessa correlação de quem gosta do quê. Consegui, com o [Netlytic](https://netlytic.org/), extrair 1317 tweets com a hashtag #podcastfriday, todos postados até a meia noite do dia 16/09. Os gráficos que eu mostro mais abaixo foram gerados com o [Beam](https://beam.venngage.com/) e os [grafos](https://pt.wikipedia.org/wiki/Teoria_dos_grafos) foram feitos com o [Gephi](https://gephi.org/). Seguem os dados:
 
-<img src="/assets/img/arquivos/Pasted image 20250311153736.png">
+<img src="/assets/img/Pasted image 20250311153736.png">
 Grafo com a rede de tweets sobre a #podcastfriday.
 
 A imagem acima representa um grafo da conversação no Twitter sem os termos (_hashtags_ e usuários). Um grafo é composto por _nós_ (os pontos de conexão) e arestas (as conexões entre os nós). Nessa representação eu escolhi separar as áreas de interesse por cores. Assim, podemos ver um grupo azul, verde, laranja etc. Esses são os grupos que conversaram entre si e/ou indicaram os mesmos podcasts. A imagem final que conseguir gerar é gigantesca (10000 por 10000 pixels). Se você quiser, pode baixar a imagem original em .[pgn](https://drive.google.com/open?id=0B_NS1VYqt3XBaHBueUlUcjFtLUU) ou .[pdf](https://drive.google.com/open?id=0B_NS1VYqt3XBMHZPdVFwNHpfTFk) para ampliar e verificar os dados com mais detalhes. A vantagem caso do pdf é poder fazer busca por termos, mas pra isso você precisa dar um zoom monstruoso (pelo menos 800%).
 
 Mais pra frente eu vou voltar pra essa imagem dando um zoom em algumas áreas, mas antes veja alguns outros dados interessantes:
-<img src="/assets/img/arquivos/Pasted image 20250311153753.png">
-<img src="/assets/img/arquivos/Pasted image 20250311153806.png">
+<img src="/assets/img/Pasted image 20250311153753.png">
+<img src="/assets/img/Pasted image 20250311153806.png">
 
 Você pode [baixar aqui o arquivo do Excel (.csv)](https://drive.google.com/open?id=0B_NS1VYqt3XBTktaYUNYODdhWUk) com todos os tweets extraídos, caso tenha interesse.
 
 #### Grafo com as redes conectadas com menções aos podcasts e usuários:
-<img src="/assets/img/arquivos/Pasted image 20250311153822.png">
+<img src="/assets/img/Pasted image 20250311153822.png">
 Grafo com a rede de tweets com termos utilizados.
 
 Na imagem acima as cores representam os grupos, ou seja, pessoas que demonstraram interesse mútuo nos mesmos podcasts e/ou perfis. Dando zoom em alguns focos da imagem é possível ver essas conexões de maneira mais clara:
-<img src="/assets/img/arquivos/Pasted image 20250311153834.png">
+<img src="/assets/img/Pasted image 20250311153834.png">
 O #anticast foi o podcast mais mencionado e sua rede principal é essa de cor azul.
 
-<img src="/assets/img/arquivos/Pasted image 20250311153846.png">
+<img src="/assets/img/Pasted image 20250311153846.png">
 Rede do podcast #99vidas , com a cor laranja.
 
-<img src="/assets/img/arquivos/Pasted image 20250311153901.png">
+<img src="/assets/img/Pasted image 20250311153901.png">
 Um grupo bem concentrado (de verde) em torno do #algumacoisacast.
 
-<img src="/assets/img/arquivos/Pasted image 20250311153911.png">
+<img src="/assets/img/Pasted image 20250311153911.png">
 Rede lilás com maior presença do #jogabilidade.
 
-<img src="/assets/img/arquivos/Pasted image 20250311153921.png">
+<img src="/assets/img/Pasted image 20250311153921.png">
 O termo #jurandirfilho (vermelho) se conectando com #rapadura, #jovemnerd e #99vidas (laranja).
 
 Como disse antes, o que acho bacana na iniciativa do Jurandir é que essa ação, se se tornar contínua, conseguirá atrair mais pessoas para a mídia por meio da ampliação das redes de indicações que serão criadas. Vi muita gente descobrindo e indicando coisas novas, o que certamente ampliará a diversidade e longevidade do podcast.
@@ -83,6 +83,6 @@ Os fenômenos de massa sempre vão existir, em qualquer mídia que seja; mas o r
 #filosofia #arte
 
 > Leia também:
-> - [[Blog/PodcastFriday, dia 2|PodcastFriday, dia 2]]
-> - [[Blog/Podcastfriday, três meses depois|Podcastfriday, três meses depois]]
-> - [[Blog/Visualizando a pesquisa|Visualizando a pesquisa]]
+> - <a href="/podcastfriday-dia-2">PodcastFriday, dia 2</a>
+> - <a href="/podcastfriday-tres-meses-depois">Podcastfriday, três meses depois</a>
+> - <a href="/visualizando-a-pesquisa">Visualizando a pesquisa</a>

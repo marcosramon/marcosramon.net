@@ -23,6 +23,6 @@ Gif criado por [Kiszkiloszki](http://kiszkiloszki.tumblr.com/)
 #arte #sociedade
 
 > Leia também:
-> - [[Star Wars, eu e os outros]]
-> - [[O risco]]
-> - [[A internet e o olhar dos outros]]
+> - <a href="/star-wars-eu-e-os-outros">Star Wars, eu e os outros</a>
+> - <a href="/o-risco">O risco</a>
+> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>

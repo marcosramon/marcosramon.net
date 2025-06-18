@@ -20,9 +20,6 @@ Colagem criada por [Julia Lillard](http://julialillard.tumblr.com/)
 #cotidiano #comportamento
 
 > Leia também:
-> - [[O que tem de interessante em você]]
-> - [[O que é ter uma carreira]]
-> - [[O que realmente importa]]
-> -
-> -
-> -
+> - <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
+> - <a href="/o-que-e-ter-uma-carreira">O que é ter uma carreira</a>
+> - <a href="/o-que-realmente-importa">O que realmente importa</a>

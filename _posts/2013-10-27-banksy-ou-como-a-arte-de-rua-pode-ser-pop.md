@@ -23,6 +23,6 @@ O purismo do artista que faz a arte pela arte renegando a fama e a idolatria nã
 #arte #grafos
 
 > Leia também:
-> - [[Blog/Não existe arte pop|Não existe arte pop]]
-> - [[Podcast/Andy Warhol, dinheiro e arte|Andy Warhol, dinheiro e arte]]
-> - [[Blog/Leo & Pipo|Leo & Pipo]]
+> - <a href="/nao-existe-arte-pop">Não existe arte pop</a>
+> - <a href="/podcastandy-warhol-dinheiro-e-arte">Andy Warhol, dinheiro e arte</a>
+> - <a href="/leo-pipo">Leo & Pipo</a>

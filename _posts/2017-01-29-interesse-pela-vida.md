@@ -26,6 +26,6 @@ Por outro lado, sempre podemos aprender com o que os outros disseram e escrevera
 #pensamentos #política
 
 > Leia também:
-> - [[Coragem]]
-> - [[Aprender a olhar]]
-> - [[Sobre escrever e fazer podcasts]]
+> - <a href="/coragem">Coragem</a>
+> - <a href="/aprender-a-olhar">Aprender a olhar</a>
+> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>

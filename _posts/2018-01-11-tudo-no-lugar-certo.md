@@ -19,7 +19,6 @@ A realidade é imprevisível até certo ponto. Na maior parte do tempo, sabemos 
 #cotidiano 
 
 > Leia também:
-> - [[Blog/A realidade se impõe|A realidade se impõe]]
-> - [[Revisar/2020-09-20-saber-a-felicidade|2020-09-20-saber-a-felicidade]]
-> - [[Reclamar de tudo]]
- 
+> - <a href="/a-realidade-se-impoe">A realidade se impõe</a>
+> - <a href="/revisar2020-09-20-saber-a-felicidade">2020-09-20-saber-a-felicidade</a>
+> - <a href="/reclamar-de-tudo">Reclamar de tudo</a>

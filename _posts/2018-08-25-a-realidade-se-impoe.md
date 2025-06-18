@@ -22,9 +22,6 @@ A realidade, contudo, acaba se impondo em algum momento da existência. O que no
 
 
 > Leia também:
-> - [[A maior derrota que se pode ter]]
-> - [[Desejo e realidade]]
-> - [[A felicidade pelo caminho]]
-> -
-> -
-> -
+> - <a href="/a-maior-derrota-que-se-pode-ter">A maior derrota que se pode ter</a>
+> - <a href="/desejo-e-realidade">Desejo e realidade</a>
+> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>

@@ -24,6 +24,6 @@ O engajamento é uma moeda importante atualmente, mas o que estamos dispostos a 
 #comportamento #podcast
 
 > Leia também:
-> - [[Sobre escrever e fazer podcasts]]
-> - [[A internet e o olhar dos outros]]
-> - [[Perspectiva]]
+> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+> - <a href="/perspectiva">Perspectiva</a>

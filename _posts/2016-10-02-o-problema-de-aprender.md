@@ -16,7 +16,6 @@ permalink: o-problema-de-aprender
 #educação #pensamentos
 
 > Leia também:
-> - [[O desafio de ensinar]]
-> - [[O desespero de ter que existir para os outros]]
-> - [[O pior e o melhor de todos nós]]
-> -
+> - <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>
+> - <a href="/o-desespero-de-ter-que-existir-para-os-outros">O desespero de ter que existir para os outros</a>
+> - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>

@@ -50,8 +50,7 @@ Agora que reli esse livro que eu amava tanto e não me empolguei como imaginava,
 
 [^1]: Eu nunca tinha esquecido, por exemplo, da cena de uma mulher em uma instituição psiquiátrica, sendo arrastada por enfermeiros e recitando o discurso de Brutus no *Júlio César*, de Shakespeare. Épico.
 
-> [!leia] Leia também:
-> - [[Blog/Ler menos|Ler menos]]
-> - [[Blog/A experiência da releitura|A experiência da releitura]]
-> - [[Banksy ou como a arte de rua pode ser pop]]
- 
+> Leia também:
+> - <a href="/ler-menos">Ler menos</a>
+> - <a href="/a-experiencia-da-releitura">A experiência da releitura</a>
+> - <a href="/banksy-ou-como-a-arte-de-rua-pode-ser-pop">Banksy ou como a arte de rua pode ser pop</a>

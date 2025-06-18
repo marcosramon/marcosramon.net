@@ -22,6 +22,6 @@ Ilustração de [Matt Blease](http://mattblease.tumblr.com/)
 #pensamentos #comportamento
 
 > Leia também:
-> - [[Para entender o nosso tempo]]
-> - [[Coisas estranhas que eu vi recentemente]]
-> - [[O que realmente importa]]
+> - <a href="/para-entender-o-nosso-tempo">Para entender o nosso tempo</a>
+> - <a href="/coisas-estranhas-que-eu-vi-recentemente">Coisas estranhas que eu vi recentemente</a>
+> - <a href="/o-que-realmente-importa">O que realmente importa</a>

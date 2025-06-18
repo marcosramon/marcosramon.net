@@ -23,6 +23,6 @@ Cabeza (1982), obra de [Jean-Michel Basquiat](https://g.co/kgs/5ZWDrF)
 #Estética #gosto
 
 > Leia também:
-> - [[Não é só um jogo]]
-> - [[A felicidade pelo caminho]]
-> - [[A felicidade pelo caminho]]
+> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>

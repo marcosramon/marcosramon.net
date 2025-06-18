@@ -23,6 +23,6 @@ Gif criado por [Daniel Barreto](http://esdanielbarreto.tumblr.com/post/15876250
 #arte #política
 
 > Leia também:
-> - [[A internet e o olhar dos outros]]
-> - [[O que é ser criativo]]
-> - [[Aprender a perder]]
+> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+> - <a href="/aprender-a-perder">Aprender a perder</a>

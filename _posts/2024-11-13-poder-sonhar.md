@@ -18,10 +18,10 @@ Fernando Pessoa escreveu que "o que há de mais reles nos sonhos é que todos os
 
 Feliz é quem lembra tudo o que sonha.
 
-<img src="/assets/img/arquivos/Pasted image 20250225124207.png">
+<img src="/assets/img/Pasted image 20250225124207.png">
 
 
 > Leia também:
-> - [[Uma cidade]]
-> - [[Vestígios]]
-> - [[Apresentação]]
+> - <a href="/uma-cidade">Uma cidade</a>
+> - <a href="/vestigios">Vestígios</a>
+> - <a href="/apresentacao">Apresentação</a>

@@ -22,6 +22,6 @@ Um dos sapatos de [Anna Vasof](https://vimeo.com/annavasof)
 #pensamentos #comunicação
 
 > Leia também:
-> - [[Sentir-se preso]]
-> - [[A burocracia do cotidiano]]
-> - [[Aprender a olhar]]
+> - <a href="/sentir-se-preso">Sentir-se preso</a>
+> - <a href="/a-burocracia-do-cotidiano">A burocracia do cotidiano</a>
+> - <a href="/aprender-a-olhar">Aprender a olhar</a>

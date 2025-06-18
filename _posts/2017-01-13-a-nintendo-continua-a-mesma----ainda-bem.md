@@ -29,6 +29,6 @@ O que eu temia antes do anúncio do [Switch](http://www.nintendo.com/switch/) er
 #arte #cultura
 
 > Leia também:
-> - [[Judith Butler e a reflexão filosófica sobre gênero]]
-> - [[Todos iguais]]
-> - [[Viver o trabalho]]
+> - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
+> - <a href="/todos-iguais">Todos iguais</a>
+> - <a href="/viver-o-trabalho">Viver o trabalho</a>

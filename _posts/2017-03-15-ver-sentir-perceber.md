@@ -26,6 +26,6 @@ Me reconheço como parte da humanidade mais pelo que me falta do que por qualque
 #arte #ética
 
 > Leia também:
-> - [[Diorama]]
-> - [[Viver o trabalho]]
-> - [[O absurdo cotidiano]]
+> - <a href="/diorama">Diorama</a>
+> - <a href="/viver-o-trabalho">Viver o trabalho</a>
+> - <a href="/o-absurdo-cotidiano">O absurdo cotidiano</a>

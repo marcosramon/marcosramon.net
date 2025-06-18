@@ -24,9 +24,6 @@ Ilustração de [Sveta Dorosheva](https://www.behance.net/lattona)
 #arte #conhecimento
 
 > Leia também:
-> - [[O que é ser criativo]]
-> - [[A internet e o olhar dos outros]]
-> - [[O cansaço nosso de cada dia]]
-> -
-> -
-> -
+> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+> - <a href="/o-cansaco-nosso-de-cada-dia">O cansaço nosso de cada dia</a>

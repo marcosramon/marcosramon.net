@@ -40,7 +40,6 @@ Já no [grafo](https://pt.wikipedia.org/wiki/Teoria_dos_grafos) a seguir é poss
 #educação #Grafos
 
 > Leia também:
-> - [[O desafio de ensinar]]
-> - [[Um sonho de sempre]]
-> - [[Blog/Visualizando a hashtag diadopodcast|Visualizando a hashtag diadopodcast]]
-
+> - <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>
+> - <a href="/um-sonho-de-sempre">Um sonho de sempre</a>
+> - <a href="/visualizando-a-hashtag-diadopodcast">Visualizando a hashtag diadopodcast</a>

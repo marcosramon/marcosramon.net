@@ -23,6 +23,6 @@ Na escola a gente aprende que a vida só chega depois.
 #educação #cultura
 
 > Leia também:
-> - [[Viver o trabalho]]
-> - [[Alguém sabe o que está fazendo]]
-> - [[O lugar dos outros]]
+> - <a href="/viver-o-trabalho">Viver o trabalho</a>
+> - <a href="/alguem-sabe-o-que-esta-fazendo">Alguém sabe o que está fazendo</a>
+> - <a href="/o-lugar-dos-outros">O lugar dos outros</a>

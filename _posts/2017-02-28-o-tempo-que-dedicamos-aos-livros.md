@@ -20,6 +20,6 @@ Eu sempre acreditei que a leitura me trazia uma vantagem para além do entreteni
 #arte #leitura
 
 > Leia também:
-> - [[O que é ser criativo]]
-> - [[O que o silêncio diz]]
-> - [[O tempo e os livros]]
+> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+> - <a href="/o-que-o-silencio-diz">O que o silêncio diz</a>
+> - <a href="/o-tempo-e-os-livros">O tempo e os livros</a>

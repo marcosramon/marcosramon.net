@@ -40,6 +40,6 @@ _Esse texto foi publicado também em formato de_ [_podcast_](https://www.marcosr
 #arte #cultura
 
 > Leia também:
-> - [[Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015]]
-> - [[A internet e o olhar dos outros]]
-> - [[A Nintendo continua a mesma — ainda bem]]
+> - <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>
+> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+> - <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>

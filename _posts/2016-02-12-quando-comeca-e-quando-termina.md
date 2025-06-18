@@ -25,9 +25,6 @@ _Ilustração de_ [_Christoph Niemann_](http://www.christophniemann.com)
 #reflexão #comportamento
 
 > Leia também:
-> - [[A internet e o olhar dos outros]]
-> - [[Desistir]]
-> - [[O que realmente importa]]
-> -
-> -
-> -
+> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+> - <a href="/desistir">Desistir</a>
+> - <a href="/o-que-realmente-importa">O que realmente importa</a>

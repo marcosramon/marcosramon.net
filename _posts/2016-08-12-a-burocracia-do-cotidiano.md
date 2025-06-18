@@ -23,7 +23,6 @@ Ilustração de [Ana Yael](http://www.anayael.net/)
 #pensamentos #cotidiano
 
 > Leia também:
-> - [[Saia e divirta-se!]]
-> - [[A beleza do absurdo]]
-> - [[A ausência da memória]]
-> -
+> - <a href="/saia-e-divirta-se">Saia e divirta-se!</a>
+> - <a href="/a-beleza-do-absurdo">A beleza do absurdo</a>
+> - <a href="/a-ausencia-da-memoria">A ausência da memória</a>

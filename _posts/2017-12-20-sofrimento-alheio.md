@@ -22,6 +22,6 @@ Pintura de [Kristin Vestgard](http://www.kristinvestgard.com/paintings.html)
 #pensamentos #podcast
 
 > Leia também:
-> - [[Sobre escrever e fazer podcasts]]
-> - [[Teses, Romances e seus leitores]]
-> - [[A ausência da memória]]
+> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+> - <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>
+> - <a href="/a-ausencia-da-memoria">A ausência da memória</a>

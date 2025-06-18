@@ -34,7 +34,6 @@ Infelizmente não encontrei uma transcrição com os discursos completos dos sen
 #reflexão #pensamento
 
 > Leia também:
-> - [[A experiência negativa]]
-> - [[O que realmente importa]]
-> - [[As primeiras horas da manhã]]
-> -
+> - <a href="/a-experiencia-negativa">A experiência negativa</a>
+> - <a href="/o-que-realmente-importa">O que realmente importa</a>
+> - <a href="/as-primeiras-horas-da-manha">As primeiras horas da manhã</a>

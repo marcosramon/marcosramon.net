@@ -20,7 +20,7 @@ Não acredito na maioria dessas histórias, pois acho que somos sempre muitas co
 É justamente por achar que essa imagem ideal — apesar de nem sempre ser um conjunto de coisas incríveis — é uma forma de proteção interessante para suportar a realidade da existência, que fico impressionado com o fato de as pessoas se exporem de maneira tão intensa e crua nas redes sociais. Não sobra quase nada para imaginar, para supor, para construir, além da realidade midiática que cada um vende de si mesmo. Mas ninguém vai ser realmente um bom empreendedor de suas próprias narrativas, e acabamos todos sucumbindo diante da falta de potência da representação que fazemos sozinhos de nós mesmos.
 
 Sobre Kant, contam que um dia uma pessoa o convidou para um passeio que demorou muito e quebrou sua rotina. Ele, angustiado, ao chegar em casa, teria escrito uma máxima que passou a seguir religiosamente: “Nunca se deixar levar por alguém a uma viagem de passeio”[^2]. Só o pensamento coletivo pode convencer os outros de que ele teria mesmo feito isso. E é por isso que não deveríamos investir tanto tempo tentando convencer os outros do que somos. São os outros que sabem, sempre.
-<img src="/assets/img/arquivos/colagem-zinonos.png">
+<img src="/assets/img/colagem-zinonos.png">
 <small>Colagem de <a href="https://www.anthonyzinonos.com/">Anthony Zinonos</a></small>
 
 
@@ -28,6 +28,6 @@ Sobre Kant, contam que um dia uma pessoa o convidou para um passeio que demorou 
 [^2]: WEISCHEDEL, Wilhelm. *A escada dos fundos da Filosofia*. São Paulo: Editora Angra, 2006.
 
 > Leia também:
-> - [[Mais de nós mesmos]]
-> - [[O pior e o melhor de todos nós]]
-> - [[O que contamos de nós mesmos]]
+> - <a href="/mais-de-nos-mesmos">Mais de nós mesmos</a>
+> - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
+> - <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>

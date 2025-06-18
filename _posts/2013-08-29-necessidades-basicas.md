@@ -27,7 +27,6 @@ Devemos lutar pelo básico, porque a vida precisa, em primeiro lugar, ser vivida
 #arte #cultura
 
 > Leia também:
-> - [[Todos iguais]]
-> - [[Judith Butler e a reflexão filosófica sobre gênero]]
-> - [[A Nintendo continua a mesma — ainda bem]]
-> -
+> - <a href="/todos-iguais">Todos iguais</a>
+> - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
+> - <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>

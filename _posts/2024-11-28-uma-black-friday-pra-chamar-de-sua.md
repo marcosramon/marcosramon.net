@@ -30,6 +30,6 @@ Da mesma forma, quanto dinheiro uma pessoa precisa ter para não se importar com
 #Consumo #comportamento
 
 > Leia também:
-> - [[Uma imagem de nós]]
-> - [[Felicidade em dia de chuva]]
-> - [[Caminhando longe de tudo]]
+> - <a href="/uma-imagem-de-nos">Uma imagem de nós</a>
+> - <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>
+> - <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>

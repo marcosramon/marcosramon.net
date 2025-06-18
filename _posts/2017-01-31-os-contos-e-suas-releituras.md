@@ -22,6 +22,6 @@ Instalação de [Airan Kang](http://www.artnet.com/artists/airan-kang/). Foto de
 #pensamentos #estética
 
 > Leia também:
-> - [[O mais distante]]
-> - [[Teses, Romances e seus leitores]]
-> - [[Mais individualismo]]
+> - <a href="/o-mais-distante">O mais distante</a>
+> - <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>
+> - <a href="/mais-individualismo">Mais individualismo</a>

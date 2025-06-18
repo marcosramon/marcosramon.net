@@ -21,9 +21,6 @@ E você, como andam os seus projetos? Continua no caminho?
 
 
 > Leia também:
-> - [[O cansaço nosso de cada dia]]
-> - [[O senso comum de cada dia]]
-> - [[De onde vem o conhecimento]]
-> -
-> -
-> -
+> - <a href="/o-cansaco-nosso-de-cada-dia">O cansaço nosso de cada dia</a>
+> - <a href="/o-senso-comum-de-cada-dia">O senso comum de cada dia</a>
+> - <a href="/de-onde-vem-o-conhecimento">De onde vem o conhecimento</a>

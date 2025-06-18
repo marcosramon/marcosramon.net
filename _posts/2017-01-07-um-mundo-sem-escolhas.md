@@ -22,6 +22,6 @@ Existem muitas coisas na vida que escapam ao nosso controle; acontece com qualqu
 #cultura #comunicação
 
 > Leia também:
-> - [[O que todo mundo é]]
-> - [[Escrever um diário]]
-> - [[Todos iguais]]
+> - <a href="/o-que-todo-mundo-e">O que todo mundo é</a>
+> - <a href="/escrever-um-diario">Escrever um diário</a>
+> - <a href="/todos-iguais">Todos iguais</a>

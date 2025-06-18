@@ -15,11 +15,11 @@ Todas essas formas de pensar pressupõem o tempo como agente externo, como aquil
 
 [Não podemos fugir do tempo](https://marcosramon.net/e-so-o-tempo-que-passa), não podemos dispensar sua ajuda, não podemos esquecê-lo, não podemos abandoná-lo e nem sermos deserdados por ele... porque somos o tempo. Não podemos ser outra coisa.
 
-<img src="/assets/img/arquivos/Pasted image 20250224215318.png">
+<img src="/assets/img/Pasted image 20250224215318.png">
 
 #Tempo #reflexão 
 
 > Leia também:
-> - [[Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015]]
-> - [[Blog/É só o tempo que passa|É só o tempo que passa]]
-> - [[O declínio da experiência e a importância da crítica]]
+> - <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>
+> - <a href="/e-so-o-tempo-que-passa">É só o tempo que passa</a>
+> - <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>

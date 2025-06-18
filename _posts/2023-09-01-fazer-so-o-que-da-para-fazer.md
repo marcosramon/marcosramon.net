@@ -14,7 +14,7 @@ Parece o óbvio, mas não é tão simples. Vivemos em uma cultura que estimula o
 
 Eu me martirizo com a tarefa que era pra hoje e que vou ter que entregar amanhã. Perco o sono imaginando o que os outros vão pensar de mim. Me antecipo imaginando as expectativas que vou frustrar. E por pensar desse jeito, em geral o trabalho eu entrego em dia; daí o cansaço, a tristeza e a dor nas costas eu levo pra casa.
 
-<img src="/assets/img/arquivos/Pasted image 20250302181353.png">
+<img src="/assets/img/Pasted image 20250302181353.png">
 
 Quando eu penso agora no esforço para abandonar esse comportamento, entendo que esse não é um movimento simples. Tenho pensado que o desejo de fazer o trabalho certo e com rapidez tem pouco a ver com o valor do trabalho em si. A questão que move quem age da maneira como descrevi (pelo menos é assim que identifico isso no meu cotidiano) é a necessidade de reconhecimento e aprovação constantes; pura vaidade.
 
@@ -25,6 +25,6 @@ Trabalhar acima dos seus limites beneficia alguém ou algo, certamente. Chefes e
 #trabalho #comportamento #angústia
 
 > Leia também:
-> - [[O que realmente importa]]
-> - [[O que é ter uma carreira]]
-> - [[É só o tempo que passa]]
+> - <a href="/o-que-realmente-importa">O que realmente importa</a>
+> - <a href="/o-que-e-ter-uma-carreira">O que é ter uma carreira</a>
+> - <a href="/e-so-o-tempo-que-passa">É só o tempo que passa</a>

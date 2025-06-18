@@ -20,6 +20,6 @@ Ilustração de [Mark Conlan](http://markconlan.com/)
 #arte #internet
 
 > Leia também:
-> - [[A internet e o olhar dos outros]]
-> - [[Pessoas e horários]]
-> - [[A incompatibilidade entre a ideia e a ação]]
+> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+> - <a href="/pessoas-e-horarios">Pessoas e horários</a>
+> - <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>

@@ -37,9 +37,6 @@ Nem todo mundo precisa ter apreço pela leitura, pela investigação e pela refl
 #ensino #pesquisa
 
 > Leia também:
-> - [[A vida é uma espera]]
-> - [[Ensinar é difícil]]
-> - [[O nível de confiança desse texto é de 95%]]
-> -
-> -
-> -
+> - <a href="/a-vida-e-uma-espera">A vida é uma espera</a>
+> - <a href="/ensinar-e-dificil">Ensinar é difícil</a>
+> - <a href="/o-nivel-de-confianca-desse-texto-e-de-95">O nível de confiança desse texto é de 95%</a>

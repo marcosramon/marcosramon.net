@@ -24,6 +24,6 @@ Ilustração de [Natalie Adkins](http://natalieadkinsdraws.tumblr.com/post/1534
 #filosofia #internet
 
 > Leia também:
-> - [[O que aprendi fazendo um episódio de podcast por dia durante 2016]]
-> - [[O desafio de ensinar]]
-> - [[Prefiro o risco]]
+> - <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>
+> - <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>
+> - <a href="/prefiro-o-risco">Prefiro o risco</a>

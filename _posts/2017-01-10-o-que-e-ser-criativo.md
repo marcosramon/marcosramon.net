@@ -22,9 +22,6 @@ O que eu acredito é que a vida cotidiana é uma fonte com constante potencial c
 #conhecimento #arte
 
 > Leia também:
-> - [[De onde vem o conhecimento]]
-> - [[O que todo mundo é]]
-> - [[O que o silêncio diz]]
->-
->-
->-
+> - <a href="/de-onde-vem-o-conhecimento">De onde vem o conhecimento</a>
+> - <a href="/o-que-todo-mundo-e">O que todo mundo é</a>
+> - <a href="/o-que-o-silencio-diz">O que o silêncio diz</a>

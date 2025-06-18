@@ -23,9 +23,6 @@ Rita Lee, o livro, vale muito a leitura. E Rita Lee, a artista, precisa ser ouvi
 
 
 > Leia também:
-> - [[Não é só um jogo]]
-> - [[Basta estar vivo]]
-> - [[Duvidar para fazer as perguntas certas]]
-> -
-> -
-> -
+> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+> - <a href="/basta-estar-vivo">Basta estar vivo</a>
+> - <a href="/duvidar-para-fazer-as-perguntas-certas">Duvidar para fazer as perguntas certas</a>

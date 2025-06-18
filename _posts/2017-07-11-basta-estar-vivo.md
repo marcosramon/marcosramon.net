@@ -22,6 +22,6 @@ Ilustração de [Andrea Ucini](https://www.behance.net/uciniandrec1fd)
 #pensamentos #ciência
 
 > Leia também:
-> - [[Interagir só com quem se precisa]]
-> - [[Teses, Romances e seus leitores]]
-> - [[Encontrar um caminho]]
+> - <a href="/interagir-so-com-quem-se-precisa">Interagir só com quem se precisa</a>
+> - <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>
+> - <a href="/encontrar-um-caminho">Encontrar um caminho</a>

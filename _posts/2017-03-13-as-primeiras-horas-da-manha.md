@@ -21,6 +21,6 @@ A segunda vantagem da manhã — e essa tem a ver diretamente com a vida urb
 #arte #reflexão
 
 > Leia também:
-> - [[O absurdo cotidiano]]
-> - [[Pessoas e horários]]
-> - [[Perspectiva]]
+> - <a href="/o-absurdo-cotidiano">O absurdo cotidiano</a>
+> - <a href="/pessoas-e-horarios">Pessoas e horários</a>
+> - <a href="/perspectiva">Perspectiva</a>

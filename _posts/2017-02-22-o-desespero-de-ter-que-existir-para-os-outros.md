@@ -22,6 +22,6 @@ Não quero dar uma impressão errada aqui e também não vou dar _spoilers_ da h
 #pensamentos #reflexão
 
 > Leia também:
-> - [[O que contamos de nós mesmos]]
-> - [[O medo que nos move]]
-> - [[O pior e o melhor de todos nós]]
+> - <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>
+> - <a href="/o-medo-que-nos-move">O medo que nos move</a>
+> - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>

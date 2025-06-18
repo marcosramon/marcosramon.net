@@ -27,7 +27,6 @@ A queda de interesse pelas Olimpíadas na televisão não significa uma queda de
 #internet #televisão
 
 > Leia também:
-> - [[Desejo e realidade]]
-> - [[O declínio da experiência e a importância da crítica]]
-> - [[Não é só um jogo]]
-> -
+> - <a href="/desejo-e-realidade">Desejo e realidade</a>
+> - <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>
+> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>

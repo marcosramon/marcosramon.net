@@ -24,6 +24,6 @@ Ilustração de [Ribes Cooked](http://www.ribescooked.com/)
 #sociedade #arte
 
 > Leia também:
-> - [[O risco]]
-> - [[Se encaixar]]
-> - [[Star Wars, eu e os outros]]
+> - <a href="/o-risco">O risco</a>
+> - <a href="/se-encaixar">Se encaixar</a>
+> - <a href="/star-wars-eu-e-os-outros">Star Wars, eu e os outros</a>

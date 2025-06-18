@@ -22,6 +22,6 @@ Fotografia de [Arianna Pagani](http://www.ariannapagani.com/)
 #pensamentos #consumo
 
 > Leia também:
-> - [[O pior e o melhor de todos nós]]
-> - [[A solidão que precisamos]]
-> - [[O que temos em comum]]
+> - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
+> - <a href="/a-solidao-que-precisamos">A solidão que precisamos</a>
+> - <a href="/o-que-temos-em-comum">O que temos em comum</a>

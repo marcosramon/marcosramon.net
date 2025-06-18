@@ -16,6 +16,6 @@ Eu queria isso, simplesmente existir. Não parece possível.
 #cotidiano #comportamento 
 
 > Leia também:
-> - [[O que realmente importa]]
-> - [[O que todo mundo é]]
-> - [[O que é ser criativo]]
+> - <a href="/o-que-realmente-importa">O que realmente importa</a>
+> - <a href="/o-que-todo-mundo-e">O que todo mundo é</a>
+> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>

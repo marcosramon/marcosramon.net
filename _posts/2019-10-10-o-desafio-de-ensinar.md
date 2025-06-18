@@ -33,9 +33,6 @@ Por isso, ensinar qualquer coisa hoje é um desafio gigantesco. Não pela dificu
 
 
 > Leia também:
-> - [[Ensinar é difícil]]
-> - [[Alguém sabe o que está fazendo]]
-> - [[De onde vem o conhecimento]]
-> -
-> -
-> -
+> - <a href="/ensinar-e-dificil">Ensinar é difícil</a>
+> - <a href="/alguem-sabe-o-que-esta-fazendo">Alguém sabe o que está fazendo</a>
+> - <a href="/de-onde-vem-o-conhecimento">De onde vem o conhecimento</a>

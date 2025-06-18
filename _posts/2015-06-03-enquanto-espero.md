@@ -21,9 +21,6 @@ Mas uma coisa que eu já entendi da vida é que sempre teremos tempo para aprend
 
 
 > Leia também:
-> - [[Não é só um jogo]]
-> - [[A felicidade pelo caminho]]
-> - [[A felicidade pelo caminho]]
-> -
-> -
-> -
+> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>

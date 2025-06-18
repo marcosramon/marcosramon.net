@@ -50,7 +50,6 @@ Claro que esse é apenas um exercício, um novo jeito de olhar para um produto c
 #política #cultura
 
 > Leia também:
-> - [[A hora e a vez do podcast]]
-> - [[Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015]]
-> - [[O que aprendi fazendo um episódio de podcast por dia durante 2016]]
-> -
+> - <a href="/a-hora-e-a-vez-do-podcast">A hora e a vez do podcast</a>
+> - <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>
+> - <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>

@@ -40,7 +40,6 @@ Gostaria muito de conhecer um estudo que tratasse da influência das pesquisas n
 #Ciência #pesquisa
 
 > Leia também:
-> - [[Visualizando letras de música como networks]]
-> - [[O desafio de ensinar]]
-> - [[O que é ser criativo]]
-> -
+> - <a href="/visualizando-letras-de-musica-como-networks">Visualizando letras de música como networks</a>
+> - <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>
+> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>

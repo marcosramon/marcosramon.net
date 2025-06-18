@@ -91,6 +91,6 @@ Bem, é isso. Espero que as minhas reflexões e indicações sejam úteis de alg
 #podcast #cultura
 
 > Leia também:
-> - [[Sobre escrever e fazer podcasts]]
-> - [[A hora e a vez do podcast]]
-> - [[O que aprendi fazendo um episódio de podcast por dia durante 2016]]
+> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+> - <a href="/a-hora-e-a-vez-do-podcast">A hora e a vez do podcast</a>
+> - <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>

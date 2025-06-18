@@ -26,6 +26,6 @@ Ilustração do Sketchbook de [Chris Riddell](http://chrisriddellblog.tumblr.co
 #pensamentos #conhecimento
 
 > Leia também:
-> - [[Caminhando longe de tudo]]
-> - [[Sobre escrever e fazer podcasts]]
-> - [[Formação e trajetória]]
+> - <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>
+> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+> - <a href="/formacao-e-trajetoria">Formação e trajetória</a>

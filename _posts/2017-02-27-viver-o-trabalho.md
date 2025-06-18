@@ -22,6 +22,6 @@ Ilustração de [Simón Prades](http://simonprades.tumblr.com/)
 #arte #cultura
 
 > Leia também:
-> - [[A Nintendo continua a mesma — ainda bem]]
-> - [[Distraídos]]
-> - [[Escrever um diário]]
+> - <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>
+> - <a href="/distraidos">Distraídos</a>
+> - <a href="/escrever-um-diario">Escrever um diário</a>

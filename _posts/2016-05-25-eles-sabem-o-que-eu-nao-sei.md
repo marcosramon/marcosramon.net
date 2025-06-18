@@ -24,7 +24,6 @@ Gif criado por [Virginia Mori](http://virginiamori.tumblr.com/post/144547488353
 #filosofia #cotidiano
 
 > Leia também:
-> - [[O que é ter uma carreira]]
-> - [[O que ainda pode mudar]]
-> - [[O que tem de interessante em você]]
-> -
+> - <a href="/o-que-e-ter-uma-carreira">O que é ter uma carreira</a>
+> - <a href="/o-que-ainda-pode-mudar">O que ainda pode mudar</a>
+> - <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>

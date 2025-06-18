@@ -18,6 +18,6 @@ Quando me vejo preso dentro do carro, costumo abrir um pouco as janelas para res
 #cotidiano #pensamento 
 
 > Leia também:
-> - [[A internet e o olhar dos outros]]
-> - [[Como se importar muito com o que não importa]]
-> - [[Duvidar para fazer as perguntas certas]]
+> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+> - <a href="/como-se-importar-muito-com-o-que-nao-importa">Como se importar muito com o que não importa</a>
+> - <a href="/duvidar-para-fazer-as-perguntas-certas">Duvidar para fazer as perguntas certas</a>

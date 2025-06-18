@@ -27,9 +27,6 @@ Tive muitos professores bons. Eram pessoas que, ainda que não fossem a maioria,
 #ensino #educação
 
 > Leia também:
-> - [[O desafio de ensinar]]
-> - [[O possível amanhã]]
-> - [[O que precisamos consertar]]
-> -
-> -
-> -
+> - <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>
+> - <a href="/o-possivel-amanha">O possível amanhã</a>
+> - <a href="/o-que-precisamos-consertar">O que precisamos consertar</a>

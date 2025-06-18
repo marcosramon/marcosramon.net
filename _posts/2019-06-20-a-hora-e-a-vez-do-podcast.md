@@ -41,9 +41,6 @@ Obrigado mesmo a você que me ouviu até aqui. Foi realmente muito animador sent
  
 
 > Leia também:
-> - [[Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015]]
-> - [[A transcrição do podcast “Mamilos” e um novo interesse de pesquisa]]
-> - [[Sobre escrever e fazer podcasts]]
-> -
-> -
-> -
+> - <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>
+> - <a href="/a-transcricao-do-podcast-mamilos-e-um-novo-interesse-de-pesquisa">A transcrição do podcast “Mamilos” e um novo interesse de pesquisa</a>
+> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>

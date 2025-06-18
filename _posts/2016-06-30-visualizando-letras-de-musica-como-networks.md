@@ -54,7 +54,6 @@ Ok Computer — Radiohead (1997)
 #pensamentos #pesquisa
 
 > Leia também:
-> - [[Alerta de spoiler]]
-> - [[Visualizando a hashtag #diadopodcast]]
-> - [[Caminhando longe de tudo]]
-
+> - <a href="/alerta-de-spoiler">Alerta de spoiler</a>
+> - <a href="/visualizando-a-hashtag-diadopodcast">Visualizando a hashtag #diadopodcast</a>
+> - <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>

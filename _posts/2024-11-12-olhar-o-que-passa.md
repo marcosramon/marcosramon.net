@@ -17,6 +17,6 @@ Talvez seja essa, hoje, a minha definição de luxo.
 #Tempo #reflexão 
 
 > Leia também:
-> - [[É só o tempo que passa]]
-> - [[A internet e o olhar dos outros]]
-> - [[O que o silêncio diz]]
+> - <a href="/e-so-o-tempo-que-passa">É só o tempo que passa</a>
+> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+> - <a href="/o-que-o-silencio-diz">O que o silêncio diz</a>

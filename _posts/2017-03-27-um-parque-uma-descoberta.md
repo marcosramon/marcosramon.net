@@ -22,6 +22,6 @@ Colagem de [David Delruelle](http://weandthecolor.com/collages-david-delruelle/6
 #pensamentos #arte
 
 > Leia também:
-> - [[Escrever um diário]]
-> - [[Sem esperar nenhuma resposta]]
-> - [[O que aprendi fazendo um episódio de podcast por dia durante 2016]]
+> - <a href="/escrever-um-diario">Escrever um diário</a>
+> - <a href="/sem-esperar-nenhuma-resposta">Sem esperar nenhuma resposta</a>
+> - <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>

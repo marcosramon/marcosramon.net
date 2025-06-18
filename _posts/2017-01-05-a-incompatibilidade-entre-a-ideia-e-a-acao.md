@@ -27,6 +27,6 @@ Gráfico que representa o pessimismo, criado pelo [Studio Carreras](http://studi
 #arte #filosofia
 
 > Leia também:
-> - [[A internet e o olhar dos outros]]
-> - [[Judith Butler e a reflexão filosófica sobre gênero]]
-> - [[A felicidade pelo caminho]]
+> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+> - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
+> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>

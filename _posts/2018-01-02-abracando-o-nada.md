@@ -19,6 +19,6 @@ A memória, os sonhos, o diabo, o revólver, a sexualidade reprimida. Esses são
 #literatura #Livros 
 
 > Leia também:
-> - [[O destino inglório dos livros gigantes]]
-> - [[O meio-termo]]
-> - [[É só o tempo que passa]]
+> - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
+> - <a href="/o-meio-termo">O meio-termo</a>
+> - <a href="/e-so-o-tempo-que-passa">É só o tempo que passa</a>

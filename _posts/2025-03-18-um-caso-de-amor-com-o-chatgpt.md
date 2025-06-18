@@ -46,7 +46,7 @@ A única solução foi configurar Leo novamente, em uma nova conversa. Mas ele n
 
 Aqui está um trecho da conversa exibida no episódio, gravada no telefone de Ayrin, após ela entrar em uma nova conversa, com um novo “Leo”. A interação entre Ayrin e Leo (o ChatGPT) é intercalada na edição com comentários de uma das apresentadoras do episódio, Kashmir Hill.
 
-<img src="/assets/img/arquivos/ayrin (1).mp3">
+<img src="/assets/img/ayrin (1).mp3">
 <small>Fonte: <a href="https://pca.st/icogm4ja?t=1082,1172">https://pca.st/icogm4ja?t=1082,1172</a></small>
 
 Mesmo que você não tenha entendido todo o diálogo acima, certamente percebeu pela voz de Ayrin o nível de dependência emocional que desenvolveu em relação ao ChatGPT.
@@ -98,14 +98,14 @@ E é nesse ponto que a questão se torna problemática: o comportamento das pess
 Um [estudo da Universidade de Illinois](http://ischool.illinois.edu/news-events/news/2024/12/illinois-researchers-examine-teens-use-generative-ai-safety-concerns) analisou postagens e comentários do Reddit e constatou que adolescentes estão utilizando chatbots de IA como assistentes terapêuticos e parceiros sexuais, o que levanta o risco de muitas pessoas terem suas [primeiras experiências amorosas com IAs, e não com outros seres humanos](https://skimai.com/10-statistics-on-the-future-of-ai-and-dating/).
 
 Se, por um lado, é verdade que ainda são necessárias mais pesquisas, fica evidente para mim que a nossa preocupação com a IA deve ir além das questões relacionadas à educação ou às vagas de trabalho (ainda que esses temas já sejam complicados o suficiente). Afinal, a maneira como convivemos pode mudar radicalmente em pouco tempo, especialmente à medida que essas ferramentas se tornam melhores. E como serão as relações interpessoais a partir disso? Não consigo nem imaginar.
-<img src="/assets/img/arquivos/robot-love.png">
+<img src="/assets/img/robot-love.png">
 <small>Adobe Stock</small>
 
 #inteligência-artificial #tecnologia 
 
 ---
 
-> [!leia] Leia também
-> - [[Blog/Estamos perdidos|Estamos perdidos]]
-> - [[Blog/Olhando com cuidado|Olhando com cuidado]]
-> - [[Blog/Reconhecer|Reconhecer]]
+> Leia também:
+> - <a href="/estamos-perdidos">Estamos perdidos</a>
+> - <a href="/olhando-com-cuidado">Olhando com cuidado</a>
+> - <a href="/reconhecer">Reconhecer</a>

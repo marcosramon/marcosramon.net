@@ -31,9 +31,6 @@ Em um mundo ideal os leitores e escritores se dedicariam à literatura porque a 
 
 
 > Leia também:
-> - [[O tempo que dedicamos aos livros]]
-> - [[O totalitarismo e a gente]]
-> - [[Abraçando o nada]]
-> -
-> -
-> -
+> - <a href="/o-tempo-que-dedicamos-aos-livros">O tempo que dedicamos aos livros</a>
+> - <a href="/o-totalitarismo-e-a-gente">O totalitarismo e a gente</a>
+> - <a href="/abracando-o-nada">Abraçando o nada</a>

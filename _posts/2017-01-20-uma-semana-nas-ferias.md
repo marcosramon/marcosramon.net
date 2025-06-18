@@ -16,6 +16,6 @@ Escrevi outro dia que [coisas estranhas acontecem o tempo todo](https://arcano5.
 #pensamentos #pensamento
 
 > Leia também:
-> - [[Viver esquecendo]]
-> - [[A matéria das memórias]]
-> - [[Muito papel]]
+> - <a href="/viver-esquecendo">Viver esquecendo</a>
+> - <a href="/a-materia-das-memorias">A matéria das memórias</a>
+> - <a href="/muito-papel">Muito papel</a>

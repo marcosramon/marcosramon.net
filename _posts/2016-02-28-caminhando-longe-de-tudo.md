@@ -53,7 +53,6 @@ não quero pensar
 #pensamentos #conhecimento
 
 > Leia também:
-> - [[Teses, Romances e seus leitores]]
-> - [[A ausência da memória]]
-> - [[Alerta de spoiler]]
-> -
+> - <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>
+> - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
+> - <a href="/alerta-de-spoiler">Alerta de spoiler</a>

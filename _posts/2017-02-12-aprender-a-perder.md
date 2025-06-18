@@ -22,6 +22,6 @@ Foto de [Kristina Makeeva](https://www.instagram.com/hobopeeba/)
 #arte #política
 
 > Leia também:
-> - [[O melhor lugar para você estar em 2018]]
-> - [[A felicidade pelo caminho]]
-> - [[A internet e o olhar dos outros]]
+> - <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>
+> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>

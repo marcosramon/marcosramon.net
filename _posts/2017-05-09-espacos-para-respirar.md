@@ -26,6 +26,6 @@ Eu publico os meus textos na internet e faço podcasts por puro diletantismo, ma
 #tecnologia #comportamento
 
 > Leia também:
-> - [[Estamos perdidos]]
-> - [[Duvidar um pouco]]
-> - [[Olhando com cuidado]]
+> - <a href="/estamos-perdidos">Estamos perdidos</a>
+> - <a href="/duvidar-um-pouco">Duvidar um pouco</a>
+> - <a href="/olhando-com-cuidado">Olhando com cuidado</a>

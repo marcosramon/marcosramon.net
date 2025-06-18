@@ -30,6 +30,6 @@ Ilustração de [Nhung Le](https://www.behance.net/nhungle)
 #arte #educação
 
 > Leia também:
-> - [[Indefinido]]
-> - [[Todas as escolas deveriam ser escolas de arte]]
-> - [[O que precisamos consertar]]
+> - <a href="/indefinido">Indefinido</a>
+> - <a href="/todas-as-escolas-deveriam-ser-escolas-de-arte">Todas as escolas deveriam ser escolas de arte</a>
+> - <a href="/o-que-precisamos-consertar">O que precisamos consertar</a>

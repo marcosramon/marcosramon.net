@@ -23,6 +23,6 @@ Grafite feito por [Anders Gjennestad](http://www.andersgjennestad.com/news.html)
 #política #sociedade
 
 > Leia também:
-> - [[O que todo mundo é]]
-> - [[O melhor lugar para você estar em 2018]]
-> - [[O risco]]
+> - <a href="/o-que-todo-mundo-e">O que todo mundo é</a>
+> - <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>
+> - <a href="/o-risco">O risco</a>

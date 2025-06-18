@@ -17,7 +17,7 @@ Não sei dizer se isso é bom ou ruim. Por um lado quero acreditar que é *bom*,
 
 Depois de terminados esses dois livros (os únicos que já tinha lido de Arthur Conan Doyle) vou ter uma experiência realmente nova com *[O Sinal dos Quatro](https://amzn.to/38ymgfn)*[^1], um livro que nunca tinha lido. Quer dizer, pelo menos eu acho...
 
-<img src="/assets/img/arquivos/Pasted image 20250225165243.png">
+<img src="/assets/img/Pasted image 20250225165243.png">
 <small>Ilustração de Sherlock Holmes, por Sidney Paget.</small>
 
 [^1]: Em algumas traduções aparece como *O Signo dos Quatro*.
@@ -25,6 +25,6 @@ Depois de terminados esses dois livros (os únicos que já tinha lido de Arthur 
 #leitura #livros
 
 > Leia também:
-> - [[O declínio da experiência e a importância da crítica]]
-> - [[A ausência da memória]]
-> - [[A releitura como forma de reencontro]]
+> - <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>
+> - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
+> - <a href="/a-releitura-como-forma-de-reencontro">A releitura como forma de reencontro</a>

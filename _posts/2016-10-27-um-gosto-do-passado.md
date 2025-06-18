@@ -27,7 +27,6 @@ Eu só tive acesso a computadores e internet bem tarde, quando entrei na univers
 #escrita #cotidiano
 
 > Leia também:
-> - [[O destino inglório dos livros gigantes]]
-> - [[A burocracia do cotidiano]]
-> - [[O que é ter uma carreira]]
-> -
+> - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
+> - <a href="/a-burocracia-do-cotidiano">A burocracia do cotidiano</a>
+> - <a href="/o-que-e-ter-uma-carreira">O que é ter uma carreira</a>

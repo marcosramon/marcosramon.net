@@ -22,6 +22,6 @@ Colagem de [Julia Gleiser](http://julia-geiser.ch/)
 #pensamentos #grafos
 
 > Leia também:
-> - [[Interagir só com quem se precisa]]
-> - [[Sobre escrever e fazer podcasts]]
-> - [[Juntos]]
+> - <a href="/interagir-so-com-quem-se-precisa">Interagir só com quem se precisa</a>
+> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+> - <a href="/juntos">Juntos</a>

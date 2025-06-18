@@ -23,6 +23,6 @@ Poesia de [Erica Baum](https://en.wikipedia.org/wiki/Erica_Baum)
 #arte #cultura
 
 > Leia também:
-> - [[Todos iguais]]
-> - [[Necessidades básicas]]
-> - [[Judith Butler e a reflexão filosófica sobre gênero]]
+> - <a href="/todos-iguais">Todos iguais</a>
+> - <a href="/necessidades-basicas">Necessidades básicas</a>
+> - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>

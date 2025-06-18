@@ -31,23 +31,23 @@ Então, parei de fazer a análise semana a semana porque provavelmente iria fica
 Esse uso amplo da _hashtag_ é natural, já que o termo _podcastfriday_ não tem dono e pode ser usado por quem quiser e como quiser. Mas o que quero mostrar aqui é que o uso da hashtag aumentou muito (em todo o mundo) e isso pode gerar uma ilusão de que nós, aqui no Brasil, ainda estamos alimentando a ação _#podcastfriday_ como nas primeiras semanas do projeto.
 
 Para fazer a comparação, montei dois grafos. Este primeiro mostra os dados do uso da _#podcastfriday_ na última sexta, dia 16/12, de maneira indiscriminada:
-<img src="/assets/img/arquivos/Pasted image 20250311154328.png">
+<img src="/assets/img/Pasted image 20250311154328.png">
 Já no grafo a seguir eu isolei os _posts_ em português que utilizaram a _hashtag #podcastfriday_:
 
-<img src="/assets/img/arquivos/Pasted image 20250311154336.png">
+<img src="/assets/img/Pasted image 20250311154336.png">
 Veja que este grafo está bem mais simples — e realista.
 
 Nos dois grafos vemos os mesmos grupos predominantes, representados em verde, azul e lilás:
-<img src="/assets/img/arquivos/Pasted image 20250311154345.png">
-<img src="/assets/img/arquivos/Pasted image 20250311154357.png">
-<img src="/assets/img/arquivos/Pasted image 20250311154408.png">
+<img src="/assets/img/Pasted image 20250311154345.png">
+<img src="/assets/img/Pasted image 20250311154357.png">
+<img src="/assets/img/Pasted image 20250311154408.png">
 Um aspecto importante aqui é a predominância do perfil do [@podflixbrasil](https://twitter.com/PodflixBrasil), o que faz muito sentido, já que a proposta deles no Twitter é, sempre, indicar episódios de podcasts.
 
 Outro fato que preciso mencionar é que a busca do Twitter entende como _posts_ em português apenas aqueles em que algo foi _escrito em português_. _Posts_ como esse abaixo não são identificados como tal, pois possuem apenas menções a outros usuários:
 
 ![](https://twitter.com/tambacast/status/809771218538741760)
 
-<img src="/assets/img/arquivos/Pasted image 20250311154429.png">
+<img src="/assets/img/Pasted image 20250311154429.png">
 No grafo, o tweet anterior está representado nesse destaque em laranja.
 
 Mas não ser encontrado na busca isolada não é um problema. O que vejo como algo negativo é o fato de muitos _posts_ serem similares a esse, mencionando muitos perfis e nenhum episódio específico. A ideia da ação _#podcastfriday_ é muito boa, mas parece que ainda não foi assimilada corretamente pelas pessoas (ou foi e as pessoas simplesmente não querem aderir à proposta).
@@ -59,12 +59,12 @@ Podemos até imaginar que se muitos produtores utilizarem a estratégia da indic
 ![](https://twitter.com/JeftherBarbosa/status/809755633163599872)
 
 Por fim, seguem aqui alguns dados da _#podcastfriday_ do dia 16/12/2016. Foram 295 _tweets_, 60 _re-tweets_, 194 usuários e 25 _hashtags_ diferentes. São dados bem mais modestos do que nas duas primeiras semanas. Mas, além da diminuição de interesse natural, eu levei em consideração dessa vez apenas os _posts_ em português — o que infelizmente exclui _posts_ brasileiros que apenas mencionaram perfis — , na tentativa de analisar exclusivamente a _#podcastfriday_ no Brasil:
-<img src="/assets/img/arquivos/Pasted image 20250311154455.png">
+<img src="/assets/img/Pasted image 20250311154455.png">
 Hashtags mais utilizadas
 
-<img src="/assets/img/arquivos/Pasted image 20250311154503.png">
+<img src="/assets/img/Pasted image 20250311154503.png">
 Usuários mais ativos
-<img src="/assets/img/arquivos/Pasted image 20250311154518.png">
+<img src="/assets/img/Pasted image 20250311154518.png">
 Usuários mais influentes.
 
 Observe nos dados apresentados que o perfil _@podflixbrasil_, apesar de ter sido o mais ativo (com 124 tweets), não é um dos mais influentes, porque teve um número menor de _re-tweets_ e menções.
@@ -88,6 +88,6 @@ _Sobre o segundo dia da ação #PodcastFriday._arcano5.com.br](https://arcano5.c
 #Grafos #filosofia
 
 > Leia também:
-> - [[Blog/PodcastFriday|PodcastFriday]]
-> - [[Blog/PodcastFriday, dia 2|PodcastFriday, dia 2]]
-> - [[Blog/Visualizando a pesquisa|Visualizando a pesquisa]]
+> - <a href="/podcastfriday">PodcastFriday</a>
+> - <a href="/podcastfriday-dia-2">PodcastFriday, dia 2</a>
+> - <a href="/visualizando-a-pesquisa">Visualizando a pesquisa</a>

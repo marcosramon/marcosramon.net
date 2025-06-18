@@ -26,6 +26,6 @@ Usei o último quadrinho no meu #inktober. Acompanhe os [outros desenhos no inst
 #pensamentos #informação
 
 > Leia também:
-> - [[Alerta de spoilers]]
-> - [[Sobre escrever e fazer podcasts]]
-> - [[Teses, Romances e seus leitores]]
+> - <a href="/alerta-de-spoilers">Alerta de spoilers</a>
+> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+> - <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>

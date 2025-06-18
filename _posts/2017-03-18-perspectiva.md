@@ -20,6 +20,6 @@ Fotografia de [Roy Pinney](https://en.wikipedia.org/wiki/Roy_Pinney)
 #arte #comportamento
 
 > Leia também:
-> - [[A felicidade pelo caminho]]
-> - [[A internet e o olhar dos outros]]
-> - [[Desejo e realidade]]
+> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+> - <a href="/desejo-e-realidade">Desejo e realidade</a>

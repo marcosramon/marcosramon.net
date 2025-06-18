@@ -27,7 +27,6 @@ Pintura de [Joel Rea](http://www.joelrea.com.au/)
 #pensamentos #cotidiano
 
 > Leia também:
-> - [[O pior e o melhor de todos nós]]
-> - [[Escolha o tédio]]
-> - [[Eles sabem o que eu não sei]]
-> -
+> - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
+> - <a href="/escolha-o-tedio">Escolha o tédio</a>
+> - <a href="/eles-sabem-o-que-eu-nao-sei">Eles sabem o que eu não sei</a>

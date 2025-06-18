@@ -20,7 +20,6 @@ Sendo assim, e considerando a quantidade de vezes que eu já li alguém dizendo 
 #tecnologia #sociedade
 
 > Leia também:
-> - [[A leitura na internet está mais confortável]]
-> - [[A maior derrota que se pode ter]]
-> - [[A solidão, a liberdade e a felicidade possível]]
-
+> - <a href="/a-leitura-na-internet-esta-mais-confortavel">A leitura na internet está mais confortável</a>
+> - <a href="/a-maior-derrota-que-se-pode-ter">A maior derrota que se pode ter</a>
+> - <a href="/a-solidao-a-liberdade-e-a-felicidade-possivel">A solidão, a liberdade e a felicidade possível</a>

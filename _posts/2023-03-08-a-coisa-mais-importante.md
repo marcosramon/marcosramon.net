@@ -26,6 +26,6 @@ Para não nos perdermos de nós, como afirma [[Anaïs Nin]], continuamos tentand
 #leitura #filosofia
 
 > Leia também:
-> - [[A experiência negativa]]
-> - [[A ausência da memória]]
-> - [[A internet e o olhar dos outros]]
+> - <a href="/a-experiencia-negativa">A experiência negativa</a>
+> - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
+> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>

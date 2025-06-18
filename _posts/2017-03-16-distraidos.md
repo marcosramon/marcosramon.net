@@ -23,6 +23,6 @@ Gif criado por [Janneke Meekes](http://jannekemeekes.tumblr.com/)
 #arte #cultura
 
 > Leia também:
-> - [[Viver o trabalho]]
-> - [[Judith Butler e a reflexão filosófica sobre gênero]]
-> - [[A Nintendo continua a mesma — ainda bem]]
+> - <a href="/viver-o-trabalho">Viver o trabalho</a>
+> - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
+> - <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>

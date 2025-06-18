@@ -27,7 +27,6 @@ Platão, Descartes e Schopenhauer escreveram sobre temas que interessam a todos 
 #ensino #educação #filosofia
 
 > Leia também:
-> - [[Blog/O desafio de ensinar|O desafio de ensinar]]
-> - [[Blog/Todo mundo devia ser professor|Todo mundo devia ser professor]]
-> - [[Blog/O cotidiano da sala de aula|O cotidiano da sala de aula]]
- 
+> - <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>
+> - <a href="/todo-mundo-devia-ser-professor">Todo mundo devia ser professor</a>
+> - <a href="/o-cotidiano-da-sala-de-aula">O cotidiano da sala de aula</a>

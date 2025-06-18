@@ -30,7 +30,6 @@ Ilustração de [Pawel Kuczynski](https://www.facebook.com/Pawel-Kuczynski-22284
 #arte #comportamento
 
 > Leia também:
-> - [[A felicidade pelo caminho]]
-> - [[O lugar dos outros]]
-> - [[A incompatibilidade entre a ideia e a ação]]
-> -
+> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+> - <a href="/o-lugar-dos-outros">O lugar dos outros</a>
+> - <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>

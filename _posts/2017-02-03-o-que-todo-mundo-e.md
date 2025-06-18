@@ -26,6 +26,6 @@ Mas isso não significa que precisamos ficar fechados em nossa própria realidad
 #sociedade #cultura
 
 > Leia também:
-> - [[O que é ser criativo]]
-> - [[O progresso que oprime]]
-> - [[Todos iguais]]
+> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+> - <a href="/o-progresso-que-oprime">O progresso que oprime</a>
+> - <a href="/todos-iguais">Todos iguais</a>

@@ -20,14 +20,11 @@ Eu não consegui dizer nada além de: "Não sei, filho. Todo dia a gente fica ma
      
 Vai ver que é só isso, o tempo que passa.
 
-<img src="/assets/img/arquivos/Pasted image 20250225130816.png">
+<img src="/assets/img/Pasted image 20250225130816.png">
 
 
 
 > Leia também:
-> - [[O que é ser criativo]]
-> - [[Não é só um jogo]]
-> - [[O destino inglório dos livros gigantes]]
-> -
-> -
-> -
+> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+> - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>

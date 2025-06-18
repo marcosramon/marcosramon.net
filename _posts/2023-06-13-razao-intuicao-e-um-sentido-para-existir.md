@@ -33,6 +33,6 @@ Se você me perguntar, vou dizer que sempre pensei mais ou menos como Schopenhau
 #filosofia #reflexão
 
 > Leia também:
-> - [[Sobre escrever e fazer podcasts]]
-> - [[Trabalho, antes de tudo]]
-> - [[Não é só um jogo]]
+> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+> - <a href="/trabalho-antes-de-tudo">Trabalho, antes de tudo</a>
+> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>

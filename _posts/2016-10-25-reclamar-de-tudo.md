@@ -31,7 +31,6 @@ _Se você gosta das coisas que eu produzo na internet e quiser me apoiar,_ [_com
 #arte #cotidiano
 
 > Leia também:
-> - [[De onde vem o conhecimento]]
-> - [[Todos iguais]]
-> - [[O que é ser criativo]]
-> -
+> - <a href="/de-onde-vem-o-conhecimento">De onde vem o conhecimento</a>
+> - <a href="/todos-iguais">Todos iguais</a>
+> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>

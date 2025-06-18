@@ -31,7 +31,6 @@ Aqui embaixo você pode ver o grafo criado a partir do _Infranodus_ para esse te
 #pensamentos #Escrever
 
 > Leia também:
-> - [[Um parque, uma descoberta]]
-> - [[Caminhando longe de tudo]]
-> - [[Alerta de spoiler]]
-> -
+> - <a href="/um-parque-uma-descoberta">Um parque, uma descoberta</a>
+> - <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>
+> - <a href="/alerta-de-spoiler">Alerta de spoiler</a>

@@ -22,14 +22,14 @@ Das coisas que sinto como mais características do fato de estar envelhecendo, a
 Apesar do medo, acho que vale muito pensar sobre isso para internalizar o evidente: não posso resgatar o tempo. Porque o tempo me ultrapassa e me faz estar em constante perseguição — não a ele, mas a mim mesmo, perdido no processo de continuar existindo.
 
 É isso. Falta cada vez menos tempo. O que importa agora é aprender a lidar com ele, comigo, com tudo.
-<img src="/assets/img/arquivos/signac.png">
+<img src="/assets/img/signac.png">
 <small>Le Port au soleil couchant (1892), por Paul Signac</small>
 
 #Tempo #Realidade 
 
 ---
 
-> [!leia] Leia também
-> - [[Blog/Tudo no lugar certo|Tudo no lugar certo]]
-> - [[Blog/É só o tempo que passa|É só o tempo que passa]]
-> - [[Blog/Eu e o tempo|Eu e o tempo]]
+> Leia também:
+> - <a href="/tudo-no-lugar-certo">Tudo no lugar certo</a>
+> - <a href="/e-so-o-tempo-que-passa">É só o tempo que passa</a>
+> - <a href="/eu-e-o-tempo">Eu e o tempo</a>

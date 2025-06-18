@@ -22,7 +22,6 @@ Não me entenda mal. Eu sou consumista. E talvez até demais. E é por isso que 
 #comportamento #arte
 
 > Leia também:
-> - [[A internet e o olhar dos outros]]
-> - [[Como os personagens são criados]]
-> - [[Felicidade em dia de chuva]]
-> -
+> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+> - <a href="/como-os-personagens-sao-criados">Como os personagens são criados</a>
+> - <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>

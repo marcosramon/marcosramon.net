@@ -24,7 +24,6 @@ Colagem de [Julia Geiser](http://julia-geiser.ch/post/144503242859)
 #sociedade #educação
 
 > Leia também:
-> - [[Saudades]]
-> - [[O que todo mundo é]]
-> - [[Formação e trajetória]]
-> -
+> - <a href="/saudades">Saudades</a>
+> - <a href="/o-que-todo-mundo-e">O que todo mundo é</a>
+> - <a href="/formacao-e-trajetoria">Formação e trajetória</a>

@@ -25,7 +25,7 @@ Existem momentos em que os professores recebem gratidão pelo seu empenho e esfo
 
 Todo mundo devia ser professor.
 
-<img src="/assets/img/arquivos/Pasted image 20250226101624.png">
+<img src="/assets/img/Pasted image 20250226101624.png">
 <small>Pintura de <a href="https://www.behance.net/Oskadesign">Oska</a></small>
 
 #ensino #educação 
@@ -36,9 +36,6 @@ Todo mundo devia ser professor.
 
 
 > Leia também:
-> - [[O desafio de ensinar]]
-> - [[Alguém sabe o que está fazendo]]
-> - [[Ensinar é difícil]]
-> -
-> -
-> -
+> - <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>
+> - <a href="/alguem-sabe-o-que-esta-fazendo">Alguém sabe o que está fazendo</a>
+> - <a href="/ensinar-e-dificil">Ensinar é difícil</a>

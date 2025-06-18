@@ -25,6 +25,6 @@ Esculturas de metal de [Zadok Ben-David](http://zadokbendavid.com/)
 #comportamento #cultura
 
 > Leia também:
-> - [[A internet e o olhar dos outros]]
-> - [[O que tem de interessante em você]]
-> - [[O possível amanhã]]
+> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+> - <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
+> - <a href="/o-possivel-amanha">O possível amanhã</a>

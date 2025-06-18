@@ -56,6 +56,6 @@ Para explicar o que a ciência é Weber estabelece uma relação entre a arte e 
 #Ciência #conhecimento 
 
 > Leia também:
-> - [[Blog/Para entender o nosso tempo|Para entender o nosso tempo]]
-> - [[Sobre escrever e fazer podcasts]]
-> - [[Blog/Conhecimento rápido|Conhecimento rápido]]
+> - <a href="/para-entender-o-nosso-tempo">Para entender o nosso tempo</a>
+> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+> - <a href="/conhecimento-rapido">Conhecimento rápido</a>

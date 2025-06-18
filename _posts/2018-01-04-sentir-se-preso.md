@@ -22,6 +22,6 @@ Ilustração de [Irene D’Antò](http://irenedanto.tumblr.com/)
 #pensamentos #comunicação
 
 > Leia também:
-> - [[A beleza do absurdo]]
-> - [[Outros sonhos]]
-> - [[Sobre escrever e fazer podcasts]]
+> - <a href="/a-beleza-do-absurdo">A beleza do absurdo</a>
+> - <a href="/outros-sonhos">Outros sonhos</a>
+> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>

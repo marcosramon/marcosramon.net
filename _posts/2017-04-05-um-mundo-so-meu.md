@@ -20,6 +20,6 @@ Quando consideramos que outras pessoas fazem sempre as suas escolhas de forma co
 #pensamentos #livros
 
 > Leia também:
-> - [[Interagir só com quem se precisa]]
-> - [[Encontrar um caminho]]
-> - [[Não é só um jogo]]
+> - <a href="/interagir-so-com-quem-se-precisa">Interagir só com quem se precisa</a>
+> - <a href="/encontrar-um-caminho">Encontrar um caminho</a>
+> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>

@@ -27,9 +27,6 @@ Colagem criada por <small><a href="http://marcosmtez.com/">Marcos Martínez</a>
 
 
 > Leia também:
-> - [[A experiência negativa]]
-> - [[Saber a felicidade]]
-> - [[A realidade e nós mesmos]]
-> -
-> -
-> -
+> - <a href="/a-experiencia-negativa">A experiência negativa</a>
+> - <a href="/saber-a-felicidade">Saber a felicidade</a>
+> - <a href="/a-realidade-e-nos-mesmos">A realidade e nós mesmos</a>

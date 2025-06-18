@@ -30,7 +30,6 @@ Se você tiver dicas de como podemos aproveitar melhor o nosso tempo para a leit
 #leitura #Livros
 
 > Leia também:
-> - [[O tempo e os livros]]
-> - [[A leitura na internet está mais confortável]]
-> - [[Abraçando o nada]]
-> -
+> - <a href="/o-tempo-e-os-livros">O tempo e os livros</a>
+> - <a href="/a-leitura-na-internet-esta-mais-confortavel">A leitura na internet está mais confortável</a>
+> - <a href="/abracando-o-nada">Abraçando o nada</a>

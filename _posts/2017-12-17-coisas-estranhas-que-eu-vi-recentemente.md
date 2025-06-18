@@ -20,6 +20,6 @@ Outra coisa que vi, e que entra na categoria do que é inexplicável, foi uma mu
 #pensamentos #comportamento
 
 > Leia também:
-> - [[Entender o tempo]]
-> - [[O que realmente importa]]
-> - [[O que tem de interessante em você]]
+> - <a href="/entender-o-tempo">Entender o tempo</a>
+> - <a href="/o-que-realmente-importa">O que realmente importa</a>
+> - <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>

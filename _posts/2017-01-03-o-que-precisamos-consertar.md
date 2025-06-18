@@ -24,6 +24,6 @@ Viver em sociedade é olhar para o futuro. E isso implica em ter um espírito me
 #educação #arte
 
 > Leia também:
-> - [[O que o silêncio diz]]
-> - [[O que é ser criativo]]
-> - [[A internet e o olhar dos outros]]
+> - <a href="/o-que-o-silencio-diz">O que o silêncio diz</a>
+> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>

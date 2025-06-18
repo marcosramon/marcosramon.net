@@ -28,9 +28,6 @@ Contudo — e acho que que esse é o ponto central da questão — se fe
 
 
 > Leia também:
-> - [[Uma vida sem reflexão]]
-> - [[A realidade e nós mesmos]]
-> - [[A experiência negativa]]
-> -
-> -
-> -
+> - <a href="/uma-vida-sem-reflexao">Uma vida sem reflexão</a>
+> - <a href="/a-realidade-e-nos-mesmos">A realidade e nós mesmos</a>
+> - <a href="/a-experiencia-negativa">A experiência negativa</a>

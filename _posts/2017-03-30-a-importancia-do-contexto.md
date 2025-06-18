@@ -22,6 +22,6 @@ Pode parecer pouco relevante tudo isso, já que a maior parte das pessoas que vi
 #arte #música
 
 > Leia também:
-> - [[Quando a arte nos define]]
-> - [[Valorizar a busca]]
-> - [[Judith Butler e a reflexão filosófica sobre gênero]]
+> - <a href="/quando-a-arte-nos-define">Quando a arte nos define</a>
+> - <a href="/valorizar-a-busca">Valorizar a busca</a>
+> - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>

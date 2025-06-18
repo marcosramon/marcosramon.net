@@ -20,24 +20,24 @@ No primeiro grafo que vou mostrar, por exemplo, estão todos os tweets com a has
 
 No caso do grafo abaixo, dá pra observar a rede toda com os diversos _clusters_ (comunidades, grupos conectados). Encontrei 89 “comunidades”, o que é um número imenso, principalmente se considerarmos que se trata de uma rede tão pequena. (Se você participou da conversação em torno da hashtag #diadopodcast e quiser se encontrar no grafo, [baixe a versão em pdf](https://dl.dropboxusercontent.com/u/49566417/DiaDoPodcast/diadopodcast.pdf), dê um zoom, tecle _Ctrl + f_ e pesquise o seu nome de perfil).
 
-<img src="/assets/img/arquivos/Pasted image 20250311150726.png">
+<img src="/assets/img/Pasted image 20250311150726.png">
 Acesse a [imagem em alta resolução](https://dl.dropboxusercontent.com/u/49566417/DiaDoPodcast/diadopodcast1.png) ou [pdf](https://dl.dropboxusercontent.com/u/49566417/DiaDoPodcast/diadopodcast.pdf) para uma melhor definição.
 
 Coloco aqui alguns detalhes da rede gerada pelo uso da hashtag:
 
-<img src="/assets/img/arquivos/Pasted image 20250311150810.png">
+<img src="/assets/img/Pasted image 20250311150810.png">
 Detalhe de alguns dos maiores influenciadores. Veja em [melhor qualidade aqui](https://dl.dropboxusercontent.com/u/49566417/DiaDoPodcast/influenciadores1.png).
 
 Observe na imagem acima que os _nós_ maiores representam alguns influenciadores e a conversação gerada na rede a partir deles. De laranja, por exemplo, estão os perfis @mundopod, @diadopodcast e @thiagomiro centralizando boa parte da interação. Já o perfil @scicastpodcast (de azul, no topo da imagem) é o centro de um outro grupo. Ainda que os dois grupos se relacionem, é possível perceber que a conversação se dispersou em alguns pontos, tornando o centro da rede menos intenso do que poderia ser.
 
 Mas ainda assim, as diversas arestas mostram que houve pelo menos um nível razoável de interação entre boa parte dos perfis. É verdade que a rede ainda é pequena e um pouco polarizada (como observamos na imagem), mas é também verdade que o grafo mostra um engajamento significativo de muitos usuários.
 
-<img src="/assets/img/arquivos/Pasted image 20250311150820.png">
+<img src="/assets/img/Pasted image 20250311150820.png">
 Detalhe de outro grupo de influenciadores. Veja em [melhor qualidade aqui](https://dl.dropboxusercontent.com/u/49566417/DiaDoPodcast/influenciadores2.png).
 
 No grafo acima, de verde, temos outro perfil extremamente influente: @podflixbrasil. Essa influência é compreensível, principalmente se considerarmos que o perfil em questão é um grande divulgador de episódios de podcasts (e claro que um grande número de episódios foram lançados, não por acaso, no dia 21/10). Se clicar na [imagem ampliada](https://dl.dropboxusercontent.com/u/49566417/DiaDoPodcast/influenciadores2.png) você pode observar que todo o grupo de _nós_ próximos (também verdes) são de podcasts ou de participantes de episódios que foram publicados no dia e marcados junto com a hashtag #diadopodcast.
 
-<img src="/assets/img/arquivos/Pasted image 20250311150832.png">
+<img src="/assets/img/Pasted image 20250311150832.png">
 Um cluster bem pequeno e alguns “nós” isolados. Veja a [imagem ampliada aqui](https://dl.dropboxusercontent.com/u/49566417/DiaDoPodcast/influenciadores4.png).
 
 Na imagem acima, por outro lado, o que se pode observar é uma comunidade bem pequena envolvida na conversação. Nas extremidades vemos também alguns perfis isolados. Voltando para a [primeira imagem](https://dl.dropboxusercontent.com/u/49566417/DiaDoPodcast/diadopodcast1.png) você pode observar esse padrão se repetindo em vários momentos. A presença dos perfis isolados e dos pequenos aglomerados no grafo mostra a situação de uma rede ainda em crescimento. Em contextos diferentes, com muitos perfis envolvidos e com a conversação centralizada por um número pequeno de influenciadores, essa tendência aos _nós_ isolados é geralmente menor.
@@ -59,7 +59,7 @@ Portanto, o perfil oficial da ação #diadopodcast foi apenas o quinto em númer
 
 Um último aspecto que achei interessante ao recolher os dados foi verificar as palavras mais associadas à hashtag #diadopodcast:
 
-<img src="/assets/img/arquivos/Pasted image 20250311150843.png">
+<img src="/assets/img/Pasted image 20250311150843.png">
 Grafo com as palavras/hashtags mais comuns utilizadas na conversação sobre o #diadopodcast.
 
 Na imagem acima (acesse em [melhor qualidade aqui](https://dl.dropboxusercontent.com/u/49566417/DiaDoPodcast/palavras4.png) e em [pdf aqui](https://dl.dropboxusercontent.com/u/49566417/DiaDoPodcast/palavras%202.pdf)) aparecem algumas palavras/hashtags associadas diretamente ao universo do podcast e outras nem tanto. Observe os _clusters_ separados por cores para identificar esses diversos grupos de hashtags.
@@ -68,12 +68,12 @@ A presença de “teologiadeboteco” e “podcrent” (de azul claro no grafo) 
 
 Além desse elemento faço ainda o destaque de alguns outros aspectos que achei importantes. O primeiro é a presença de um pequeno grupo relacionado ao filme [De volta para o futuro](https://pt.wikipedia.org/wiki/Back_to_the_Future), o que certamente é esperado, já que o dia 21/10/2015 foi o dia em que Marty Mcfly chegou ao futuro no segundo filme da trilogia. Nesse grupo aparecem as hashtags “backtothefuture”, “bttf”, “atrasado” e “rubinho” (Barrichello?):
 
-<img src="/assets/img/arquivos/Pasted image 20250311150855.png">
+<img src="/assets/img/Pasted image 20250311150855.png">
 Observe o grupo de “nós” relacionados à “De volta para o futuro”.
 
 Por fim, dois outros grupos isolados chamam a atenção: um com as hashtags “café” e “cafeína” e outro com “rock” e “metal”.
 
-<img src="/assets/img/arquivos/Pasted image 20250311150905.png">
+<img src="/assets/img/Pasted image 20250311150905.png">
 Café e Rock na vida dos amantes de podcast?
 
 O perfil @jovemnerd — que participou pouco da rede #diadopodcast, mas possui um grande engajamento por parte dos seus fãs — foi um dos que utilizou a palavra “café” associada com a hashtag #diadopodcast. Como esse tweet específico teve mais de oitenta retweets até o momento da coleta, é mais do que justificável a presença do termo aqui. De qualquer forma, parece que mais gente relacionou o podcast com a falta de sono e o excesso de cafeína e rock na veia.
@@ -86,7 +86,7 @@ Mas agora você pensa assim:
 
 Não prova nada. Nem era essa a intenção.
 
-<img src="/assets/img/arquivos/Pasted image 20250311150926.png">
+<img src="/assets/img/Pasted image 20250311150926.png">
 <small>“Como mostra claramente este gráfico…” (Cartoon de @dazzdoc)</small>
 
 Já ouvi algumas vezes a [Raquel Recuero](http://www.raquelrecuero.com) (@raquelrecuero) — professora da UCPel e pesquisadora na área de análise de redes sociais — falar que não adianta só criar um grafo, é necessário criar também estratégias para interpretar essas representações. E, claro, com poucos elementos isso fica bem difícil. Mas essa foi só uma primeira tentativa de compreender a rede de interações entre os amantes do podcast por meio da visualização de uma conversação específica.
@@ -100,6 +100,6 @@ Enfim, esse é um primeiro exercício e a ideia é avançar na coleta e análise
 #Grafos #pesquisa
 
 > Leia também:
-> - [[Visualizando as letras do Bob Dylan]]
-> - [[Visualizando letras de música como networks]]
-> - [[Análise de um Fórum de EAD]]
+> - <a href="/visualizando-as-letras-do-bob-dylan">Visualizando as letras do Bob Dylan</a>
+> - <a href="/visualizando-letras-de-musica-como-networks">Visualizando letras de música como networks</a>
+> - <a href="/analise-de-um-forum-de-ead">Análise de um Fórum de EAD</a>

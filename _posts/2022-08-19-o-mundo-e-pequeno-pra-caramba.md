@@ -26,11 +26,11 @@ Pensando sobre o agora, sinto que ainda me resta um pouco de curiosidade com [a 
 
 #comportamento #cotidiano
 
-<img src="/assets/img/arquivos/Pasted image 20250226095219.png">
+<img src="/assets/img/Pasted image 20250226095219.png">
 
 [^1]: Não que seja barato viajar hoje. Mas, diferentemente de outras épocas, é algo agora viável para um número bem grande de pessoas.
 
 > Leia também:
-> - [[O que é ter uma carreira]]
-> - [[O que tem de interessante em você]]
-> - [[O que ainda pode mudar]]
+> - <a href="/o-que-e-ter-uma-carreira">O que é ter uma carreira</a>
+> - <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
+> - <a href="/o-que-ainda-pode-mudar">O que ainda pode mudar</a>

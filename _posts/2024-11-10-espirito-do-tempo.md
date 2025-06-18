@@ -34,11 +34,11 @@ Dei o título pro texto de “espírito do tempo”, mas não quero deixar a imp
 
 O que sei mesmo é que é difícil ser gente.
 
-<img src="/assets/img/arquivos/Pasted image 20250225130037.png">
+<img src="/assets/img/Pasted image 20250225130037.png">
 
 #música #comportamento
 
 > Leia também:
-> - [[A burocracia do cotidiano]]
-> - [[O tempo]]
-> - [[Para entender o nosso tempo]]
+> - <a href="/a-burocracia-do-cotidiano">A burocracia do cotidiano</a>
+> - <a href="/o-tempo">O tempo</a>
+> - <a href="/para-entender-o-nosso-tempo">Para entender o nosso tempo</a>

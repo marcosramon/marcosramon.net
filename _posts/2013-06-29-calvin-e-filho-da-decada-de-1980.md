@@ -32,7 +32,6 @@ Pois é, é isso. Agora vou parar isso aqui e ler mais umas tirinhas...
 #arte #quadrinhos
 
 > Leia também:
-> - [[Eu sei]]
-> - [[A arte depois da arte]]
-> - [[As primeiras horas da manhã]]
-
+> - <a href="/eu-sei">Eu sei</a>
+> - <a href="/a-arte-depois-da-arte">A arte depois da arte</a>
+> - <a href="/as-primeiras-horas-da-manha">As primeiras horas da manhã</a>

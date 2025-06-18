@@ -17,6 +17,6 @@ E de alguma forma, as encontro. Porque as soluções são intermináveis (estão
 *Colagem de <a href="https://keelertornero.com/">Keeler Tornero</a>*
 
 > Leia também:
-> - [[Fazer o melhor que eu posso]]
-> - [[O possível amanhã]]
-> - [[Eles sabem o que eu não sei]]
+> - <a href="/fazer-o-melhor-que-eu-posso">Fazer o melhor que eu posso</a>
+> - <a href="/o-possivel-amanha">O possível amanhã</a>
+> - <a href="/eles-sabem-o-que-eu-nao-sei">Eles sabem o que eu não sei</a>

@@ -23,6 +23,6 @@ Gif criado por [Adam Pizurny](http://adampizurny.tumblr.com/)
 #arte #cultura
 
 > Leia também:
-> - [[Necessidades básicas]]
-> - [[Judith Butler e a reflexão filosófica sobre gênero]]
-> - [[Escrever um diário]]
+> - <a href="/necessidades-basicas">Necessidades básicas</a>
+> - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
+> - <a href="/escrever-um-diario">Escrever um diário</a>

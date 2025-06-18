@@ -73,6 +73,6 @@ O videogame é um brinquedo e a Nintendo sabe disso. E ela faz os melhores brinq
 #Nintendo #Jogos
 
 > Leia também:
-> - [[A Nintendo continua a mesma — ainda bem]]
-> - [[Quando a arte nos define]]
-> - [[A arte depois da arte]]
+> - <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>
+> - <a href="/quando-a-arte-nos-define">Quando a arte nos define</a>
+> - <a href="/a-arte-depois-da-arte">A arte depois da arte</a>

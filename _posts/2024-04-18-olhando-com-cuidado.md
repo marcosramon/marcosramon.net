@@ -14,12 +14,12 @@ Recentemente, venho lutando contra meu vício em smartphone. Acordo e, enquanto 
 
 Não sou importante, mas gostaria de ser. Esta é a única resposta que encontro. Para viver melhor, preciso aceitar minha desimportância.
 
-<img src="/assets/img/arquivos/Pasted image 20250302180952.png">
+<img src="/assets/img/Pasted image 20250302180952.png">
 <small>Ilustração criada com o Midjourney</small>
 
 #tecnologia #comportamento 
 
 > Leia também:
-> - [[Estamos perdidos]]
-> - [[Duvidar um pouco]]
-> - [[Espaços para respirar]]
+> - <a href="/estamos-perdidos">Estamos perdidos</a>
+> - <a href="/duvidar-um-pouco">Duvidar um pouco</a>
+> - <a href="/espacos-para-respirar">Espaços para respirar</a>

@@ -24,9 +24,6 @@ Eu só considero confiáveis as pessoas repletas de obsessões e que não tem me
 
 
 > Leia também:
-> - [[Trabalho, antes de tudo]]
-> - [[Reclamar de tudo]]
-> - [[Caminhando longe de tudo]]
-> -
-> -
-> -
+> - <a href="/trabalho-antes-de-tudo">Trabalho, antes de tudo</a>
+> - <a href="/reclamar-de-tudo">Reclamar de tudo</a>
+> - <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>

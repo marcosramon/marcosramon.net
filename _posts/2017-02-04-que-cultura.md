@@ -28,9 +28,6 @@ E eu falo tudo isso estando do lado massificado. Cresci em um mundo em que fui s
 
 
 > Leia também:
-> - [[Judith Butler e a reflexão filosófica sobre gênero]]
-> - [[A Nintendo continua a mesma — ainda bem]]
-> - [[Todos iguais]]
-> -
-> -
-> -
+> - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
+> - <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>
+> - <a href="/todos-iguais">Todos iguais</a>

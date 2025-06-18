@@ -47,7 +47,6 @@ De qualquer forma, fico pensando que talvez seja justamente essa a maior beleza 
 #ensinar #ensino
 
 > Leia também:
-> - [[Ensinar é difícil]]
-> - [[Progredir, sem medo de errar]]
-> - [[Alguém sabe o que está fazendo]]
-> -
+> - <a href="/ensinar-e-dificil">Ensinar é difícil</a>
+> - <a href="/progredir-sem-medo-de-errar">Progredir, sem medo de errar</a>
+> - <a href="/alguem-sabe-o-que-esta-fazendo">Alguém sabe o que está fazendo</a>

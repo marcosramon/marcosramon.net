@@ -21,9 +21,6 @@ Para viver em sociedade precisamos de coragem, disposição e criatividade. Uma 
 
 
 > Leia também:
-> - [[Banksy ou como a arte de rua pode ser pop]]
-> - [[Aprendendo]]
-> - [[O que precisamos consertar]]
-> -
-> -
-> -
+> - <a href="/banksy-ou-como-a-arte-de-rua-pode-ser-pop">Banksy ou como a arte de rua pode ser pop</a>
+> - <a href="/aprendendo">Aprendendo</a>
+> - <a href="/o-que-precisamos-consertar">O que precisamos consertar</a>

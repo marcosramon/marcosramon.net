@@ -20,15 +20,12 @@ Mas eu não sou herói. Ninguém é.
 
 Um desafio: aceitar a simplicidade disso.
 
-<img src="/assets/img/arquivos/Pasted image 20250310132649.png">
+<img src="/assets/img/Pasted image 20250310132649.png">
 *Pintura de [Pawel Jonca](http://paweljonca.com/)*
 
 
 
 > Leia também:
-> - [[Mais de nós mesmos]]
-> - [[Um pouco menos de postach.io (por enquanto)]]
-> - [[Análise de um Fórum de EAD]]
-> -
-> -
-> -
+> - <a href="/mais-de-nos-mesmos">Mais de nós mesmos</a>
+> - <a href="/um-pouco-menos-de-postachio-por-enquanto">Um pouco menos de postach.io (por enquanto)</a>
+> - <a href="/analise-de-um-forum-de-ead">Análise de um Fórum de EAD</a>

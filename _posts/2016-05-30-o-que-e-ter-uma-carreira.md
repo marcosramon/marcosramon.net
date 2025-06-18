@@ -25,9 +25,6 @@ Respondendo à pergunta do título: ter uma carreira é se acomodar com tudo.
 #cotidiano #comportamento
 
 > Leia também:
-> - [[O que tem de interessante em você]]
-> - [[O mundo é pequeno pra caramba]]
-> - [[O que ainda pode mudar]]
-> -
-> -
-> -
+> - <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
+> - <a href="/o-mundo-e-pequeno-pra-caramba">O mundo é pequeno pra caramba</a>
+> - <a href="/o-que-ainda-pode-mudar">O que ainda pode mudar</a>

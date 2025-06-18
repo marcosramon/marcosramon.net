@@ -22,6 +22,6 @@ Ilustração de [Michał Dziekan](http://michaldziekan.tumblr.com/)
 #pensamentos #internet
 
 > Leia também:
-> - [[O pior e o melhor de todos nós]]
-> - [[Colagem]]
-> - [[Desejo e realidade]]
+> - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
+> - <a href="/colagem">Colagem</a>
+> - <a href="/desejo-e-realidade">Desejo e realidade</a>

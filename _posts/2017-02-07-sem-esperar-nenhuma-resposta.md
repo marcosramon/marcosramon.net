@@ -22,6 +22,6 @@ Foto de [Greg Girard](http://www.greggirard.com/)
 #pensamentos #arte
 
 > Leia também:
-> - [[Um parque, uma descoberta]]
-> - [[Colagem]]
-> - [[O que é ser criativo]]
+> - <a href="/um-parque-uma-descoberta">Um parque, uma descoberta</a>
+> - <a href="/colagem">Colagem</a>
+> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>

@@ -22,6 +22,6 @@ Colagem feita por [Alma Haser](http://t.umblr.com/redirect?z=http%3A%2F%2Finagb
 #pensamentos #música
 
 > Leia também:
-> - [[Encontrar um caminho]]
-> - [[A beleza do absurdo]]
-> - [[A ausência da memória]]
+> - <a href="/encontrar-um-caminho">Encontrar um caminho</a>
+> - <a href="/a-beleza-do-absurdo">A beleza do absurdo</a>
+> - <a href="/a-ausencia-da-memoria">A ausência da memória</a>

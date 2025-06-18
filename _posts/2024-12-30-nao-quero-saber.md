@@ -37,6 +37,6 @@ Quero ter [[Blog/Espaço|espaço]] na cabeça para pensar e desejar, mas por mim
 *Untitled (Dada) por Hannah Höch, 1922*
 
 > Leia também:
-> - [[Blog/Olhando com cuidado|Olhando com cuidado]]
-> - [[Blog/Ler menos|Ler menos]]
-> - [[Blog/Progredir, sem medo de errar|Progredir, sem medo de errar]]
+> - <a href="/olhando-com-cuidado">Olhando com cuidado</a>
+> - <a href="/ler-menos">Ler menos</a>
+> - <a href="/progredir-sem-medo-de-errar">Progredir, sem medo de errar</a>

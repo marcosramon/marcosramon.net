@@ -22,6 +22,6 @@ Foto de [Paul Schneggenburger](http://www.schneggenburger.at/)
 #pensamentos #pensamento
 
 > Leia também:
-> - [[A ausência da memória]]
-> - [[Muito papel]]
-> - [[Uma semana nas férias]]
+> - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
+> - <a href="/muito-papel">Muito papel</a>
+> - <a href="/uma-semana-nas-ferias">Uma semana nas férias</a>

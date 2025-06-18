@@ -24,7 +24,7 @@ Sobre os “comedores de batata” — que é, sem dúvidas, um quadro impre
 
 Van Gogh chegou à capital francesa em 1886 e teve contato com as cores dos impressionistas, a possibilidade do uso experimental das cores e dos traços fortes tomou conta dele. Além disso, ele percebeu que os impressionistas também compartilhavam de sua paixão pelas estampas japonesas, o que lhe aumentou o desejo de se dedicar ao estudo destas pinturas e gravuras. Mas para Van Gogh, que tinha um temperamento difícil e imprevisível, aquilo que parecia demais e seu comportamento ficou instável. Theo sugeriu que ele fosse para o sul da França, para se afastar um pouco da movimentação da cidade. Ele foi então para Arles e lá, reencontrou o seu tema principal, aquele que o acompanhou na maior parte de sua obra: a natureza e a vida camponesa. Van Gogh ficou em Arles por catorze meses e produziu cerca de duzentas pinturas, dentre algumas de suas mais importantes: _A casa amarela_, _O semeador_, _Girassóis num vaso_, _Noite estrelada sobre o Ródano_ e _O quarto_.
 
-<img src="/assets/img/sobre-van gogh-medium-1.jpeg">
+<img src="/assets/img/sobre-van gogh-medium-1.jpeg">
 <img src="/assets/img/sobre-van gogh-medium-2.jpeg">
 
 <img src="/assets/img/sobre-van gogh-medium-3.jpeg">
@@ -59,6 +59,6 @@ _Van Gogh — Amendoeira em flor, 1890_
 #arte #comportamento
 
 > Leia também:
-> - [[A felicidade pelo caminho]]
-> - [[A internet e o olhar dos outros]]
-> - [[Dia de comprar]]
+> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+> - <a href="/dia-de-comprar">Dia de comprar</a>

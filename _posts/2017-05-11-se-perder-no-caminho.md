@@ -24,6 +24,6 @@ Gif criado por [Julien Douvier](http://juliendouvier.tumblr.com/)
 #arte #educação
 
 > Leia também:
-> - [[O que precisamos consertar]]
-> - [[A felicidade pelo caminho]]
-> - [[Indefinido]]
+> - <a href="/o-que-precisamos-consertar">O que precisamos consertar</a>
+> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+> - <a href="/indefinido">Indefinido</a>

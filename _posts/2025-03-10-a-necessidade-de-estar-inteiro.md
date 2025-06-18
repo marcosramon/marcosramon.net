@@ -27,12 +27,12 @@ Acredito que parte desse esforço se justifica também pela necessidade que temo
 
 No final, será que é isso mesmo? Não existimos sem uma das máscaras que escolhemos (ou somos forçados) a usar? Ou será que, ao aceitar essa fragmentação, encontramos alguma forma de ser inteiros?
 
-<img src="/assets/img/arquivos/horizon.png">
+<img src="/assets/img/horizon.png">
 <small>The Mysteries Of The Horizon, de <a href="https://pt.wikipedia.org/wiki/Ren%C3%A9_Magritte">René Magritte</a></small>
 
 #rousseau #filosofia 
 
 > Leia também:
-> - [[A incompatibilidade entre a ideia e a ação]]
-> - [[A realidade e nós mesmos]]
-> - [[O que aprendi fazendo um episódio de podcast por dia durante 2016]]
+> - <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
+> - <a href="/a-realidade-e-nos-mesmos">A realidade e nós mesmos</a>
+> - <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>

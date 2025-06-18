@@ -26,6 +26,6 @@ Apollinaire, morreu no ano seguinte, 1918, vítima da gripe espanhola. Mas um jo
 <small> O balé <a href="https://en.wikipedia.org/wiki/Parade_(ballet)">"Desfile"</a></small>
 
 > Leia também:
-> - [[O destino inglório dos livros gigantes]]
-> - [[O absurdo cotidiano]]
-> - [[Abraçando o nada]]
+> - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
+> - <a href="/o-absurdo-cotidiano">O absurdo cotidiano</a>
+> - <a href="/abracando-o-nada">Abraçando o nada</a>

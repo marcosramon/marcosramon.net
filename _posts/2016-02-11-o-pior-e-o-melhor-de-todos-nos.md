@@ -26,7 +26,6 @@ _Sadness, colagem de_ [_Merve Ozaslan_](https://br.pinterest.com/merveozaslan/c
 #cotidiano #pensamentos
 
 > Leia também:
-> - [[O que contamos de nós mesmos]]
-> - [[Saia e divirta-se!]]
-> - [[O que tem de interessante em você]]
-> -
+> - <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>
+> - <a href="/saia-e-divirta-se">Saia e divirta-se!</a>
+> - <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>

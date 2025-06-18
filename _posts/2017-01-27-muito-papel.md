@@ -20,6 +20,6 @@ Mas não vai ser assim, porque as coisas sabem a hora certa de sumir e de se esc
 #pensamentos #pensamento
 
 > Leia também:
-> - [[Viver esquecendo]]
-> - [[A matéria das memórias]]
-> - [[Uma semana nas férias]]
+> - <a href="/viver-esquecendo">Viver esquecendo</a>
+> - <a href="/a-materia-das-memorias">A matéria das memórias</a>
+> - <a href="/uma-semana-nas-ferias">Uma semana nas férias</a>

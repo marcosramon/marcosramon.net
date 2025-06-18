@@ -50,6 +50,6 @@ De qualquer forma, agora eu volto com o [Ficções](http://www.marcosramon.net/f
 #arte #filosofia
 
 > Leia também:
-> - [[Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015]]
-> - [[Felicidade em dia de chuva]]
-> - [[PodcastFriday, dia 2]]
+> - <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>
+> - <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>
+> - <a href="/podcastfriday-dia-2">PodcastFriday, dia 2</a>

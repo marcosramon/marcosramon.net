@@ -21,9 +21,6 @@ Pintura de [Martin Honasan](http://martinhonasan.tumblr.com/)
 #cotidiano #comportamento
 
 > Leia também:
-> - [[O que é ter uma carreira]]
-> - [[O que ainda pode mudar]]
-> - [[O espaço entre nós]]
-> -
-> -
-> -
+> - <a href="/o-que-e-ter-uma-carreira">O que é ter uma carreira</a>
+> - <a href="/o-que-ainda-pode-mudar">O que ainda pode mudar</a>
+> - <a href="/o-espaco-entre-nos">O espaço entre nós</a>

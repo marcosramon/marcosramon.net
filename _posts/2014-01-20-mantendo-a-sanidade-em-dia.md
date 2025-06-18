@@ -43,7 +43,6 @@ Já escrevi sobre isso outras vezes e repito: eu não detesto a tecnologia, pelo
 #comportamento #internet
 
 > Leia também:
-> - [[Fazer só o que dá para fazer]]
-> - [[O que realmente importa]]
-> - [[Coisas estranhas que eu vi recentemente]]
-> -
+> - <a href="/fazer-so-o-que-da-para-fazer">Fazer só o que dá para fazer</a>
+> - <a href="/o-que-realmente-importa">O que realmente importa</a>
+> - <a href="/coisas-estranhas-que-eu-vi-recentemente">Coisas estranhas que eu vi recentemente</a>

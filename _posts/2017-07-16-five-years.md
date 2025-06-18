@@ -27,6 +27,6 @@ Imaginar que temos um propósito na vida é um jeito bom de dar significado para
 #arte #ensino
 
 > Leia também:
-> - [[O melhor lugar para você estar em 2018]]
-> - [[Todas as escolas deveriam ser escolas de arte]]
-> - [[A arte depois da arte]]
+> - <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>
+> - <a href="/todas-as-escolas-deveriam-ser-escolas-de-arte">Todas as escolas deveriam ser escolas de arte</a>
+> - <a href="/a-arte-depois-da-arte">A arte depois da arte</a>
