@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/A arte depois da arte.md",
+                "file": "_posts/2015-12-21-433.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A arte depois da arte"
+              "title": "2015-12-21-433"
             }
           }
         ],
@@ -184,8 +184,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5ac7fe560e36b7d",
+  "active": "91b269e2ba468b23",
   "lastOpenFiles": [
+    "_notes/Public/A arte depois da arte.md",
     "_posts/2014-06-16-e-so-o-tempo-que-passa.md",
     "_posts/2017-02-27-viver-o-trabalho.md",
     "_posts/2017-05-25-viver-esquecendo.md",
@@ -211,7 +212,6 @@
     "_posts/2025-03-18-um-caso-de-amor-com-o-chatgpt.md",
     "_posts/2016-06-23-tweets-sobre-a-reforma-do-ensino-medio.md",
     "_posts/2018-01-11-tudo-no-lugar-certo.md",
-    "_posts/2017-02-04-tragico.md",
     "_posts/atualizar_posts.py",
     "images/índice2.png",
     "images/índice.png",
