@@ -41,3 +41,4 @@ Quero ter [espaço] na cabeça para pensar e desejar, mas por mim mesmo, sem alg
 - [[2024-04-18-olhando-com-cuidado|Olhando com cuidado]]
 - <a href="/ler-menos">Ler menos</a>
 - <a href="/progredir-sem-medo-de-errar">Progredir, sem medo de errar</a>
+- [[A beleza trágica]]
