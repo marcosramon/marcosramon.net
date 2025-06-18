@@ -14,11 +14,9 @@ aliases:
 permalink: a-arte-depois-da-arte
 feed: show
 ---
-> [!data] <small><i>Por Marcos Ramon, em 14/09/2013</i></small>
-
 Um artista de rua chamado [DS](http://www.dsart.co.uk/profile/) foi avisado que alguém ia remover um grafite dele num lugar específico. Ele foi lá, conseguiu tirar uma foto do cara bem na hora e depois grafitou o removedor de grafites na parede. Muito bom!
 
-<img src="/arquivos/Pasted image 20250305150544.png">
+<img src="assets/img/Pasted image 20250305150544.png">
 
 A tese de que as ruas e muros precisam ser mantidos intactos é tão estranha quanto o fato da gente não poder pisar na grama.
 
@@ -32,13 +30,13 @@ A arte de rua, muitas vezes, dá para o ambiente urbano uma cara que as constru�
 
 Não desmereço a arte clássica que está nos museus, mas a arte da rua está mais próxima da maioria das pessoas e a gente não precisa pegar fila, pagar ingresso ou fazer cara de inteligente pra apreciar o que vemos nos muros. Por isso, e em nome do verdadeiro bom senso, acho que todo mundo devia fazer o mesmo que o cara com nome de videogame portátil: se você olhar alguém "limpando" um bom grafite, faça arte depois da arte.
 
-![[arquivos/Pasted image 20250305150611.png]]
+<img src="assets/img/Pasted image 20250305150611.png">
 <small><i>Pom Pom Girl</i>, intervenção de <a href="http://www.sandrine-estrade-boulet.com/sandrine_boulet/pom_pom_girl.html">Sandrine Boulet</a></small>
 
 #arte #cultura 
 
 ---
-> [!leia] Leia também:
-> - [[Blog/Leo & Pipo|Leo & Pipo]]
-> - [[Blog/Quando a arte nos define|Quando a arte nos define]]
-> - [[Blog/Não existe arte pop|Não existe arte pop]]
+> Leia também:
+> - [[2018-01-12-leo-pipo|Leo & Pipo]]
+> - [[2019-04-20-quando-a-arte-nos-define|Quando a arte nos define]]
+> - [[2014-09-22-nao-existe-arte-pop|Não existe arte pop]]

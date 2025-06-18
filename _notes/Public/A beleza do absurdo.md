@@ -9,8 +9,6 @@ aliases:
 permalink: a-beleza-do-absurdo
 feed: show
 ---
-> [!data] <small><i>Por Marcos Ramon, em 25/02/2017</i></small>
-
 O estranho é difícil de compreender e de gostar. Com nosso olhar tão direcionado para a beleza formatada da mídia e com nossa obsessão pelo entretenimento, encarar o esquisito é um exercício de constante força e insistência. Conta-se que Marcel Duchamp procurava para cada um dos seus _ready-made_ objetos isentos de interesse estético. Mas será que existe esse tipo de ausência estética? Ou, dizendo de outra forma: a beleza só se encontra naquilo que é racional e compreensível?
 
 Eu também gosto da beleza certa daquilo que é padronizado, mas o absurdo sempre me interessa, justamente porque me permite sair um pouco do lugar-comum, da obviedade das propagandas, dos filmes de Hollywood, dos textos bem escritos e previsíveis. Quer ver um exemplo do que estou falando? Então, assista ao vídeo abaixo:

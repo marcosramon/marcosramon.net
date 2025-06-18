@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-03-18-um-caso-de-amor-com-o-chatgpt.md",
+                "file": "_notes/Public/A arte depois da arte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-18-um-caso-de-amor-com-o-chatgpt"
+              "title": "A arte depois da arte"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 293.5
   },
   "right": {
     "id": "495de816121b8fe2",
@@ -186,8 +186,18 @@
   },
   "active": "91b269e2ba468b23",
   "lastOpenFiles": [
-    "ayrin (2).mp3",
+    "Blog/Leo & Pipo.md",
+    "_notes/Public/A arte depois da arte.md",
+    "Blog",
+    "_notes/Public/A beleza do absurdo.md",
+    "_notes/Public/A burocracia do cotidiano.md",
+    "_notes/Public/A beleza trágica.md",
+    "_notes/Public/Credits.md",
+    "_posts/2025-03-18-um-caso-de-amor-com-o-chatgpt.md",
+    "_posts/2017-02-09-prefiro-o-risco.md",
+    "_posts/2024-08-27-reconhecer.md",
     "pages/index.md",
+    "ayrin (2).mp3",
     "Susan Sontag.md",
     "pages/404.md",
     "pages/lists.md",
@@ -218,19 +228,9 @@
     "_posts/2020-07-02-visualizando-a-pesquisa.md",
     "_posts/2020-01-02-vestigios.md",
     "_posts/2020-09-12-valorizar-a-busca.md",
-    "_posts/2014-09-25-uma-ilusao-por-vez.md",
-    "_posts/2014-07-03-uma-cidade.md",
-    "_posts/2019-07-19-um-recomeco.md",
-    "_posts/2021-04-16-um-mapa-do-tamanho-do-mundo.md",
-    "_posts/2022-02-16-um-iogue.md",
-    "_posts/2022-07-29-treino-de-basquete-1995.md",
-    "_posts/2022-03-09-trabalho-antes-de-tudo.md",
-    "_posts/2014-06-28-tecnologia-pra-vestir---e-pra-pensar-pela-gente.md",
     "assets/img/arquivos/peanuts",
     "assets/img/arquivos/o-desapego-medium",
     "assets/img/arquivos/goodreads-(ou",
-    "assets/img/arquivos/ayrin (1).mp3",
-    "assets/img/arquivos",
-    "_posts/atualizar_posts.py"
+    "assets/img/arquivos/ayrin (1).mp3"
   ]
 }
