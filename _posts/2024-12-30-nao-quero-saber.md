@@ -33,10 +33,10 @@ Pior é que a vida que temos é tão integrada, e a informação circula tão be
 
 Quero ter [[Blog/Espaço|espaço]] na cabeça para pensar e desejar, mas por mim mesmo, sem algoritmos ou acumulação. Quero ter espaço para viver. Nesse próximo ano, te desejo o mesmo.
 
-![](arquivos/Pasted%20image%2020250224205847.png)
+<img src="assets/img/Pasted%20image%2020250224205847.png">
 *Untitled (Dada) por Hannah Höch, 1922*
 
-> Leia também:
-> - <a href="/olhando-com-cuidado">Olhando com cuidado</a>
-> - <a href="/ler-menos">Ler menos</a>
-> - <a href="/progredir-sem-medo-de-errar">Progredir, sem medo de errar</a>
+<h4>Leia também:</h4>
+- [[2024-04-18-olhando-com-cuidado|Olhando com cuidado]]
+- <a href="/ler-menos">Ler menos</a>
+- <a href="/progredir-sem-medo-de-errar">Progredir, sem medo de errar</a>
