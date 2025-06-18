@@ -1,0 +1,32 @@
+---
+title: O risco
+date: 2017-12-17 00:00:00+00:00
+author: Marcos Ramon
+description: Não escolha o caminho mais fácil.
+tags:
+- cotidiano
+- reflexão
+published: true
+permalink: o-risco
+---
+> [!data] <small><i>Por Marcos Ramon, em 17/12/2017</i></small>
+
+Se expor aos riscos da vida em sociedade exige coragem. O que exige ainda mais coragem, mas parece não envolver riscos, é a decisão de olhar mais para si, diminuindo o espaço de contato com os outros, se preservando e olhando com mais cuidado para os próprios interesses. Eu disse antes que esse tipo de atitude parece não envolver riscos. Só parece.
+
+Quando nos dispomos a viver sem o vínculo direto com os outros, acabamos por entrar em um espaço perigoso, um lugar de descobertas e instabilidades: a nossa consciência. Viver só não significa apenas estar sem ninguém por perto (mas também pode ser, claro). Viver só é, acima de tudo, desenvolver a capacidade de entender o próprio tempo como algo inseparável de nós mesmos. Na maior parte do tempo, no convívio forçoso com os outros (na escola, no trabalho, no condomínio…), esquecemos desse tempo ou, se o consideramos, é apenas de maneira superficial.
+
+Pode até parecer, mas essa não é uma reflexão contra a vida em sociedade. É, sim, uma reflexão sobre a necessidade de aceitarmos o risco de vivermos cada um consigo. Podemos viver com outras pessoas sabendo viver esse risco (acredito que a ideia de uma boa família é justamente essa: pessoas que vivem juntas mas ainda podem ser elas mesmas), assim como podemos viver cercados de muita gente e nos dedicarmos quase que exclusivamente a ser o que elas querem da gente. Não seja assim, não escolha o simples. Prefira o risco.
+
+![[arquivos/o-risco.gif]]
+<small>Gif criado por <a href="http://1041uuu.tumblr.com/">Toyoi Yuuta</a>.</small>
+
+
+
+---
+> [!leia] Leia também:
+> - [[O risco]]
+> - [[O que é ser criativo]]
+> - [[Viver o trabalho]]
+> -
+> -
+> -
