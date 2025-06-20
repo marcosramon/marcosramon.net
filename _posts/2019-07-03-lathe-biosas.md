@@ -27,11 +27,10 @@ Epicuro, o filósofo helenista que mais admiro (ainda que eu me considere um tan
 
 [^1]: Sim, há o caso de Diógenes, o cão, aquele filósofo que era conhecido como um Sócrates louco e que pregava que deveríamos buscar a vida natural no seu limite. Essa doutrina, conhecida em sua época como *cinismo*, não representa o todo da filosofia helenística, e certamente destoa do essencial no pensamento de Epicuro.
 
-<img src="/assets/img/A02DB45A-5A04-4A47-AB8B-48B5C12D3F0F.png">
+<img src="/assets/img/A02DB45A-5A04-4A47-AB8B-48B5C12D3F0F.png"><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
 - <a href="/saudades">Saudades</a>
 - <a href="/como-ser-feliz">Como ser feliz</a>
+</div>

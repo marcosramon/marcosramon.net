@@ -33,11 +33,10 @@ Voltando pra casa pesquisei no site da Amazon se existia alguma tradução das *
 
 O desapego tem seus mistérios. E um deles, parece, é conspirar pra gente fazer o que é melhor pra gente e pros outros.
 
-<img src="/assets/img/books.jpg">
+<img src="/assets/img/books.jpg"><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/o-desapego">O desapego</a>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
 - <a href="/de-onde-vem-o-conhecimento">De onde vem o conhecimento</a>
+</div>

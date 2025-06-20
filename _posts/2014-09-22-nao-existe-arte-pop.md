@@ -43,9 +43,10 @@ A chamada _arte pop_ é arte, boa arte. Esqueça esse _pop_.
 [^3]: No site do _MoMA_ tem uma boa [retrospectiva da *pop art*](http://www.moma.org/collection/details.php?theme_id=10170).
 
 
-#arte #consumo
+#arte #consumo<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/espetaculo">Espetáculo</a>
 - <a href="/a-arte-depois-da-arte">A arte depois da arte</a>
 - <a href="/que-cultura">Que cultura</a>
+</div>

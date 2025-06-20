@@ -106,10 +106,10 @@ Se, por um lado, é verdade que ainda são necessárias mais pesquisas, fica evi
 <small>Adobe Stock</small>
 
 #inteligência-artificial #tecnologia 
+<div class="leia-tambem" markdown="1">
+## Leia também:
 
----
-
-<h3>Leia também:</h3>
 - <a href="/estamos-perdidos">Estamos perdidos</a>
 - <a href="/olhando-com-cuidado">Olhando com cuidado</a>
 - <a href="/reconhecer">Reconhecer</a>
+</div>

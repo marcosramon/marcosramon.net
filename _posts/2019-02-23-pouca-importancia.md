@@ -17,12 +17,10 @@ Mas, depois de alguma reflexão, acaba ficando mais fácil acreditar no que faz 
 Pode parecer desestimulante falar sobre a pouca importância de cada um de nós, mas eu penso o contrário. É libertador poder ser você mesmo, alguém que luta pelo que quer e acredita, sem uma legião de gente interessada em cada passo seu. Viver é mais simples do que parece.
 
 <img src="/assets/img/cyril-rolando-digital-illustrations-10.jpg">
-<small>Ilustração de <a href="https://www.behance.net/aquasixio">Cyril Rolando</a></small>
+<small>Ilustração de <a href="https://www.behance.net/aquasixio">Cyril Rolando</a></small><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-
-<h3>Leia também:</h3>
 - <a href="/a-realidade-se-impoe">A realidade se impõe</a>
 - <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>
 - <a href="/o-que-todo-mundo-e">O que todo mundo é</a>
+</div>

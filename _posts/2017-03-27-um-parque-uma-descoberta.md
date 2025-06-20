@@ -21,9 +21,10 @@ Voltei pra festa. A minha mãe perguntou onde eu estava e eu disse que tinha fic
 Colagem de [David Delruelle](http://weandthecolor.com/collages-david-delruelle/64744)
 
 
-#pensamentos #arte
+#pensamentos #arte<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/escrever-um-diario">Escrever um diário</a>
 - <a href="/sem-esperar-nenhuma-resposta">Sem esperar nenhuma resposta</a>
 - <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>
+</div>

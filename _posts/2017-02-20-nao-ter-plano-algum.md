@@ -20,9 +20,10 @@ Só vivemos uma vida (às vezes quero acreditar em algo diferente, mas nem sempr
 Pintura de [Martin Wehmer](http://www.missmoss.co.za/2015/06/17/martin-wehmer/)
 
 
-#arte #filosofia
+#arte #filosofia<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>
 - <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
 - <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>
+</div>

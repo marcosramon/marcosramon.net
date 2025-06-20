@@ -24,9 +24,10 @@ Ler não é uma atividade passiva como se pode imaginar, pois exige disposição
 Ilustração do Sketchbook de [Chris Riddell](http://chrisriddellblog.tumblr.com/post/152763279574/love-to-read)
 
 
-#pensamentos #conhecimento
+#pensamentos #conhecimento<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>
 - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
 - <a href="/formacao-e-trajetoria">Formação e trajetória</a>
+</div>

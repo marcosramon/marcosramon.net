@@ -26,9 +26,10 @@ Hoje estamos em um mundo diferente. Se os blogs e o Twitter se assemelham um pou
 Diários não são mais um fetiche para a maior parte das pessoas. Quando temos tanto acesso a informações sobre a vida alheia (com depoimentos, vídeos e imagens), um texto talvez seja o que resguarde menos proximidade com a verdade. Isso não significa que ninguém mais queira escrever um diário. O meu filho, de 7 anos, está escrevendo um, mas a inspiração dele é bem específica: [O Diário de um Zumbi do Minecraft](http://amzn.to/2oB8N0o). É um diário que ele escreve para ver publicado. Era esse também o caso de Sedaris? Parece que sim. E isso não diminui a beleza e o encanto de suas reflexões e comentários. A banalidade da vida está aí para todos nós. Saber olhar para ela e dar atenção aos seus detalhes é uma oportunidade que não deveríamos desperdiçar. Faça o seguinte: sem pensar muito, comece um diário.
 
 
-#arte #cultura
+#arte #cultura<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/todos-iguais">Todos iguais</a>
 - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
 - <a href="/viver-o-trabalho">Viver o trabalho</a>
+</div>

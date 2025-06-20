@@ -15,11 +15,10 @@ Nos sentimos mais à vontade quando sabemos exatamente o que quer a pessoa que n
 
 E o que ganhamos com isso? Um mundo com menos pessoas altruístas - porque ser altruísta é estranho e isso parece dissimulação - e com menos gente interessada em fazer qualquer coisa que não se transforme em benefício próprio.
 
-Assim a gente vive mais tranquilo.
+Assim a gente vive mais tranquilo.<div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
 - <a href="/quem-ainda-le-poesia-hoje-em-dia">Quem ainda lê poesia hoje em dia</a>
 - <a href="/o-que-estamos-buscando">O que estamos buscando</a>
+</div>

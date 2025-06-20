@@ -19,12 +19,10 @@ Costumamos associar as pesquisas sobre os fatos ocorridos como verdades evidente
 Hoje, como nossos dados certamente sobreviverão a nós por mais tempo do que provavelmente gostaríamos, até mesmo esse gosto pela invenção se perde. Aristóteles escreveu que a poesia é mais filosófica do que a história. Só não considerou que a poesia pode estar em tudo, até mesmo naqueles textos que vivem da presunção de que é possível alcançar a verdade total.
 
 <img src="/assets/img/vangogh.jpg">
-<small>Autorretrato com a Orelha Enfaixada (1889), de <a href="https://g.co/kgs/71bupg">Van Gogh</a></small>
+<small>Autorretrato com a Orelha Enfaixada (1889), de <a href="https://g.co/kgs/71bupg">Van Gogh</a></small><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-
-<h3>Leia também:</h3>
 - <a href="/a-hora-e-a-vez-do-podcast">A hora e a vez do podcast</a>
 - <a href="/qualquer-historia">Qualquer história</a>
 - <a href="/a-memoria-a-historia">A memória, a história</a>
+</div>

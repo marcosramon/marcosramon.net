@@ -25,9 +25,10 @@ Um desejo: não ser alguém que estraga o dia alheio. Porque isso, por si só, j
 _Sadness, colagem de_ [_Merve Ozaslan_](https://br.pinterest.com/merveozaslan/collge/)
 
 
-#cotidiano #pensamentos
+#cotidiano #pensamentos<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>
 - <a href="/saia-e-divirta-se">Saia e divirta-se!</a>
 - <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
+</div>

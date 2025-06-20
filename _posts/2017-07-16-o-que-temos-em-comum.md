@@ -20,9 +20,10 @@ Mas eu vejo beleza nessas contradições. Apesar de todas as diferenças sociais
 Ilustração de [James Lipnickas](https://www.instagram.com/jameslipnickasart/)
 
 
-#pensamentos #leitura
+#pensamentos #leitura<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>
 - <a href="/o-tempo-que-dedicamos-aos-livros">O tempo que dedicamos aos livros</a>
 - <a href="/o-medo-que-nos-move">O medo que nos move</a>
+</div>

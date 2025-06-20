@@ -22,11 +22,10 @@ Por outro lado, agora não estou mais ansioso/angustiado/preocupado e isso é mu
 ![](http://40.media.tumblr.com/tumblr_m0s0mhjZ8W1rnqg7ho1_1280.jpg)
 *Pintura de [Marcel Ceuppens](http://web.mac.com/marcel.ceuppens/Marcel_Ceuppens/paintings.html#grid)*
 
-[^1]: No meu caso, eu poderia me atrasar ou algum membro da banca poderia ter um problema de última hora e não ir, levando à remarcação da defesa, por exemplo.
+[^1]: No meu caso, eu poderia me atrasar ou algum membro da banca poderia ter um problema de última hora e não ir, levando à remarcação da defesa, por exemplo.<div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>
 - <a href="/tudo-no-lugar-certo">Tudo no lugar certo</a>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+</div>

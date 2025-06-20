@@ -25,11 +25,10 @@ Na maior parte do tempo, em relação ao meu trabalho, o que sinto é um desgost
 Mas sim, existem coisas boas na docência; e eu respeito e valorizo o meu trabalho. Por isso, vou continuar fazendo o que eu faço da melhor forma possível, entregando o melhor que eu puder. Mas as coisas piores impactam mais. O pessimismo, escreveu Schopenhauer, protege a gente contra a inocente crença de que existe felicidade plena, de que as coisas podem ser absolutamente boas. E é só isso que ainda me faz olhar pra sala de aula com alguma esperança. Não tem nenhuma aula realmente perfeita, então as minhas também não são tão ruins assim. Mesmo eu falando pra ninguém. Mesmo as pessoas olhando através de mim.
 
 <img src="/assets/img/classroom.png">
-<small>Pixel art, por <a href="https://scrixels.tumblr.com/post/189683594708/864-classroom">scribbles pixels</a></small>
+<small>Pixel art, por <a href="https://scrixels.tumblr.com/post/189683594708/864-classroom">scribbles pixels</a></small><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/alerta-de-spoiler">Alerta de spoiler</a>
 - <a href="/alerta-de-spoilers">Alerta de spoilers</a>
 - <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>
+</div>

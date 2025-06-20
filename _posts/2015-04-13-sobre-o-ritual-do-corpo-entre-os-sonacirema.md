@@ -26,9 +26,10 @@ Outro aspecto que é explorado é a ideia de que em algumas culturas existem aç
 A crença de que as coisas são como são e que simplesmente devemos aceitar a inevitabilidade de nossas crenças é, de certa maneira, contrária à razoabilidade com que acreditamos tratar a nossa própria existência e nossas decisões sobre como nos relacionamos com os nossos corpos. No entanto, a ironia do texto está justamente em mostrar como somos mais contraditórios, incoerentes e ingênuos do que imaginamos.
 
 
-#pesquisa #leitura
+#pesquisa #leitura<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
 - <a href="/o-tempo-que-dedicamos-aos-livros">O tempo que dedicamos aos livros</a>
 - <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>
+</div>

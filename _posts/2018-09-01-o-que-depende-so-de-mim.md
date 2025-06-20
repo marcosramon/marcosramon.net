@@ -16,12 +16,10 @@ E eu não quero muito — mas a gente sempre acha que nosso querer é pequen
 Ninguém escapa da tentação de acreditar no destino e esperar por uma reviravolta que resolva tudo o que a gente quer de forma mágica. Mas o destino não existe e a solução fantástica não vai acontecer. O jeito, então, é lutar contra o sonho para se acostumar a viver, só viver.
 
 <img src="/assets/img/yan.gif">
-<small>Ilustração de <a href="https://www.yandanwong.com/">Yan</a></small>
+<small>Ilustração de <a href="https://www.yandanwong.com/">Yan</a></small><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-
-<h3>Leia também:</h3>
 - <a href="/e-so-o-tempo-que-passa">É só o tempo que passa</a>
 - <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>
 - <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
+</div>

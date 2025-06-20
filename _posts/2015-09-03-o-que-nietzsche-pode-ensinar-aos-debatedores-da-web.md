@@ -24,11 +24,10 @@ Na sua autobiografia, *[Ecce Homo](http://www.skoob.com.br/ecce-homo-1736ed2355.
 
 Para Nietzsche, atacar as ideias de alguém era uma forma de benevolência, uma distinção, um sinal de honra e respeito pelo outro. Nietzsche não atacou Richard Wagner, por exemplo, por odiá-lo, mas porque enxergava em Wagner um modelo de cultura que precisava ser discutido e repensado. Esse ataque era, então, um sinal de reconhecimento pela sua influência, ao mesmo tempo em que era um esforço de legar para a humanidade o presente de um futuro diferente e melhor.
 
-Os blogueiros e podcasters das tretas atuais poderiam pelo menos ter esse sentido da batalha: não se luta apenas para destruir, mas sim para alcançar algo que acreditamos. Mas destruir por destruir é certamente mais divertido - e irresponsável - do que se esforçar para produzir pesquisa, conhecimento e ideias novas.
+Os blogueiros e podcasters das tretas atuais poderiam pelo menos ter esse sentido da batalha: não se luta apenas para destruir, mas sim para alcançar algo que acreditamos. Mas destruir por destruir é certamente mais divertido - e irresponsável - do que se esforçar para produzir pesquisa, conhecimento e ideias novas.<div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/o-que-ainda-pode-mudar">O que ainda pode mudar</a>
 - <a href="/o-tempo-que-dedicamos-aos-livros">O tempo que dedicamos aos livros</a>
 - <a href="/ficcoes-01-o-que-nao-se-pode-falar">Ficções #01   o que não se pode falar</a>
+</div>

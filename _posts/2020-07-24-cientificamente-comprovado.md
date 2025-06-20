@@ -53,9 +53,10 @@ Para explicar o que a ciência é Weber estabelece uma relação entre a arte e 
 
 <mark>Esse texto foi escrito originalmente como roteiro para um episódio do podcast Ficções, publicado em 2015</mark>
 
-#Ciência #conhecimento 
+#Ciência #conhecimento<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/para-entender-o-nosso-tempo">Para entender o nosso tempo</a>
 - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
 - <a href="/conhecimento-rapido">Conhecimento rápido</a>
+</div>

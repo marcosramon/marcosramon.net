@@ -17,9 +17,10 @@ A memória, os sonhos, o diabo, o revólver, a sexualidade reprimida. Esses são
 
 <img src="/assets/img/abraçando-o nada-medium.jpg">
 
-#literatura #Livros 
+#literatura #Livros<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
 - <a href="/o-meio-termo">O meio-termo</a>
 - <a href="/e-so-o-tempo-que-passa">É só o tempo que passa</a>
+</div>

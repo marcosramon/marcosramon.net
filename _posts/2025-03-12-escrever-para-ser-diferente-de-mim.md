@@ -29,9 +29,10 @@ Escrever é uma armadilha, porque vicia. Mas é um vício que me aumenta, me tra
 <img src="/assets/img/writing-bacon.png">
 <small>Figure writing reflected in a Mirror, por Fancis Bacon</small>
 
-#escrita #conhecimento
+#escrita #conhecimento<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/escrever-um-diario">Escrever um diário</a>
 - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
 - <a href="/o-tempo-da-escrita">O tempo da escrita</a>
+</div>

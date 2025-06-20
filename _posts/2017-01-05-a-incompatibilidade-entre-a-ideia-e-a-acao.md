@@ -25,9 +25,10 @@ Se eu tivesse que fazer uma aposta, apostaria que ninguém é realmente coerente
 Gráfico que representa o pessimismo, criado pelo [Studio Carreras](http://studiocarreras.com/) para a série [Philographics](http://studiocarreras.com/philographics/).
 
 
-#arte #filosofia
+#arte #filosofia<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
 - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
 - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+</div>

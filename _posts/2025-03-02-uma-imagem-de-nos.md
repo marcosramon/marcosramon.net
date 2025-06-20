@@ -26,9 +26,10 @@ Sobre Kant, contam que um dia uma pessoa o convidou para um passeio que demorou 
 
 
 [^1]: Ideal não sentido de ser *perfeito*, mas no sentido de ser uma representação de determinadas características que desejamos 
-[^2]: WEISCHEDEL, Wilhelm. *A escada dos fundos da Filosofia*. São Paulo: Editora Angra, 2006.
+[^2]: WEISCHEDEL, Wilhelm. *A escada dos fundos da Filosofia*. São Paulo: Editora Angra, 2006.<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/mais-de-nos-mesmos">Mais de nós mesmos</a>
 - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
 - <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>
+</div>

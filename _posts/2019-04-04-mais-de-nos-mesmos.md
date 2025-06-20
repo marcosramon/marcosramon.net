@@ -17,11 +17,10 @@ Mas a vida é desigual (mais uma vez, como não poderia deixar de ser) e enquant
 O desafio, no que se refere a esse tema, é aprender a insistir. Quem desiste e entrega os pontos desde o início afunda no desgosto e acha, com toda a convicção que a gente sabe ter nos momentos de angústia, que a vida não vale a pena. Mas a vida vale muito, e sempre haverá mais para buscar do que a simples obrigação de viver. Só que é preciso lutar por esse direito. E é isso que eu tento fazer, todos os dias.
 
 <img src="/assets/img/James-Lipnickas-08.jpg">
-<small>Desenho de <a href="http://jameslipnickas.com/index.html">James Lipnickas</a>.</small>
+<small>Desenho de <a href="http://jameslipnickas.com/index.html">James Lipnickas</a>.</small><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>
 - <a href="/trabalho-antes-de-tudo">Trabalho, antes de tudo</a>
 - <a href="/como-ser-feliz">Como ser feliz</a>
+</div>

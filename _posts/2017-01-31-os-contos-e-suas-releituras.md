@@ -20,9 +20,10 @@ Mais do que ler, considero importante reler. Mas voltar a um romance, principalm
 Instalação de [Airan Kang](http://www.artnet.com/artists/airan-kang/). Foto de [Jon Dascola](https://www.flickr.com/photos/27102723@N03/4818389489/sizes/l/in/photostream/).
 
 
-#pensamentos #estética
+#pensamentos #estética<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-mais-distante">O mais distante</a>
 - <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>
 - <a href="/mais-individualismo">Mais individualismo</a>
+</div>

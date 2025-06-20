@@ -19,11 +19,10 @@ Se sentir só é terrível. Mas todo mundo precisa passar por isso, para entende
 
 
 #cotidiano #reflexão
+<div class="leia-tambem" markdown="1">
+## Leia também:
 
----
-
-
-<h3>Leia também:</h3>
 - <a href="/a-experiencia-negativa">A experiência negativa</a>
 - <a href="/a-maior-derrota-que-se-pode-ter">A maior derrota que se pode ter</a>
 - <a href="/saber-a-felicidade">Saber a felicidade</a>
+</div>

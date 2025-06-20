@@ -29,11 +29,10 @@ Agora o que eu não quero - realmente não mesmo - é me tornar alguém obcecado
 E olha que coisa louca. Essa foto ganhou o prêmio da [NPPA](https://nppa.org/) (National Press Photographers Association) de melhor foto na categoria "esporte". Mas, veja se concorda comigo, essa foto não é sobre esporte! Ela é sobre toda a loucura de estarmos fazendo coisas apenas para mostrar para outras pessoas. E mostrar de um jeito tosco, ainda por cima.
 
 ![](https://instagram.com/p/ttb-jyDa_G/)
-Quer saber, não concordo com aquela ideia de que menos sempre é mais. Na maioria das vezes, menos é menos mesmo. Mas tem hora que é melhor ser menos, por que não?
+Quer saber, não concordo com aquela ideia de que menos sempre é mais. Na maioria das vezes, menos é menos mesmo. Mas tem hora que é melhor ser menos, por que não?<div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
 - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
 - <a href="/o-que-todo-mundo-e">O que todo mundo é</a>
+</div>

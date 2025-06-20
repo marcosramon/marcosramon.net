@@ -16,11 +16,10 @@ Montaigne escreveu, no capítulo XX dos seus [Ensaios](https://amzn.to/2Nj2aJO),
 
 Todo mundo já sentiu um pouco disso a que Montaigne se refere, lendo um livro ou assistindo a um filme muito impactante. Mas, mais do que isso, talvez a faculdade de imaginar influencie mesmo ações práticas das nossas vidas. E quando acreditamos que uma determinada coisa é *realmente* assim, é bem possível que seja apenas imaginação.
 
-Em outro contexto, li uma vez (em um [livro do Alberto Manguel](https://amzn.to/2NgZNqI)) que o grafite preferido de Julio Cortázar, daqueles que ficaram famosos na jornada de Maio de 1968 na França, era um que dizia: “a imaginação no poder”. Talvez seja sempre assim, mesmo quando não queremos. Imaginamos mais do raciocinamos. Só não queremos acreditar.
+Em outro contexto, li uma vez (em um [livro do Alberto Manguel](https://amzn.to/2NgZNqI)) que o grafite preferido de Julio Cortázar, daqueles que ficaram famosos na jornada de Maio de 1968 na França, era um que dizia: “a imaginação no poder”. Talvez seja sempre assim, mesmo quando não queremos. Imaginamos mais do raciocinamos. Só não queremos acreditar.<div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/a-hora-e-a-vez-do-podcast">A hora e a vez do podcast</a>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
 - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
+</div>

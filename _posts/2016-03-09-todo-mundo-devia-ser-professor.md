@@ -30,13 +30,10 @@ Todo mundo devia ser professor.
 <small>Pintura de <a href="https://www.behance.net/Oskadesign">Oska</a></small>
 
 #ensino #educação 
+<div class="leia-tambem" markdown="1">
+## Leia também:
 
----
-
-
-
-
-<h3>Leia também:</h3>
 - <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>
 - <a href="/alguem-sabe-o-que-esta-fazendo">Alguém sabe o que está fazendo</a>
 - <a href="/ensinar-e-dificil">Ensinar é difícil</a>
+</div>

@@ -22,11 +22,10 @@ Eu considero os grafos uma forma bem única de visualizar discursos. Aqui não t
 
 <img src="/assets/img/gp2.png">
 
-As diferentes cores representam áreas de proximidade temática. E quanto maior o nó, maior sua influência e pertinência na discussão. A proximidade entre os termos também é relevante aqui. Eu utilizo um programa chamado [Infranodus](https://infranodus.com/) para gerar os grafos, mas é possível melhorar o layout e organizar melhor as relações com o [Gephi](https://gephi.org/).
+As diferentes cores representam áreas de proximidade temática. E quanto maior o nó, maior sua influência e pertinência na discussão. A proximidade entre os termos também é relevante aqui. Eu utilizo um programa chamado [Infranodus](https://infranodus.com/) para gerar os grafos, mas é possível melhorar o layout e organizar melhor as relações com o [Gephi](https://gephi.org/).<div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/visualizando-a-hashtag-diadopodcast">Visualizando a hashtag #diadopodcast</a>
 - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
 - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+</div>

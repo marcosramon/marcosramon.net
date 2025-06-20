@@ -39,9 +39,10 @@ Já no [grafo](https://pt.wikipedia.org/wiki/Teoria_dos_grafos) a seguir é poss
 [Clique aqui para ver a imagem em alta resolução](https://drive.google.com/open?id=0B_NS1VYqt3XBLXExMUdXZjNYS3c)
 
 
-#educação #Grafos
+#educação #Grafos<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>
 - <a href="/um-sonho-de-sempre">Um sonho de sempre</a>
 - <a href="/visualizando-a-hashtag-diadopodcast">Visualizando a hashtag diadopodcast</a>
+</div>

@@ -29,11 +29,10 @@ Outro aspecto importante é a relação entre Mito e Filosofia. Por vezes temos 
 Em outro texto vou destacar o valor do mito e sua importância em culturas distintas. A ideia é percebermos os pontos de diálogo e conflito entre Mito e Filosofia, para assim conseguirmos entender melhor o que a Filosofia é.
 
 <img src="/assets/img/partenon.jpg">
-<small><a href="http://pt.wikipedia.org/wiki/Partenon">Partenon</a>, um símbolo da democracia grega</small>
+<small><a href="http://pt.wikipedia.org/wiki/Partenon">Partenon</a>, um símbolo da democracia grega</small><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
 - <a href="/a-arte-depois-da-arte">A arte depois da arte</a>
 - <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>
+</div>

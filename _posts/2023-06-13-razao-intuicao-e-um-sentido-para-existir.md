@@ -33,9 +33,10 @@ Se você adotar a postura pessimista de Schopenhauer, vai concluir que as respos
 
 Se você me perguntar, vou dizer que sempre pensei mais ou menos como Schopenhauer, mas que quero acreditar na segunda opção; quero pensar que a razão não é uma outra forma de prisão, disfarçada de conhecimento, mas sim uma forma de ver e entender a realidade com uma postura crítica que pode nos ajudar a viver melhor. Não seria bom se fosse mesmo assim?
 
-#filosofia #reflexão
+#filosofia #reflexão<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
 - <a href="/trabalho-antes-de-tudo">Trabalho, antes de tudo</a>
 - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+</div>

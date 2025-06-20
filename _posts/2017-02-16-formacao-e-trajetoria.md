@@ -20,9 +20,10 @@ Toda trajetória pede um movimento constante, e é isso que a busca pelo conheci
 Ilustração de [Siggi Eggertsson](http://www.siggieggertsson.com/)
 
 
-#educação #conhecimento
+#educação #conhecimento<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>
 - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
 - <a href="/viver-em-sociedade">Viver em sociedade</a>
+</div>

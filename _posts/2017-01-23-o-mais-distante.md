@@ -20,9 +20,10 @@ De uma forma ou de outra, o autor de [_História e Utopia_](http://amzn.to/2iXzz
 Instalação de rua de [Slinkachu](http://www.slinkachu.com/)
 
 
-#pensamentos #estética
+#pensamentos #estética<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/mais-individualismo">Mais individualismo</a>
 - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
 - <a href="/os-contos-e-suas-releituras">Os contos e suas releituras</a>
+</div>

@@ -32,9 +32,10 @@ No final, será que é isso mesmo? Não existimos sem uma das máscaras que esco
 <img src="/assets/img/horizon.png">
 <small>The Mysteries Of The Horizon, de <a href="https://pt.wikipedia.org/wiki/Ren%C3%A9_Magritte">René Magritte</a></small>
 
-#rousseau #filosofia 
+#rousseau #filosofia<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
 - <a href="/a-realidade-e-nos-mesmos">A realidade e nós mesmos</a>
 - <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>
+</div>

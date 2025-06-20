@@ -30,9 +30,10 @@ Lendo Calvin você certamente já se deparou com uma ou outra tirinha que trata 
 Pois é, é isso. Agora vou parar isso aqui e ler mais umas tirinhas...
 
 
-#arte #quadrinhos
+#arte #quadrinhos<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/eu-sei">Eu sei</a>
 - <a href="/a-arte-depois-da-arte">A arte depois da arte</a>
 - <a href="/as-primeiras-horas-da-manha">As primeiras horas da manhã</a>
+</div>

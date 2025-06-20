@@ -27,9 +27,10 @@ A filosofia, da forma como eu a vejo, ajuda o estudante que não quer ser profis
 
 Platão, Descartes e Schopenhauer escreveram sobre temas que interessam a todos nós; e, tiveram, a despeito da nossa falta de imaginação, vidas normais, pontuadas por eventos cotidianos, assim como qualquer outro ser humano. Não eram deuses desvendando segredos (ainda que tenham deixado essa impressão). Demonstrar a humanidade deles e de suas ideias e conectar isso com a humanidade das pessoas em sala de aula, essa é a minha tarefa como professor de filosofia. É mais sobre empatia e conexão humana, e menos sobre técnica de leitura ou identificação de conceitos. E por isso [ser professor é tão desafiador](https://marcosramon.net/o-desafio-de-ensinar).
 
-#ensino #educação #filosofia
+#ensino #educação #filosofia<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>
 - <a href="/todo-mundo-devia-ser-professor">Todo mundo devia ser professor</a>
 - <a href="/o-cotidiano-da-sala-de-aula">O cotidiano da sala de aula</a>
+</div>

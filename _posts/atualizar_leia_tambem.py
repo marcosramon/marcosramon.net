@@ -34,9 +34,10 @@ def processar_arquivo(caminho_arquivo):
         # O grupo 1 contém a lista de links que queremos preservar.
         lista_de_links = match.group(1).strip()
         
-        # Cria o novo bloco com a formatação desejada.
+        # *** A CORREÇÃO ESTÁ AQUI ***
+        # Adicionado '\n\n' no início para garantir a separação da linha anterior.
         bloco_novo = (
-            f'<div class="leia-tambem" markdown="1">\n'
+            f'\n\n<div class="leia-tambem" markdown="1">\n'
             f'## Leia também:\n\n'
             f'{lista_de_links}\n'
             f'</div>'
@@ -52,7 +53,6 @@ def processar_arquivo(caminho_arquivo):
                 f.write(conteudo_novo)
             print("  -> Seção 'Leia também' atualizada com sucesso!")
         else:
-            # Isso não deve acontecer se o match for encontrado, mas é uma segurança extra.
             print("  -> Nenhuma alteração foi necessária.")
 
     except Exception as e:
@@ -78,7 +78,6 @@ def main():
     total_arquivos = len(arquivos_markdown)
     print(f"Encontrados {total_arquivos} arquivos para verificar.\n")
 
-    arquivos_modificados = 0
     for i, nome_arquivo in enumerate(arquivos_markdown):
         caminho_completo = os.path.join(PASTA_POSTS, nome_arquivo)
         processar_arquivo(caminho_completo)

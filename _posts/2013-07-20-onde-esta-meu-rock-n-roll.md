@@ -24,9 +24,10 @@ Eu não sou um _xiita_ do rock, como você deve estar pensando. Gosto de muita c
 Alguém me diz aí: **_Onde é que está meu rock n' roll?_**
 
 
-#música #arte
+#música #arte<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-importancia-do-contexto">A importância do contexto</a>
 - <a href="/quando-a-arte-nos-define">Quando a arte nos define</a>
 - <a href="/valorizar-a-busca">Valorizar a busca</a>
+</div>

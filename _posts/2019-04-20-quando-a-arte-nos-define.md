@@ -32,11 +32,10 @@ Entrei no jogo e tentei me definir com três discos, sem muito critério, é ver
 
 É curioso como, lembrando os discos, livros e filmes que já passaram pela sua vida, você relembra também um pouco das coisas que você quis, sonhou e realizou. A arte é uma outra forma de ler a vida. Sem a arte (Nietzsche escreveu "sem a música", mas podemos ampliar a ideia sem problema) a vida seria mesmo um erro.
 
-#arte #música 
+#arte #música<div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/valorizar-a-busca">Valorizar a busca</a>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
 - <a href="/a-importancia-do-contexto">A importância do contexto</a>
+</div>

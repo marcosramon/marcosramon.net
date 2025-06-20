@@ -23,9 +23,10 @@ No entanto, tem uma coisa que eu acredito que sei: eu sei que o “tudo” que e
 Gif criado por [Virginia Mori](http://virginiamori.tumblr.com/post/144547488353/virginia-mori-2016-gif)
 
 
-#filosofia #cotidiano
+#filosofia #cotidiano<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-que-e-ter-uma-carreira">O que é ter uma carreira</a>
 - <a href="/o-que-ainda-pode-mudar">O que ainda pode mudar</a>
 - <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
+</div>

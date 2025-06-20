@@ -19,9 +19,10 @@ De acordo com isso, fica fácil entender a pedagogia de Rousseau como um esforç
 Colagem criada por [Beth Hoeckel](http://bethhoeckel.com/)
 
 
-#filosofia #Ética
+#filosofia #Ética<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-necessidade-de-estar-inteiro">A necessidade de estar inteiro</a>
 - <a href="/podcastrousseau-e-a-contradicao-entre-as-ideias-e-todo-o-resto">Rousseau e a contradição entre as ideias e todo o resto</a>
 - <a href="/saber-a-felicidade">Saber a felicidade</a>
+</div>

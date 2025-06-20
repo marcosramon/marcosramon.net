@@ -31,9 +31,10 @@ No final do texto, Borges lembra que as gerações seguintes, naquele Império, 
 <img src="/assets/img/Gillam2.jpg">
 <small>Ilustração de Frederik Gillam</small>
 
-#Ciência #conhecimento
+#Ciência #conhecimento<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
 - <a href="/um-gosto-do-passado">Um gosto do passado</a>
 - <a href="/um-mundo-so-meu">Um mundo só meu</a>
+</div>

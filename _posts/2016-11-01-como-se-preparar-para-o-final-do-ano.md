@@ -18,9 +18,10 @@ O final do ano vai chegando e eu, sendo professor, vejo os estudantes (principal
 <img src="/assets/img/como-se-preparar-para-o-final-do ano-medium.png">
 
 
-#ensino #Aula
+#ensino #Aula<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/como-se-importar-muito-com-o-que-nao-importa">Como se importar muito com o que não importa</a>
 - <a href="/alguem-sabe-o-que-esta-fazendo">Alguém sabe o que está fazendo</a>
 - <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>
+</div>

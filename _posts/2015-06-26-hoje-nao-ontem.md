@@ -14,11 +14,10 @@ Deve existir quem consiga viver o presente e só o presente todo dia, mas eu nã
 
 É como se viver um dia novo fosse sempre dar um primeiro passo, mas com a sensação de que você está apenas continuando algo inacabado, algo que você não acredita que vai ou deve terminar.
 
-Um pensamento que me ocorreu agora: o passado e o presente são simultâneos, faces iguais de uma moeda de mentira. Só o futuro não existe e nem existirá.
+Um pensamento que me ocorreu agora: o passado e o presente são simultâneos, faces iguais de uma moeda de mentira. Só o futuro não existe e nem existirá.<div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/como-se-importar-muito-com-o-que-nao-importa">Como se importar muito com o que não importa</a>
 - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
 - <a href="/eles-sabem-o-que-eu-nao-sei">Eles sabem o que eu não sei</a>
+</div>

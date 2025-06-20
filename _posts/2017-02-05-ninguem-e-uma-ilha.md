@@ -21,9 +21,10 @@ O melhor talvez seja aceitar essa condição e compreender que a comunicação, 
 Poesia de [Erica Baum](https://en.wikipedia.org/wiki/Erica_Baum)
 
 
-#arte #cultura
+#arte #cultura<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/todos-iguais">Todos iguais</a>
 - <a href="/necessidades-basicas">Necessidades básicas</a>
 - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
+</div>

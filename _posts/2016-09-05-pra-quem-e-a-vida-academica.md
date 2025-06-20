@@ -35,9 +35,10 @@ Nem todo mundo precisa ter apreço pela leitura, pela investigação e pela refl
 ![](https://cdn-images-1.medium.com/max/1000/1*ZpCIAVXbp-ym432PkPZfcQ.png)
 
 
-#ensino #pesquisa
+#ensino #pesquisa<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-vida-e-uma-espera">A vida é uma espera</a>
 - <a href="/ensinar-e-dificil">Ensinar é difícil</a>
 - <a href="/o-nivel-de-confianca-desse-texto-e-de-95">O nível de confiança desse texto é de 95%</a>
+</div>

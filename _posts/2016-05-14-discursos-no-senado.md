@@ -33,9 +33,10 @@ Infelizmente não encontrei uma transcrição com os discursos completos dos sen
 <img src="/assets/img/discursos-no senado-medium-3.png">
 
 
-#reflexão #pensamento
+#reflexão #pensamento<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-experiencia-negativa">A experiência negativa</a>
 - <a href="/o-que-realmente-importa">O que realmente importa</a>
 - <a href="/as-primeiras-horas-da-manha">As primeiras horas da manhã</a>
+</div>

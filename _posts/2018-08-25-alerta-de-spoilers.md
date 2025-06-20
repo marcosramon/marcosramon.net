@@ -18,11 +18,10 @@ Foi assim, aliás, que ele me deu um *spoiler* de *[It, a Coisa](http://amzn.to/
 
 Se você já leu o *It*, não vai querer ler ou não liga pra *spoilers*, então dê uma olhada no quadrinho. Caso contrário, fuja o quanto antes.
 
-<img src="/assets/img/alerta.png">
+<img src="/assets/img/alerta.png"><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/alerta-de-spoiler">Alerta de spoiler</a>
 - <a href="/trabalho-antes-de-tudo">Trabalho, antes de tudo</a>
 - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
+</div>

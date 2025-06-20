@@ -14,11 +14,10 @@ Esse tempo que estou morando em Brasília me faz perceber agora  essas diferenç
           
 O clima, as pessoas, as paisagens... é tudo o mesmo lugar, a mesma cidade. Se eu ficasse trinta anos sem voltar eu ainda conseguiria ver as mesmas coisas, perceber os mesmos lugares? Provavelmente. Nada de melhor, nada de pior. Só a cidade. No fim de tudo, é a cidade que não muda ou sou eu?
 
-<img src="/assets/img/saoluis.jpg">
+<img src="/assets/img/saoluis.jpg"><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
 - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
 - <a href="/duvidar-para-fazer-as-perguntas-certas">Duvidar para fazer as perguntas certas</a>
+</div>

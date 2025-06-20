@@ -39,11 +39,10 @@ Talvez você esteja pensando que se for pra usar o Twitter do jeito que comentei
 
 <img src="/assets/img/metro.jpeg">
 
-Nenhum guia é bom o suficiente se não puder ser adaptado para a realidade de quem precisa utilizá-lo. Realmente acredito que vale a pena considerar utilizar as redes sociais com mais parcimônia e pensando nos resultados que isso traz para a sua vida. [o ano passado fiquei um bom tempo longe do Twitter e senti que a experiência foi positiva](https://anchor.fm/podcastficcoes/episodes/Longe-do-Twitter-e9fpiv/a-a15aiou). Mas nem todo mundo pode ou quer ficar fora da internet. Por isso, elaborar formas de conviver com as adversidades ainda parece o melhor caminho. Esse guia, nesse sentido, é apenas uma provocação para te ajudar a encontrar o seu próprio jeito. O importante mesmo é não deixar de pensar sobre isso.
+Nenhum guia é bom o suficiente se não puder ser adaptado para a realidade de quem precisa utilizá-lo. Realmente acredito que vale a pena considerar utilizar as redes sociais com mais parcimônia e pensando nos resultados que isso traz para a sua vida. [o ano passado fiquei um bom tempo longe do Twitter e senti que a experiência foi positiva](https://anchor.fm/podcastficcoes/episodes/Longe-do-Twitter-e9fpiv/a-a15aiou). Mas nem todo mundo pode ou quer ficar fora da internet. Por isso, elaborar formas de conviver com as adversidades ainda parece o melhor caminho. Esse guia, nesse sentido, é apenas uma provocação para te ajudar a encontrar o seu próprio jeito. O importante mesmo é não deixar de pensar sobre isso.<div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>
 - <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+</div>

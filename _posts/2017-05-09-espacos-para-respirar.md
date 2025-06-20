@@ -25,9 +25,10 @@ Outro texto que li recentemente, ainda que não falasse de forma direta sobre te
 Eu publico os meus textos na internet e faço podcasts por puro diletantismo, mas sei que o que eu faço chega em outras pessoas de diferentes maneiras, o que gera alguma expectativa sobre o que faço e como faço. Não quero, contudo, me tornar eu mesmo um produto das coisas que gosto de fazer. Vou continuar procurando espaços para respirar, mas quero respirar devagar e com calma. De tudo que eu fizer, algumas coisas eu vou compartilhar (como já faço) e outras eu quero guardar só pra mim (a maioria, na verdade). É verdade que privacidade e segredo são coisas cada vez mais raras nos dias de hoje, mas não serão por isso mesmo espaços de resistência?
 
 
-#tecnologia #comportamento
+#tecnologia #comportamento<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/estamos-perdidos">Estamos perdidos</a>
 - <a href="/duvidar-um-pouco">Duvidar um pouco</a>
 - <a href="/olhando-com-cuidado">Olhando com cuidado</a>
+</div>

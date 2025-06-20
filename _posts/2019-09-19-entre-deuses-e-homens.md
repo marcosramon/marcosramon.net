@@ -34,11 +34,10 @@ Nietzsche foi uma figura controversa e ele mesmo um homem atormentado por suas i
 
 [^3]: Rüdiger Safranski mostra um série de cartas a amigos e a Cosima e Richard Wagner em que Nietzsche defende que a tese de que “toda cultura elevada precisa de uma classe de homens para explorar, para fazer o trabalho. Uma classe de escravos” (Nietzsche *In*: SAFRANSKI, Rüdiger. *Nietzsche: Biografia de uma tragédia*. Geração editorial. Kindle edition, pos. 1078). Esse mesmo argumento aparece em uma versão preliminar de *O nascimento da tragédia* e em outros textos da juventude.
 
-<img src="/assets/img/nietzsche.jpg">
+<img src="/assets/img/nietzsche.jpg"><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
 - <a href="/rousseau-e-a-contradicao-entre-as-ideias-e-todo-o-resto">Rousseau e a contradição entre as ideias e todo o resto</a>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+</div>

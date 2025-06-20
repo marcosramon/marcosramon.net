@@ -22,11 +22,10 @@ A vida é sempre um misto de conquistas e decepções. E, na maior parte do temp
 [^1]: Esse trabalho, tão cotidiano quanto a própria sala de aula, envolve planejamento, elaboração e correção de atividades, preenchimento de documentos (planos de ensino, planos de aula, mapas de nota, diários de sala de aula, relatórios de conselho de classe etc.), mas desconsidera atividades de pesquisa e extensão, que muitas vezes também são realizadas, mesmo com pouco tempo ou apoio da comunidade escolar.
 
 <img src="/assets/img/reemtwaim.jpg">
-<small>Arte de <a href="https://www.instagram.com/reemtwaim/">Reem Twaim</a></small>
+<small>Arte de <a href="https://www.instagram.com/reemtwaim/">Reem Twaim</a></small><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>
 - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
 - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
+</div>

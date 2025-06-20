@@ -22,9 +22,10 @@ O século XX, contudo, implodiu, pelo menos em parte, essa homogeneização dos 
 
 Cabeza (1982), obra de [Jean-Michel Basquiat](https://g.co/kgs/5ZWDrF)
 
-#Estética #gosto
+#Estética #gosto<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
 - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
 - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+</div>

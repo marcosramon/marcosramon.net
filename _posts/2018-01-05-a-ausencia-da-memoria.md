@@ -20,9 +20,10 @@ A infância possui inúmeros aspectos bons, mas a felicidade plena é o mais irr
 Colagem de [Julia Gleiser](http://julia-geiser.ch/)
 
 
-#pensamentos #grafos
+#pensamentos #grafos<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/interagir-so-com-quem-se-precisa">Interagir só com quem se precisa</a>
 - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
 - <a href="/juntos">Juntos</a>
+</div>

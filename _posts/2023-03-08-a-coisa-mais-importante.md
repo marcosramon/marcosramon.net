@@ -24,9 +24,10 @@ A questão, portanto, não é decidir entre a vida e a morte, mas [se compromete
 
 Para não nos perdermos de nós, como afirma Anaïs Nin, continuamos tentando, do jeito que podemos, em busca de uma vida que seja (se não completa, pois nunca será) ao menos tranquila.
 
-#leitura #filosofia
+#leitura #filosofia<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-experiencia-negativa">A experiência negativa</a>
 - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+</div>

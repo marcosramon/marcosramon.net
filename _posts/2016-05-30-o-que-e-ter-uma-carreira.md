@@ -23,9 +23,10 @@ Isso não significa, de forma alguma, que eu desvalorize o meu trabalho ou não 
 Respondendo à pergunta do título: ter uma carreira é se acomodar com tudo.
 
 
-#cotidiano #comportamento
+#cotidiano #comportamento<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
 - <a href="/o-mundo-e-pequeno-pra-caramba">O mundo é pequeno pra caramba</a>
 - <a href="/o-que-ainda-pode-mudar">O que ainda pode mudar</a>
+</div>

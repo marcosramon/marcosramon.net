@@ -21,11 +21,10 @@ Então, é exatamente isso. Mas amplificado pra dias e não horas e em uma inten
 
 E o mais estranho é sentir que o tempo não passou, mas que só você acredita nisso. Pros outros muita coisa aconteceu e só você não sabe de nada, só você não entende o contexto das conversas e não compreende as mudanças que ocorreram nos últimos dias. Quando isso acontece - e como eu disse, sempre acontece! - eu fico me perguntando se sou eu que estou certo ou se são os outros; se isso é algum tipo de conluio, se querem me enlouquecer ou se eles é que já estão loucos...
 
-Quero acreditar nisso: às vezes ninguém está com a razão, porque não existe razão pra coisa alguma.
+Quero acreditar nisso: às vezes ninguém está com a razão, porque não existe razão pra coisa alguma.<div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/como-se-importar-muito-com-o-que-nao-importa">Como se importar muito com o que não importa</a>
 - <a href="/como-ser-feliz">Como ser feliz</a>
 - <a href="/interagir-so-com-quem-se-precisa">Interagir só com quem se precisa</a>
+</div>

@@ -24,11 +24,10 @@ Que falta vai nos fazer a materialidade, quando não tivermos mais resquícios d
 
 <figure>
    <img src="/assets/img/vestigios.jpeg">
-</figure>
+</figure><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
 - <a href="/uma-cidade">Uma cidade</a>
 - <a href="/como-ser-feliz">Como ser feliz</a>
+</div>

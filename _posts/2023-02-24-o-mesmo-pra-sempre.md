@@ -18,9 +18,10 @@ Ninguém consegue suportar ser outro alguém e, por isso, lá no fundo, gostarí
 
 <img src="/assets/img/pensar1.jpg">
 
-#cotidiano #comportamento 
+#cotidiano #comportamento<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/sempre-o-mesmo">Sempre o mesmo</a>
 - <a href="/de-onde-vem-o-conhecimento">De onde vem o conhecimento</a>
 - <a href="/o-mundo-e-pequeno-pra-caramba">O mundo é pequeno pra caramba</a>
+</div>

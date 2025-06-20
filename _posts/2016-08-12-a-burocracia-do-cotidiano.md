@@ -22,9 +22,10 @@ Para vivermos melhor precisamos da estranheza do aleatório, precisamos aceitar 
 Ilustração de [Ana Yael](http://www.anayael.net/)
 
 
-#pensamentos #cotidiano
+#pensamentos #cotidiano<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/saia-e-divirta-se">Saia e divirta-se!</a>
 - <a href="/a-beleza-do-absurdo">A beleza do absurdo</a>
 - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
+</div>

@@ -23,9 +23,10 @@ O balé de 1917, sobre o qual Apollinaire escreve, se chamava "Desfile" e, se n�
 Apollinaire, morreu no ano seguinte, 1918, vítima da gripe espanhola. Mas um jovem escritor, que teve a oportunidade de conhecê-lo, resgatou esse termo, surrealismo, para um movimento de vanguarda que estava criando. O escritor, obviamente, era André Breton e o movimento se efetivou com a publicação do manifesto surrealista, em 1924. André Breton estava interessado nas pesquisas da psicanálise sobre o inconsciente e sobre a possibilidade de uma arte que fugisse de um ideal de controle da razão. O romance Nadja, por exemplo, foi escrito, como muitos textos surrealistas, em estado de vigília, naquele momento entre o sono e a realidade, em que estamos acordados, mas já não controlamos inteiramente nossos reflexos, pensamentos ou raciocínios. É desse livro, inclusive, a que, pra mim, é a melhor frase de fim de um romance (se é que a gente pode realmente  chamar Nadja de um romance). Na última linha Breton escreveu: "a beleza será CONVULSIVA ou não será nada". Essa frase não é uma explicação de nada em específico presente no livro mas consegue, ainda assim, dizer muito. E era exatamente isso que o surrealismo queria resgatar, o valor do absurdo. 
 
 <img src="/assets/img/parade.jpg">
-<small> O balé <a href="https://en.wikipedia.org/wiki/Parade_(ballet)">"Desfile"</a></small>
+<small> O balé <a href="https://en.wikipedia.org/wiki/Parade_(ballet)">"Desfile"</a></small><div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
 - <a href="/o-absurdo-cotidiano">O absurdo cotidiano</a>
 - <a href="/abracando-o-nada">Abraçando o nada</a>
+</div>

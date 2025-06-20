@@ -20,9 +20,10 @@ Considerando essa realidade do ônibus apresentada no vídeo e dos espaços púb
 
 
 
-#pensamentos #escrita
+#pensamentos #escrita<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/pessoas-e-horarios">Pessoas e horários</a>
 - <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>
 - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
+</div>

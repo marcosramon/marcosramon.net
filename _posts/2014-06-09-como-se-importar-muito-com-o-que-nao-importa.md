@@ -15,11 +15,10 @@ Eu tenho uma capacidade imensa de me importar demais com coisas menores, coisas 
 
 Não sei se eu posso mudar completamente isso em mim (faz muito tempo que eu sou assim...). Mas eu preciso evitar a perda de tempo que isso me causa. Vamos ver...
 
-<img src="/assets/img/comoseimportar.jpg">
+<img src="/assets/img/comoseimportar.jpg"><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/ficcoes-01-o-que-nao-se-pode-falar">Ficções #01   o que não se pode falar</a>
 - <a href="/eles-sabem-o-que-eu-nao-sei">Eles sabem o que eu não sei</a>
 - <a href="/o-que-realmente-importa">O que realmente importa</a>
+</div>

@@ -39,9 +39,10 @@ Falei antes da leitura na tela do computador, mas existem hoje outras opções. 
 Estamos em um mundo melhor para leitores e escritores. Eu acredito nisso. A questão é apenas saber como contribuir para que as crianças de hoje adquiram o gosto por ler e escrever, o que é um baita desafio, principalmente considerando a quantidade de atrativos disponíveis pela internet afora. Mas o legal é que no meio das distrações sempre tem alguém disposto a colaborar com os outros em prol de algo que acredita, seja pra divulgar um evento, um novo meme ou textos bacanas pra se ler. 
 
 
-#tecnologia #leitura
+#tecnologia #leitura<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-tecnologia-da-interacao">A tecnologia da interação</a>
 - <a href="/como-ler-mais">Como ler mais</a>
 - <a href="/o-totalitarismo-e-a-gente">O totalitarismo e a gente</a>
+</div>

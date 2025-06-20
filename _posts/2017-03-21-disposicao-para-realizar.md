@@ -28,11 +28,10 @@ O que Shirky mostra em “A cultura da participação” (e em outros livros) é
 
     
 <img src="/assets/img/realizar.jpeg">
-<small>Ilustração de <a href="http://littleteashi.tumblr.com/">Gizem</a>. </small>
+<small>Ilustração de <a href="http://littleteashi.tumblr.com/">Gizem</a>. </small><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/duvidar-para-fazer-as-perguntas-certas">Duvidar para fazer as perguntas certas</a>
 - <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>
 - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
+</div>

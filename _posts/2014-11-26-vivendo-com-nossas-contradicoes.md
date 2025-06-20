@@ -17,11 +17,10 @@ Não existe nada mais humano do que viver nossas contradições. Dia desses esta
 
 Sendo bem sincero, achei aquilo fantástico! Até então estava me sentindo descolado ouvindo um cara tão distante de mim, do mundo que eu conheço, dos espaços que me são comuns. E então, com uma música *pop*, descubro que ele era humano, comum, contraditório e normal; mais um de nós. 
 
-Sim, podemos ter ideologias, criticar o sistema e almejar mudanças políticas e econômicas no mundo. E mesmo assim podemos ouvir música comercial, ir ao cinema por um  filme *blockbuster* e esperar pelo próximo episódio de uma série pegajosa qualquer. Viver é ser essa contradição: acreditar em coisas que não conseguimos entender, lutar por ideais que não sabemos se são viáveis. E, pra mim,  isso é o que existe de mais apaixonante na humanidade!
+Sim, podemos ter ideologias, criticar o sistema e almejar mudanças políticas e econômicas no mundo. E mesmo assim podemos ouvir música comercial, ir ao cinema por um  filme *blockbuster* e esperar pelo próximo episódio de uma série pegajosa qualquer. Viver é ser essa contradição: acreditar em coisas que não conseguimos entender, lutar por ideais que não sabemos se são viáveis. E, pra mim,  isso é o que existe de mais apaixonante na humanidade!<div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/interagir-so-com-quem-se-precisa">Interagir só com quem se precisa</a>
 - <a href="/como-se-importar-muito-com-o-que-nao-importa">Como se importar muito com o que não importa</a>
 - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
+</div>

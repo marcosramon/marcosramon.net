@@ -25,13 +25,10 @@ Em um mundo ideal os leitores e escritores se dedicariam à literatura porque a 
 <small>Pintura de <a href="https://www.instagram.com/willemweismann/">Willem Weismann</a></small>
 
 #leitura #Livros 
+<div class="leia-tambem" markdown="1">
+## Leia também:
 
----
-
-
-
-
-<h3>Leia também:</h3>
 - <a href="/o-tempo-que-dedicamos-aos-livros">O tempo que dedicamos aos livros</a>
 - <a href="/o-totalitarismo-e-a-gente">O totalitarismo e a gente</a>
 - <a href="/abracando-o-nada">Abraçando o nada</a>
+</div>

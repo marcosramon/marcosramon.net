@@ -32,9 +32,10 @@ Existem muitos críticos desse tipo de argumentação, sendo o mais notório Nie
 E eu acredito nisso? Não sei ao certo, mas o assunto certamente me deixou intrigado e atento para que, quando a hora chegar, eu pelo menos desperte do sono — e do jeito certo.
 
 
-#arte #filosofia
+#arte #filosofia<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
 - <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>
 - <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>
+</div>

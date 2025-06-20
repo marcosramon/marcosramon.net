@@ -18,9 +18,10 @@ Só lutamos porque a natureza é sábia e nos permite sonhar; assim acreditamos 
 <img src="/assets/img/passividade-medium.gif">
 
 
-#pensamentos #ensino
+#pensamentos #ensino<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
 - <a href="/progredir-sem-medo-de-errar">Progredir, sem medo de errar</a>
 - <a href="/aprender-a-olhar">Aprender a olhar</a>
+</div>

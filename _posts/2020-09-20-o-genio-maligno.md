@@ -24,11 +24,10 @@ O que Descartes imaginou, em 1641, foi o pesadelo de todos os programadores de h
 Ainda assim, atualizando o argumento dele para o mundo simulado e desconsiderando a interferência de Deus nesse processo, ainda vale a primeira resposta: nunca teremos como saber se estamos sendo enganados ou não. Se vale de consolo, ninguém pode tirar de nós essa certeza absoluta: eu e você, sem dúvida alguma, existimos (ainda que cada um de nós só saiba disso individualmente). Mas será que isso é o bastante para vivermos em paz?
 
 <img src="/assets/img/jm.gif">
-<small>Cena do filme "<a href="https://g.co/kgs/x5SeLa" target="_blank">Quero ser John Malkovich</a>"</small>
+<small>Cena do filme "<a href="https://g.co/kgs/x5SeLa" target="_blank">Quero ser John Malkovich</a>"</small><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
 - <a href="/de-onde-vem-o-conhecimento">De onde vem o conhecimento</a>
 - <a href="/o-que-todo-mundo-e">O que todo mundo é</a>
+</div>

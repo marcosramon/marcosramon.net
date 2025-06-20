@@ -25,11 +25,10 @@ E é também por isso que não devemos ver essa capacidade de multiplicar pergun
 A despeito da opinião de autores como Rousseau, que afirmava que o avanço do conhecimento gerava mais dor e sofrimento do que real bem-estar às pessoas, eu penso que a situação em que nos encontramos é invariavelmente melhor do que seria se não tivéssemos investido no caminho da ciência. E é justamente por isso que perceber parte sociedade negando o valor da curiosidade e da capacidade de fazer perguntas me parece tão perigoso. É preciso insistir no que disse Alberto Manguel: as perguntas nos unem. Um mundo baseado apenas em opiniões verdadeiras, sem o mínimo de questionamento, tende a ser um mundo de destruição, de nós mesmos e de tudo o mais que nos cerca. O caminho da curiosidade, por outro lado, me parece mais agradável, ainda que errático, misterioso e, justamente por isso, encantador.
 
 <img src="/assets/img/curiosidade.jpeg">
-<small>The Goldfish Window (1916), por Frederick Childe Hassam</small>
+<small>The Goldfish Window (1916), por Frederick Childe Hassam</small><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
 - <a href="/o-que-realmente-importa">O que realmente importa</a>
 - <a href="/ficcoes-00-apresentacao">Ficções #00   apresentação</a>
+</div>

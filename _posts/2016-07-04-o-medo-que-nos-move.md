@@ -26,9 +26,10 @@ Só de vez em quando, como hoje, uma manhã fria de Julho, é que eu ganho corag
 Pintura de [Joel Rea](http://www.joelrea.com.au/)
 
 
-#pensamentos #cotidiano
+#pensamentos #cotidiano<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
 - <a href="/escolha-o-tedio">Escolha o tédio</a>
 - <a href="/eles-sabem-o-que-eu-nao-sei">Eles sabem o que eu não sei</a>
+</div>

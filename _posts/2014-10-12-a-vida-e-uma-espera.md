@@ -14,11 +14,10 @@ Constatar que a vida é uma espera me faz querer saber esperar melhor, ter paci�
 
 Enquanto escrevo olho pra mim mesmo e tento pensar nas coisas que espero. São poucas, mas o suficiente para permitir que eu me atrapalhe comigo mesmo; poucas, mas o suficiente para que eu não queira ser vítima do atraso (o desespero de quem espera!). 
 
-Enquanto escrevo sinto dúvida e solidão, mas não lamento a vida que eu tenho - que é boa e feliz - apenas desejo saber esperar melhor, saber esperar...
+Enquanto escrevo sinto dúvida e solidão, mas não lamento a vida que eu tenho - que é boa e feliz - apenas desejo saber esperar melhor, saber esperar...<div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/pra-quem-e-a-vida-academica">Pra quem é a vida acadêmica</a>
 - <a href="/o-que-e-ter-uma-carreira">O que é ter uma carreira</a>
 - <a href="/uma-vida-sem-reflexao">Uma vida sem reflexão</a>
+</div>

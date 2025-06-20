@@ -22,9 +22,10 @@ A principais funções da comunicação tem a ver com o seu aspecto social e cul
 Ilustração de [Ribes Cooked](http://www.ribescooked.com/)
 
 
-#sociedade #arte
+#sociedade #arte<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-risco">O risco</a>
 - <a href="/se-encaixar">Se encaixar</a>
 - <a href="/star-wars-eu-e-os-outros">Star Wars, eu e os outros</a>
+</div>

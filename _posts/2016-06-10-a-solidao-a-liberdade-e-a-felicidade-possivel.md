@@ -29,9 +29,10 @@ _A solidão, a liberdade e a felicidade possível. "Aforismos para a sabedoria d
 [Playing Alone](http://minimalsky.tumblr.com/post/145292811897/playing-alone)
 
 
-#cotidiano #sociedade
+#cotidiano #sociedade<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-maior-derrota-que-se-pode-ter">A maior derrota que se pode ter</a>
 - <a href="/a-experiencia-negativa">A experiência negativa</a>
 - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
+</div>

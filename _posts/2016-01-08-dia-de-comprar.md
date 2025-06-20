@@ -21,9 +21,10 @@ Não me entenda mal. Eu sou consumista. E talvez até demais. E é por isso que 
 <img src="/assets/img/dia-de comprar-medium.png">
 
 
-#comportamento #arte
+#comportamento #arte<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
 - <a href="/como-os-personagens-sao-criados">Como os personagens são criados</a>
 - <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>
+</div>

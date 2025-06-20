@@ -25,9 +25,10 @@ Me reconheço como parte da humanidade mais pelo que me falta do que por qualque
 “Chuva, vapor e velocidade” — pintura de [William Turner](https://g.co/kgs/FXTFTd)
 
 
-#arte #ética
+#arte #ética<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/diorama">Diorama</a>
 - <a href="/viver-o-trabalho">Viver o trabalho</a>
 - <a href="/o-absurdo-cotidiano">O absurdo cotidiano</a>
+</div>

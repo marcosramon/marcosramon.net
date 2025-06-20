@@ -23,11 +23,10 @@ Porque pensar é não compreender...<br>
 
 Acho que é isso. Sentimos que somos um, parte de um mesmo mundo, sintomas dos mesmos problemas e solução deles. Mas pensamos demais, racionalizamos demais, e acabamos deixando de lado essa intuição forte e poderosa que nos diz que viver em sociedade é simples, que sentir compaixão não é uma utopia, que olhar pro outro é também se reconhecer a cada momento...
 
-Espero que a gente supere esse ideal de razão, controle e medida, que condiciona a nossa vida já há tanto tempo. Se existe um futuro pra gente, esse futuro tem a ver com isso: aceitar nossos sentidos, viver nossa materialidade, entender a nossa natureza.
+Espero que a gente supere esse ideal de razão, controle e medida, que condiciona a nossa vida já há tanto tempo. Se existe um futuro pra gente, esse futuro tem a ver com isso: aceitar nossos sentidos, viver nossa materialidade, entender a nossa natureza.<div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/ficcoes-00-apresentacao">Ficções #00   apresentação</a>
 - <a href="/arte-e-vida">Arte e vida</a>
 - <a href="/duvidar-para-fazer-as-perguntas-certas">Duvidar para fazer as perguntas certas</a>
+</div>

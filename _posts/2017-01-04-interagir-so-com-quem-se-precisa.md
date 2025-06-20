@@ -20,9 +20,10 @@ Olhando com cuidado todo mundo vai concordar que a juventude é uma época de gr
 Gif criado por [Nicolas Monterrat](https://www.behance.net/UGDTG)
 
 
-#pensamentos #grafos
+#pensamentos #grafos<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
 - <a href="/basta-estar-vivo">Basta estar vivo</a>
 - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+</div>

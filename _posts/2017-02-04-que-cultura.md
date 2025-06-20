@@ -22,12 +22,10 @@ E eu falo tudo isso estando do lado massificado. Cresci em um mundo em que fui s
 <small>Pinturas clássicas reimaginadas para a atualidade. Trabalho de <a href="http://www.thisiscolossal.com/2017/01/alexey-kondakov-classical-painting-photos/">Alexey Kondakov</a></small>
 
 #arte #cultura 
+<div class="leia-tambem" markdown="1">
+## Leia também:
 
----
-
-
-
-<h3>Leia também:</h3>
 - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
 - <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>
 - <a href="/todos-iguais">Todos iguais</a>
+</div>

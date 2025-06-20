@@ -49,9 +49,10 @@ Agora que reli esse livro que eu amava tanto e não me empolguei como imaginava,
 
 ![](arquivos/Pasted%20image%2020250224205642.png)
 
-[^1]: Eu nunca tinha esquecido, por exemplo, da cena de uma mulher em uma instituição psiquiátrica, sendo arrastada por enfermeiros e recitando o discurso de Brutus no *Júlio César*, de Shakespeare. Épico.
+[^1]: Eu nunca tinha esquecido, por exemplo, da cena de uma mulher em uma instituição psiquiátrica, sendo arrastada por enfermeiros e recitando o discurso de Brutus no *Júlio César*, de Shakespeare. Épico.<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/ler-menos">Ler menos</a>
 - <a href="/a-experiencia-da-releitura">A experiência da releitura</a>
 - <a href="/banksy-ou-como-a-arte-de-rua-pode-ser-pop">Banksy ou como a arte de rua pode ser pop</a>
+</div>

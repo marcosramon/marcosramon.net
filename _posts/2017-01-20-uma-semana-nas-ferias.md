@@ -14,9 +14,10 @@ Escrevi outro dia que [coisas estranhas acontecem o tempo todo](https://arcano5.
 <img src="/assets/img/uma-semana-nas férias-medium.png">
 
 
-#pensamentos #pensamento
+#pensamentos #pensamento<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/viver-esquecendo">Viver esquecendo</a>
 - <a href="/a-materia-das-memorias">A matéria das memórias</a>
 - <a href="/muito-papel">Muito papel</a>
+</div>

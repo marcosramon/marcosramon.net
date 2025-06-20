@@ -23,9 +23,10 @@ No entanto, para mim, o efeito foi bem ruim. Eu sempre encarei as estrelas como 
 O engajamento é uma moeda importante atualmente, mas o que estamos dispostos a sacrificar por esse tempo a mais de uso nas ferramentas de interação? O nosso jeito de entender as coisas, a nossa forma de refletir sobre elas? Talvez devêssemos ter mais cuidado com tudo isso.
 
 
-#comportamento #podcast
+#comportamento #podcast<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
 - <a href="/perspectiva">Perspectiva</a>
+</div>

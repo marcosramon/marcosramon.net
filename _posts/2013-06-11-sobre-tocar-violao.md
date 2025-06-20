@@ -24,11 +24,10 @@ Quando ele nasceu eu imaginei que ia viver o mundo através dos olhos dele, tent
 
 [^1]: Além do violão, temos em casa um baixo, uma guitarra, uma bateria, um teclado, flauta, gaita, cd's, cd's e cd's. Ah, moramos em apartamento e, provavelmente, nossos vizinhos nos odeiam.
   
-[^2]: Um exemplo dado por ele é a música de abertura dos dvd's do Batman que ele assiste aqui em casa.
+[^2]: Um exemplo dado por ele é a música de abertura dos dvd's do Batman que ele assiste aqui em casa.<div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
 - <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>
 - <a href="/sobre-o-ritual-do-corpo-entre-os-sonacirema">Sobre “O ritual do corpo entre os Sonacirema”</a>
+</div>

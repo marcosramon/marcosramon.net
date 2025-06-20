@@ -22,9 +22,10 @@ Mas aqui está outra interpretação errada: a fragilidade não é um mal. Ela �
 Gif criado por [Janneke Meekes](http://jannekemeekes.tumblr.com/)
 
 
-#arte #cultura
+#arte #cultura<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/viver-o-trabalho">Viver o trabalho</a>
 - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
 - <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>
+</div>

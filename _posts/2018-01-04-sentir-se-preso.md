@@ -20,9 +20,10 @@ Conhecer a liberdade parece uma vantagem, parece. Na verdade, essa é a maior da
 Ilustração de [Irene D’Antò](http://irenedanto.tumblr.com/)
 
 
-#pensamentos #comunicação
+#pensamentos #comunicação<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-beleza-do-absurdo">A beleza do absurdo</a>
 - <a href="/outros-sonhos">Outros sonhos</a>
 - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+</div>

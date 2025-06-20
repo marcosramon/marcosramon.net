@@ -16,12 +16,10 @@ Em uma época em que se defende a importância da economia criativa, da livre in
 Para viver em sociedade precisamos de coragem, disposição e criatividade. Uma escola que nos oferece apenas acesso à informação nos priva da oportunidade de encontrarmos meios para desenvolvermos nossas próprias ideias e experiências. Admiramos os grandes cientistas, filósofos e escritores porque eles conseguiram ver e entender a realidade de uma maneira muito própria, mas nunca seremos como eles se apenas repetirmos suas ideias. Precisamos de escolas que estimulem o autoconhecimento e nos ensinem a fazer perguntas melhores — precisamos de escolas de arte.
 
 #arte #educação
+<div class="leia-tambem" markdown="1">
+## Leia também:
 
----
-
-
-
-<h3>Leia também:</h3>
 - <a href="/banksy-ou-como-a-arte-de-rua-pode-ser-pop">Banksy ou como a arte de rua pode ser pop</a>
 - <a href="/aprendendo">Aprendendo</a>
 - <a href="/o-que-precisamos-consertar">O que precisamos consertar</a>
+</div>

@@ -20,9 +20,10 @@ Não quero dar uma impressão errada aqui e também não vou dar _spoilers_ da h
 <img src="/assets/img/o-desespero-de-ter-que-existir-para-os outros-medium.jpeg">
 
 
-#pensamentos #reflexão
+#pensamentos #reflexão<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>
 - <a href="/o-medo-que-nos-move">O medo que nos move</a>
 - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
+</div>

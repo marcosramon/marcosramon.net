@@ -25,9 +25,10 @@ Sou fã do meio-termo.
 Pintura de [David Shrigley](http://blog.ocula.com/post/150113355609/david-shrigley-untitled-run-from-difficult).
 
 
-#cultura #Livros
+#cultura #Livros<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-meio-termo">O meio termo</a>
 - <a href="/o-possivel-amanha">O possível amanhã</a>
 - <a href="/abracando-o-nada">Abraçando o nada</a>
+</div>

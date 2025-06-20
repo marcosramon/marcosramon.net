@@ -24,9 +24,10 @@ Depois de terminados esses dois livros (os únicos que já tinha lido de Arthur 
 
 [^1]: Em algumas traduções aparece como *O Signo dos Quatro*.
 
-#leitura #livros
+#leitura #livros<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>
 - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
 - <a href="/a-releitura-como-forma-de-reencontro">A releitura como forma de reencontro</a>
+</div>

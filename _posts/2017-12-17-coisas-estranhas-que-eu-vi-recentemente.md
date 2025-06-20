@@ -19,9 +19,10 @@ Outra coisa que vi, e que entra na categoria do que é inexplicável, foi uma mu
 <img src="/assets/img/coisas-estranhas-que-eu-vi-recentemente-medium.png">
 
 
-#pensamentos #comportamento
+#pensamentos #comportamento<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/entender-o-tempo">Entender o tempo</a>
 - <a href="/o-que-realmente-importa">O que realmente importa</a>
 - <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
+</div>

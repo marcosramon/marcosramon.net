@@ -18,11 +18,10 @@ Schopenhauer considerava o sofrimento como aquilo que há de positivo na existê
 O caminho para superar isso, afirma Schopenhauer, é a compaixão. Se cada um de nós entender realmente que a vontade que age em um não é diferente da vontade que age nos outros, que o sofrimento que me aflige também ataca em maior ou menor medida as outras pessoas, que o que nos une de maneira mais íntima é justamente o fato de que somos submissos aos desejos e aos sofrimentos; se aceitarmos isso, poderemos trabalhar para a diminuição do sofrimento dos outros. A essência da ética não tem a ver, como queria Kant, com o desenvolvimento da razão, mas sim com o reconhecimento de que se somos todos parte do mesmo destino. 
 
 <img src="/assets/img/cormac.jpg">
-<small>Foto feita por <a href="http://inagblog.com/2019/06/cormac/">Cormac</a></small>
+<small>Foto feita por <a href="http://inagblog.com/2019/06/cormac/">Cormac</a></small><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
 - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+</div>

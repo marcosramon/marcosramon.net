@@ -17,11 +17,10 @@ Tenho visto, inclusive nas aulas (um ambiente em que o conhecimento é o que est
 
 Mais uma vez, não acho que esse é o posicionamento da maioria. Nas minhas aulas, por exemplo, sinto que muitos estudantes adotam uma postura questionadora, mas também consciente dos caminhos pelos quais as boas perguntas têm espaço no processo de construção do conhecimento. Enfim, o que se busca não é a mera destruição das ideias. Ainda assim, o avanço do obscurantismo é evidente. Não só nas redes sociais, a terra de ninguém em que todo tipo de desatenção e desconexão com a realidade ganha espaço, mas também nas instituições de ensino. Quando quem está no lugar de aprender não dá mais valor à importância do que pode ser aprendido, é porque a experiência com o conhecimento já está em risco. Por isso, é preciso atenção e cuidado, e continuar produzindo, pesquisando, insistindo. O pior que poderia acontecer com quem valoriza o saber é ser vencido pelo cansaço, o cansaço de quem não quer ter que falar o óbvio. Não siga esse caminho. Dizer o simples, o evidente, nunca foi tão necessário.
 
-<img src="/assets/img//arquivos/Fake.jpg">
+<img src="/assets/img//arquivos/Fake.jpg"><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
 - <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>
 - <a href="/encarar-o-sofrimento">Encarar o sofrimento</a>
+</div>

@@ -20,9 +20,10 @@ Parte dessa confusão, acredito, tem a ver com a sensação de que uma competiç
 Foto de [Kristina Makeeva](https://www.instagram.com/hobopeeba/)
 
 
-#arte #política
+#arte #política<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>
 - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+</div>

@@ -20,11 +20,10 @@ Se existe algo que exerce um encanto natural pra quase todo mundo (quis escrever
 Desenhamos desde de que somos crianças, mas pouco a pouco vamos deixando os papeis e lápis e tintas de lado por coisas mais práticas e funcionais. Não deveríamos. O que rabiscamos diz muito sobre nós, muito mesmo.
 
 <img src="/assets/img/sketchbook.jpeg">
-<small>Do sketchbook de <a href="https://www.flickr.com/photos/ghostschool/25995898492/">Wil Freborn</a></small>
+<small>Do sketchbook de <a href="https://www.flickr.com/photos/ghostschool/25995898492/">Wil Freborn</a></small><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
 - <a href="/como-ser-feliz">Como ser feliz</a>
 - <a href="/a-guerra-na-teve">A guerra na tevê</a>
+</div>

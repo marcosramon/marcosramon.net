@@ -16,9 +16,10 @@ Saber lidar com isso tem sido difícil, porque entendo que preciso desacelerar, 
 
 Quando me vejo preso dentro do carro, costumo abrir um pouco as janelas para respirar. Preciso arranjar um jeito de replicar isso o tempo todo.
 
-#cotidiano #pensamento 
+#cotidiano #pensamento<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
 - <a href="/como-se-importar-muito-com-o-que-nao-importa">Como se importar muito com o que não importa</a>
 - <a href="/duvidar-para-fazer-as-perguntas-certas">Duvidar para fazer as perguntas certas</a>
+</div>

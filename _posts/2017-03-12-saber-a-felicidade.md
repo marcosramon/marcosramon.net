@@ -24,12 +24,10 @@ Contudo — e acho que que esse é o ponto central da questão — se fe
 <small>Ilustração de <a href="http://mariaramosbravo.tumblr.com/">María Ramos</a></small>
 
 #filosofia #reflexão #conhecimento 
+<div class="leia-tambem" markdown="1">
+## Leia também:
 
----
-
-
-
-<h3>Leia também:</h3>
 - <a href="/uma-vida-sem-reflexao">Uma vida sem reflexão</a>
 - <a href="/a-realidade-e-nos-mesmos">A realidade e nós mesmos</a>
 - <a href="/a-experiencia-negativa">A experiência negativa</a>
+</div>

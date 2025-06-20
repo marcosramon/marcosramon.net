@@ -20,9 +20,10 @@ Em uma [carta escrita em 1944, e direcionada a Noel Willmett](http://www.elfikur
 Cena do filme “1984”, [adaptação inglesa produzida em 1956](https://en.wikipedia.org/wiki/1984_%281956_film%29)
 
 
-#política #leitura
+#política #leitura<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-clima-e-a-gente">O clima e a gente</a>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
 - <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>
+</div>

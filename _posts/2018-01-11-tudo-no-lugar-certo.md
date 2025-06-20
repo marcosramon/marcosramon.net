@@ -17,9 +17,10 @@ A realidade é imprevisível até certo ponto. Na maior parte do tempo, sabemos 
 
 <small>Desenho de <a href="http://oamul.tumblr.com/">Oamul Lu</a></small>
 
-#cotidiano 
+#cotidiano<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-realidade-se-impoe">A realidade se impõe</a>
 - <a href="/revisar2020-09-20-saber-a-felicidade">2020-09-20-saber-a-felicidade</a>
 - <a href="/reclamar-de-tudo">Reclamar de tudo</a>
+</div>

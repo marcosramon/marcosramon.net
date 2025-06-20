@@ -9,11 +9,10 @@ tags:
 published: true
 permalink: resolucoes-para-2014
 ---
-<img src="/assets/img/2014.jpg">
+<img src="/assets/img/2014.jpg"><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/resolucoes-para-2014">Resoluções para 2014</a>
 - <a href="/cidades-para-pessoas">Cidades para pessoas</a>
 - <a href="/como-se-preparar-para-o-final-do-ano">Como se preparar para o final do ano</a>
+</div>

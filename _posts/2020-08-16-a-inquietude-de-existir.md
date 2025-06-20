@@ -20,11 +20,10 @@ Uma das ideias mais interessantes de Kierkegaard é sua divisão das fases ou et
 É só no mistério da fé, na angústia e no desespero do nada, que podemos — de acordo com Kierkegaard — encontrar a resposta que precisamos. E viver em aflição é necessário porque é assim que vemos nossa incompletude, nossa incapacidade de ter tudo. Os existencialistas rejeitaram, em sua maioria, a visão religiosa defendida por Kierkegaard, mas a tarefa maior já estava feita. Entendemos que a razão não é a libertação e a possibilidade do controle, mas sim o reconhecimento dos nossos limites.
 
 <img src="/assets/img/haxneul.jpeg">
-<small>"Into the Shadows", ilustração de <a href="https://www.instagram.com/haxneul/">haxneul</a></small>
+<small>"Into the Shadows", ilustração de <a href="https://www.instagram.com/haxneul/">haxneul</a></small><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/a-releitura-como-forma-de-reencontro">A releitura como forma de reencontro</a>
 - <a href="/trabalho-antes-de-tudo">Trabalho, antes de tudo</a>
 - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
+</div>

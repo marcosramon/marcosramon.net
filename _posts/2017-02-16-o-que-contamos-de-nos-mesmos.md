@@ -20,9 +20,10 @@ Ninguém conseguiria contar de si realmente tudo o que viveu, porque não dá pr
 Fotografia de [Arianna Pagani](http://www.ariannapagani.com/)
 
 
-#pensamentos #consumo
+#pensamentos #consumo<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
 - <a href="/a-solidao-que-precisamos">A solidão que precisamos</a>
 - <a href="/o-que-temos-em-comum">O que temos em comum</a>
+</div>

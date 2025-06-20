@@ -22,9 +22,10 @@ Viver em sociedade é olhar para o futuro. E isso implica em ter um espírito me
 <img src="/assets/img/o-que-precisamos-consertar-medium.png">
 
 
-#educação #arte
+#educação #arte<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-que-o-silencio-diz">O que o silêncio diz</a>
 - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+</div>

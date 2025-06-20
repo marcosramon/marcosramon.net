@@ -20,9 +20,10 @@ Quando nos encontramos com nossa própria verdade, a primeira reação é desaba
 Ilustração de [Mariana, a miserável](http://marianaamiseravel.tictail.com/)
 
 
-#pensamentos #pensamento
+#pensamentos #pensamento<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/muito-papel">Muito papel</a>
 - <a href="/uma-semana-nas-ferias">Uma semana nas férias</a>
 - <a href="/a-materia-das-memorias">A matéria das memórias</a>
+</div>

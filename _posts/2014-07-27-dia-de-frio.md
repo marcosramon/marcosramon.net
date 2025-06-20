@@ -9,11 +9,10 @@ tags:
 published: true
 permalink: dia-de-frio
 ---
-<img src="/assets/img/diadefrio.png">
+<img src="/assets/img/diadefrio.png"><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/dia-de-comprar">Dia de comprar</a>
 - <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>
 - <a href="/o-cansaco-nosso-de-cada-dia">O cansaço nosso de cada dia</a>
+</div>

@@ -29,9 +29,10 @@ Os estudantes com os quais convivo no Ensino Médio são, no geral, muito inteli
 Ilustração de [Nhung Le](https://www.behance.net/nhungle)
 
 
-#arte #educação
+#arte #educação<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/indefinido">Indefinido</a>
 - <a href="/todas-as-escolas-deveriam-ser-escolas-de-arte">Todas as escolas deveriam ser escolas de arte</a>
 - <a href="/o-que-precisamos-consertar">O que precisamos consertar</a>
+</div>

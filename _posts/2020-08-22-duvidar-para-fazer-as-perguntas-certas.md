@@ -22,11 +22,10 @@ Mas Frampton utiliza também o diário de viagem de Montaigne, que foi publicado
 É incrível, perceber, pelos textos de Montaigne que, apesar de estarmos em um mundo mais esclarecido e com mais acesso à informações, dados e pesquisas, ainda temos muito receio do ceticismo – ou, da medida certa, do ceticismo. Montaigne não duvidava de tudo, e quando fazia uso da dúvida não era porque queria simplesmente demonstrar sua própria opinião, mas porque não queria abdicar do direito de pensar. Duvidar para entender, para pensar melhor, para aprender a fazer as perguntas certas, é isso que não se fazia bem naquela época e que Montaigne queria fazer. Mas é isso também que ainda não aprendemos a fazer.
 
 <img src="/assets/img/cat.png">
-<small>Foto de Martin Deja</small>
+<small>Foto de Martin Deja</small><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
 - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
 - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
+</div>

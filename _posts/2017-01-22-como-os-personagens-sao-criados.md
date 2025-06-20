@@ -23,9 +23,10 @@ Uma coisa que sempre vou querer saber, mas que imagino que nenhum escritor saiba
 [O Senhor das Moscas](http://amzn.to/2keJX3T), de William Golding
 
 
-#arte #comportamento
+#arte #comportamento<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
 - <a href="/dia-de-comprar">Dia de comprar</a>
+</div>

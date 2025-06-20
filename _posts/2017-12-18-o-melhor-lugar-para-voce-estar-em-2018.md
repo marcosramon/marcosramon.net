@@ -22,9 +22,10 @@ E foi justamente pensando sobre isso que me dei conta do melhor lugar para eu e 
 Gif criado por [Daniel Barreto](http://esdanielbarreto.tumblr.com/post/158762502929/faceless)
 
 
-#arte #política
+#arte #política<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
 - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
 - <a href="/aprender-a-perder">Aprender a perder</a>
+</div>

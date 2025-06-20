@@ -17,11 +17,10 @@ Já nem lembrava mais que existia James Joyce quando, pulando de um link pra out
     
 Eu não vou ler, mas gosto de pensar que ninguém mais vai. Ele está disponível. É só baixar e seguir com parcimônia até o fim. E, sim, isso é um desafio: você acha que consegue? A resposta: não.
 
-<img src="/assets/img/joyce-ulysses.jpg">
+<img src="/assets/img/joyce-ulysses.jpg"><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
 - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+</div>

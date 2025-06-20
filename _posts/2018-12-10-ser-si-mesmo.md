@@ -25,11 +25,10 @@ Em um livro mais recente, “[Desaparecer de si: uma tentação contemporânea](
 Em um mundo complexo como o nosso as identidades que assumimos (e desse jeito mesmo, no plural), nos pesam mais do que aliviam. Poder ser um, poder ser alguém vivendo apenas sua própria vida e a dos seus é um privilégio que hoje existe para poucos. E - mundo estranho, esse - não é isso algo que se conquiste, mas algo que se deixa de ter. O normal é ser muitos, e sofrer com todos que habitam sua vida. E, nesse contexto, ser esquecido e conseguir desaparecer de si é quase uma benção.
 
 <img src="/assets/img/Cinta+Vidal.jpg">
-<small>Ilustração de <a href="https://cintavidal.com/">Cinta Vidal</a></small>
+<small>Ilustração de <a href="https://cintavidal.com/">Cinta Vidal</a></small><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/como-ser-feliz">Como ser feliz</a>
 - <a href="/duvidar-para-fazer-as-perguntas-certas">Duvidar para fazer as perguntas certas</a>
 - <a href="/basta-estar-vivo">Basta estar vivo</a>
+</div>

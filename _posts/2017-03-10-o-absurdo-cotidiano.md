@@ -22,9 +22,10 @@ Depois de pensar tudo isso, percebi que o trecho lotado de carros que me impedia
 Cena do clipe da música “[Everybody Hurts](https://www.youtube.com/watch?v=5rOiW_xY-kc)”, do R.E.M.
 
 
-#arte #reflexão
+#arte #reflexão<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/as-primeiras-horas-da-manha">As primeiras horas da manhã</a>
 - <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>
 - <a href="/viver-o-trabalho">Viver o trabalho</a>
+</div>

@@ -21,9 +21,10 @@ Mas nem mesmo a ciência é assim tão escrava da regularidade quanto parece. Mu
 
 A indução pura e simples, essa que nos traz a satisfação da crença certa no pôr do sol ou no enredo batido da próxima novela, só nos serve até certo ponto. [Se nada fosse estranho](https://marcosramon.net/blog/coisas-estranhas-acontecem), se tudo fosse absolutamente previsível, ninguém iria suportar a vida. Por isso, se apesar de tudo ainda queremos viver, é porque existe mais do que o óbvio pelo caminho. E que bom que é assim.
 
-#Realidade #conhecimento 
+#Realidade #conhecimento<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-maior-derrota-que-se-pode-ter">A maior derrota que se pode ter</a>
 - <a href="/a-solidao-que-precisamos">A solidão que precisamos</a>
 - <a href="/eles-sabem-o-que-eu-nao-sei">Eles sabem o que eu não sei</a>
+</div>

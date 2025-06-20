@@ -24,9 +24,12 @@ Essa cultura quase exclusiva de entretenimento e diversão (temas debatidos no l
 
 Civilização do espetáculo? Sim. Fim da cultura. Acredito (e espero) que não.
 
-#arte #cultura 
+#arte #cultura
 
-<h3>Leia também:</h3>
+<div class="leia-tambem" markdown="1">
+## Leia também:
+
 - <a href="/que-cultura">Que cultura</a>
 - <a href="/fazer-so-o-que-da-para-fazer">Fazer só o que dá para fazer</a>
 - <a href="/html-import2017-01-31os-contos-e-suas-releituras-9eb43ceb3df6">2017-01-31_Os-contos-e-suas-releituras-9eb43ceb3df6</a>
+</div>

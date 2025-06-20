@@ -27,10 +27,10 @@ Apesar do medo, acho que vale muito pensar sobre isso para internalizar o eviden
 <small>Le Port au soleil couchant (1892), por Paul Signac</small>
 
 #Tempo #Realidade 
+<div class="leia-tambem" markdown="1">
+## Leia também:
 
----
-
-<h3>Leia também:</h3>
 - <a href="/tudo-no-lugar-certo">Tudo no lugar certo</a>
 - <a href="/e-so-o-tempo-que-passa">É só o tempo que passa</a>
 - <a href="/eu-e-o-tempo">Eu e o tempo</a>
+</div>

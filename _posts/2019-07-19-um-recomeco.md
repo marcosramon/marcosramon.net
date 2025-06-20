@@ -19,11 +19,10 @@ permalink: um-recomeco
 
 Jorge Luis Borges, escrevendo sobre Platão, disse certa vez que viver é uma coisa triste, porque nos sabemos finitos e insistimos em crer na eternidade; seja a nossa, a do mundo ou a do que julgamos verdadeiro e definitivo. Melhor é aceitar a limitação que nos cerca, e viver aprendendo a recomeçar, sem medo, sem apego, sabendo ser só o que somos e mais nada.
 
-![](recomeco.PNG)
+![](recomeco.PNG)<div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
 - <a href="/e-so-um-algoritmo">É só um algoritmo</a>
 - <a href="/escrever-um-diario">Escrever um diário</a>
+</div>

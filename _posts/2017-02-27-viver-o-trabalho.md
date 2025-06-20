@@ -20,9 +20,10 @@ Um exemplo: hoje, segunda-feira de carnaval, fui com minha família almoçar em 
 Ilustração de [Simón Prades](http://simonprades.tumblr.com/)
 
 
-#arte #cultura
+#arte #cultura<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>
 - <a href="/distraidos">Distraídos</a>
 - <a href="/escrever-um-diario">Escrever um diário</a>
+</div>

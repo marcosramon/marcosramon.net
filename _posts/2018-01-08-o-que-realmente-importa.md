@@ -23,12 +23,10 @@ Mas se o pensamento positivo não se aprende e a possibilidade de viver daquilo 
 
 
 #comportamento #pensamento
+<div class="leia-tambem" markdown="1">
+## Leia também:
 
----
-
-
-
-<h3>Leia também:</h3>
 - <a href="/o-que-ainda-pode-mudar">O que ainda pode mudar</a>
 - <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+</div>

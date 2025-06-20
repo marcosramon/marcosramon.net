@@ -18,11 +18,10 @@ Mas considerando que isso é simplesmente viver, não é aqui o caso de dizer qu
 
 Na semana passada passei por uma situação dessas em que pensei: "tudo isso poderia ser diferente se..." Mas esse "se" não é uma possibilidade de mudança e sim um martírio. Eu tento me convencer de que eu não preciso dele. O que eu preciso é de força para transformar a frustração em impulso para continuar vivendo e realizando algo em que eu acredito. 
 
-Será que dá pra chamar isso de otimismo? 
+Será que dá pra chamar isso de otimismo?<div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/eles-sabem-o-que-eu-nao-sei">Eles sabem o que eu não sei</a>
 - <a href="/fazer-so-o-que-da-para-fazer">Fazer só o que dá para fazer</a>
 - <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>
+</div>

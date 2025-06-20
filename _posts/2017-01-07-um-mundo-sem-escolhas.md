@@ -20,9 +20,10 @@ Existem muitas coisas na vida que escapam ao nosso controle; acontece com qualqu
 “Transparent God”, escultura em papel de [Peter Callesen](http://www.petercallesen.com/paper/large-scale-papercuts/).
 
 
-#cultura #comunicação
+#cultura #comunicação<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-que-todo-mundo-e">O que todo mundo é</a>
 - <a href="/escrever-um-diario">Escrever um diário</a>
 - <a href="/todos-iguais">Todos iguais</a>
+</div>

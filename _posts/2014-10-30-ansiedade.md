@@ -19,11 +19,10 @@ Ansiedade... coisa terrível.
 [^1]: Mas se nós continuamos sentindo medo mesmo assim isso se dá por motivos que naturalmente o nosso corpo não entende.
 
 ![the gif connoisseur](https://66.media.tumblr.com/6a368aa785dfe1fa254e6efe0ec6d446/tumblr_ngsk7rtKRf1rwk5rgo1_500.gifv)
-*[The gif connoisseur](http://thegifconnoisseur.tumblr.com/)*
+*[The gif connoisseur](http://thegifconnoisseur.tumblr.com/)*<div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/a-experiencia-negativa">A experiência negativa</a>
 - <a href="/trabalho-antes-de-tudo">Trabalho, antes de tudo</a>
 - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
+</div>

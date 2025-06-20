@@ -19,9 +19,10 @@ Em um momento de [Pergunte ao Pó](http://amzn.to/2njuFvJ), John Fante escreveu:
 Ilustração de [Mark Conlan](http://markconlan.com/)
 
 
-#arte #internet
+#arte #internet<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
 - <a href="/pessoas-e-horarios">Pessoas e horários</a>
 - <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
+</div>

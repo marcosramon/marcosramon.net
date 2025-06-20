@@ -23,11 +23,10 @@ Mas espero que eu esteja errado. Afinal, todo mundo sabe que escola é só escol
 
 ***
 
-[^1]: Se uma aula de ética pudesse tornar automaticamente alguém ético, seria simples: colocávamos todos os políticos corruptos em uma sala de aula com 60h de aula de ética e pronto, tudo resolvido. Mas você sabe que não é assim, não é mesmo?
+[^1]: Se uma aula de ética pudesse tornar automaticamente alguém ético, seria simples: colocávamos todos os políticos corruptos em uma sala de aula com 60h de aula de ética e pronto, tudo resolvido. Mas você sabe que não é assim, não é mesmo?<div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/escola-em-tempo-integral">Escola em tempo integral</a>
 - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
 - <a href="/duvidar-para-fazer-as-perguntas-certas">Duvidar para fazer as perguntas certas</a>
+</div>

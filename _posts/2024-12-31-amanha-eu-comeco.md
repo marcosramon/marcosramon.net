@@ -15,9 +15,10 @@ Amanhã eu começo um novo ano. Como todas as vezes, vou dedicar um tempo para p
 E de alguma forma, as encontro. Porque as soluções são intermináveis (estão sempre nos cercando aos montes) e porque não há modo de viver senão buscando um caminho para seguir. Para mim, é o suficiente. Acreditar que vale a pena começar ainda agora, amanhã, [sempre](https://publish.obsidian.md/marcos-ramon/eu-e-o-tempo).
 
 ![](arquivos/Pasted%20image%2020250224203921.png)
-*Colagem de <a href="https://keelertornero.com/">Keeler Tornero</a>*
+*Colagem de <a href="https://keelertornero.com/">Keeler Tornero</a>*<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/fazer-o-melhor-que-eu-posso">Fazer o melhor que eu posso</a>
 - <a href="/o-possivel-amanha">O possível amanhã</a>
 - <a href="/eles-sabem-o-que-eu-nao-sei">Eles sabem o que eu não sei</a>
+</div>

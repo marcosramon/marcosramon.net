@@ -48,9 +48,10 @@ Também aqui foi necessária uma edição, pois termos/palavras como “coisa”
 Claro que esse é apenas um exercício, um novo jeito de olhar para um produto cultural. O que me interessa aqui, como objeto de pesquisa que pretendo continuar desenvolvendo, é pensar a transformação do discurso falado em escrito, em conjunto com a representação desse discurso. Afinal, uma coisa é escrever e ler o que você escreveu; você mede as palavras, escolhe os conceitos etc. Agora, falar e ver a sua fala transformada em texto é uma experiência totalmente diferente. E é isso que quero pesquisar daqui pra frente.
 
 
-#política #cultura
+#política #cultura<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-hora-e-a-vez-do-podcast">A hora e a vez do podcast</a>
 - <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>
 - <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>
+</div>

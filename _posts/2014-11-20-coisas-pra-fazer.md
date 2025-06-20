@@ -16,11 +16,10 @@ Sobre esse último item, agorinha mesmo estava conversando com a minha esposa so
 
 Hoje pela manhã consegui acordar às 06h00 pra ir pra academia. Estava lá tinha uns vinte minutos quando apareceu um vizinho. Eu sei que não era pra ter problema nenhum nisso. Afinal, ele faz o exercício dele e eu faço o meu. Mas a presença de outra pessoa ali, querendo puxar assunto enquanto usa a esteira ou faz abdominal, me dá uma *gastura* terrível.
 
-Enfim, o cara chegou e eu saí. Mas tá vendo, não faço atividade física por causa dos outros, que querem utilizar os mesmos espaços que eu. A culpa não é minha, é?
+Enfim, o cara chegou e eu saí. Mas tá vendo, não faço atividade física por causa dos outros, que querem utilizar os mesmos espaços que eu. A culpa não é minha, é?<div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/duvidar-para-fazer-as-perguntas-certas">Duvidar para fazer as perguntas certas</a>
 - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
 - <a href="/fazer-o-melhor-que-eu-posso">Fazer o melhor que eu posso</a>
+</div>

@@ -19,9 +19,10 @@ Mas as coisas acontecem apenas por acontecer. Nada _tem_ que ser assim, ou de qu
 
 Infelizmente, nada disso existe.
 
-#reflexão #Realidade 
+#reflexão #Realidade<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
 - <a href="/o-que-todo-mundo-e">O que todo mundo é</a>
 - <a href="/como-ser-feliz">Como ser feliz</a>
+</div>

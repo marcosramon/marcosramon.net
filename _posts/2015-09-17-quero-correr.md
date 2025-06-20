@@ -21,11 +21,10 @@ Quero correr pra me entregar ao que existe de mais primitivo e visceral em mim, 
 Pra ser uma coisa viva, não quero mais pensar. Só quero correr.
 
 <img src="/assets/img/Pasted image 20250310152531.png">
-*Cena do filme [Corra, Lola, Corra](http://www.imdb.com/title/tt0130827/)*
+*Cena do filme [Corra, Lola, Corra](http://www.imdb.com/title/tt0130827/)*<div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/nao-quero-saber">Não quero saber</a>
 - <a href="/o-mesmo-pra-sempre">O mesmo, pra sempre</a>
 - <a href="/rita-lee-o-livro">Rita lee (o livro)</a>
+</div>

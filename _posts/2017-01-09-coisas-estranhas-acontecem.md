@@ -21,11 +21,10 @@ Na verdade, mesmo a maior parte das explicações ditas racionais guardam muito 
 Coisas estranhas acontecem, o tempo todo, com todo mundo. Treinamos o nosso olhar — por que nos ensinaram a vida toda a fazer isso — para ver com desprezo essas coisas estranhas e inexplicáveis. E assim vamos perdendo o encanto de entender o mundo como ele é: um lugar em que mesmo o previsível guarda sempre alguma magia e surpresa.
 
 <img src="/assets/img/estranhas.png">
-<small>Coisas estranhas acontecem. Não necessariamente assim, mas acontecem.</small>
+<small>Coisas estranhas acontecem. Não necessariamente assim, mas acontecem.</small><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/coisas-estranhas-que-eu-vi-recentemente">Coisas estranhas que eu vi recentemente</a>
 - <a href="/a-realidade-se-impoe">A realidade se impõe</a>
 - <a href="/como-ser-feliz">Como ser feliz</a>
+</div>

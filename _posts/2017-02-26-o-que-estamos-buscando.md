@@ -19,9 +19,10 @@ Comprar um Nokia 3310, um toca discos, uma câmera analógica e um nintendinho 8
 ![](https://cdn-images-1.medium.com/max/800/1*lUk9h4dmfPUBOCyhf7p8iw.jpeg)
 
 
-#Consumo #tecnologia
+#Consumo #tecnologia<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
 - <a href="/estamos-perdidos">Estamos perdidos</a>
 - <a href="/o-que-todo-mundo-e">O que todo mundo é</a>
+</div>

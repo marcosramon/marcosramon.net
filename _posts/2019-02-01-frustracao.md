@@ -15,11 +15,10 @@ Nesse contexto, vale dizer que tudo o que implica em sensibilidade é difícil d
 
 Pra mim, frustração é como se um buraco se abrisse na minha cabeça e começasse a expulsar de lá todos os pensamentos positivos que eu tenho. Só o que fica é a própria sensação de me ver insatisfeito por não ter aquilo que eu queria, que eu esperava. Não deixar que as coisas importantes não se percam no meio desse processo é o exercício que eu me imponho sempre que a frustração chega perto. Mas, olha, não é simples.
 
-<img src="/assets/img/frustração.jpg">
+<img src="/assets/img/frustração.jpg"><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/como-ser-feliz">Como ser feliz</a>
 - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
 - <a href="/encarar-o-sofrimento">Encarar o sofrimento</a>
+</div>

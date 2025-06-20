@@ -14,9 +14,10 @@ author: Marcos Ramon
 <img src="/assets/img/o-“problema”-de-aprender-medium.png">
 
 
-#educação #pensamentos
+#educação #pensamentos<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>
 - <a href="/o-desespero-de-ter-que-existir-para-os-outros">O desespero de ter que existir para os outros</a>
 - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
+</div>

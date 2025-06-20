@@ -18,12 +18,10 @@ A realidade, contudo, acaba se impondo em algum momento da existência. O que no
 ![](https://cdn-images-1.medium.com/max/1000/1*lr8WSFT0BkfboyePTxfdCA.jpeg)
 
 <small>Fotografia de <a href="https://www.lorealprystaj.com/">Loreal Prystaj</a></small>
+<div class="leia-tambem" markdown="1">
+## Leia também:
 
----
-
-
-
-<h3>Leia também:</h3>
 - <a href="/a-maior-derrota-que-se-pode-ter">A maior derrota que se pode ter</a>
 - <a href="/desejo-e-realidade">Desejo e realidade</a>
 - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+</div>

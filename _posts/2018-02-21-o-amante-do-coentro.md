@@ -18,9 +18,10 @@ Quando ele escolheu — e foram só dois maços — eu já estava nas la
 <img src="/assets/img/o-amante-do coentro-medium.jpg">
 
 
-#pensamentos #ética
+#pensamentos #ética<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
 - <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>
 - <a href="/entender-o-tempo">Entender o tempo</a>
+</div>

@@ -25,9 +25,10 @@ Sim, todos nós poderíamos viver sem arte, e é por isso que [Oscar Wilde](http
 Devemos lutar pelo básico, porque a vida precisa, em primeiro lugar, ser vivida. Mas depois precisamos recorrer à arte para não nos afundarmos na funcionalidade e na praticidade de tudo. Afinal, é a arte que nos torna mais humanos, mais conscientes de nós e dos outros. No fim, penso que é tudo um jogo de equilíbrio. Equilíbrio entre a loucura e a sanidade, entre a verdade e a arte. E se tiver que perder o equilíbrio, escolha a arte. Sempre a arte.
 
 
-#arte #cultura
+#arte #cultura<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/todos-iguais">Todos iguais</a>
 - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
 - <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>
+</div>

@@ -31,9 +31,10 @@ De um jeito estranho, acho bonito isso. Pensar que [a realidade que nos cerca of
 
 <img src="/assets/img/somdarua.png">
 
-#som #cotidiano
+#som #cotidiano<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>
 - <a href="/o-cotidiano-da-sala-de-aula">O cotidiano da sala de aula</a>
 - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+</div>

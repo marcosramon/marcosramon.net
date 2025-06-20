@@ -21,9 +21,10 @@ Escrevo aqui meio em tom de crítica e sarcasmo, mas o fato é que nem sei direi
 Gif criado por [Andrey Kasay](http://andreykasay.com/wall/)
 
 
-#pensamentos #comunicação
+#pensamentos #comunicação<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-beleza-do-absurdo">A beleza do absurdo</a>
 - <a href="/sentir-se-preso">Sentir-se preso</a>
 - <a href="/colagem">Colagem</a>
+</div>

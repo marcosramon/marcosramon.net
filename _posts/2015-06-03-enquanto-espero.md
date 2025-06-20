@@ -16,11 +16,10 @@ Esperar (esperar qualquer coisa!) é difícil porque nessa situação nos vemos 
 
 Claro que existem as distrações: um livro, um biscoito, uma *timeline* infinita no *smartphone*. Mas as distrações são só isso, distrações. Entre uma e outra - e enquanto esperamos - temos que confrontar quem somos, temos que encarar *o que* somos. E isso é difícil, eu sei... 
 
-Mas uma coisa que eu já entendi da vida é que sempre teremos tempo para aprender a fazer melhor as coisas que são vitais e necessárias pra gente. Aprender é um processo longo e demorado, mas aqui não precisa de pressa. É só ter calma, e esperar.
+Mas uma coisa que eu já entendi da vida é que sempre teremos tempo para aprender a fazer melhor as coisas que são vitais e necessárias pra gente. Aprender é um processo longo e demorado, mas aqui não precisa de pressa. É só ter calma, e esperar.<div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
 - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
 - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+</div>

@@ -91,9 +91,10 @@ Vou deixar aqui algumas dicas rápidas de outros podcasts bacanas que descobri n
 Bem, é isso. Espero que as minhas reflexões e indicações sejam úteis de alguma forma para você. Eu não disse isso até aqui, mas eu também faço podcasts ([_Ficções_](http://www.marcosramon.net/ficcoes), com narrativas filosóficas, e o [_Soma_](http://www.marcosramon.net/soma), com experimentações sonoras). Você pode conseguir mais informações sobre eles [aqui](http://www.marcosramon.net/podcast) ou no meu [blog, em que escrevo sobre diversos assuntos](http://www.arcano5.com.br/).
 
 
-#podcast #cultura
+#podcast #cultura<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
 - <a href="/a-hora-e-a-vez-do-podcast">A hora e a vez do podcast</a>
 - <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>
+</div>

@@ -20,11 +20,10 @@ Mas aí eu me lembro de coisas absurdas que presencio, e acabo me sentindo tenta
 Não dá pra entender que exista uma meta de felicidade na quantidade de despropósito que se vê todo dia. Gente amargurada, brigando pra ver tudo dar errado. Não é a felicidade que se busca, mas é sempre o sonho da felicidade que nos resta.
 
 <img src="/assets/img/Tsinganos.jpeg">
-<small>Ilustração de <a href="http://www.tsinganos.com/">Jim Tsinganos</a></small>
+<small>Ilustração de <a href="http://www.tsinganos.com/">Jim Tsinganos</a></small><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
 - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+</div>

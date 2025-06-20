@@ -20,9 +20,10 @@ O que fica nas entrelinhas às vezes pode ser bem mais interessante do que aquil
 Ilustração de [Martino Pietropoli](https://medium.com/u/eef82c79dda2)
 
 
-#arte #livros
+#arte #livros<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
 - <a href="/o-que-precisamos-consertar">O que precisamos consertar</a>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+</div>

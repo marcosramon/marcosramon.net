@@ -52,9 +52,10 @@ _13. O trabalho é a máscara mortuária de sua concepção.”_
 <img src="/assets/img/treze-teses-para-escritores-medium.jpeg">
 
 
-#filosofia #escrita
+#filosofia #escrita<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/cidades-para-pessoas">Cidades para pessoas</a>
 - <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
 - <a href="/desistir">Desistir</a>
+</div>

@@ -21,9 +21,10 @@ Enfim, diante da praticidade da vida, sejamos práticos. Vamos deixar a beleza e
 Colagem feita por [Alma Haser](http://t.umblr.com/redirect?z=http%3A%2F%2Finagblog.com%2F2017%2F12%2Falma-haser-2%2F&t=OWVlZjAzYjA0ODhlZjAxNjkyNjU1NDYxNWY0MWY4YTIxZjlkOTRhZSx6MG90ZEUzUw%3D%3D&b=t%3AzKlSaLqaQhc7E80OjET1Pg&p=http%3A%2F%2Flustik.tumblr.com%2Fpost%2F168571776917%2Fineedaguide-artworks-by-alma-haser&m=1)
 
 
-#pensamentos #música
+#pensamentos #música<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/encontrar-um-caminho">Encontrar um caminho</a>
 - <a href="/a-beleza-do-absurdo">A beleza do absurdo</a>
 - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
+</div>

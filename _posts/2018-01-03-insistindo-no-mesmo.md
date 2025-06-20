@@ -25,9 +25,10 @@ A maior parte do que é produzido na internet é feito de maneira a ser palatáv
 
 Foto de [Dudi Ben Simon](https://www.instagram.com/dudibensimon/)
 
-#cultura #arte
+#cultura #arte<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-arte-depois-da-arte">A arte depois da arte</a>
 - <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>
 - <a href="/distraidos">Distraídos</a>
+</div>

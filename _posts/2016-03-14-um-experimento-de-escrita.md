@@ -30,9 +30,10 @@ Aqui embaixo você pode ver o grafo criado a partir do _Infranodus_ para esse te
 <img src="/assets/img/um-experimento-de escrita-medium.png">
 
 
-#pensamentos #Escrever
+#pensamentos #Escrever<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/um-parque-uma-descoberta">Um parque, uma descoberta</a>
 - <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>
 - <a href="/alerta-de-spoiler">Alerta de spoiler</a>
+</div>

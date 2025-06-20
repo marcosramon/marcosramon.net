@@ -19,9 +19,10 @@ Engraçado essa separação social, estabelecida por horários e circunstâncias
 
 
 
-#arte #escrita
+#arte #escrita<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
 - <a href="/desejo-e-realidade">Desejo e realidade</a>
 - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
+</div>

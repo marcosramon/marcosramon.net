@@ -27,12 +27,10 @@ De qualquer forma, ao pensar sobre aquilo que eu sou, tenho dificuldade em me ob
 <small><i>Weird Trees</i>, fotografia de <a href="http://www.markbartkiw.com/">Mark Bartkiw</a></small>
 
 #filosofia #reflexão 
+<div class="leia-tambem" markdown="1">
+## Leia também:
 
----
-
-
-
-<h3>Leia também:</h3>
 - <a href="/a-realidade-e-nos-mesmos-ficcoes">A realidade e nós mesmos — Ficções</a>
 - <a href="/saber-a-felicidade">Saber a felicidade</a>
 - <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
+</div>

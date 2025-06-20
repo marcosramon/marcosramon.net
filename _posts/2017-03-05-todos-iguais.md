@@ -21,9 +21,10 @@ Estamos em um mundo que nos pressiona para aceitarmos a padronização. E se é 
 Gif criado por [Adam Pizurny](http://adampizurny.tumblr.com/)
 
 
-#arte #cultura
+#arte #cultura<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/necessidades-basicas">Necessidades básicas</a>
 - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
 - <a href="/escrever-um-diario">Escrever um diário</a>
+</div>

@@ -22,11 +22,10 @@ Muitas frases de Sartre como “nós somos o que fazemos do que fazem de nós”
 
 O existencialismo discute o absurdo da existência e sua popularidade se deve provavelmente ao fato de que percebemos esse absurdo em nossas próprias vidas. Isso, claro, sem menosprezar o talento de Jean-Paul Sartre, Albert Camus, Gabriel Marcel, Karl Jaspers e tantos outros que se alinharam ao existencialismo e defenderam a ideia de que, mesmo aceitando a condição conflituosa da existência, devemos viver a vida com responsabilidade e dignidade, com a autoconsciência de quem acredita que adquire uma essência apenas após o nascimento, dando a si mesmo um caminho que é único e, por isso mesmo, belo e pleno.  
 
-<img src="/assets/img/791EBB12-6161-48DE-87AF-E374222C255C.jpeg">
+<img src="/assets/img/791EBB12-6161-48DE-87AF-E374222C255C.jpeg"><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
 - <a href="/mais-de-nos-mesmos">Mais de nós mesmos</a>
+</div>

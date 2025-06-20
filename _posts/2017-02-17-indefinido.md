@@ -20,9 +20,10 @@ A vida humana é puro movimento. Cada momento da nossa existência exige transfo
 Fotografia de [Csenge Vass](https://www.behance.net/gallery/33409681/PCKT-TRNSPRNT?utm_medium=email&utm_source=transactional&utm_campaign=faketivity-digest)
 
 
-#arte #educação
+#arte #educação<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-que-precisamos-consertar">O que precisamos consertar</a>
 - <a href="/aprendendo">Aprendendo</a>
 - <a href="/se-perder-no-caminho">Se perder no caminho</a>
+</div>

@@ -24,9 +24,10 @@ Por outro lado, sempre podemos aprender com o que os outros disseram e escrevera
 [Jackson Pollock](https://g.co/kgs/NglZkD) em seu estúdio
 
 
-#pensamentos #política
+#pensamentos #política<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/coragem">Coragem</a>
 - <a href="/aprender-a-olhar">Aprender a olhar</a>
 - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+</div>

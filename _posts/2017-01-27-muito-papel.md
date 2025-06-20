@@ -18,9 +18,10 @@ Mas não vai ser assim, porque as coisas sabem a hora certa de sumir e de se esc
 <img src="/assets/img/muito-papel-medium.jpeg">
 
 
-#pensamentos #pensamento
+#pensamentos #pensamento<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/viver-esquecendo">Viver esquecendo</a>
 - <a href="/a-materia-das-memorias">A matéria das memórias</a>
 - <a href="/uma-semana-nas-ferias">Uma semana nas férias</a>
+</div>

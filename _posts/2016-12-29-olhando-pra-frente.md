@@ -28,9 +28,10 @@ _Feliz Ano Novo._
  _Brasília, 29/12/2016_
 
 
-#filosofia #reflexão
+#filosofia #reflexão<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-realidade-e-nos-mesmos">A realidade e nós mesmos</a>
 - <a href="/saber-a-felicidade">Saber a felicidade</a>
 - <a href="/uma-vida-sem-reflexao">Uma vida sem reflexão</a>
+</div>

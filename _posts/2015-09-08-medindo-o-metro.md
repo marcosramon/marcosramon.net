@@ -20,11 +20,10 @@ Ou pior: ele estava planejando um assalto ou atentado ou algo maligno assim... E
 
 Senti um frio na espinha, típico de que está fazendo o que não devia. Então percebi que ele ia me falar alguma coisa. *"Eu só gosto de medir"*, ele disse, com voz calma e paciente, como se tivesse percebido a minha curiosidade. 
 
-Na verdade, a explicação dele foi desestimulante, justamente porque me tirou do meu processo de imaginação/invenção. Mas eu não disse nada. Apenas dei um sorrisinho condescendente e tratei de não olhar mais pra ele. Durante o resto da viagem (faltavam duas estações ainda antes de eu descer) ficamos cada um na sua. Ele, contente, medindo a porta do metrô; e eu, entediado, sem poder especular sobre aquilo que não era pra ter resposta.
+Na verdade, a explicação dele foi desestimulante, justamente porque me tirou do meu processo de imaginação/invenção. Mas eu não disse nada. Apenas dei um sorrisinho condescendente e tratei de não olhar mais pra ele. Durante o resto da viagem (faltavam duas estações ainda antes de eu descer) ficamos cada um na sua. Ele, contente, medindo a porta do metrô; e eu, entediado, sem poder especular sobre aquilo que não era pra ter resposta.<div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/alguem-sabe-o-que-esta-fazendo">Alguém sabe o que está fazendo</a>
 - <a href="/como-se-importar-muito-com-o-que-nao-importa">Como se importar muito com o que não importa</a>
 - <a href="/eles-sabem-o-que-eu-nao-sei">Eles sabem o que eu não sei</a>
+</div>

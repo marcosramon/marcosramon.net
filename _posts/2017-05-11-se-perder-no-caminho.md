@@ -22,9 +22,10 @@ Mesmo assim, entendo que a reflexão sobre a rapidez das coisas é necessária�
 Gif criado por [Julien Douvier](http://juliendouvier.tumblr.com/)
 
 
-#arte #educação
+#arte #educação<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-que-precisamos-consertar">O que precisamos consertar</a>
 - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
 - <a href="/indefinido">Indefinido</a>
+</div>

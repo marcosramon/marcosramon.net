@@ -52,9 +52,10 @@ não quero pensar
 <img src="/assets/img/caminhando-longe-de tudo-medium.jpg">
 
 
-#pensamentos #conhecimento
+#pensamentos #conhecimento<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>
 - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
 - <a href="/alerta-de-spoiler">Alerta de spoiler</a>
+</div>

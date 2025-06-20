@@ -28,12 +28,10 @@ Não vou ser injusto aqui. Ainda existe muita gente que possui respeito pelo con
 Por isso, ensinar qualquer coisa hoje é um desafio gigantesco. Não pela dificuldade em se fazer entender, mas pela resistência que as pessoas têm àquilo que foi produzido por outros. Se o desenvolvimento cognitivo é aquilo que nos distingue de todos os outros animais (para o bem e para o mal), quando abandonamos a crença no saber, desistimos também de nós mesmos. E não é razoável imaginar que esse é o melhor caminho para seguir.
 
 #filosofia #educação #ensino 
+<div class="leia-tambem" markdown="1">
+## Leia também:
 
----
-
-
-
-<h3>Leia também:</h3>
 - <a href="/ensinar-e-dificil">Ensinar é difícil</a>
 - <a href="/alguem-sabe-o-que-esta-fazendo">Alguém sabe o que está fazendo</a>
 - <a href="/de-onde-vem-o-conhecimento">De onde vem o conhecimento</a>
+</div>

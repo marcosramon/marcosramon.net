@@ -19,9 +19,10 @@ Quando consideramos que outras pessoas fazem sempre as suas escolhas de forma co
 <img src="/assets/img/um-mundo-s`ó` meu-medium.jpeg">
 
 
-#pensamentos #livros
+#pensamentos #livros<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/interagir-so-com-quem-se-precisa">Interagir só com quem se precisa</a>
 - <a href="/encontrar-um-caminho">Encontrar um caminho</a>
 - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+</div>

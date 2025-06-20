@@ -22,11 +22,10 @@ O consumo nos transformou em pessoas completamente ridículas, ao ponto de ficar
 Mais do que reclamar o que eu preciso é me controlar pra não me afundar mais e mais nisso (sim, porque eu também sou um consumista igualzinho a você[^1]) colaborando assim pra que o mundo seja um pouqinho menos deprimente. Não é fácil...
   
   
-[^1]: Um exemplo: não gosto de McDonalds, mas gastei um dinheirão comprando todos os [brinquedos do Super Mario](http://instagram.com/p/vWMevhvnlM) que foram lançados nesse mês. Não precisava de mais bonecos aqui em casa, mas...
+[^1]: Um exemplo: não gosto de McDonalds, mas gastei um dinheirão comprando todos os [brinquedos do Super Mario](http://instagram.com/p/vWMevhvnlM) que foram lançados nesse mês. Não precisava de mais bonecos aqui em casa, mas...<div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>
 - <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
 - <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>
+</div>

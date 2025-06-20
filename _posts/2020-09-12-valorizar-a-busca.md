@@ -23,11 +23,10 @@ Mas nessa conta é preciso considerar que nem sempre o tesouro é verdadeiro. Te
 <img src="/assets/img/rogue.jpeg">
 <small>Grafite do artista <a href="https://www.facebook.com/R0GUE0NER/">Rogue-one</a></small>
 
-[^1]: Por isso a filosofia de [Kant](https://g.co/kgs/SGS6yq), que afirma que não conhecemos tudo, pode ainda assim ser estimulante. Não precisamos saber todas as coisas, nem descobrir o mundo como ele realmente é. O prazer pelo conhecimento continua mesmo com nossas limitações. Na verdade, é ao saber as limitações que temos que a busca pelo conhecimento se torna mais necessária.
+[^1]: Por isso a filosofia de [Kant](https://g.co/kgs/SGS6yq), que afirma que não conhecemos tudo, pode ainda assim ser estimulante. Não precisamos saber todas as coisas, nem descobrir o mundo como ele realmente é. O prazer pelo conhecimento continua mesmo com nossas limitações. Na verdade, é ao saber as limitações que temos que a busca pelo conhecimento se torna mais necessária.<div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/valorizar-a-busca">Valorizar a busca</a>
 - <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+</div>

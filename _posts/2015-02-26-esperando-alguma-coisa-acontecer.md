@@ -20,11 +20,10 @@ Mas a questão é que a gente não foi preparado pra lidar com as obviedades na 
 
 Eu não tenho nenhuma dessas habilidades e, apesar de acreditar que a gente sempre é capaz de aprender, imagino que dificilmente vou atingir algo parecido com um ponto de equilíbrio em relação à isso.
 
-Como ninguém tem culpa de nada (já que cada faz de sua vida o que quer e trata os outros com a displicência que lhe convier - não é isso também a liberdade?) o que vou fazer é simplesmente ficar olhando o tempo passar e esperando alguma coisa acontecer. Alguma coisa vai acontecer?
+Como ninguém tem culpa de nada (já que cada faz de sua vida o que quer e trata os outros com a displicência que lhe convier - não é isso também a liberdade?) o que vou fazer é simplesmente ficar olhando o tempo passar e esperando alguma coisa acontecer. Alguma coisa vai acontecer?<div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/a-coisa-mais-importante">A coisa mais importante</a>
 - <a href="/ficcoes-00-apresentacao">Ficções #00   apresentação</a>
 - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
+</div>

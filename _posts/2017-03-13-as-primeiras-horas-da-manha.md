@@ -20,9 +20,10 @@ A segunda vantagem da manhã — e essa tem a ver diretamente com a vida urb
 <small>Hoje pela manhã</small>
 
 
-#arte #reflexão
+#arte #reflexão<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-absurdo-cotidiano">O absurdo cotidiano</a>
 - <a href="/pessoas-e-horarios">Pessoas e horários</a>
 - <a href="/perspectiva">Perspectiva</a>
+</div>

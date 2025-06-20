@@ -19,13 +19,10 @@ A única explicação que consigo imaginar para isso é uma esperteza da naturez
 <small>Ilustração de <a href="https://www.behance.net/plato_o">JaeHoon Choi</a></small>
 
 #reflexão #cotidiano #angústia
+<div class="leia-tambem" markdown="1">
+## Leia também:
 
----
-
-
-
-
-<h3>Leia também:</h3>
 - <a href="/a-solidao-liberta">A solidão liberta</a>
 - <a href="/uma-vida-sem-reflexao">Uma vida sem reflexão</a>
 - <a href="/a-maior-derrota-que-se-pode-ter">A maior derrota que se pode ter</a>
+</div>

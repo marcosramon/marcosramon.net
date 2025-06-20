@@ -22,9 +22,10 @@ Um bicho, não, um monstro escapa dos meus olhos, varrendo os dias a procurar ma
 Colagem de [Julia Geiser](http://julia-geiser.ch/post/144503242859)
 
 
-#sociedade #educação
+#sociedade #educação<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/saudades">Saudades</a>
 - <a href="/o-que-todo-mundo-e">O que todo mundo é</a>
 - <a href="/formacao-e-trajetoria">Formação e trajetória</a>
+</div>

@@ -19,9 +19,10 @@ Como comentei agorinha, o jeito de postar também interfere na frequência e qua
 
 Mas no fundo tudo é desculpa pra eu não fazer o que devia fazer. É estranho ter a sensação de que eu não tenho mais algo relevante a dizer. Mas refletir por meio do texto tem que ser algo que faz mais sentido pra mim do que para os outros. Então, tenho um recado para você (leitor ou leitora da minha imaginação): você vai ver mais entradas aqui nesse blog. Porque ainda gosto de escrever. Porque escrever me ajuda a pensar melhor. Porque preciso acreditar que não fiquei estagnado no tempo. 😊
 
-#Escrever #blog 
+#Escrever #blog<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-cotidiano-da-sala-de-aula">O cotidiano da sala de aula</a>
 - <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>
 - <a href="/o-tempo">O tempo</a>
+</div>

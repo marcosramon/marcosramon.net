@@ -25,9 +25,10 @@ Se você já leu o [_It_](http://amzn.to/2x7w3n9), não vai querer ler ou não l
 Usei o último quadrinho no meu #inktober. Acompanhe os [outros desenhos no instagram](https://www.instagram.com/mrtollens/).
 
 
-#pensamentos #informação
+#pensamentos #informação<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/alerta-de-spoilers">Alerta de spoilers</a>
 - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
 - <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>
+</div>

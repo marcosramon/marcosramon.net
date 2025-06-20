@@ -22,9 +22,10 @@ A rotina não mata ninguém mas é, sem dúvida alguma, uma prisão voluntária,
 Ilustração de [Natalie Adkins](http://natalieadkinsdraws.tumblr.com/post/153432912387)
 
 
-#filosofia #internet
+#filosofia #internet<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>
 - <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>
 - <a href="/prefiro-o-risco">Prefiro o risco</a>
+</div>

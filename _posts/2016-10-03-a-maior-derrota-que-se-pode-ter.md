@@ -22,9 +22,10 @@ Somos personagens de nós mesmos e aprendemos isso desde cedo. Alguns (aqueles q
 Ilustração de [Dalbert](http://dalbertdraws.tumblr.com/).
 
 
-#cotidiano #sociedade
+#cotidiano #sociedade<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-necessidade-de-estar-inteiro">A necessidade de estar inteiro</a>
 - <a href="/a-solidao-a-liberdade-e-a-felicidade-possivel">A solidão, a liberdade e a felicidade possível</a>
 - <a href="/a-experiencia-negativa">A experiência negativa</a>
+</div>

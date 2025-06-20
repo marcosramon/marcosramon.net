@@ -16,11 +16,10 @@ Não sei dizer com precisão se em alguma outra época as coisas podem ter sido 
 
 Penso que não. Vivemos com um excesso de informações, historiografias, dados e elocubrações sobre o passado da humanidade. Mas essa idolatria da memória coletiva tem um preço: o desvinculamento de cada um consigo mesmo.
 
-Para vivermos de forma mais digna, precisamos esquecer o que somos como humanidade e como espécie. Só assim, só com esse nível de esquecimento, haverá espaço para lembrarmos o que existe de essencial em cada um de nós: nossos cheiros, desafios, cortes e desejos.  
+Para vivermos de forma mais digna, precisamos esquecer o que somos como humanidade e como espécie. Só assim, só com esse nível de esquecimento, haverá espaço para lembrarmos o que existe de essencial em cada um de nós: nossos cheiros, desafios, cortes e desejos.<div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/a-releitura-como-forma-de-reencontro">A releitura como forma de reencontro</a>
 - <a href="/mais-de-nos-mesmos">Mais de nós mesmos</a>
 - <a href="/a-inquietude-de-existir">A inquietude de existir</a>
+</div>

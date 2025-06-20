@@ -20,9 +20,10 @@ Quando eu penso nessas coisas esqueço que podia ser mais simples viver sem perg
 
 <img src="/assets/img/baloon.jpeg">
 
-#filosofia #realidade
+#filosofia #realidade<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
 - <a href="/e-so-um-algoritmo">É só um algoritmo</a>
 - <a href="/e-so-o-tempo-que-passa">É só o tempo que passa</a>
+</div>

@@ -99,9 +99,10 @@ Se você acessar o [primeiro grafo em maior resolução](https://dl.dropboxuserc
 
 Enfim, esse é um primeiro exercício e a ideia é avançar na coleta e análise de dados para entender melhor o desenvolvimento do podcast no Brasil.
 
-#Grafos #pesquisa
+#Grafos #pesquisa<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/visualizando-as-letras-do-bob-dylan">Visualizando as letras do Bob Dylan</a>
 - <a href="/visualizando-letras-de-musica-como-networks">Visualizando letras de música como networks</a>
 - <a href="/analise-de-um-forum-de-ead">Análise de um Fórum de EAD</a>
+</div>

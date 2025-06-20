@@ -25,11 +25,10 @@ A arte, por meio de sua condição alegórica, reflete mais do que o passado [^1
 
 
 <img src="/assets/img/benjamin.jpg">
-<small><i>Foto por Gisèle Freund (Walter Benjamin na Biblioteca Nacional de Paris, 1937)</i></small>
+<small><i>Foto por Gisèle Freund (Walter Benjamin na Biblioteca Nacional de Paris, 1937)</i></small><div class="leia-tambem" markdown="1">
+## Leia também:
 
-
-
-<h3>Leia também:</h3>
 - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
 - <a href="/o-cotidiano-da-sala-de-aula">O cotidiano da sala de aula</a>
+</div>

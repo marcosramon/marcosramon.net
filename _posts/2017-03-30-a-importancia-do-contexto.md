@@ -20,9 +20,10 @@ Colocada fora de contexto, a frase parece adequada ao propósito da campanha. Ma
 Pode parecer pouco relevante tudo isso, já que a maior parte das pessoas que viu a campanha nunca leu Schopenhauer e não tem o menor interesse em saber qual era o propósito original da frase que ilustra a foto acima. No entanto, se foram utilizadas frases e não apenas imagens, é porque os criadores da ação entenderam que era preciso aliar conceitos às fotografias, o que, nesse caso, se mostrou uma depreciação do próprio projeto. Talvez uma breve pesquisa no Google já mostrasse que Schopenhauer era, além de um grande escritor e filósofo de ideias refinadas, um homem típico de seu tempo, defensor de ideias que hoje são rechaçadas e precisam ser questionadas. Usar textos célebres é interessante, mas o contexto em que eles foram criados também importa, e muito.
 
 
-#arte #música
+#arte #música<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/quando-a-arte-nos-define">Quando a arte nos define</a>
 - <a href="/valorizar-a-busca">Valorizar a busca</a>
 - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
+</div>

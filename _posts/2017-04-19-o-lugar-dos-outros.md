@@ -24,9 +24,10 @@ No lugar de se colocar no lugar do outro (lugar que é só desse outro e nunca s
 Esculturas de metal de [Zadok Ben-David](http://zadokbendavid.com/)
 
 
-#comportamento #cultura
+#comportamento #cultura<div class="leia-tambem" markdown="1">
+## Leia também:
 
-<h3>Leia também:</h3>
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
 - <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
 - <a href="/o-possivel-amanha">O possível amanhã</a>
+</div>
