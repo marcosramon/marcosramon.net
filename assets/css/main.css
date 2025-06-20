@@ -158,41 +158,33 @@
   margin-bottom: 2rem; /* Adiciona espaço antes do corpo do texto */
 }
 
-/* Opção 1: Caixa Refinada */
+/* Opção 2: Lista Minimalista */
 .leia-tambem {
-  background-color: #f8f9fa;
-  border-left: 3px solid #007bff; /* Borda um pouco mais fina */
-  padding: 1.2em 1.5em; /* Um pouco menos de padding vertical */
-  margin: 2em 0;
-  border-radius: 4px;
+  /* Removemos o fundo e a borda da caixa */
+  margin: 3em 0; /* Aumentamos a margem para dar mais respiro */
 }
 
 .leia-tambem h2 {
   margin-top: 0;
-  margin-bottom: 1em;
-  font-size: 1.1em; /* Título um pouco menor */
-  font-weight: 600; /* Um pouco mais de peso */
+  margin-bottom: 0.5em;
+  font-size: 0.9em; /* Título menor que o corpo do texto */
+  font-weight: bold;
+  letter-spacing: 0.1em; /* Espaçamento entre letras para dar estilo */
+  text-transform: uppercase; /* Tudo em maiúsculas */
+  color: #555;
 }
 
 .leia-tambem ul {
   list-style: none;
-  padding-left: 0;
+  padding: 0;
   margin: 0;
-  font-size: 0.9em; /* IMPORTANTE: Deixa o texto dos links 10% menor que o corpo */
+  border-top: 1px solid #eee; /* A linha separadora */
+  padding-top: 1em; /* Espaço entre a linha e o primeiro link */
+  font-size: 0.9em; /* Texto dos links menor */
 }
 
 .leia-tambem ul li {
-  padding: 0.3em 0; /* Espaçamento mais sutil entre os links */
-  display: flex;
-  align-items: center;
-}
-
-/* O truque para o marcador personalizado */
-.leia-tambem ul li::before {
-  content: '→'; /* Pode ser '›', '•', ou qualquer outro símbolo */
-  margin-right: 0.7em;
-  color: #007bff; /* Cor do marcador, igual à da borda */
-  font-weight: bold;
+  padding: 0.2em 0;
 }
 
 /* VERSÃO MAIS ESPECÍFICA DO CSS */
