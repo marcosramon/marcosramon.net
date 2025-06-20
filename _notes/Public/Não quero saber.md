@@ -2,6 +2,7 @@
 title: Não quero saber
 date: 2024-12-30
 excerpt: Quem precisa saber tanta coisa?
+author: Marcos Ramon
 tags:
   - Informação
   - conhecimento

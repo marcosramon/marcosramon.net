@@ -151,6 +151,13 @@
   fieldset[disabled] .textarea {
     cursor: not-allowed; }
 
+.post-meta {
+  font-size: 0.9em;
+  color: #828282; /* Um tom de cinza, ajuste se necessário */
+  margin-top: -0.8rem; /* Puxa o texto para mais perto do título */
+  margin-bottom: 2rem; /* Adiciona espaço antes do corpo do texto */
+}
+
 /*! minireset.css v0.0.6 | MIT License | github.com/jgthms/minireset.css */
 html,
 body,

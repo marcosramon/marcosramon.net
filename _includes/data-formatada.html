@@ -1,0 +1,24 @@
+{%- comment -%}
+Este include recebe uma data e a formata como "DD de MÊS de AAAA" em português.
+Uso: {% include data-formatada.html data=page.date %}
+{%- endcomment -%}
+{%- assign d = include.data | date: "%-d" -%}
+{%- assign m = include.data | date: "%-m" -%}
+{%- assign y = include.data | date: "%Y" -%}
+{%- capture mes_pt -%}
+  {%- case m -%}
+    {%- when '1' -%}janeiro
+    {%- when '2' -%}fevereiro
+    {%- when '3' -%}março
+    {%- when '4' -%}abril
+    {%- when '5' -%}maio
+    {%- when '6' -%}junho
+    {%- when '7' -%}julho
+    {%- when '8' -%}agosto
+    {%- when '9' -%}setembro
+    {%- when '10' -%}outubro
+    {%- when '11' -%}novembro
+    {%- when '12' -%}dezembro
+  {%- endcase -%}
+{%- endcapture -%}
+{{- d }} de {{ mes_pt | strip }} de {{ y -}}
