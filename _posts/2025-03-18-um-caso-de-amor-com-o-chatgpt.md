@@ -112,7 +112,7 @@ Se, por um lado, é verdade que ainda são necessárias mais pesquisas, fica evi
 <div class="leia-tambem">
 ## Leia também:
 
-* [Uma reflexão sobre o podcast...](link)
-* [A transcrição do podcast “Mamilos”...](link)
-* [Sobre escrever e fazer podcasts](link)
+* <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>
+* <a href="/quando-a-arte-nos-define">Quando a arte nos define</a>
+* <a href="/a-arte-depois-da-arte">A arte depois da arte</a>
 </div>
