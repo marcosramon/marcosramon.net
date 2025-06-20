@@ -3963,4 +3963,9 @@ a.tag:hover {
   input {
     color:(--color-text-sub) !important;
   }
-  
+
+/* Correção final para o texto das notas de rodapé */
+div.footnotes p {
+  font-size: inherit; /* Faz o parágrafo HERDAR o tamanho da fonte do seu contêiner (os 0.85em) */
+  line-height: inherit; /* Opcional, mas bom para manter a consistência do espaçamento */
+}
