@@ -185,6 +185,33 @@
   padding-bottom: 0.5em; /* Espaçamento entre os links */
 }
 
+/* Bloco que contém todas as notas de rodapé */
+.footnotes {
+  margin-top: 3em; /* Mais espaço separando do texto principal */
+  font-size: 0.85em; /* O mais importante: diminui o tamanho da fonte de tudo dentro */
+  color: #555; /* Um cinza escuro em vez de preto puro, para reduzir o contraste */
+}
+
+/* Linha horizontal que geralmente separa as notas */
+.footnotes hr {
+  border-color: #ccc; /* Deixa a linha mais sutil */
+  margin-bottom: 1.5em;
+}
+
+/* Itens da lista de notas */
+.footnotes ol {
+  padding-left: 1.2em; /* Ajusta o recuo dos números */
+}
+
+.footnotes li {
+  line-height: 1.5; /* Melhora a legibilidade com um espaçamento maior entre linhas */
+}
+
+/* Remove o espaçamento extra do parágrafo dentro da nota */
+.footnotes li p {
+  margin-bottom: 0.8em;
+}
+
 /*! minireset.css v0.0.6 | MIT License | github.com/jgthms/minireset.css */
 html,
 body,
