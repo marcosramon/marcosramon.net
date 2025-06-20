@@ -28,17 +28,11 @@ Sempre me vi como escritor e pesquisador, e essa ideia de tentar me reinventar c
 
 Obrigado mesmo a você que me ouviu até aqui. Foi realmente muito animador sentir que as coisas que eu faço importam e que o que eu digo é relevante para outras pessoas. Mas a vida é mais do que essa vaidade que eu sinto e que me move a continuar fazendo o podcast. Em algum momento, novos episódios do Ficções vão chegar, mas não sei quando. Agora, por exemplo, não tenho a menor vontade de gravar. Já falei demais. Acho que agora é hora de ouvir, e escrever. 
 
-<img src="/assets/img//arquivos/tolis2.jpg">
+<img src="/assets/img/tolis2.jpg">
 
 [^1]: E eu falo isso com propriedade porque, por muito tempo, antes de entrar na Universidade, fazer fanzine era a coisa que mais me animava. E eu me dediquei muito, mas muito mesmo, a esse tipo de produção. Quantos zines, xerox, colagens, cartas e selos de um centavo passaram por mim... E hoje, nada disso existe mais.
 
 [^2]: Por uma dessas coincidências bizarras que acabam acontecendo, comecei a ver uma discussão recente sobre produção de podcasts justamente agora que decidi publicar esse texto. Se você está por fora, o Cris Dias resumiu bem a questão [nesse texto](https://medium.com/@crisdias/por-que-podcast-brasileiro-%C3%A9-pior-que-os-americanos-3dd5cdd4658b). Enfim, eu já tinha começado a escrever o que coloco aqui bem antes do Twitter ficar inundado por essa polêmica e me parece que esse não é o melhor momento para eu ser mais um falando sobre produção de podcasts no Brasil. Assim, ainda que eu mencione algumas questões mais gerais, é importante ratificar que a proposta aqui é falar sobre o *meu* envolvimento com o podcast, em um texto mais direcionado a quem escuta o Ficções. Qualquer generalização é só isso mesmo. Nada demais.
-
-
-
-
-> [!podcast] Sobre o podcast Ficções.
- 
 
 <h3>Leia também:</h3>
 - <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>

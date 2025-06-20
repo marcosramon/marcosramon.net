@@ -35,7 +35,7 @@ Não desmereço a arte clássica que está nos museus, mas a arte da rua está m
 #arte #cultura 
 
 ---
-> Leia também:
-> - [[2018-01-12-leo-pipo|Leo & Pipo]]
-> - [[2019-04-20-quando-a-arte-nos-define|Quando a arte nos define]]
-> - [[2014-09-22-nao-existe-arte-pop|Não existe arte pop]]
+<h3> Leia também:</h3>
+ - [[2018-01-12-leo-pipo|Leo & Pipo]]
+ - [[2019-04-20-quando-a-arte-nos-define|Quando a arte nos define]]
+ - [[2014-09-22-nao-existe-arte-pop|Não existe arte pop]]
