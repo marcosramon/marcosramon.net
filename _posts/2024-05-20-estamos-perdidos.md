@@ -31,7 +31,7 @@ Era óbvio. Sempre foi. Eu não vi porque não quis.
 <img src="/assets/img/smartphone-surreal.png">
 *Imagem criada com o Midjourney. Prompt: "surreal photography, a smartphone talking, as someone who is helping someone else, AI, 4k --ar 4:5 --style raw"*
 
-#tecnologia #comportamento #inteligência-artificial<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/olhando-com-cuidado">Olhando com cuidado</a>

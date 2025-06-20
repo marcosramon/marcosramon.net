@@ -19,7 +19,7 @@ Nada disso é novidade. Esse embate entre o outro e o mesmo existe desde sempre.
 <img src="/assets/img/Pasted image 20250227084111.png">
 <small>Fotografia por <a href="https://monicamofart.com/">Monica Carvalho</a></small>
 
-#cotidiano #comportamento<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>

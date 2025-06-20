@@ -23,7 +23,7 @@ Não sou contra feriados e nem sou um _workaholic_. Aliás, se eu pudesse não t
 _Ilustração de_ [_Christoph Niemann_](http://www.christophniemann.com)
 
 
-#reflexão #comportamento<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>

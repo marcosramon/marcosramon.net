@@ -25,7 +25,7 @@ Hoje, os meus procedimentos são um misto do analógico com o digital. Tudo que 
 Eu só tive acesso a computadores e internet bem tarde, quando entrei na universidade. Assim, a minha experiência com tudo o que eu faço ainda é uma experiência do passado. Eu sei que as crianças de hoje, inseridas desde sempre em um mundo em que a tecnologia digital é onipresente, terão outras experiências e percepções sobre o que é a memória e as sensações. Mas é justamente por isso acho empolgante estar vivo hoje, podendo perceber tantas mudanças acontecendo diante dos meus olhos. Encontrar meus papéis antigos me dá uma sensação de conforto e me traz memórias de coisas que já vivi, mas não quero olhar só para o passado. O futuro chega a cada instante e o que ele traz parece bom demais para vivermos só do que já passou.
 
 
-#escrita #cotidiano<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>

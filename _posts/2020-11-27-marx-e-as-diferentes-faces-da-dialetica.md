@@ -40,7 +40,7 @@ E aqui, nesse exemplo, acho que a compreensão de Marx se junta com a de Hegel, 
 
 > [!info] Esse texto foi escrito para a minha participação no [8º Colóquio sobre a Pesquisa em EPT](https://www.even3.com.br/ccpep/), que aconteceu em 27 de Novembro de 2020.
 
-#pesquisa #dialética<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>

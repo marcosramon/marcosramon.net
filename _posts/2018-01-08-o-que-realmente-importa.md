@@ -19,10 +19,6 @@ Mas se o pensamento positivo não se aprende e a possibilidade de viver daquilo 
 
 <small>Ilustração de <a href="http://www.hyuro.es/">Hyuro</a></small>
 
-#comportamento 
-
-
-#comportamento #pensamento
 <div class="leia-tambem" markdown="1">
 ## Leia também:
 

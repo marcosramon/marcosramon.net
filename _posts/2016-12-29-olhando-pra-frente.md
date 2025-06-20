@@ -28,7 +28,7 @@ _Feliz Ano Novo._
  _Brasília, 29/12/2016_
 
 
-#filosofia #reflexão<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/a-realidade-e-nos-mesmos">A realidade e nós mesmos</a>

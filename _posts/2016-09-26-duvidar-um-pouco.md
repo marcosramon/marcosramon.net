@@ -22,7 +22,7 @@ Mas pra resolver isso não precisamos abandonar a informação, só precisamos d
 <img src="/assets/img/duvidar-um pouco-medium.png">
 
 
-#tecnologia #comportamento<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/estamos-perdidos">Estamos perdidos</a>

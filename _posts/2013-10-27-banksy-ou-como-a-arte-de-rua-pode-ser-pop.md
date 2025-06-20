@@ -21,7 +21,7 @@ Mas será que é bacana um artista de rua ser tão _mainstream_? Na verdade, ach
 O purismo do artista que faz a arte pela arte renegando a fama e a idolatria não traz, necessariamente, vantagem nenhuma pra arte. Além disso, todo mundo gosta de reconhecimento. E por que isso seria ruim?
 
 
-#arte #grafos<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/nao-existe-arte-pop">Não existe arte pop</a>

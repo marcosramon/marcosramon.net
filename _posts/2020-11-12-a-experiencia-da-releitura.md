@@ -24,7 +24,7 @@ Depois de terminados esses dois livros (os únicos que já tinha lido de Arthur 
 
 [^1]: Em algumas traduções aparece como *O Signo dos Quatro*.
 
-#leitura #livros<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>

@@ -27,7 +27,7 @@ O que eu temia antes do anúncio do [Switch](http://www.nintendo.com/switch/) er
 <img src="/assets/img/a-nintendo-continua-a-mesma — ainda bem-medium-3.jpeg">
 
 
-#arte #cultura<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>

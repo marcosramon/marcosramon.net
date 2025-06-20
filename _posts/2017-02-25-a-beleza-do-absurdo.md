@@ -20,7 +20,7 @@ Um prazer gigantesco que eu tenho é colecionar esses absurdos na internet. Faç
 Um dos sapatos de [Anna Vasof](https://vimeo.com/annavasof)
 
 
-#pensamentos #comunicação<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/sentir-se-preso">Sentir-se preso</a>

@@ -19,7 +19,7 @@ Mas as coisas acontecem apenas por acontecer. Nada _tem_ que ser assim, ou de qu
 
 Infelizmente, nada disso existe.
 
-#reflexão #Realidade<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>

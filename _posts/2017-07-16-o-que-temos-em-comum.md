@@ -20,7 +20,7 @@ Mas eu vejo beleza nessas contradições. Apesar de todas as diferenças sociais
 Ilustração de [James Lipnickas](https://www.instagram.com/jameslipnickasart/)
 
 
-#pensamentos #leitura<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>

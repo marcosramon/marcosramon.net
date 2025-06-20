@@ -14,7 +14,7 @@ author: Marcos Ramon
 <img src="/assets/img/o-“problema”-de-aprender-medium.png">
 
 
-#educação #pensamentos<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>

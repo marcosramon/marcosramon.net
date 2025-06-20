@@ -31,7 +31,7 @@ De um jeito estranho, acho bonito isso. Pensar que [a realidade que nos cerca of
 
 <img src="/assets/img/somdarua.png">
 
-#som #cotidiano<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>

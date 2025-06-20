@@ -21,7 +21,7 @@ Não caia nessa. Para adquirir autoconhecimento basta estar vivo. E tentar, erra
 Ilustração de [Andrea Ucini](https://www.behance.net/uciniandrec1fd)
 
 
-#pensamentos #ciência<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/interagir-so-com-quem-se-precisa">Interagir só com quem se precisa</a>

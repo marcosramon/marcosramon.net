@@ -26,7 +26,7 @@ Achei interessante fazer isso como uma extensão de um experimento que eu já ti
 
 Não sei bem o que fazer com essas coisas, mas vou continuar testando possibilidades. Ah, montei também uma playlist no Spotify com a seleção do [Eduardo Friedman](https://medium.com/u/4c7cd2bb169b):
 
-#música #Grafos<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/visualizando-a-hashtag-diadopodcast">Visualizando a hashtag diadopodcast</a>

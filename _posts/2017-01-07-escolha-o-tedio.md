@@ -18,7 +18,7 @@ Se eu tiver que dar apenas uma dica para os futuros pais — e pros atuais t
 <img src="/assets/img/escolha-o tédio-medium.png">
 
 
-#pensamentos #cotidiano<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>

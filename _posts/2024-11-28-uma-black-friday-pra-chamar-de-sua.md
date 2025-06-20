@@ -30,7 +30,7 @@ Na última edição do Oscar, [Jimmy Kimmel disse que Christopher Nolan não tem
 
 Da mesma forma, quanto dinheiro uma pessoa precisa ter para não se importar com a Black Friday? Eu não posso não me importar. Simples assim.
 
-#Consumo #comportamento<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/uma-imagem-de-nos">Uma imagem de nós</a>

@@ -30,7 +30,7 @@ _Marcos Ramon, 25/10/2016_
 _Se você gosta das coisas que eu produzo na internet e quiser me apoiar,_ [_compre um dos meus livros_](http://www.marcosramon.net/livros/) _e/ou divulgue o meu trabalho pra outras pessoas na internet._
 
 
-#arte #cotidiano<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/de-onde-vem-o-conhecimento">De onde vem o conhecimento</a>

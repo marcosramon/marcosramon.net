@@ -26,7 +26,7 @@ A vida como músico não deu certo, e às vezes eu quero acreditar que no meu tr
 Imaginar que temos um propósito na vida é um jeito bom de dar significado para o que fazemos (e de ter forças para continuar criando).
 
 
-#arte #ensino<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>

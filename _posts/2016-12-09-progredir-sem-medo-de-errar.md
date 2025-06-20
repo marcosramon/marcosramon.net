@@ -26,7 +26,7 @@ Aprender, da forma como eu vejo, é _progredir_ e não simplesmente _acertar_. N
 O conhecimento não é uma caixinha de ideias certas e erradas dentro da cabeça.
 
 
-#ensino #pensamentos<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/passividade">Passividade</a>

@@ -29,7 +29,6 @@ Todo mundo devia ser professor.
 <img src="/assets/img/Pasted image 20250226101624.png">
 <small>Pintura de <a href="https://www.behance.net/Oskadesign">Oska</a></small>
 
-#ensino #educação 
 <div class="leia-tambem" markdown="1">
 ## Leia também:
 

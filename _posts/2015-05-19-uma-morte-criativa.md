@@ -32,7 +32,7 @@ Existem muitos críticos desse tipo de argumentação, sendo o mais notório Nie
 E eu acredito nisso? Não sei ao certo, mas o assunto certamente me deixou intrigado e atento para que, quando a hora chegar, eu pelo menos desperte do sono — e do jeito certo.
 
 
-#arte #filosofia<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>

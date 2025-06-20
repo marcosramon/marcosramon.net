@@ -19,7 +19,7 @@ Outra coisa que vi, e que entra na categoria do que é inexplicável, foi uma mu
 <img src="/assets/img/coisas-estranhas-que-eu-vi-recentemente-medium.png">
 
 
-#pensamentos #comportamento<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/entender-o-tempo">Entender o tempo</a>

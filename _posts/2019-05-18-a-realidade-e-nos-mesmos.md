@@ -26,7 +26,6 @@ De qualquer forma, ao pensar sobre aquilo que eu sou, tenho dificuldade em me ob
 <img src="/assets/img/Weird_Trees_Mark_Bartkiw.jpg">
 <small><i>Weird Trees</i>, fotografia de <a href="http://www.markbartkiw.com/">Mark Bartkiw</a></small>
 
-#filosofia #reflexão 
 <div class="leia-tambem" markdown="1">
 ## Leia também:
 

@@ -21,7 +21,7 @@ Ter a sensação de que nos encontramos na vida comunitária com prazer e satisf
 Gif criado por [Kiszkiloszki](http://kiszkiloszki.tumblr.com/)
 
 
-#arte #sociedade<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/star-wars-eu-e-os-outros">Star Wars, eu e os outros</a>

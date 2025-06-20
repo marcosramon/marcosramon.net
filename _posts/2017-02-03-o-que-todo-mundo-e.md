@@ -24,7 +24,7 @@ Mas isso não significa que precisamos ficar fechados em nossa própria realidad
 “Blown away”, escultura de [Jim Bond](http://www.jimbond.co.uk/sculpture3.htm)
 
 
-#sociedade #cultura<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>

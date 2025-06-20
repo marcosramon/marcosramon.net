@@ -19,7 +19,7 @@ Em um momento de [Pergunte ao Pó](http://amzn.to/2njuFvJ), John Fante escreveu:
 Ilustração de [Mark Conlan](http://markconlan.com/)
 
 
-#arte #internet<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>

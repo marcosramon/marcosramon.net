@@ -58,7 +58,7 @@ _“Muitas vezes eu disse que esse homem iria ou enlouquecer ou nos ultrapassar.
 _Van Gogh — Amendoeira em flor, 1890_
 
 
-#arte #comportamento<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>

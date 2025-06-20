@@ -28,7 +28,7 @@ Chegaram os hambúrgueres. Vou pra casa. 😉
 Colagem de [Tristram Mason](https://br.pinterest.com/pin/633387425123140/)
 
 
-#pensamentos #cotidiano<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>

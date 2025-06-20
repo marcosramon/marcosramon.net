@@ -24,7 +24,7 @@ Quando conhecemos um profissional que faz minimamente bem o que deve fazer, esqu
 
 [^1]: Na verdade, se ela é esquisita é muito mais por outros motivos, que mobilizam a personagem e movem a história que, apesar de tudo, não se encerra (como eu já disse) em uma reflexão sobre o trabalho.
 
-#trabalho #cultura<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>

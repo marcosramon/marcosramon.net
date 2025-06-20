@@ -52,7 +52,7 @@ _13. O trabalho é a máscara mortuária de sua concepção.”_
 <img src="/assets/img/treze-teses-para-escritores-medium.jpeg">
 
 
-#filosofia #escrita<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/cidades-para-pessoas">Cidades para pessoas</a>

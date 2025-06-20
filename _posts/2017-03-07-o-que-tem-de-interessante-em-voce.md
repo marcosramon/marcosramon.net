@@ -19,7 +19,7 @@ Olhe para si buscando o que há de interessante na pessoa que você é. Nem todo
 Pintura de [Martin Honasan](http://martinhonasan.tumblr.com/)
 
 
-#cotidiano #comportamento<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-que-e-ter-uma-carreira">O que é ter uma carreira</a>

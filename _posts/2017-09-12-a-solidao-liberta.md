@@ -18,7 +18,6 @@ Se sentir só é terrível. Mas todo mundo precisa passar por isso, para entende
 ![](https://cdn-images-1.medium.com/max/1000/1*yiihhvHnbyflXFTaiJ5_yw.png)
 
 
-#cotidiano #reflexão
 <div class="leia-tambem" markdown="1">
 ## Leia também:
 

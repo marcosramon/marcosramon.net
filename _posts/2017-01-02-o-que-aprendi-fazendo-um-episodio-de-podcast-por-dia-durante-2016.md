@@ -48,7 +48,7 @@ De qualquer forma, agora eu volto com o [Ficções](http://www.marcosramon.net/f
 <img src="/assets/img/o-que-aprendi-fazendo-um-episódio-de-podcast-por-dia-durante 2016-medium-2.png">
 
 
-#arte #filosofia<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>

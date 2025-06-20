@@ -20,7 +20,7 @@ Não existem fatos nas memórias. As lembranças são feitas de sonhos, vontades
 Foto de [Paul Schneggenburger](http://www.schneggenburger.at/)
 
 
-#pensamentos #pensamento<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/a-ausencia-da-memoria">A ausência da memória</a>

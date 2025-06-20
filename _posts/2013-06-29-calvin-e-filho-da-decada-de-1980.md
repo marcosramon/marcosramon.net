@@ -30,7 +30,7 @@ Lendo Calvin você certamente já se deparou com uma ou outra tirinha que trata 
 Pois é, é isso. Agora vou parar isso aqui e ler mais umas tirinhas...
 
 
-#arte #quadrinhos<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/eu-sei">Eu sei</a>

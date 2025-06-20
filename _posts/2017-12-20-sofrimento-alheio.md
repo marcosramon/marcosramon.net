@@ -21,7 +21,7 @@ O reconhecimento do sofrimento alheio traz, portanto, uma sensação de pertenci
 Pintura de [Kristin Vestgard](http://www.kristinvestgard.com/paintings.html)
 
 
-#pensamentos #podcast<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>

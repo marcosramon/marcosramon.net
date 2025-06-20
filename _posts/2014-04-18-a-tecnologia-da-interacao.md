@@ -18,7 +18,7 @@ Sendo assim, e considerando a quantidade de vezes que eu já li alguém dizendo 
 
 <img src="/assets/img/a-tecnologia-da-interação-medium.jpg">
 
-#tecnologia #sociedade<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/a-leitura-na-internet-esta-mais-confortavel">A leitura na internet está mais confortável</a>

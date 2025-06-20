@@ -19,7 +19,7 @@ De acordo com isso, fica fácil entender a pedagogia de Rousseau como um esforç
 Colagem criada por [Beth Hoeckel](http://bethhoeckel.com/)
 
 
-#filosofia #Ética<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/a-necessidade-de-estar-inteiro">A necessidade de estar inteiro</a>

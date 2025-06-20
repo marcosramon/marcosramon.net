@@ -21,7 +21,7 @@ O melhor talvez seja aceitar essa condição e compreender que a comunicação, 
 Poesia de [Erica Baum](https://en.wikipedia.org/wiki/Erica_Baum)
 
 
-#arte #cultura<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/todos-iguais">Todos iguais</a>

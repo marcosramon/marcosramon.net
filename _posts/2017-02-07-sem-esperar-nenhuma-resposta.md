@@ -20,7 +20,7 @@ Existe leveza, beleza e calma na vida. Queria encontrar esse meio-termo, achar e
 Foto de [Greg Girard](http://www.greggirard.com/)
 
 
-#pensamentos #arte<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/um-parque-uma-descoberta">Um parque, uma descoberta</a>

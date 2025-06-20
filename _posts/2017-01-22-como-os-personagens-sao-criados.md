@@ -23,7 +23,7 @@ Uma coisa que sempre vou querer saber, mas que imagino que nenhum escritor saiba
 [O Senhor das Moscas](http://amzn.to/2keJX3T), de William Golding
 
 
-#arte #comportamento<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>

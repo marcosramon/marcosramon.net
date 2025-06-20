@@ -25,7 +25,7 @@ Tive muitos professores bons. Eram pessoas que, ainda que não fossem a maioria,
 ![](https://cdn-images-1.medium.com/max/1000/1*CDK7Q_IYLituHNei_37RKA.jpeg)
 
 
-#ensino #educação<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>

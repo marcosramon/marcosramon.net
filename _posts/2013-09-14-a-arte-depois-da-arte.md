@@ -32,7 +32,7 @@ Não desmereço a arte clássica que está nos museus, mas a arte da rua está m
 <img src="/assets/img/Pasted image 20250305150611.png">
 <small><i>Pom Pom Girl</i>, intervenção de <a href="http://www.sandrine-estrade-boulet.com/sandrine_boulet/pom_pom_girl.html">Sandrine Boulet</a></small>
 
-#arte #cultura<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/leo-pipo">Leo & Pipo</a>

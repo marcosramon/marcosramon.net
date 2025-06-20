@@ -105,7 +105,6 @@ Se, por um lado, é verdade que ainda são necessárias mais pesquisas, fica evi
 <img src="/assets/img/robot-love.png">
 <small>Adobe Stock</small>
 
-#inteligência-artificial #tecnologia 
 <div class="leia-tambem" markdown="1">
 
 <div class="leia-tambem" markdown="1">

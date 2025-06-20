@@ -20,7 +20,7 @@ Quando eu penso nessas coisas esqueço que podia ser mais simples viver sem perg
 
 <img src="/assets/img/baloon.jpeg">
 
-#filosofia #realidade<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>

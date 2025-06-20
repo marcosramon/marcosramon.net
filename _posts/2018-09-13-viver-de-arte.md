@@ -20,7 +20,7 @@ Tudo isso ainda pode soar estranho para quem pensa a arte como uma atividade que
 
 A obra de Warhol certamente não agrada a todos (e nem deveria, como tudo na vida), mas ele deixou para todos nós um legado importante no que se refere à percepção do artista: quem trabalha com arte também precisa viver e por isso é importante saber vender o seu trabalho. Muitos não fizeram isso e foram reconhecidos apenas postumamente — outros, nunca saberemos quem foram. Warhol queria ser, e foi, um artista de sua época, e colocou o consumo e o entretenimento em foco, ora exaltando o modo de vida das sociedades capitalistas, ora cutucando nossas mazelas. Um dos maiores artistas do século XX, um homem de negócios, um visionário? Escolha a versão que quiser. Warhol foi tudo isso.
 
-#arte #Consumo<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/nao-existe-arte-pop">Não existe arte pop</a>

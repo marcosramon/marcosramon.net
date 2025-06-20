@@ -22,7 +22,7 @@ Mas [Nietzsche não achava que devíamos destruir o apolíneo em nós](http://am
 <img src="/assets/img/more.jpeg">
 “More Legends”, por [Nathalie Gaouyer](http://nathaliegaouyer.tumblr.com/post/146803678912/more-legends)
 
-#estética #filosofia<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/a-beleza-do-absurdo">A beleza do absurdo</a>

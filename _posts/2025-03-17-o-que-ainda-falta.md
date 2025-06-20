@@ -26,7 +26,6 @@ Apesar do medo, acho que vale muito pensar sobre isso para internalizar o eviden
 <img src="/assets/img/signac.png">
 <small>Le Port au soleil couchant (1892), por Paul Signac</small>
 
-#Tempo #Realidade 
 <div class="leia-tambem" markdown="1">
 ## Leia também:
 

@@ -21,7 +21,7 @@ Não me entenda mal. Eu sou consumista. E talvez até demais. E é por isso que 
 <img src="/assets/img/dia-de comprar-medium.png">
 
 
-#comportamento #arte<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>

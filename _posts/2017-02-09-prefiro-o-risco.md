@@ -20,7 +20,7 @@ Apesar de achar que deveria seguir sempre na direção das certezas, é o acaso 
 Ilustração de [Michał Dziekan](http://michaldziekan.tumblr.com/)
 
 
-#pensamentos #internet<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>

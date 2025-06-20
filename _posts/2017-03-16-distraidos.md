@@ -22,7 +22,7 @@ Mas aqui está outra interpretação errada: a fragilidade não é um mal. Ela �
 Gif criado por [Janneke Meekes](http://jannekemeekes.tumblr.com/)
 
 
-#arte #cultura<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/viver-o-trabalho">Viver o trabalho</a>

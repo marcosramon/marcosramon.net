@@ -20,7 +20,7 @@ Ninguém conseguiria contar de si realmente tudo o que viveu, porque não dá pr
 Fotografia de [Arianna Pagani](http://www.ariannapagani.com/)
 
 
-#pensamentos #consumo<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>

@@ -18,7 +18,7 @@ Quando ele escolheu — e foram só dois maços — eu já estava nas la
 <img src="/assets/img/o-amante-do coentro-medium.jpg">
 
 
-#pensamentos #ética<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>

@@ -20,7 +20,7 @@ Parte dessa confusão, acredito, tem a ver com a sensação de que uma competiç
 Foto de [Kristina Makeeva](https://www.instagram.com/hobopeeba/)
 
 
-#arte #política<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>

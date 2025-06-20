@@ -21,7 +21,7 @@ Aprender a não desperdiçar nada de bom: um mantra eterno.
 Ilustração de [Matt Blease](http://mattblease.tumblr.com/)
 
 
-#pensamentos #comportamento<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/para-entender-o-nosso-tempo">Para entender o nosso tempo</a>

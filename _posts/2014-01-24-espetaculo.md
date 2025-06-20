@@ -24,8 +24,6 @@ Essa cultura quase exclusiva de entretenimento e diversão (temas debatidos no l
 
 Civilização do espetáculo? Sim. Fim da cultura. Acredito (e espero) que não.
 
-#arte #cultura
-
 <div class="leia-tambem" markdown="1">
 ## Leia também:
 

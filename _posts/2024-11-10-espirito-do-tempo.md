@@ -38,7 +38,7 @@ O que sei mesmo é que é difícil ser gente.
 
 <img src="/assets/img/Pasted image 20250225130037.png">
 
-#música #comportamento<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/a-burocracia-do-cotidiano">A burocracia do cotidiano</a>

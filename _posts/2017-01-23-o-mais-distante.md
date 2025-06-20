@@ -20,7 +20,7 @@ De uma forma ou de outra, o autor de [_História e Utopia_](http://amzn.to/2iXzz
 Instalação de rua de [Slinkachu](http://www.slinkachu.com/)
 
 
-#pensamentos #estética<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/mais-individualismo">Mais individualismo</a>

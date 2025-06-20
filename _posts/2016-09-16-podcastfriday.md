@@ -81,7 +81,7 @@ Os fenômenos de massa sempre vão existir, em qualquer mídia que seja; mas o r
 **Update (24/09/2016, 23h)**: ontem foi o segundo dia da #PodcastFriday. Fiz uma análise comparativa aqui: #PodcastFriday, dia 2
 
 
-#filosofia #arte<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/podcastfriday-dia-2">PodcastFriday, dia 2</a>

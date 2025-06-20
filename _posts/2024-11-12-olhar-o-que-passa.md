@@ -15,7 +15,7 @@ Hoje vejo de uma forma bem diferente. Queria estar num mundo que me permitisse p
 
 Talvez seja essa, hoje, a minha definição de luxo.
 
-#Tempo #reflexão<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/e-so-o-tempo-que-passa">É só o tempo que passa</a>

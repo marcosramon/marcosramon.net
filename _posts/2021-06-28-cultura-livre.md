@@ -31,7 +31,7 @@ A beleza de um blog na internet é que ele ainda pode ser um ambiente livre de t
 [^1]: A era dos blogs não tinha acabado?
 [^2]: Esses dois apps servem para limpar a tela de tudo que é supérfluo e deixar apenas o conteúdo artigo principal. Gosto mais do Instapaper porque ele tem integração com o Kindle e manda os artigo que eu adiciono diretamente para lá. Mas o Outline é muito bom para leituras mais rápidas, no navegador mesmo.
 
-#cultura #internet<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>

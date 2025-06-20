@@ -21,7 +21,7 @@ Uma das coisas mais celebradas da modernidade é sentido de autonomia do indiví
 Grafite feito por [Anders Gjennestad](http://www.andersgjennestad.com/news.html)
 
 
-#política #sociedade<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-que-todo-mundo-e">O que todo mundo é</a>

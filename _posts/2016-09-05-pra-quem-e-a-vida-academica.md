@@ -35,7 +35,7 @@ Nem todo mundo precisa ter apreço pela leitura, pela investigação e pela refl
 ![](https://cdn-images-1.medium.com/max/1000/1*ZpCIAVXbp-ym432PkPZfcQ.png)
 
 
-#ensino #pesquisa<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/a-vida-e-uma-espera">A vida é uma espera</a>

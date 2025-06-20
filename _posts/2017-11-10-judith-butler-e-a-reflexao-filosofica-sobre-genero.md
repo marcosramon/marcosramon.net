@@ -39,7 +39,7 @@ A superação da lógica binária, na interpretação de Butler, pode nos auxili
 _Esse texto foi publicado também em formato de_ [_podcast_](https://www.marcosramon.net/ficcoes) _e_ [_vídeo_](https://youtu.be/MxVq053O-Lk)_._
 
 
-#arte #cultura<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>

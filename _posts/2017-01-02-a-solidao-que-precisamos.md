@@ -18,7 +18,7 @@ A vida é uma conquista diária e se lançar para o contato com os outros buscan
 Ilustração de [Miguel Almagro](http://miguelalmagro.tumblr.com/post/105901059402/el-rumor-de-la-algarab%C3%ADa-me-impuls%C3%B3-a-mirar)
 
 
-#pensamentos #consumo<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>

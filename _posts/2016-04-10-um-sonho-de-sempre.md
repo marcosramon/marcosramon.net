@@ -34,7 +34,7 @@ _Enfim, continuo coletando os sonhos todos os dias e vou atualizando o grafo. To
 _Update (13/06/2016): não atualizei mais o grafo como tinha me comprometido e hoje decidi parar de anotar os sonhos. Nos primeiros dias eu lembrava muito pouco do que sonhava, mas com o tempo a lembrança que chegava até mim logo que eu acordava foi ficando cada vez mais forte. Recentemente passei a ter sonhos muito ruins e percebi que anotar isso todos os dias estava me fazendo muito mal. Achei melhor parar com tudo._
 
 
-#Grafos #sonhos<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/analise-de-um-forum-de-ead">Análise de um Fórum de EAD</a>

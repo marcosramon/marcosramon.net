@@ -30,7 +30,7 @@ E com esse tipo de afirmação o que se defende, de maneira velada, é a tese de
 _O desenho apagado de De Kooning_ não é uma grande obra técnica e nem um produto de entretenimento, mas ele nos tira da monotonia e da repetição, o que, por si só, já é um grande mérito de Rauschenberg. E isso não quer dizer que, no final de tudo, ele tivesse algo de importante para nos dizer apagando aquele desenho (e por que deveria?). Afinal, às vezes uma obra de arte é só uma obra de arte, sem mais.
 
 
-#arte #cultura<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/necessidades-basicas">Necessidades básicas</a>

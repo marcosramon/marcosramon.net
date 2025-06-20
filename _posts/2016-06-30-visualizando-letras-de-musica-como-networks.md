@@ -53,7 +53,7 @@ Músicas: Airbag / Paranoid Android / Subterranean Homesick Alien / Exit Music (
 Ok Computer — Radiohead (1997)
 
 
-#pensamentos #pesquisa<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/alerta-de-spoiler">Alerta de spoiler</a>

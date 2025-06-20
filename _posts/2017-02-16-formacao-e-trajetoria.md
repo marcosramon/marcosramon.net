@@ -20,7 +20,7 @@ Toda trajetória pede um movimento constante, e é isso que a busca pelo conheci
 Ilustração de [Siggi Eggertsson](http://www.siggieggertsson.com/)
 
 
-#educação #conhecimento<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>

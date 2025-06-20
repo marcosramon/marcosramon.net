@@ -29,7 +29,7 @@ Clique [aqui](http://livrosqueestoulendo.tumblr.com/) para acessar a lista compl
 Se você tiver dicas de como podemos aproveitar melhor o nosso tempo para a leitura ou se quiser compartilhar a sua própria lista de livros (que está lendo ou já lidos), basta responder essa postagem.
 
 
-#leitura #Livros<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-tempo-e-os-livros">O tempo e os livros</a>

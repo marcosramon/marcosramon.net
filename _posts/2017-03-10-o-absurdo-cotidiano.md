@@ -22,7 +22,7 @@ Depois de pensar tudo isso, percebi que o trecho lotado de carros que me impedia
 Cena do clipe da música “[Everybody Hurts](https://www.youtube.com/watch?v=5rOiW_xY-kc)”, do R.E.M.
 
 
-#arte #reflexão<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/as-primeiras-horas-da-manha">As primeiras horas da manhã</a>

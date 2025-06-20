@@ -25,7 +25,7 @@ Fiquei olhando pela janela e imaginando alguém na chuva ouvindo aquela música.
 Não combina, mas também não tem nada de errado. Afinal, quem pode dizer que uma coisa tem ou não tem a ver com isso ou com aquilo? No final, é tudo uma tentativa de interpretar o mundo e forçar o nosso olhar sobre as coisas. Tornando o mundo algo nosso nos tornamos parte do mundo. E assim vamos seguindo, mais centrados em nossas próprias experiências e mais convictos de que temos sempre muito o que entender e sentir.
 
 
-#filosofia #arte<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>

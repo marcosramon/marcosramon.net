@@ -22,7 +22,7 @@ Um bicho, não, um monstro escapa dos meus olhos, varrendo os dias a procurar ma
 Colagem de [Julia Geiser](http://julia-geiser.ch/post/144503242859)
 
 
-#sociedade #educação<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/saudades">Saudades</a>

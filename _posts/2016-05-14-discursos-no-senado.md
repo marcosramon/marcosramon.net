@@ -33,7 +33,7 @@ Infelizmente não encontrei uma transcrição com os discursos completos dos sen
 <img src="/assets/img/discursos-no senado-medium-3.png">
 
 
-#reflexão #pensamento<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/a-experiencia-negativa">A experiência negativa</a>

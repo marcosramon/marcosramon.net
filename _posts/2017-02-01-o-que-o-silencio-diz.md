@@ -20,7 +20,7 @@ O que fica nas entrelinhas às vezes pode ser bem mais interessante do que aquil
 Ilustração de [Martino Pietropoli](https://medium.com/u/eef82c79dda2)
 
 
-#arte #livros<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>

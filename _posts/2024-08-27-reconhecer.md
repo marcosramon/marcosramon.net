@@ -16,7 +16,7 @@ Saber lidar com isso tem sido difícil, porque entendo que preciso desacelerar, 
 
 Quando me vejo preso dentro do carro, costumo abrir um pouco as janelas para respirar. Preciso arranjar um jeito de replicar isso o tempo todo.
 
-#cotidiano #pensamento<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>

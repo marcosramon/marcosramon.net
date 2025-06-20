@@ -22,7 +22,6 @@ Não consigo imaginar a minha própria vida sem a reflexão, a angústia e o com
 
 Colagem criada por <small><a href="http://marcosmtez.com/">Marcos Martínez</a></small>
 
-#filosofia #reflexão #angústia #Liberdade 
 <div class="leia-tambem" markdown="1">
 ## Leia também:
 

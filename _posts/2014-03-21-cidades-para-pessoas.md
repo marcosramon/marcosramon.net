@@ -20,7 +20,7 @@ Considerando essa realidade do ônibus apresentada no vídeo e dos espaços púb
 
 
 
-#pensamentos #escrita<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/pessoas-e-horarios">Pessoas e horários</a>

@@ -18,7 +18,7 @@ Todas essas formas de pensar pressupõem o tempo como agente externo, como aquil
 
 <img src="/assets/img/Pasted image 20250224215318.png">
 
-#Tempo #reflexão<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>

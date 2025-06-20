@@ -27,7 +27,7 @@ Não parece simples? Não precisamos de um livro de 200 páginas pra entender is
 
 Sempre vai faltar alguma coisa. E ainda assim podemos seguir, com [a felicidade que nos é possível](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9hOWRjMzQ0L3BvZGNhc3QvcnNz/episode/ZTI5NDQ4MzktNmRjYy1hYzVkLTc5YTktMTk4NjNkOTEyMDJl?sa=X&ved=0CAUQkfYCahcKEwiQpaPYx5nsAhUAAAAAHQAAAAAQBw).
 
-#Felicidade #Ética<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>

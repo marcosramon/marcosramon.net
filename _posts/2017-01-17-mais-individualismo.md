@@ -18,7 +18,7 @@ O espírito dominante da multidão é a tônica da nossa época. Basta ver as pe
 <img src="/assets/img/mais-individualismo-medium.png">
 
 
-#pensamentos #estética<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-mais-distante">O mais distante</a>

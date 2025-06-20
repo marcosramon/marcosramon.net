@@ -22,7 +22,7 @@ O século XX, contudo, implodiu, pelo menos em parte, essa homogeneização dos 
 
 Cabeza (1982), obra de [Jean-Michel Basquiat](https://g.co/kgs/5ZWDrF)
 
-#Estética #gosto<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>

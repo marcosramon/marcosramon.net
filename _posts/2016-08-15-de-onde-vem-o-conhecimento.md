@@ -22,7 +22,7 @@ A criatividade precisa de muito pouco para se desenvolver. E com a criatividade,
 Ilustração de [Sveta Dorosheva](https://www.behance.net/lattona)
 
 
-#arte #conhecimento<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>

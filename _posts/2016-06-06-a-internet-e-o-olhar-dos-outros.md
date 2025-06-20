@@ -29,7 +29,7 @@ Então, sim, tudo o que fazemos na internet faz parte do nosso currículo. Um cu
 Ilustração de [Pawel Kuczynski](https://www.facebook.com/Pawel-Kuczynski-222849284410325/?fref=nf)
 
 
-#arte #comportamento<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>

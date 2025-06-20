@@ -18,7 +18,6 @@ A única explicação que consigo imaginar para isso é uma esperteza da naturez
 
 <small>Ilustração de <a href="https://www.behance.net/plato_o">JaeHoon Choi</a></small>
 
-#reflexão #cotidiano #angústia
 <div class="leia-tambem" markdown="1">
 ## Leia também:
 

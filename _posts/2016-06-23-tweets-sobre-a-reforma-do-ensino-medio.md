@@ -28,7 +28,7 @@ Grafo feito a partir de 10.000 tweets que utilizaram a expressão “Ensino Méd
 Palavras mais utilizadas nos tweets.
 
 
-#educação #pensamentos<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/a-burocracia-do-cotidiano">A burocracia do cotidiano</a>

@@ -18,7 +18,7 @@ Aliás, se você observar bem, o fato de existirem tantas pessoas que passam uma
 Colagem criada por [Julia Lillard](http://julialillard.tumblr.com/)
 
 
-#cotidiano #comportamento<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>

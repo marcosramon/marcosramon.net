@@ -18,7 +18,7 @@ Eu sempre acreditei que a leitura me trazia uma vantagem para além do entreteni
 <img src="/assets/img/o-tempo-que-dedicamos-aos livros-medium.png">
 
 
-#arte #leitura<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>

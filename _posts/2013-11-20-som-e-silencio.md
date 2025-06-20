@@ -24,7 +24,7 @@ Somos bombardeados por estímulos visuais e sonoros o tempo todo, mas nem sempre
 <small>John Cage “preparando” o seu piano. Ele inseria objetos entre as cordas para modificar os sons do instrumento.</small>
 
 
-#pensamentos #música<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/aprender-a-olhar">Aprender a olhar</a>

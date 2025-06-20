@@ -32,7 +32,7 @@ _Fotografia de_ [_Elizabeth Gadd_](http://www.elizabethgadd.com/)
 >  E a suprema glória disto tudo, meu amor, é pensar que talvez isto não seja verdade, nem eu o creia verdadeiro. (Fernando Pessoa. Livro do desassossego — 330)
 
 
-#arte #poesia<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>

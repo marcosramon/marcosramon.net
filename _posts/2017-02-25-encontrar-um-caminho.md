@@ -20,7 +20,7 @@ Caminhar sem pensar no trajeto não é sempre um mal. Mas como no fim nós sempr
 Ilustração de [Susa Monteiro](http://susamonteiro.tumblr.com/)
 
 
-#pensamentos #música<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/aprender-a-olhar">Aprender a olhar</a>

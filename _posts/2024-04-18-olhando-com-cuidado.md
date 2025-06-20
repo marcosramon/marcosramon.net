@@ -19,7 +19,7 @@ Não sou importante, mas gostaria de ser. Esta é a única resposta que encontro
 <img src="/assets/img/Pasted image 20250302180952.png">
 <small>Ilustração criada com o Midjourney</small>
 
-#tecnologia #comportamento<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/estamos-perdidos">Estamos perdidos</a>

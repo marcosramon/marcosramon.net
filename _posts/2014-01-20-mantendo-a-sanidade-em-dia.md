@@ -42,7 +42,7 @@ Já escrevi sobre isso outras vezes e repito: eu não detesto a tecnologia, pelo
 > esse texto foi escrito em Janeiro de 2014 e relendo ele agora (comecinho de 2015) eu vejo que absolutamente nada mudou, ou seja, não me mexi nenhum pouquinho pra melhorar meus hábitos. Na verdade, só fiquei mais dependente da internet e do _smartphone_. Talvez o importante aqui seja o fato de eu não quero mudar de verdade, apesar de entender que eu deveria. Mas convencer a mim mesmo é o mais difícil…
 
 
-#comportamento #internet<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/fazer-so-o-que-da-para-fazer">Fazer só o que dá para fazer</a>

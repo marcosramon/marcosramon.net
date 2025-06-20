@@ -42,7 +42,7 @@ O perfil do [Jurandir Filho](https://medium.com/u/9922ba124ee3) ainda é, por mo
 No final da análise anterior eu questionava se a empolgação continuaria. Bem, pelo menos na segunda semana sim. Tudo bem que a proposta ainda não está sendo seguida à risca, mas não sei se isso pode ser encarado, necessariamente, como algo negativo.
 
 
-#cotidiano #filosofia<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/podcastfriday">PodcastFriday</a>

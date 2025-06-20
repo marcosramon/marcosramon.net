@@ -18,7 +18,7 @@ Ninguém consegue suportar ser outro alguém e, por isso, lá no fundo, gostarí
 
 <img src="/assets/img/pensar1.jpg">
 
-#cotidiano #comportamento<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/sempre-o-mesmo">Sempre o mesmo</a>

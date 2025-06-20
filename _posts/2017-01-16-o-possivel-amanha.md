@@ -21,7 +21,7 @@ A escola não é uma preparação para a vida e nem para o futuro. A vida já ac
 Na escola a gente aprende que a vida só chega depois.
 
 
-#educação #cultura<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/viver-o-trabalho">Viver o trabalho</a>

@@ -22,7 +22,7 @@ Viver em sociedade é olhar para o futuro. E isso implica em ter um espírito me
 <img src="/assets/img/o-que-precisamos-consertar-medium.png">
 
 
-#educação #arte<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-que-o-silencio-diz">O que o silêncio diz</a>

@@ -18,7 +18,7 @@ Mas não vai ser assim, porque as coisas sabem a hora certa de sumir e de se esc
 <img src="/assets/img/muito-papel-medium.jpeg">
 
 
-#pensamentos #pensamento<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/viver-esquecendo">Viver esquecendo</a>

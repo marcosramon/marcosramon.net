@@ -22,7 +22,7 @@ E foi justamente pensando sobre isso que me dei conta do melhor lugar para eu e 
 Gif criado por [Daniel Barreto](http://esdanielbarreto.tumblr.com/post/158762502929/faceless)
 
 
-#arte #política<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>

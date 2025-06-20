@@ -39,7 +39,7 @@ Não questiono aqui a seriedade das instituições que realizam essas pesquisas,
 Gostaria muito de conhecer um estudo que tratasse da influência das pesquisas nas decisões dos eleitores. Quem sabe um estudo assim fizesse com que essas pesquisas de opinião ficassem mais raras e, consequentemente, tivéssemos uma eleição mais democrática.
 
 
-#Ciência #pesquisa<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/visualizando-letras-de-musica-como-networks">Visualizando letras de música como networks</a>

@@ -24,7 +24,6 @@ Em um mundo ideal os leitores e escritores se dedicariam à literatura porque a 
 
 <small>Pintura de <a href="https://www.instagram.com/willemweismann/">Willem Weismann</a></small>
 
-#leitura #Livros 
 <div class="leia-tambem" markdown="1">
 ## Leia também:
 

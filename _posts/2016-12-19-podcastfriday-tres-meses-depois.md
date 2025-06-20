@@ -86,7 +86,7 @@ _Análise do uso da hashtag #podcastfriday no dia 16/09/2016_arcano5.com.br](htt
 _Sobre o segundo dia da ação #PodcastFriday._arcano5.com.br](https://arcano5.com.br/podcastfriday-dia-2-48a8d8c4be6 "https://arcano5.com.br/podcastfriday-dia-2-48a8d8c4be6")[](https://arcano5.com.br/podcastfriday-dia-2-48a8d8c4be6)
 
 
-#Grafos #filosofia<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/podcastfriday">PodcastFriday</a>

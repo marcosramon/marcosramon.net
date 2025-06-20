@@ -20,7 +20,7 @@ Só vivemos uma vida (às vezes quero acreditar em algo diferente, mas nem sempr
 Pintura de [Martin Wehmer](http://www.missmoss.co.za/2015/06/17/martin-wehmer/)
 
 
-#arte #filosofia<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>

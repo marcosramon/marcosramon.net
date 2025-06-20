@@ -22,7 +22,7 @@ Para vivermos melhor precisamos da estranheza do aleatório, precisamos aceitar 
 Ilustração de [Ana Yael](http://www.anayael.net/)
 
 
-#pensamentos #cotidiano<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/saia-e-divirta-se">Saia e divirta-se!</a>

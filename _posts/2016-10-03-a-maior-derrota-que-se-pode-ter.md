@@ -22,7 +22,7 @@ Somos personagens de nós mesmos e aprendemos isso desde cedo. Alguns (aqueles q
 Ilustração de [Dalbert](http://dalbertdraws.tumblr.com/).
 
 
-#cotidiano #sociedade<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/a-necessidade-de-estar-inteiro">A necessidade de estar inteiro</a>

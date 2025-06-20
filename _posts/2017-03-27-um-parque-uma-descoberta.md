@@ -21,7 +21,7 @@ Voltei pra festa. A minha mãe perguntou onde eu estava e eu disse que tinha fic
 Colagem de [David Delruelle](http://weandthecolor.com/collages-david-delruelle/64744)
 
 
-#pensamentos #arte<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/escrever-um-diario">Escrever um diário</a>

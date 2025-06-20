@@ -20,7 +20,7 @@ Um exemplo: hoje, segunda-feira de carnaval, fui com minha família almoçar em 
 Ilustração de [Simón Prades](http://simonprades.tumblr.com/)
 
 
-#arte #cultura<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>

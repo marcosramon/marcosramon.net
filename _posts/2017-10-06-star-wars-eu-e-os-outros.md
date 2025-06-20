@@ -22,7 +22,7 @@ A vida cotidiana (pro bem e pro mal) funciona da mesma forma. Nos escondemos em 
 [Star Wars Battlefront](http://starwars.ea.com/pt_BR/starwars/battlefront)
 
 
-#arte #sociedade<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>

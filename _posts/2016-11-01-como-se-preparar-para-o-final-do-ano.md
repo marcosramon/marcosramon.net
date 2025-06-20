@@ -18,7 +18,7 @@ O final do ano vai chegando e eu, sendo professor, vejo os estudantes (principal
 <img src="/assets/img/como-se-preparar-para-o-final-do ano-medium.png">
 
 
-#ensino #Aula<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/como-se-importar-muito-com-o-que-nao-importa">Como se importar muito com o que não importa</a>

@@ -26,7 +26,7 @@ Não quero que as pessoas pensem mal de *mim*, não desejo que *me* culpem pe
 
 Trabalhar acima dos seus limites beneficia alguém ou algo, certamente. Chefes e empresas idolatram quem vive para o trabalho. Mas a tarefa passa, as coisas se resolvem e o tempo que derreteu no processo nunca mais volta. Mais vale parar, fazer um pouco de nada, deixar pra amanhã. Eu sei (porque preciso acreditar nisso pra existir de um jeito melhor) que não há de ser nada. Vou descansando, esperando, fazendo só o que dá.
 
-#trabalho #comportamento #angústia<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-que-realmente-importa">O que realmente importa</a>

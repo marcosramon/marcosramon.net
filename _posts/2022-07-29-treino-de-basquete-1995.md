@@ -100,7 +100,7 @@ Que coisa bizarra. Eu achando que só eu não lembrava dele. Mas no final, foi e
 
 – 50 reais. Sem cera.
 
-#Memória #sociedade<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/de-onde-vem-o-conhecimento">De onde vem o conhecimento</a>

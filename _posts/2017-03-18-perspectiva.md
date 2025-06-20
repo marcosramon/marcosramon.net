@@ -19,7 +19,7 @@ A maior parte das coisas se resume a um constante _talvez_. Como existem poucas 
 Fotografia de [Roy Pinney](https://en.wikipedia.org/wiki/Roy_Pinney)
 
 
-#arte #comportamento<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>

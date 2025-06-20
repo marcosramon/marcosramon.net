@@ -21,7 +21,7 @@ Estamos em um mundo que nos pressiona para aceitarmos a padronização. E se é 
 Gif criado por [Adam Pizurny](http://adampizurny.tumblr.com/)
 
 
-#arte #cultura<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/necessidades-basicas">Necessidades básicas</a>

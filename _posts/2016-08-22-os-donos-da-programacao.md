@@ -26,7 +26,7 @@ A queda de interesse pelas Olimpíadas na televisão não significa uma queda de
 <img src="/assets/img/os-donos-da-programação-medium.jpeg">
 
 
-#internet #televisão<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/desejo-e-realidade">Desejo e realidade</a>

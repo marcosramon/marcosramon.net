@@ -24,7 +24,7 @@ Por outro lado, sempre podemos aprender com o que os outros disseram e escrevera
 [Jackson Pollock](https://g.co/kgs/NglZkD) em seu estúdio
 
 
-#pensamentos #política<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/coragem">Coragem</a>

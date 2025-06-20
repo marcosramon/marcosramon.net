@@ -25,7 +25,7 @@ Se você já leu o [_It_](http://amzn.to/2x7w3n9), não vai querer ler ou não l
 Usei o último quadrinho no meu #inktober. Acompanhe os [outros desenhos no instagram](https://www.instagram.com/mrtollens/).
 
 
-#pensamentos #informação<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/alerta-de-spoilers">Alerta de spoilers</a>

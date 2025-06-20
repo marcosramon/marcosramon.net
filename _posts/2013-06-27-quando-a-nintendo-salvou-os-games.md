@@ -71,7 +71,7 @@ Como será formada a próxima geração de pessoas interessadas em videogames? J
 O videogame é um brinquedo e a Nintendo sabe disso. E ela faz os melhores brinquedos, os mais divertidos, os mais significativos. A Microsoft quer fazer uma caixa-preta-faz-tudo pra enfeitar a sua sala. Mas o que a indústria de jogos precisa é de uma coisa bem mais simples: jogos. E você conhece alguém melhor do que a Nintendo para fazer isso?
 
 
-#Nintendo #Jogos<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>

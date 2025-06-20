@@ -46,7 +46,7 @@ Então, como não quero abandonar tudo o que acredito mas também não quero dei
 De qualquer forma, fico pensando que talvez seja justamente essa a maior beleza de viver a docência: insistir mesmo sem ter certeza, nenhuma certeza.
 
 
-#ensinar #ensino<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/ensinar-e-dificil">Ensinar é difícil</a>

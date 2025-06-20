@@ -52,7 +52,7 @@ não quero pensar
 <img src="/assets/img/caminhando-longe-de tudo-medium.jpg">
 
 
-#pensamentos #conhecimento<div class="leia-tambem" markdown="1">
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>
