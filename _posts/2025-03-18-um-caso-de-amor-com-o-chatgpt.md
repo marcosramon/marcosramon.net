@@ -109,7 +109,10 @@ Se, por um lado, é verdade que ainda são necessárias mais pesquisas, fica evi
 
 ---
 
-<h3>Leia também:</h3>
-- <a href="/estamos-perdidos">Estamos perdidos</a>
-- <a href="/olhando-com-cuidado">Olhando com cuidado</a>
-- <a href="/reconhecer">Reconhecer</a>
+<div class="leia-tambem">
+## Leia também:
+
+* [Uma reflexão sobre o podcast...](link)
+* [A transcrição do podcast “Mamilos”...](link)
+* [Sobre escrever e fazer podcasts](link)
+</div>
