@@ -158,6 +158,33 @@
   margin-bottom: 2rem; /* Adiciona espaço antes do corpo do texto */
 }
 
+/* Estilo para o bloco "Leia também" */
+.leia-tambem { /* Você precisará adicionar esta classe ao <div> que envolve a seção */
+  background-color: #f8f9fa; /* Um cinza muito claro */
+  border-left: 4px solid #007bff; /* Uma borda azul. Troque pela cor principal do seu site */
+  padding: 1.5em; /* Espaçamento interno generoso */
+  margin: 2em 0; /* Espaçamento externo (em cima e embaixo) */
+  border-radius: 4px;
+}
+
+/* Título dentro do bloco */
+.leia-tambem h2 {
+  margin-top: 0;
+  margin-bottom: 0.8em;
+  font-size: 1.2em; /* Um pouco maior que o texto normal */
+}
+
+/* Lista de links dentro do bloco */
+.leia-tambem ul {
+  list-style: none; /* Remove as bolinhas padrão */
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.leia-tambem ul li {
+  padding-bottom: 0.5em; /* Espaçamento entre os links */
+}
+
 /*! minireset.css v0.0.6 | MIT License | github.com/jgthms/minireset.css */
 html,
 body,
