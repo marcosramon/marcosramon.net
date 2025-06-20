@@ -158,6 +158,61 @@
   margin-bottom: 2rem; /* Adiciona espaço antes do corpo do texto */
 }
 
+/* Opção 2: Lista Minimalista */
+.leia-tambem {
+  /* Removemos o fundo e a borda da caixa */
+  margin: 3em 0; /* Aumentamos a margem para dar mais respiro */
+}
+
+.leia-tambem h2 {
+  margin-top: 0;
+  margin-bottom: 0.5em;
+  font-size: 0.9em; /* Título menor que o corpo do texto */
+  font-weight: bold;
+  letter-spacing: 0.1em; /* Espaçamento entre letras para dar estilo */
+  text-transform: uppercase; /* Tudo em maiúsculas */
+  color: #555;
+}
+
+.leia-tambem ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border-top: 1px solid #eee; /* A linha separadora */
+  padding-top: 1em; /* Espaço entre a linha e o primeiro link */
+  font-size: 0.9em; /* Texto dos links menor */
+}
+
+.leia-tambem ul li {
+  padding: 0.2em 0;
+}
+
+/* VERSÃO MAIS ESPECÍFICA DO CSS */
+
+/* Usando div.footnotes para aumentar a prioridade */
+div.footnotes {
+  margin-top: 3em;
+  font-size: 0.85em; 
+  color: #555; 
+}
+
+div.footnotes hr {
+  border-color: #ccc; 
+  margin-bottom: 1.5em;
+}
+
+div.footnotes ol {
+  padding-left: 1.2em; 
+}
+
+div.footnotes li {
+  line-height: 1.5; 
+}
+
+div.footnotes li p {
+  margin-bottom: 0.8em;
+}
+
 /*! minireset.css v0.0.6 | MIT License | github.com/jgthms/minireset.css */
 html,
 body,
@@ -3908,4 +3963,9 @@ a.tag:hover {
   input {
     color:(--color-text-sub) !important;
   }
-  
+
+/* Correção final para o texto das notas de rodapé */
+div.footnotes p {
+  font-size: inherit; /* Faz o parágrafo HERDAR o tamanho da fonte do seu contêiner (os 0.85em) */
+  line-height: inherit; /* Opcional, mas bom para manter a consistência do espaçamento */
+}

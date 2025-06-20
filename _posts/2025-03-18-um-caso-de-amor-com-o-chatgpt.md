@@ -107,9 +107,12 @@ Se, por um lado, é verdade que ainda são necessárias mais pesquisas, fica evi
 
 #inteligência-artificial #tecnologia 
 <div class="leia-tambem" markdown="1">
+
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
-- <a href="/estamos-perdidos">Estamos perdidos</a>
-- <a href="/olhando-com-cuidado">Olhando com cuidado</a>
-- <a href="/reconhecer">Reconhecer</a>
+* <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>
+* <a href="/quando-a-arte-nos-define">Quando a arte nos define</a>
+* <a href="/a-arte-depois-da-arte">A arte depois da arte</a>
 </div>
+
