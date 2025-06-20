@@ -28,7 +28,7 @@ Ainda assim, atualizando o argumento dele para o mundo simulado e desconsiderand
 
 
 
-> Leia também:
-> - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
-> - <a href="/de-onde-vem-o-conhecimento">De onde vem o conhecimento</a>
-> - <a href="/o-que-todo-mundo-e">O que todo mundo é</a>
+<h3>Leia também:</h3>
+- <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
+- <a href="/de-onde-vem-o-conhecimento">De onde vem o conhecimento</a>
+- <a href="/o-que-todo-mundo-e">O que todo mundo é</a>

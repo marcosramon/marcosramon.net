@@ -26,7 +26,7 @@ Mais do que reclamar o que eu preciso é me controlar pra não me afundar mais e
 
 
 
-> Leia também:
-> - <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>
-> - <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
-> - <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>
+<h3>Leia também:</h3>
+- <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>
+- <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
+- <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>

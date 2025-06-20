@@ -1,10 +1,11 @@
 ---
 title: O que ainda pode mudar?
 tags:
-  - cotidiano
-  - comportamento
+- cotidiano
+- comportamento
 date: 2017-06-08
 permalink: o-que-ainda-pode-mudar
+author: Marcos Ramon
 ---
 Encarar a realidade do que jeito que ela é costuma ser difícil e desestimulante. Diante de um número gigantesco de possibilidades, por que cargas d’água as coisas tem que acontecer dessa forma? Por que não pode ser diferente?
 
@@ -19,7 +20,7 @@ Colagem criada por [Julia Lillard](http://julialillard.tumblr.com/)
 
 #cotidiano #comportamento
 
-> Leia também:
-> - <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
-> - <a href="/o-que-e-ter-uma-carreira">O que é ter uma carreira</a>
-> - <a href="/o-que-realmente-importa">O que realmente importa</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
+- <a href="/o-que-e-ter-uma-carreira">O que é ter uma carreira</a>
+- <a href="/o-que-realmente-importa">O que realmente importa</a>

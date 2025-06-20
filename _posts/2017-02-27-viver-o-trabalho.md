@@ -2,11 +2,12 @@
 title: Viver o trabalho
 date: 2017-02-27
 tags:
-  - arte
+- arte
 description: Viver o trabalho
-image: 
-aliases:
+image: null
+aliases: null
 permalink: viver-o-trabalho
+author: Marcos Ramon
 ---
 Viver para trabalhar parece um exagero, mas só parece. Para a maior parte das pessoas, essa é a vida que se pode ter. O trabalho, obviamente, não é ruim em si mesmo; e se você ainda conseguir fazer o que gosta, encontrando satisfação pessoal e estímulo para sair de casa todos os dias, então você conseguiu um combo: dinheiro para pagar as contas e um sentido para ocupar a maior parte do seu tempo.
 
@@ -21,7 +22,7 @@ Ilustração de [Simón Prades](http://simonprades.tumblr.com/)
 
 #arte #cultura
 
-> Leia também:
-> - <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>
-> - <a href="/distraidos">Distraídos</a>
-> - <a href="/escrever-um-diario">Escrever um diário</a>
+<h3>Leia também:</h3>
+- <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>
+- <a href="/distraidos">Distraídos</a>
+- <a href="/escrever-um-diario">Escrever um diário</a>

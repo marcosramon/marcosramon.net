@@ -1,9 +1,10 @@
 ---
 title: O que é ter uma carreira?
 tags:
-  - cotidiano
+- cotidiano
 date: 2016-05-30
 permalink: o-que-e-ter-uma-carreira
+author: Marcos Ramon
 ---
 Diferente de outras crianças, eu nunca quis ser alguma coisa. Não sei se isso tinha relação com o tipo de vida que eu levava, com as circunstâncias da minha família… não sei. Mas o fato é que eu era uma criança sem ambição. Brincava, jogava futebol, lia revistinhas em quadrinhos, desenhava e só. Eu não queria ser nada.
 
@@ -24,7 +25,7 @@ Respondendo à pergunta do título: ter uma carreira é se acomodar com tudo.
 
 #cotidiano #comportamento
 
-> Leia também:
-> - <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
-> - <a href="/o-mundo-e-pequeno-pra-caramba">O mundo é pequeno pra caramba</a>
-> - <a href="/o-que-ainda-pode-mudar">O que ainda pode mudar</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
+- <a href="/o-mundo-e-pequeno-pra-caramba">O mundo é pequeno pra caramba</a>
+- <a href="/o-que-ainda-pode-mudar">O que ainda pode mudar</a>

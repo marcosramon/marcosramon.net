@@ -2,11 +2,12 @@
 title: O totalitarismo e a gente
 date: 2017-01-27
 tags:
-  - política
+- política
 description: O totalitarismo e a gente
-image: 
-aliases:
+image: null
+aliases: null
 permalink: o-totalitarismo-e-a-gente
+author: Marcos Ramon
 ---
 [George Orwell](https://g.co/kgs/t7yRWF) escreveu uma das obras mais influentes e decisivas sobre o totalitarismo: [_1984_](http://amzn.to/2kyyKqU). O livro mostra um mundo distópico em que as pessoas são monitoradas pelo Estado e onde são utilizadas estratégias de controle da privacidade, da linguagem e dos desejos das pessoas.
 
@@ -21,7 +22,7 @@ Cena do filme “1984”, [adaptação inglesa produzida em 1956](https://en.wi
 
 #política #leitura
 
-> Leia também:
-> - <a href="/o-clima-e-a-gente">O clima e a gente</a>
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
-> - <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>
+<h3>Leia também:</h3>
+- <a href="/o-clima-e-a-gente">O clima e a gente</a>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+- <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>

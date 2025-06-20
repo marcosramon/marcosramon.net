@@ -2,12 +2,14 @@
 title: Como ler mais
 date: 2016-05-06
 tags:
-  - pensamentos
-  - leitura
-  - Livros
-description: No episódio de hoje do meu podcast Ano Bissexto eu comentei uma lista criada pelo escritor Austin Kleon. Nessa lista, ele apresenta dicas…
-image:
+- pensamentos
+- leitura
+- Livros
+description: No episódio de hoje do meu podcast Ano Bissexto eu comentei uma lista
+  criada pelo escritor Austin Kleon. Nessa lista, ele apresenta dicas…
+image: null
 permalink: como-ler-mais
+author: Marcos Ramon
 ---
 No episódio de hoje do meu podcast [Ano Bissexto](http://www.marcosramon.net/arquivo-ano-bissexto) eu comentei uma lista criada pelo escritor [Austin Kleon](https://twitter.com/austinkleon). Nessa lista, ele apresenta dicas para quem quer ler mais.
 
@@ -29,7 +31,7 @@ Se você tiver dicas de como podemos aproveitar melhor o nosso tempo para a leit
 
 #leitura #Livros
 
-> Leia também:
-> - <a href="/o-tempo-e-os-livros">O tempo e os livros</a>
-> - <a href="/a-leitura-na-internet-esta-mais-confortavel">A leitura na internet está mais confortável</a>
-> - <a href="/abracando-o-nada">Abraçando o nada</a>
+<h3>Leia também:</h3>
+- <a href="/o-tempo-e-os-livros">O tempo e os livros</a>
+- <a href="/a-leitura-na-internet-esta-mais-confortavel">A leitura na internet está mais confortável</a>
+- <a href="/abracando-o-nada">Abraçando o nada</a>

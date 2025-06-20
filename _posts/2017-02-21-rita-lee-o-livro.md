@@ -2,10 +2,11 @@
 title: Rita Lee (o livro)
 date: 2017-02-21
 author: Marcos Ramon
-description: A memória é uma coisa estranha. Quando tentamos lembrar de fatos recentes ou de coisas que deveríamos lembrar, ela nos prega uma peça e esquecemos de tudo.
+description: A memória é uma coisa estranha. Quando tentamos lembrar de fatos recentes
+  ou de coisas que deveríamos lembrar, ela nos prega uma peça e esquecemos de tudo.
 tags:
-  - literatura
-  - música
+- literatura
+- música
 published: true
 permalink: rita-lee-o-livro
 ---
@@ -22,7 +23,7 @@ Rita Lee, o livro, vale muito a leitura. E Rita Lee, a artista, precisa ser ouvi
 
 
 
-> Leia também:
-> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
-> - <a href="/basta-estar-vivo">Basta estar vivo</a>
-> - <a href="/duvidar-para-fazer-as-perguntas-certas">Duvidar para fazer as perguntas certas</a>
+<h3>Leia também:</h3>
+- <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+- <a href="/basta-estar-vivo">Basta estar vivo</a>
+- <a href="/duvidar-para-fazer-as-perguntas-certas">Duvidar para fazer as perguntas certas</a>

@@ -2,18 +2,19 @@
 title: Podcastfriday, três meses depois
 date: 2016-12-19
 tags:
-  - filosofia
-  - reflexão
-  - cotidiano
-  - cultura
-  - arte
-  - Grafos
-  - pesquisa
-  - podcast
+- filosofia
+- reflexão
+- cotidiano
+- cultura
+- arte
+- Grafos
+- pesquisa
+- podcast
 description: Uma análise da
-image: 
-aliases: 
+image: null
+aliases: null
 permalink: podcastfriday-tres-meses-depois
+author: Marcos Ramon
 ---
 # #podcastfriday, três meses depois
 
@@ -87,7 +88,7 @@ _Sobre o segundo dia da ação #PodcastFriday._arcano5.com.br](https://arcano5.c
 
 #Grafos #filosofia
 
-> Leia também:
-> - <a href="/podcastfriday">PodcastFriday</a>
-> - <a href="/podcastfriday-dia-2">PodcastFriday, dia 2</a>
-> - <a href="/visualizando-a-pesquisa">Visualizando a pesquisa</a>
+<h3>Leia também:</h3>
+- <a href="/podcastfriday">PodcastFriday</a>
+- <a href="/podcastfriday-dia-2">PodcastFriday, dia 2</a>
+- <a href="/visualizando-a-pesquisa">Visualizando a pesquisa</a>

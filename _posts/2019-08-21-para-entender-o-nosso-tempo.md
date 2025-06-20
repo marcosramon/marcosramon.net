@@ -2,17 +2,21 @@
 title: Para entender o nosso tempo
 date: 2019-08-21
 categories:
-  - blog
+- blog
 tags:
-  - ciência
-  - conhecimento
-  - pesquisa
-excerpt: Às vezes tenho a sensação de que o meu tempo é o mesmo de todas as outras pessoas, em qualquer época, em qualquer circunstância. Mas claro que não é assim. As coisas mudam, os modos de viver e entender a realidade mudam, as pessoas são sempre diferentes em cada cultura ou momento histórico.
+- ciência
+- conhecimento
+- pesquisa
+excerpt: Às vezes tenho a sensação de que o meu tempo é o mesmo de todas as outras
+  pessoas, em qualquer época, em qualquer circunstância. Mas claro que não é assim.
+  As coisas mudam, os modos de viver e entender a realidade mudam, as pessoas são
+  sempre diferentes em cada cultura ou momento histórico.
 og_image: assets/images/virginia.png
 aliases:
-  - "[[ciência]]"
-  - "[[conhecimento]]"
+- '[[ciência]]'
+- '[[conhecimento]]'
 permalink: para-entender-o-nosso-tempo
+author: Marcos Ramon
 ---
 Às vezes tenho a sensação de que o meu tempo é o mesmo de todas as outras pessoas, em qualquer época, em qualquer circunstância. Mas claro que não é assim. As coisas mudam, os modos de viver e entender a realidade mudam, as pessoas são sempre diferentes em cada cultura ou momento histórico.
 
@@ -27,7 +31,7 @@ Como na maior parte das vezes, temos que nos conformar diante do fato de que as 
 
 [^1]: Eu sei que nem todo mundo vê isso como utopia. E talvez seja mesmo o oposto. Mas as sociedades ocidentais democráticas defendem abertamente a perspectiva de que existem alguns valores bons (os ocidentais) e outros ruins. Nesse sentido, o que a maioria de nós busca, mesmo que indiretamente, é um mundo em que possamos, se não falar a mesma língua, pelo menos nos entender aceitando como básicos os mesmos princípios sociais.
 
-> Leia também:
-> - <a href="/entender-o-tempo">Entender o tempo</a>
-> - <a href="/e-so-o-tempo-que-passa">É só o tempo que passa</a>
-> - <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>
+<h3>Leia também:</h3>
+- <a href="/entender-o-tempo">Entender o tempo</a>
+- <a href="/e-so-o-tempo-que-passa">É só o tempo que passa</a>
+- <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>

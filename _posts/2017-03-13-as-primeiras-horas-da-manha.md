@@ -2,11 +2,13 @@
 title: As primeiras horas da manhã
 date: 2017-03-13
 tags:
-  - arte
-description: Acordar cedo é algo muito difícil para a maior parte das pessoas. Eu, por exemplo, apesar de gostar — e precisar — acordar cedo, vivo em…
-image: 
-aliases:
+- arte
+description: Acordar cedo é algo muito difícil para a maior parte das pessoas. Eu,
+  por exemplo, apesar de gostar — e precisar — acordar cedo, vivo em…
+image: null
+aliases: null
 permalink: as-primeiras-horas-da-manha
+author: Marcos Ramon
 ---
 Acordar cedo é algo muito difícil para a maior parte das pessoas. Eu, por exemplo, apesar de gostar — e precisar — acordar cedo, vivo em uma luta constante com a minha vontade de realizar, criar e consumir mais coisas (o que me faz querer dormir mais tarde e, consequentemente, ter dificuldade em acordar cedo). Assim, o sono parece um inimigo e o amanhecer um sinal de que o mundo quer mostrar quem é que manda. Mas ver o início do dia tem suas vantagens.
 
@@ -20,7 +22,7 @@ A segunda vantagem da manhã — e essa tem a ver diretamente com a vida urb
 
 #arte #reflexão
 
-> Leia também:
-> - <a href="/o-absurdo-cotidiano">O absurdo cotidiano</a>
-> - <a href="/pessoas-e-horarios">Pessoas e horários</a>
-> - <a href="/perspectiva">Perspectiva</a>
+<h3>Leia também:</h3>
+- <a href="/o-absurdo-cotidiano">O absurdo cotidiano</a>
+- <a href="/pessoas-e-horarios">Pessoas e horários</a>
+- <a href="/perspectiva">Perspectiva</a>

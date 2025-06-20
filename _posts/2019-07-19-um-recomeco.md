@@ -23,7 +23,7 @@ Jorge Luis Borges, escrevendo sobre Platão, disse certa vez que viver é uma co
 
 
 
-> Leia também:
-> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
-> - <a href="/e-so-um-algoritmo">É só um algoritmo</a>
-> - <a href="/escrever-um-diario">Escrever um diário</a>
+<h3>Leia também:</h3>
+- <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+- <a href="/e-so-um-algoritmo">É só um algoritmo</a>
+- <a href="/escrever-um-diario">Escrever um diário</a>

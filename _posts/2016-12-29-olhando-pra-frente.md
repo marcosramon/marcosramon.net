@@ -2,13 +2,15 @@
 title: Olhando pra frente
 date: 2016-12-29
 tags:
-  - filosofia
-  - reflexão
-  - cotidiano
-description: O final do ano é a época em que quase todo mundo se dedica — nem que se seja um pouquinho só — a pensar sobre a própria vida. De verdade…
-image: 
-aliases:
+- filosofia
+- reflexão
+- cotidiano
+description: O final do ano é a época em que quase todo mundo se dedica — nem que
+  se seja um pouquinho só — a pensar sobre a própria vida. De verdade…
+image: null
+aliases: null
 permalink: olhando-pra-frente
+author: Marcos Ramon
 ---
 <img src="/assets/img/olhando-pra frente-medium.png">
 
@@ -28,7 +30,7 @@ _Feliz Ano Novo._
 
 #filosofia #reflexão
 
-> Leia também:
-> - <a href="/a-realidade-e-nos-mesmos">A realidade e nós mesmos</a>
-> - <a href="/saber-a-felicidade">Saber a felicidade</a>
-> - <a href="/uma-vida-sem-reflexao">Uma vida sem reflexão</a>
+<h3>Leia também:</h3>
+- <a href="/a-realidade-e-nos-mesmos">A realidade e nós mesmos</a>
+- <a href="/saber-a-felicidade">Saber a felicidade</a>
+- <a href="/uma-vida-sem-reflexao">Uma vida sem reflexão</a>

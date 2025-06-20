@@ -2,11 +2,12 @@
 title: Sempre o mesmo
 date: 2017-01-24
 tags:
-  - filosofia
+- filosofia
 description: Sempre o mesmo
-image: 
-aliases:
+image: null
+aliases: null
 permalink: sempre-o-mesmo
+author: Marcos Ramon
 ---
 Os biógrafos contam que o filósofo austríaco [Wittgenstein](https://pt.wikipedia.org/wiki/Ludwig_Wittgenstein) (1889–1951) era indiferente ao que iria comer, desde que fosse sempre a mesma coisa. Esse amor pela rotina, pela mesmice, pode soar um tanto estranho, mas é que os hábitos nos dão uma sensação de segurança difícil de recusar.
 
@@ -23,7 +24,7 @@ Ilustração de [Natalie Adkins](http://natalieadkinsdraws.tumblr.com/post/1534
 
 #filosofia #internet
 
-> Leia também:
-> - <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>
-> - <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>
-> - <a href="/prefiro-o-risco">Prefiro o risco</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>
+- <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>
+- <a href="/prefiro-o-risco">Prefiro o risco</a>

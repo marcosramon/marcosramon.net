@@ -2,12 +2,14 @@
 title: Uma morte criativa
 date: 2015-05-19
 tags:
-  - arte
-  - filosofia
-description: O que você acha de morrer de maneira mais criativa? E não, não estou falando de coisas como Dumb Ways To Die.
-image: 
-aliases:
+- arte
+- filosofia
+description: O que você acha de morrer de maneira mais criativa? E não, não estou
+  falando de coisas como Dumb Ways To Die.
+image: null
+aliases: null
 permalink: uma-morte-criativa
+author: Marcos Ramon
 ---
 O que você acha de morrer de maneira mais criativa? E não, não estou falando de coisas como [_Dumb Ways To Die_](http://dumbwaystodie.com/).
 
@@ -21,7 +23,7 @@ O processo criativo, da forma como é interpretado por Goswami, possui quatro es
 
 <img src="/assets/img/uma-morte criativa-medium.jpeg">
 
-A morte de [[Sócrates]], de Jacques-Louis David, Museu Metropolitano de Arte, Nova Iorque.
+A morte de Sócrates, de Jacques-Louis David, Museu Metropolitano de Arte, Nova Iorque.
 
 Existem muitos críticos desse tipo de argumentação, sendo o mais notório Nietzsche, para quem a vida deve ser vivida de forma intensa por ela mesma e não por objetivos externos à nossa própria existência material. Goswami, por outro lado, encara a vida como um sonho. E se esse sonho pode ser parte do processo criativo para uns, para outros ele é apenas um esquecimento de quem nós mesmos em verdade somos.
 
@@ -32,7 +34,7 @@ E eu acredito nisso? Não sei ao certo, mas o assunto certamente me deixou intri
 
 #arte #filosofia
 
-> Leia também:
-> - <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
-> - <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>
-> - <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>
+<h3>Leia também:</h3>
+- <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
+- <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>
+- <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>

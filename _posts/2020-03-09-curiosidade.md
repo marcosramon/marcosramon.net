@@ -29,7 +29,7 @@ A despeito da opinião de autores como Rousseau, que afirmava que o avanço do c
 
 
 
-> Leia também:
-> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
-> - <a href="/o-que-realmente-importa">O que realmente importa</a>
-> - <a href="/ficcoes-00-apresentacao">Ficções #00   apresentação</a>
+<h3>Leia também:</h3>
+- <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+- <a href="/o-que-realmente-importa">O que realmente importa</a>
+- <a href="/ficcoes-00-apresentacao">Ficções #00   apresentação</a>

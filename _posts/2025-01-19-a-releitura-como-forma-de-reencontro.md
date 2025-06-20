@@ -1,17 +1,18 @@
 ---
 title: A releitura como forma de reencontro
-excerpt: Reli Coiote, de Roberto Freire, um livro que descobri faz muito tempo. Não reencontrei o livro que amava, mas achei outras coisas.
+excerpt: Reli Coiote, de Roberto Freire, um livro que descobri faz muito tempo. Não
+  reencontrei o livro que amava, mas achei outras coisas.
 data: 2025-01-19
 tags:
-  - Livros
-  - leitura
+- Livros
+- leitura
 aliases:
-  - "[[livro]]"
-  - "[[leitura]]"
-  - "[[literatura]]"
-  - "[[Brasília]]"
-  - "[[Schopenhauer]]"
-  - "[[Shakespeare]]"
+- '[[livro]]'
+- '[[leitura]]'
+- '[[literatura]]'
+- '[[Brasília]]'
+- '[[Schopenhauer]]'
+- '[[Shakespeare]]'
 date: 2025-01-19
 author: Marcos Ramon
 permalink: a-releitura-como-forma-de-reencontro
@@ -24,7 +25,7 @@ Quando saí da escola e não passei logo no vestibular, fiquei meio perdido. Eu 
 
 E ela disse, passando por mim e sem parar:  
 
-"Lê _Coiote_, do [[Roberto Freire]]".  
+"Lê _Coiote_, do Roberto Freire".  
 
 Nunca tinha ouvido falar. Nem do livro, nem do autor.
 
@@ -50,7 +51,7 @@ Agora que reli esse livro que eu amava tanto e não me empolguei como imaginava,
 
 [^1]: Eu nunca tinha esquecido, por exemplo, da cena de uma mulher em uma instituição psiquiátrica, sendo arrastada por enfermeiros e recitando o discurso de Brutus no *Júlio César*, de Shakespeare. Épico.
 
-> Leia também:
-> - <a href="/ler-menos">Ler menos</a>
-> - <a href="/a-experiencia-da-releitura">A experiência da releitura</a>
-> - <a href="/banksy-ou-como-a-arte-de-rua-pode-ser-pop">Banksy ou como a arte de rua pode ser pop</a>
+<h3>Leia também:</h3>
+- <a href="/ler-menos">Ler menos</a>
+- <a href="/a-experiencia-da-releitura">A experiência da releitura</a>
+- <a href="/banksy-ou-como-a-arte-de-rua-pode-ser-pop">Banksy ou como a arte de rua pode ser pop</a>

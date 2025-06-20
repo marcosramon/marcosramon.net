@@ -2,16 +2,17 @@
 title: O tempo e os livros
 date: 2018-01-22
 tags:
-  - Livros
-  - leitura
-description: 
+- Livros
+- leitura
+description: null
 aliases:
-  - "[[Harold Bloom]]"
+- '[[Harold Bloom]]'
 permalink: o-tempo-e-os-livros
+author: Marcos Ramon
 ---
 Hoje, lendo um [livro de Harold Bloom](http://amzn.to/2E0Wkrg), me deparei com essa definição de importância da leitura:
 
-> _“A leitura me faz desejar ser eu mesmo; é justamente, por isso, conforme argumento ao longo deste livro, que devemos ler, e devemos ler somente o que há de melhor na literatura”_ — [[Harold Bloom]]. Como e por que ler.
+> _“A leitura me faz desejar ser eu mesmo; é justamente, por isso, conforme argumento ao longo deste livro, que devemos ler, e devemos ler somente o que há de melhor na literatura”_ — Harold Bloom. Como e por que ler.
 
 De acordo com Bloom, a leitura — por meio de uma intervenção de ordem estética, não moral — nos incita a fazer o bem. A arte em geral, e a leitura em particular, contribuem para a formação humana. Justamente por esse motivo, não faz sentido desperdiçar o nosso tempo lendo o que é ruim; ou, considerando que não sabemos o que é ruim antes de experimentarmos, não vale a pena arriscar o nosso tempo com o incerto.
 
@@ -30,7 +31,7 @@ Em um mundo ideal os leitores e escritores se dedicariam à literatura porque a 
 
 
 
-> Leia também:
-> - <a href="/o-tempo-que-dedicamos-aos-livros">O tempo que dedicamos aos livros</a>
-> - <a href="/o-totalitarismo-e-a-gente">O totalitarismo e a gente</a>
-> - <a href="/abracando-o-nada">Abraçando o nada</a>
+<h3>Leia também:</h3>
+- <a href="/o-tempo-que-dedicamos-aos-livros">O tempo que dedicamos aos livros</a>
+- <a href="/o-totalitarismo-e-a-gente">O totalitarismo e a gente</a>
+- <a href="/abracando-o-nada">Abraçando o nada</a>

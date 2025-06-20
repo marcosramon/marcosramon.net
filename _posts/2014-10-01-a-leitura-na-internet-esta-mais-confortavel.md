@@ -2,15 +2,16 @@
 title: A leitura na internet está mais confortável
 date: 2014-10-01
 tags:
-  - pensamentos
-  - leitura
-  - Livros
-  - internet
-  - tecnologia
+- pensamentos
+- leitura
+- Livros
+- internet
+- tecnologia
 description: A leitura na internet está mais confortável.
-image: 
-aliases:
+image: null
+aliases: null
 permalink: a-leitura-na-internet-esta-mais-confortavel
+author: Marcos Ramon
 ---
 ## A internet vai destruir nossos hábitos de leitura
 
@@ -40,7 +41,7 @@ Estamos em um mundo melhor para leitores e escritores. Eu acredito nisso. A ques
 
 #tecnologia #leitura
 
-> Leia também:
-> - <a href="/a-tecnologia-da-interacao">A tecnologia da interação</a>
-> - <a href="/como-ler-mais">Como ler mais</a>
-> - <a href="/o-totalitarismo-e-a-gente">O totalitarismo e a gente</a>
+<h3>Leia também:</h3>
+- <a href="/a-tecnologia-da-interacao">A tecnologia da interação</a>
+- <a href="/como-ler-mais">Como ler mais</a>
+- <a href="/o-totalitarismo-e-a-gente">O totalitarismo e a gente</a>

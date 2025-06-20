@@ -2,10 +2,11 @@
 title: Quem ainda lê poesia hoje em dia?
 date: 2014-12-20
 tags:
-  - arte
-  - poesia
-description:
+- arte
+- poesia
+description: null
 permalink: quem-ainda-le-poesia-hoje-em-dia
+author: Marcos Ramon
 ---
 Eu te pergunto: quem realmente lê poesia hoje em dia? Você, provavelmente. Mas é exatamente isso que eu quero dizer. Se você está lendo esse blog é porque você não é lá uma pessoa muito normal — “normal” no sentido de comum, igual à maior parte das pessoas — e por isso faz todo sentido que você leia poesia. Mas para a maioria das pessoas a poesia é uma experiência antiga, um tipo de coisa que se fazia e se lia sabe-se lá quando e por qual motivo…
 
@@ -33,7 +34,7 @@ _Fotografia de_ [_Elizabeth Gadd_](http://www.elizabethgadd.com/)
 
 #arte #poesia
 
-> Leia também:
-> - <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>
-> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
-> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+<h3>Leia também:</h3>
+- <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>
+- <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+- <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>

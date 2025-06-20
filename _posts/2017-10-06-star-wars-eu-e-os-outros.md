@@ -2,12 +2,14 @@
 title: Star Wars, eu e os outros
 date: 2017-10-06
 tags:
-  - arte
-  - sociedade
-description: Eu estava jogando Star Wars Battlefront pela primeira vez e, como era de se esperar, eu morria em poucos segundos sem nem entender direito…
-image: 
-aliases:
+- arte
+- sociedade
+description: Eu estava jogando Star Wars Battlefront pela primeira vez e, como era
+  de se esperar, eu morria em poucos segundos sem nem entender direito…
+image: null
+aliases: null
 permalink: star-wars-eu-e-os-outros
+author: Marcos Ramon
 ---
 Eu estava jogando [Star Wars Battlefront](http://starwars.ea.com/pt_BR/starwars/battlefront) pela primeira vez e, como era de se esperar, eu morria em poucos segundos sem nem entender direito o que estava acontecendo. Felizmente o jogo permite que você reviva próximo a outro jogador do seu time e, a princípio, isso permitiria um processo de colaboração e troca de experiência. Mas não é isso que acontece. Cada jogador joga o seu próprio jogo e, no final, a vitória coletiva não é mais do que a soma dos sucessos individuais.
 
@@ -22,7 +24,7 @@ A vida cotidiana (pro bem e pro mal) funciona da mesma forma. Nos escondemos em 
 
 #arte #sociedade
 
-> Leia também:
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
-> - <a href="/o-risco">O risco</a>
-> - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
+<h3>Leia também:</h3>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+- <a href="/o-risco">O risco</a>
+- <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>

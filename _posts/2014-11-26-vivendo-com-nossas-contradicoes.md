@@ -21,7 +21,7 @@ Sim, podemos ter ideologias, criticar o sistema e almejar mudanças políticas e
 
 
 
-> Leia também:
-> - <a href="/interagir-so-com-quem-se-precisa">Interagir só com quem se precisa</a>
-> - <a href="/como-se-importar-muito-com-o-que-nao-importa">Como se importar muito com o que não importa</a>
-> - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
+<h3>Leia também:</h3>
+- <a href="/interagir-so-com-quem-se-precisa">Interagir só com quem se precisa</a>
+- <a href="/como-se-importar-muito-com-o-que-nao-importa">Como se importar muito com o que não importa</a>
+- <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>

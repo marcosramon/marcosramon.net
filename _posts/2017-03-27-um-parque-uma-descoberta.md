@@ -2,11 +2,13 @@
 title: Um parque, uma descoberta
 date: 2017-03-27
 tags:
-  - pensamentos
-description: Quando era criança eu morava em um prédio pequeno em um bairro bem ruim. Um dia estava tendo um aniversário lá no meu andar, da filha da…
-image: 
-aliases:
+- pensamentos
+description: Quando era criança eu morava em um prédio pequeno em um bairro bem ruim.
+  Um dia estava tendo um aniversário lá no meu andar, da filha da…
+image: null
+aliases: null
 permalink: um-parque-uma-descoberta
+author: Marcos Ramon
 ---
 Quando era criança eu morava em um prédio pequeno em um bairro bem ruim. Um dia estava tendo um aniversário lá no meu andar, da filha da nossa vizinha de porta. Pelo que eu lembro, tinha mais gente naquele apartamento do que cabia no prédio inteiro. Em um certo momento, não sei por qual motivo, decidi que eu queria sair dali. Estava calor demais, tinha gente demais, e eu já tinha mania, naquela época, de me sentir diferente dos outros. Naqueles dias um parque estava montado a mais ou menos um quilômetro de onde eu morava e eu pensei em ir até lá (esses parques itinerantes existiam aos montes em São Luís, eram baratos, sempre cheios e com segurança quase nenhuma).
 
@@ -21,7 +23,7 @@ Colagem de [David Delruelle](http://weandthecolor.com/collages-david-delruelle/6
 
 #pensamentos #arte
 
-> Leia também:
-> - <a href="/escrever-um-diario">Escrever um diário</a>
-> - <a href="/sem-esperar-nenhuma-resposta">Sem esperar nenhuma resposta</a>
-> - <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>
+<h3>Leia também:</h3>
+- <a href="/escrever-um-diario">Escrever um diário</a>
+- <a href="/sem-esperar-nenhuma-resposta">Sem esperar nenhuma resposta</a>
+- <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>

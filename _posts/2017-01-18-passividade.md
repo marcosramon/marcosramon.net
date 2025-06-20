@@ -2,11 +2,12 @@
 title: Passividade
 date: 2017-01-18
 tags:
-  - pensamentos
+- pensamentos
 description: Passividade
-image: 
-aliases:
+image: null
+aliases: null
 permalink: passividade
+author: Marcos Ramon
 ---
 Ver o tempo passar é escolher um caminho mais fácil, é aceitar o fato de que a realidade pode ser dura e intensa — independentemente da nossa vontade.
 
@@ -19,7 +20,7 @@ Só lutamos porque a natureza é sábia e nos permite sonhar; assim acreditamos 
 
 #pensamentos #ensino
 
-> Leia também:
-> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
-> - <a href="/progredir-sem-medo-de-errar">Progredir, sem medo de errar</a>
-> - <a href="/aprender-a-olhar">Aprender a olhar</a>
+<h3>Leia também:</h3>
+- <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+- <a href="/progredir-sem-medo-de-errar">Progredir, sem medo de errar</a>
+- <a href="/aprender-a-olhar">Aprender a olhar</a>

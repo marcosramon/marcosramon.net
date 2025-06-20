@@ -18,7 +18,7 @@ Enquanto escrevo sinto dúvida e solidão, mas não lamento a vida que eu tenho 
 
 
 
-> Leia também:
-> - <a href="/pra-quem-e-a-vida-academica">Pra quem é a vida acadêmica</a>
-> - <a href="/o-que-e-ter-uma-carreira">O que é ter uma carreira</a>
-> - <a href="/uma-vida-sem-reflexao">Uma vida sem reflexão</a>
+<h3>Leia também:</h3>
+- <a href="/pra-quem-e-a-vida-academica">Pra quem é a vida acadêmica</a>
+- <a href="/o-que-e-ter-uma-carreira">O que é ter uma carreira</a>
+- <a href="/uma-vida-sem-reflexao">Uma vida sem reflexão</a>

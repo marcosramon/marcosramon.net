@@ -21,7 +21,7 @@ Eu não vou ler, mas gosto de pensar que ninguém mais vai. Ele está disponíve
 
 
 
-> Leia também:
-> - <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
-> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+<h3>Leia também:</h3>
+- <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+- <a href="/nao-e-so-um-jogo">Não é só um jogo</a>

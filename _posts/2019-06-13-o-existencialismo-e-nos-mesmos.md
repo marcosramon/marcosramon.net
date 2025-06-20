@@ -26,7 +26,7 @@ O existencialismo discute o absurdo da existência e sua popularidade se deve pr
 
 
 
-> Leia também:
-> - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
-> - <a href="/mais-de-nos-mesmos">Mais de nós mesmos</a>
+<h3>Leia também:</h3>
+- <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+- <a href="/mais-de-nos-mesmos">Mais de nós mesmos</a>

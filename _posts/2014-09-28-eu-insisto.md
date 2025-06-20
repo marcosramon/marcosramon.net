@@ -18,7 +18,7 @@ Eu sei que tudo que escrevo parece um lamento. Mas é que eu insisto em ser quem
 
 
 
-> Leia também:
-> - <a href="/eles-sabem-o-que-eu-nao-sei">Eles sabem o que eu não sei</a>
-> - <a href="/fazer-o-melhor-que-eu-posso">Fazer o melhor que eu posso</a>
-> - <a href="/star-wars-eu-e-os-outros">Star Wars, eu e os outros</a>
+<h3>Leia também:</h3>
+- <a href="/eles-sabem-o-que-eu-nao-sei">Eles sabem o que eu não sei</a>
+- <a href="/fazer-o-melhor-que-eu-posso">Fazer o melhor que eu posso</a>
+- <a href="/star-wars-eu-e-os-outros">Star Wars, eu e os outros</a>

@@ -2,11 +2,12 @@
 title: Prefiro o risco
 date: 2017-02-09
 tags:
-  - pensamentos
+- pensamentos
 description: Prefiro o risco
-image: 
-aliases:
+image: null
+aliases: null
 permalink: prefiro-o-risco
+author: Marcos Ramon
 ---
 A gente pode encarar a realidade de duas formas: como uma sequência de fatos certos e definitivos, cheios de circunstâncias inevitáveis das quais não podemos fugir, ou como um acumulado de acasos e estranhamentos, um conjunto de aleatoriedades que tornam a vida interessante mesmo naquilo que ela tem de pior.
 
@@ -21,7 +22,7 @@ Ilustração de [Michał Dziekan](http://michaldziekan.tumblr.com/)
 
 #pensamentos #internet
 
-> Leia também:
-> - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
-> - <a href="/colagem">Colagem</a>
-> - <a href="/desejo-e-realidade">Desejo e realidade</a>
+<h3>Leia também:</h3>
+- <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
+- <a href="/colagem">Colagem</a>
+- <a href="/desejo-e-realidade">Desejo e realidade</a>

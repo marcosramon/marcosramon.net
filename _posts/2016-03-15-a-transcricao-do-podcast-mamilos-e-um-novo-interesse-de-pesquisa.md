@@ -2,17 +2,18 @@
 title: A transcrição do podcast “Mamilos” e um novo interesse de pesquisa
 date: 2016-03-15
 tags:
-  - arte
-  - tecnologia
-  - cultura
-  - política
-  - Grafos
-  - podcast
-  - pesquisa
+- arte
+- tecnologia
+- cultura
+- política
+- Grafos
+- podcast
+- pesquisa
 description: A transcrição do podcast “Mamilos” e um novo interesse de pesquisa
-image: 
-aliases:
+image: null
+aliases: null
 permalink: a-transcricao-do-podcast-mamilos-e-um-novo-interesse-de-pesquisa
+author: Marcos Ramon
 ---
 <img src="/assets/img/a-transcrição-do-podcast-“mamilos”-e-um-novo-interesse-de pesquisa-medium-1.png">
 
@@ -49,7 +50,7 @@ Claro que esse é apenas um exercício, um novo jeito de olhar para um produto c
 
 #política #cultura
 
-> Leia também:
-> - <a href="/a-hora-e-a-vez-do-podcast">A hora e a vez do podcast</a>
-> - <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>
-> - <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>
+<h3>Leia também:</h3>
+- <a href="/a-hora-e-a-vez-do-podcast">A hora e a vez do podcast</a>
+- <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>
+- <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>

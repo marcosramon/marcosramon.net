@@ -2,13 +2,15 @@
 title: Visualizando letras de música como networks
 date: 2016-06-30
 tags:
-  - pensamentos
-  - Grafos
-  - pesquisa
-description: Um dos projetos que estou envolvido atualmente é na experimentação de textos em estrutura de rede. A ideia é observar os textos como redes…
-image: 
-aliases:
+- pensamentos
+- Grafos
+- pesquisa
+description: Um dos projetos que estou envolvido atualmente é na experimentação de
+  textos em estrutura de rede. A ideia é observar os textos como redes…
+image: null
+aliases: null
 permalink: visualizando-letras-de-musica-como-networks
+author: Marcos Ramon
 ---
 Um dos projetos que estou envolvido atualmente é na experimentação de textos em estrutura de rede. A ideia é observar os textos como redes para identificar elementos que — na leitura natural — passariam despercebidos.
 
@@ -53,7 +55,7 @@ Ok Computer — Radiohead (1997)
 
 #pensamentos #pesquisa
 
-> Leia também:
-> - <a href="/alerta-de-spoiler">Alerta de spoiler</a>
-> - <a href="/visualizando-a-hashtag-diadopodcast">Visualizando a hashtag #diadopodcast</a>
-> - <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>
+<h3>Leia também:</h3>
+- <a href="/alerta-de-spoiler">Alerta de spoiler</a>
+- <a href="/visualizando-a-hashtag-diadopodcast">Visualizando a hashtag #diadopodcast</a>
+- <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>

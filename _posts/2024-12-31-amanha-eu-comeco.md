@@ -3,11 +3,12 @@ title: Amanhã eu começo
 excerpt: Quando chega um novo ano, saio em busca de soluções.
 date: 2024-12-31
 tags:
-  - cotidiano
+- cotidiano
 aliases:
-  - "[[cotidiano]]"
-  - "[[tempo]]"
+- '[[cotidiano]]'
+- '[[tempo]]'
 permalink: amanha-eu-comeco
+author: Marcos Ramon
 ---
 Amanhã eu começo um novo ano. Como todas as vezes, vou dedicar um tempo para pensar sobre o que posso fazer, o que devo abandonar, o que é pra ser esquecido; essa é a minha rotina de passagem, pensando comigo mesmo, me forçando a encontrar soluções que se escondem de mim.
 
@@ -16,7 +17,7 @@ E de alguma forma, as encontro. Porque as soluções são intermináveis (estão
 ![](arquivos/Pasted%20image%2020250224203921.png)
 *Colagem de <a href="https://keelertornero.com/">Keeler Tornero</a>*
 
-> Leia também:
-> - <a href="/fazer-o-melhor-que-eu-posso">Fazer o melhor que eu posso</a>
-> - <a href="/o-possivel-amanha">O possível amanhã</a>
-> - <a href="/eles-sabem-o-que-eu-nao-sei">Eles sabem o que eu não sei</a>
+<h3>Leia também:</h3>
+- <a href="/fazer-o-melhor-que-eu-posso">Fazer o melhor que eu posso</a>
+- <a href="/o-possivel-amanha">O possível amanhã</a>
+- <a href="/eles-sabem-o-que-eu-nao-sei">Eles sabem o que eu não sei</a>

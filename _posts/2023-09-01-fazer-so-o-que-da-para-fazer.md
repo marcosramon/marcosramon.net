@@ -1,12 +1,16 @@
 ---
 title: Fazer só o que dá para fazer
-excerpt: Por esses dias decidi começar a fazer só o que dá pra fazer. Nada de exagerar nas obrigações, demandas ou extrapolação de horários; nada de abandonar o bom senso e me entregar à lógica de que a boa vida é aquela em que se trabalha até desmaiar. Vou seguir só o quanto consigo, sem me cobrar demais.
+excerpt: Por esses dias decidi começar a fazer só o que dá pra fazer. Nada de exagerar
+  nas obrigações, demandas ou extrapolação de horários; nada de abandonar o bom senso
+  e me entregar à lógica de que a boa vida é aquela em que se trabalha até desmaiar.
+  Vou seguir só o quanto consigo, sem me cobrar demais.
 aliases:
-  - "[[trabalho]]"
-  - "[[comportamento]]"
-  - "[[cultura]]"
+- '[[trabalho]]'
+- '[[comportamento]]'
+- '[[cultura]]'
 date: 2023-09-01
 permalink: fazer-so-o-que-da-para-fazer
+author: Marcos Ramon
 ---
 Por esses dias decidi começar a fazer só o que dá pra fazer. Nada de exagerar nas obrigações, demandas ou extrapolação de horários; nada de abandonar o bom senso e me entregar à lógica de que a boa vida é aquela em que se trabalha até desmaiar. Vou seguir só o quanto consigo, sem me cobrar demais.
 
@@ -24,7 +28,7 @@ Trabalhar acima dos seus limites beneficia alguém ou algo, certamente. Chefes e
 
 #trabalho #comportamento #angústia
 
-> Leia também:
-> - <a href="/o-que-realmente-importa">O que realmente importa</a>
-> - <a href="/o-que-e-ter-uma-carreira">O que é ter uma carreira</a>
-> - <a href="/e-so-o-tempo-que-passa">É só o tempo que passa</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-realmente-importa">O que realmente importa</a>
+- <a href="/o-que-e-ter-uma-carreira">O que é ter uma carreira</a>
+- <a href="/e-so-o-tempo-que-passa">É só o tempo que passa</a>

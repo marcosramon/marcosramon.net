@@ -2,10 +2,12 @@
 title: O que realmente importa
 date: 2018-01-08
 tags:
-  - comportamento
-description: Existe aquela história de que pensamento positivo é importante para realizar coisas na vida. Não acredito nisso.
+- comportamento
+description: Existe aquela história de que pensamento positivo é importante para realizar
+  coisas na vida. Não acredito nisso.
 permalink: o-que-realmente-importa
-aliases:
+aliases: null
+author: Marcos Ramon
 ---
 Existe aquela história de que pensamento positivo é importante para realizar coisas na vida. Não acredito nisso. Mesmo assim, acho que é melhor ter atitude positiva diante da vida do que o contrário; e não porque “o mundo vai conspirar a seu favor”, mas porque assim a vida pode ser mais leve, mais tranquila. O problema, contudo, é que quem não tem esse jeito de ver o mundo, não tem esse jeito de ver o mundo. Simples assim. Pensamento positivo não é algo que se aprende (mas claro que os _coachs_ da vida devem dizer o contrário).
 
@@ -26,7 +28,7 @@ Mas se o pensamento positivo não se aprende e a possibilidade de viver daquilo 
 
 
 
-> Leia também:
-> - <a href="/o-que-ainda-pode-mudar">O que ainda pode mudar</a>
-> - <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-ainda-pode-mudar">O que ainda pode mudar</a>
+- <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>

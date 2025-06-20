@@ -2,12 +2,14 @@
 title: Fazer sumir
 date: 2016-09-16
 tags:
-  - arte
-  - cultura
-description: Em 1953, Robert Rauschenberg, na época um artista de 28 anos começando suas explorações na iniciante pop art norte-americana, bateu na…
-image: 
-aliases:
+- arte
+- cultura
+description: Em 1953, Robert Rauschenberg, na época um artista de 28 anos começando
+  suas explorações na iniciante pop art norte-americana, bateu na…
+image: null
+aliases: null
 permalink: fazer-sumir
+author: Marcos Ramon
 ---
 Em 1953, [Robert Rauschenberg](https://en.wikipedia.org/wiki/Robert_Rauschenberg), na época um artista de 28 anos começando suas explorações na iniciante _pop art_ norte-americana, bateu na porta de [Willem de Kooning](https://en.wikipedia.org/wiki/Willem_de_Kooning) — um pintor holandês, radicado nos Estados Unidos— e fez um pedido incomum: ele queria um desenho de De Kooning para apagar. Vale dizer que De Kooning, que tinha 49 anos quando ocorreu esse encontro, era já um artista renomado e respeitado por seus [trabalhos abstratos](http://moma.org/calendar/exhibitions/1135?locale=en).
 
@@ -30,7 +32,7 @@ _O desenho apagado de De Kooning_ não é uma grande obra técnica e nem um prod
 
 #arte #cultura
 
-> Leia também:
-> - <a href="/necessidades-basicas">Necessidades básicas</a>
-> - <a href="/todos-iguais">Todos iguais</a>
-> - <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>
+<h3>Leia também:</h3>
+- <a href="/necessidades-basicas">Necessidades básicas</a>
+- <a href="/todos-iguais">Todos iguais</a>
+- <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>

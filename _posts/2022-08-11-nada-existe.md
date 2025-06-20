@@ -21,7 +21,7 @@ Infelizmente, nada disso existe.
 
 #reflexão #Realidade 
 
-> Leia também:
-> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
-> - <a href="/o-que-todo-mundo-e">O que todo mundo é</a>
-> - <a href="/como-ser-feliz">Como ser feliz</a>
+<h3>Leia também:</h3>
+- <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+- <a href="/o-que-todo-mundo-e">O que todo mundo é</a>
+- <a href="/como-ser-feliz">Como ser feliz</a>

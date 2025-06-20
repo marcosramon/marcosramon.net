@@ -2,12 +2,13 @@
 title: Todos iguais
 date: 2017-03-05
 tags:
-  - arte
-  - cultura
+- arte
+- cultura
 description: Todos iguais
-image: 
-aliases:
+image: null
+aliases: null
 permalink: todos-iguais
+author: Marcos Ramon
 ---
 Costumamos falar sobre igualdade como algo que desejamos que seja reconhecido e defendido por todos. Mas, ainda que lutemos por uma igualdade de direitos e oportunidades, cada um sente — mesmo que defenda o contrário — que não somos realmente iguais. Não estou defendendo aqui nenhum tipo de atitude extremista que busca hierarquizar as pessoas por suas características físicas, opções religiosas, sexuais ou o que for. O que quero dizer é que as pessoas são diferentes e devem ser respeitadas nessa diferença, porque cada ser humano possui uma história e uma singularidade. E, nesse sentido, o que nos aproxima (nossas características físicas, nossa cultura etc) nunca será mais determinante em nós do que nossas particularidades; ou pelo menos eu acredito que deveria ser assim.
 
@@ -22,7 +23,7 @@ Gif criado por [Adam Pizurny](http://adampizurny.tumblr.com/)
 
 #arte #cultura
 
-> Leia também:
-> - <a href="/necessidades-basicas">Necessidades básicas</a>
-> - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
-> - <a href="/escrever-um-diario">Escrever um diário</a>
+<h3>Leia também:</h3>
+- <a href="/necessidades-basicas">Necessidades básicas</a>
+- <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
+- <a href="/escrever-um-diario">Escrever um diário</a>

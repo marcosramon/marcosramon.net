@@ -2,14 +2,15 @@
 title: Um gosto do passado
 date: 2016-10-27
 tags:
-  - tecnologia
-  - cotidiano
-  - escrita
-  - Escrever
+- tecnologia
+- cotidiano
+- escrita
+- Escrever
 description: O que ativa as suas memórias?
-image: 
-aliases:
+image: null
+aliases: null
 permalink: um-gosto-do-passado
+author: Marcos Ramon
 ---
 Remexendo nas minhas gavetas cheias de velharias, encontrei um caderno pequeno que eu usava na época em que eu estava fazendo graduação. É uma caderneta de 10,5 x 14 cm de capa amarela e vermelha com um desenho Snoopy. Eu usei essa caderneta no ano 2002 e nela eu fazia anotações de aulas, guardava citações de livros (algo pouco útil, já que era difícil de encontrar as citações depois) e, pasmem, _links_ de sites interessantes que eu queria consultar depois (algo absurdo hoje em dia, mas que parecia _ok_ naquela época em que eu estava me iniciando na internet).
 
@@ -26,7 +27,7 @@ Eu só tive acesso a computadores e internet bem tarde, quando entrei na univers
 
 #escrita #cotidiano
 
-> Leia também:
-> - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
-> - <a href="/a-burocracia-do-cotidiano">A burocracia do cotidiano</a>
-> - <a href="/o-que-e-ter-uma-carreira">O que é ter uma carreira</a>
+<h3>Leia também:</h3>
+- <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
+- <a href="/a-burocracia-do-cotidiano">A burocracia do cotidiano</a>
+- <a href="/o-que-e-ter-uma-carreira">O que é ter uma carreira</a>

@@ -1,15 +1,18 @@
 ---
-title: Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015
+title: Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi
+  em 2015
 date: 2015-12-04
 tags:
-  - arte
-  - filosofia
-  - tecnologia
-  - cultura
-  - podcast
-description: Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015
-image:
+- arte
+- filosofia
+- tecnologia
+- cultura
+- podcast
+description: Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu
+  ouvi em 2015
+image: null
 permalink: uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015
+author: Marcos Ramon
 ---
 O podcast é uma mídia que está crescendo bastante. Em outubro se comemora o dia do podcast no Brasil e [escrevi um texto analisando alguns dados sobre o engajamento dos produtores e consumidores da mídia](http://bit.ly/1TF52fN), mas aqui o que eu quero fazer é uma reflexão sobre o que significa o podcast pra mim, em conjunto com algumas indicações (bem pessoais, óbvio) de bons episódios que ouvi neste ano.
 
@@ -90,7 +93,7 @@ Bem, é isso. Espero que as minhas reflexões e indicações sejam úteis de alg
 
 #podcast #cultura
 
-> Leia também:
-> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
-> - <a href="/a-hora-e-a-vez-do-podcast">A hora e a vez do podcast</a>
-> - <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>
+<h3>Leia também:</h3>
+- <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+- <a href="/a-hora-e-a-vez-do-podcast">A hora e a vez do podcast</a>
+- <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>

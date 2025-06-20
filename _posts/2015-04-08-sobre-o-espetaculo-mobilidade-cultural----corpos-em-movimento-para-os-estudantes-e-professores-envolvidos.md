@@ -29,7 +29,7 @@ Vendo vocês entendi que eu sou humano. E que bom é poder descobrir isso! Eu in
 
 
 
-> Leia também:
-> - <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>
-> - <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
-> - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
+<h3>Leia também:</h3>
+- <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>
+- <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
+- <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>

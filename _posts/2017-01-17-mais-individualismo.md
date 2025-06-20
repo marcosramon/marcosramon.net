@@ -2,11 +2,12 @@
 title: Mais individualismo
 date: 2017-01-17
 tags:
-  - pensamentos
+- pensamentos
 description: Mais individualismo
-image: 
-aliases:
+image: null
+aliases: null
 permalink: mais-individualismo
+author: Marcos Ramon
 ---
 Existe atualmente uma defesa quase unânime do coletivismo em detrimento do individualismo. O que se argumenta é que o capitalismo e o estilo de vida focado na produtividade geraram pessoas cada vez mais desconectadas do todo, interessadas apenas nelas mesmas e sem compartilhar valores sociais coletivos. Será?
 
@@ -19,7 +20,7 @@ O espírito dominante da multidão é a tônica da nossa época. Basta ver as pe
 
 #pensamentos #estética
 
-> Leia também:
-> - <a href="/o-mais-distante">O mais distante</a>
-> - <a href="/os-contos-e-suas-releituras">Os contos e suas releituras</a>
-> - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
+<h3>Leia também:</h3>
+- <a href="/o-mais-distante">O mais distante</a>
+- <a href="/os-contos-e-suas-releituras">Os contos e suas releituras</a>
+- <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>

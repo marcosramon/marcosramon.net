@@ -27,7 +27,7 @@ Mas nessa conta é preciso considerar que nem sempre o tesouro é verdadeiro. Te
 
 
 
-> Leia também:
-> - <a href="/valorizar-a-busca">Valorizar a busca</a>
-> - <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+<h3>Leia também:</h3>
+- <a href="/valorizar-a-busca">Valorizar a busca</a>
+- <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>

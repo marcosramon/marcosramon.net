@@ -2,15 +2,17 @@
 title: Visualizando a hashtag diadopodcast
 date: 2015-10-25
 tags:
-  - podcast
-  - tecnologia
-  - internet
-  - pesquisa
-  - Grafos
-description: O dia 21 de Outubro é o dia do podcast no Brasil. Esse dia é utilizado como pretexto para se divulgar de forma mais intensa o podcast no…
-image: 
-aliases:
+- podcast
+- tecnologia
+- internet
+- pesquisa
+- Grafos
+description: O dia 21 de Outubro é o dia do podcast no Brasil. Esse dia é utilizado
+  como pretexto para se divulgar de forma mais intensa o podcast no…
+image: null
+aliases: null
 permalink: visualizando-a-hashtag-diadopodcast
+author: Marcos Ramon
 ---
 O dia 21 de Outubro é o dia do podcast no Brasil. Esse dia é utilizado como pretexto para se divulgar de forma mais intensa o podcast no Brasil. A ação, que foi idealizada por um [grupo de podcasters brasileiros](http://diadopodcast.com.br/), acaba mobilizando naturalmente um grande número de produtores e consumidores da mídia.
 
@@ -99,7 +101,7 @@ Enfim, esse é um primeiro exercício e a ideia é avançar na coleta e análise
 
 #Grafos #pesquisa
 
-> Leia também:
-> - <a href="/visualizando-as-letras-do-bob-dylan">Visualizando as letras do Bob Dylan</a>
-> - <a href="/visualizando-letras-de-musica-como-networks">Visualizando letras de música como networks</a>
-> - <a href="/analise-de-um-forum-de-ead">Análise de um Fórum de EAD</a>
+<h3>Leia também:</h3>
+- <a href="/visualizando-as-letras-do-bob-dylan">Visualizando as letras do Bob Dylan</a>
+- <a href="/visualizando-letras-de-musica-como-networks">Visualizando letras de música como networks</a>
+- <a href="/analise-de-um-forum-de-ead">Análise de um Fórum de EAD</a>

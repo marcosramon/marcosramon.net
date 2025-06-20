@@ -4,11 +4,11 @@ date: 2020-07-24
 author: Marcos Ramon
 description: Sobre a palavra o surgimento da palavra surrealismo
 tags:
-  - Apollinaire
-  - Ainda
-  - Sobre
-  - Surrealismo
-  - Balé
+- Apollinaire
+- Ainda
+- Sobre
+- Surrealismo
+- Balé
 published: true
 permalink: o-valor-do-absurdo
 ---
@@ -25,7 +25,7 @@ Apollinaire, morreu no ano seguinte, 1918, vítima da gripe espanhola. Mas um jo
 <img src="/assets/img/parade.jpg">
 <small> O balé <a href="https://en.wikipedia.org/wiki/Parade_(ballet)">"Desfile"</a></small>
 
-> Leia também:
-> - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
-> - <a href="/o-absurdo-cotidiano">O absurdo cotidiano</a>
-> - <a href="/abracando-o-nada">Abraçando o nada</a>
+<h3>Leia também:</h3>
+- <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
+- <a href="/o-absurdo-cotidiano">O absurdo cotidiano</a>
+- <a href="/abracando-o-nada">Abraçando o nada</a>

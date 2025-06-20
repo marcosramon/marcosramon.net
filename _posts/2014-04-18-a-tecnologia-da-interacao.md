@@ -2,12 +2,13 @@
 title: A tecnologia da interação
 date: 2014-04-18
 tags:
-  - tecnologia
-  - sociedade
+- tecnologia
+- sociedade
 description: A tecnologia da interação
-image: 
-aliases:
+image: null
+aliases: null
 permalink: a-tecnologia-da-interacao
+author: Marcos Ramon
 ---
 Nessa semana participei de um congresso de Comunicação. Depois de uma das sessões fui a um restaurante próximo para almoçar. Tinham 14 pessoas no restaurante ocupando 10 mesas diferentes. A maioria, portanto, estava presa cada uma a si (sendo eu uma dessas pessoas), sem conseguir ou sem querer ultrapassar o limite entre o eu e o outro. Há 10 minutos todas essas pessoas estavam em uma sala de debates, discutindo os dilemas da comunicação e da tecnologia. Agora, sentados sozinhos diante de uma refeição, nos sentíamos incapazes de lidar com a mais simples das tecnologias: a interação humana.
 
@@ -19,7 +20,7 @@ Sendo assim, e considerando a quantidade de vezes que eu já li alguém dizendo 
 
 #tecnologia #sociedade
 
-> Leia também:
-> - <a href="/a-leitura-na-internet-esta-mais-confortavel">A leitura na internet está mais confortável</a>
-> - <a href="/a-maior-derrota-que-se-pode-ter">A maior derrota que se pode ter</a>
-> - <a href="/a-solidao-a-liberdade-e-a-felicidade-possivel">A solidão, a liberdade e a felicidade possível</a>
+<h3>Leia também:</h3>
+- <a href="/a-leitura-na-internet-esta-mais-confortavel">A leitura na internet está mais confortável</a>
+- <a href="/a-maior-derrota-que-se-pode-ter">A maior derrota que se pode ter</a>
+- <a href="/a-solidao-a-liberdade-e-a-felicidade-possivel">A solidão, a liberdade e a felicidade possível</a>

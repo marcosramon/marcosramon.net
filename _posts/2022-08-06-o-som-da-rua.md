@@ -33,7 +33,7 @@ De um jeito estranho, acho bonito isso. Pensar que [a realidade que nos cerca of
 
 #som #cotidiano
 
-> Leia também:
-> - <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>
-> - <a href="/o-cotidiano-da-sala-de-aula">O cotidiano da sala de aula</a>
-> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+<h3>Leia também:</h3>
+- <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>
+- <a href="/o-cotidiano-da-sala-de-aula">O cotidiano da sala de aula</a>
+- <a href="/o-que-e-ser-criativo">O que é ser criativo</a>

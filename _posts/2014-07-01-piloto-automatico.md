@@ -20,7 +20,7 @@ E um dia, quem sabe, tudo se arranja de um jeito bom meio sem querer. Será?
 
 
 
-> Leia também:
-> - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
-> - <a href="/como-ser-feliz">Como ser feliz</a>
-> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+<h3>Leia também:</h3>
+- <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
+- <a href="/como-ser-feliz">Como ser feliz</a>
+- <a href="/nao-e-so-um-jogo">Não é só um jogo</a>

@@ -30,7 +30,7 @@ De uma forma ou de outra, e já que é inevitável, só o que posso dizer é: qu
 
 
 
-> Leia também:
-> - <a href="/o-clima-e-a-gente">O clima e a gente</a>
-> - <a href="/o-totalitarismo-e-a-gente">O totalitarismo e a gente</a>
-> - <a href="/ficcoes-08-musica-e-filosofia">Ficções #08   música e filosofia</a>
+<h3>Leia também:</h3>
+- <a href="/o-clima-e-a-gente">O clima e a gente</a>
+- <a href="/o-totalitarismo-e-a-gente">O totalitarismo e a gente</a>
+- <a href="/ficcoes-08-musica-e-filosofia">Ficções #08   música e filosofia</a>

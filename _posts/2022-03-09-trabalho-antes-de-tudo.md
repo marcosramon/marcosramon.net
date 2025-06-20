@@ -26,7 +26,7 @@ Quando conhecemos um profissional que faz minimamente bem o que deve fazer, esqu
 
 #trabalho #cultura 
 
-> Leia também:
-> - <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>
-> - <a href="/viver-o-trabalho">Viver o trabalho</a>
-> - <a href="/reclamar-de-tudo">Reclamar de tudo</a>
+<h3>Leia também:</h3>
+- <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>
+- <a href="/viver-o-trabalho">Viver o trabalho</a>
+- <a href="/reclamar-de-tudo">Reclamar de tudo</a>

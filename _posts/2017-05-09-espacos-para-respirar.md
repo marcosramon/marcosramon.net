@@ -2,13 +2,15 @@
 title: Espaços para respirar
 date: 2017-05-09
 tags:
-  - arte
-  - filosofia
-  - comportamento
-  - tecnologia
-description: Recentemente li e recomendei um texto que falava sobre a nossa obsessão com os smartphones. Bem, de lá pra cá, acabei me deparando com…
-image:
+- arte
+- filosofia
+- comportamento
+- tecnologia
+description: Recentemente li e recomendei um texto que falava sobre a nossa obsessão
+  com os smartphones. Bem, de lá pra cá, acabei me deparando com…
+image: null
 permalink: espacos-para-respirar
+author: Marcos Ramon
 ---
 Recentemente [li e recomendei um texto que falava sobre a nossa obsessão com os smartphones](http://mailchi.mp/999fb89c5ca6/alguns-links). Bem, de lá pra cá, acabei me deparando com outros textos que fazem conexões semelhantes. Ou estamos nos tornando monotemáticos por falta de novas experiências, ou esse realmente é um problema que cada vez mais e mais pessoas estão observando.
 
@@ -25,7 +27,7 @@ Eu publico os meus textos na internet e faço podcasts por puro diletantismo, ma
 
 #tecnologia #comportamento
 
-> Leia também:
-> - <a href="/estamos-perdidos">Estamos perdidos</a>
-> - <a href="/duvidar-um-pouco">Duvidar um pouco</a>
-> - <a href="/olhando-com-cuidado">Olhando com cuidado</a>
+<h3>Leia também:</h3>
+- <a href="/estamos-perdidos">Estamos perdidos</a>
+- <a href="/duvidar-um-pouco">Duvidar um pouco</a>
+- <a href="/olhando-com-cuidado">Olhando com cuidado</a>

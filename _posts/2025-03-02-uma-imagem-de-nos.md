@@ -2,16 +2,17 @@
 title: Uma imagem de nós
 date: 2025-03-02
 tags:
-  - cotidiano
-  - filosofia
+- cotidiano
+- filosofia
 excerpt: Sobre a imagem que achamos que construímos de nós.
 permalink: uma-imagem-de-nos
 aliases:
-  - "[[Kant]]"
-  - "[[filosofia]]"
-  - "[[reflexão]]"
+- '[[Kant]]'
+- '[[filosofia]]'
+- '[[reflexão]]'
+author: Marcos Ramon
 ---
-Li uma vez, em um texto biográfico sobre a vida de [[Kant]], que suas últimas palavras, pouco antes de morrer, aos 80 anos, foram: “Está bom”.
+Li uma vez, em um texto biográfico sobre a vida de Kant, que suas últimas palavras, pouco antes de morrer, aos 80 anos, foram: “Está bom”.
 
 Provavelmente não é verdade, mas gosto de pensar nessa caricatura construída sobre este indivíduo, que era tão certo e regular em seus hábitos quanto um relógio e que se via satisfeito com uma vida simples, sem sobressaltos e novidades. Nessa imagem, que os leitores sempre vão ter, dado a quantidade de biografias que reforçaram este estereótipo, Kant é o símbolo do homem inteiramente dedicado à sua obra, seus livros e suas questões profundas e quase indecifráveis; enfim, um ícone do que seria a própria filosofia (no seu pior e no seu melhor aspecto).
 
@@ -27,7 +28,7 @@ Sobre Kant, contam que um dia uma pessoa o convidou para um passeio que demorou 
 [^1]: Ideal não sentido de ser *perfeito*, mas no sentido de ser uma representação de determinadas características que desejamos 
 [^2]: WEISCHEDEL, Wilhelm. *A escada dos fundos da Filosofia*. São Paulo: Editora Angra, 2006.
 
-> Leia também:
-> - <a href="/mais-de-nos-mesmos">Mais de nós mesmos</a>
-> - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
-> - <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>
+<h3>Leia também:</h3>
+- <a href="/mais-de-nos-mesmos">Mais de nós mesmos</a>
+- <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
+- <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>

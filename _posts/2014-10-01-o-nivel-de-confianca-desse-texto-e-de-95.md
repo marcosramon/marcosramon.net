@@ -2,13 +2,15 @@
 title: O nível de confiança desse texto é de 95%
 date: 2014-10-01
 tags:
-  - política
-  - pesquisa
-  - Ciência
-description: O que significa dizer que, se esse texto for lido 100 vezes, em 95 as informações contidas nele serão as mesmas.
-image: 
-aliases:
+- política
+- pesquisa
+- Ciência
+description: O que significa dizer que, se esse texto for lido 100 vezes, em 95 as
+  informações contidas nele serão as mesmas.
+image: null
+aliases: null
 permalink: o-nivel-de-confianca-desse-texto-e-de-95
+author: Marcos Ramon
 ---
 _O que significa dizer que, se esse texto for lido 100 vezes, em 95 as informações contidas nele serão as mesmas._
 
@@ -39,7 +41,7 @@ Gostaria muito de conhecer um estudo que tratasse da influência das pesquisas n
 
 #Ciência #pesquisa
 
-> Leia também:
-> - <a href="/visualizando-letras-de-musica-como-networks">Visualizando letras de música como networks</a>
-> - <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>
-> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+<h3>Leia também:</h3>
+- <a href="/visualizando-letras-de-musica-como-networks">Visualizando letras de música como networks</a>
+- <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>
+- <a href="/o-que-e-ser-criativo">O que é ser criativo</a>

@@ -24,7 +24,7 @@ Não dá pra entender que exista uma meta de felicidade na quantidade de desprop
 
 
 
-> Leia também:
-> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
-> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+<h3>Leia também:</h3>
+- <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+- <a href="/nao-e-so-um-jogo">Não é só um jogo</a>

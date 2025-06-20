@@ -26,7 +26,7 @@ Mas Frampton utiliza também o diário de viagem de Montaigne, que foi publicado
 
 
 
-> Leia também:
-> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
-> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
-> - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
+<h3>Leia também:</h3>
+- <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+- <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+- <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>

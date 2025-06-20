@@ -27,7 +27,7 @@ Mas espero que eu esteja errado. Afinal, todo mundo sabe que escola é só escol
 
 
 
-> Leia também:
-> - <a href="/escola-em-tempo-integral">Escola em tempo integral</a>
-> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
-> - <a href="/duvidar-para-fazer-as-perguntas-certas">Duvidar para fazer as perguntas certas</a>
+<h3>Leia também:</h3>
+- <a href="/escola-em-tempo-integral">Escola em tempo integral</a>
+- <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+- <a href="/duvidar-para-fazer-as-perguntas-certas">Duvidar para fazer as perguntas certas</a>

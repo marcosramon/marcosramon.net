@@ -20,7 +20,7 @@ Viver é suportar uma ilusão por vez, fingindo que tudo está no caminho certo 
 
 
 
-> Leia também:
-> - <a href="/uma-cidade">Uma cidade</a>
-> - <a href="/a-hora-e-a-vez-do-podcast">A hora e a vez do podcast</a>
-> - <a href="/o-que-e-ter-uma-carreira">O que é ter uma carreira</a>
+<h3>Leia também:</h3>
+- <a href="/uma-cidade">Uma cidade</a>
+- <a href="/a-hora-e-a-vez-do-podcast">A hora e a vez do podcast</a>
+- <a href="/o-que-e-ter-uma-carreira">O que é ter uma carreira</a>

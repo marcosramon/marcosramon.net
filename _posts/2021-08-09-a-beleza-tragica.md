@@ -24,7 +24,7 @@ Mas [Nietzsche não achava que devíamos destruir o apolíneo em nós](http://am
 
 #estética #filosofia
 
-> Leia também:
-> - <a href="/a-beleza-do-absurdo">A beleza do absurdo</a>
-> - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
-> - <a href="/a-realidade-se-impoe">A realidade se impõe</a>
+<h3>Leia também:</h3>
+- <a href="/a-beleza-do-absurdo">A beleza do absurdo</a>
+- <a href="/a-ausencia-da-memoria">A ausência da memória</a>
+- <a href="/a-realidade-se-impoe">A realidade se impõe</a>

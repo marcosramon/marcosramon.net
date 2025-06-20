@@ -2,11 +2,12 @@
 title: A beleza do absurdo
 date: 2017-02-25
 tags:
-  - pensamentos
+- pensamentos
 description: A beleza do absurdo
-image: 
-aliases:
+image: null
+aliases: null
 permalink: a-beleza-do-absurdo
+author: Marcos Ramon
 ---
 O estranho é difícil de compreender e de gostar. Com nosso olhar tão direcionado para a beleza formatada da mídia e com nossa obsessão pelo entretenimento, encarar o esquisito é um exercício de constante força e insistência. Conta-se que Marcel Duchamp procurava para cada um dos seus _ready-made_ objetos isentos de interesse estético. Mas será que existe esse tipo de ausência estética? Ou, dizendo de outra forma: a beleza só se encontra naquilo que é racional e compreensível?
 
@@ -21,7 +22,7 @@ Um dos sapatos de [Anna Vasof](https://vimeo.com/annavasof)
 
 #pensamentos #comunicação
 
-> Leia também:
-> - <a href="/sentir-se-preso">Sentir-se preso</a>
-> - <a href="/a-burocracia-do-cotidiano">A burocracia do cotidiano</a>
-> - <a href="/aprender-a-olhar">Aprender a olhar</a>
+<h3>Leia também:</h3>
+- <a href="/sentir-se-preso">Sentir-se preso</a>
+- <a href="/a-burocracia-do-cotidiano">A burocracia do cotidiano</a>
+- <a href="/aprender-a-olhar">Aprender a olhar</a>

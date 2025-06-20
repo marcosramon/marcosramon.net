@@ -2,16 +2,17 @@
 title: PodcastFriday
 date: 2016-09-16
 tags:
-  - filosofia
-  - reflexão
-  - cotidiano
-  - arte
-  - estética
-  - Grafos
-  - pesquisa
-description: "Análise do uso da hashtag #podcastfriday"
-image: 
+- filosofia
+- reflexão
+- cotidiano
+- arte
+- estética
+- Grafos
+- pesquisa
+description: 'Análise do uso da hashtag #podcastfriday'
+image: null
 permalink: podcastfriday
+author: Marcos Ramon
 ---
 # #PodcastFriday
 
@@ -77,12 +78,12 @@ Os fenômenos de massa sempre vão existir, em qualquer mídia que seja; mas o r
 
 ---
 
-**Update (24/09/2016, 23h)**: ontem foi o segundo dia da #PodcastFriday. Fiz uma análise comparativa aqui: [[HTML import/#PodcastFriday, dia 2|#PodcastFriday, dia 2]]
+**Update (24/09/2016, 23h)**: ontem foi o segundo dia da #PodcastFriday. Fiz uma análise comparativa aqui: #PodcastFriday, dia 2
 
 
 #filosofia #arte
 
-> Leia também:
-> - <a href="/podcastfriday-dia-2">PodcastFriday, dia 2</a>
-> - <a href="/podcastfriday-tres-meses-depois">Podcastfriday, três meses depois</a>
-> - <a href="/visualizando-a-pesquisa">Visualizando a pesquisa</a>
+<h3>Leia também:</h3>
+- <a href="/podcastfriday-dia-2">PodcastFriday, dia 2</a>
+- <a href="/podcastfriday-tres-meses-depois">Podcastfriday, três meses depois</a>
+- <a href="/visualizando-a-pesquisa">Visualizando a pesquisa</a>

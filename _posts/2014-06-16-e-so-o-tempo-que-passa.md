@@ -2,14 +2,14 @@
 title: É só o tempo que passa
 date: 2014-06-16
 categories:
-  - blog
+- blog
 tags:
-  - cotidiano
+- cotidiano
 description: Todo dia a gente fica mais velho
 image: ficandovelho.jpg
 author: Marcos Ramon
 aliases:
-  - "[[tempo]]"
+- '[[tempo]]'
 permalink: e-so-o-tempo-que-passa
 ---
 Ontem, do nada, Arthur olhou pra mim e perguntou:
@@ -24,7 +24,7 @@ Vai ver que é só isso, o tempo que passa.
 
 
 
-> Leia também:
-> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
-> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
-> - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+- <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+- <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>

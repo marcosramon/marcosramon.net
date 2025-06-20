@@ -2,11 +2,13 @@
 title: Alerta de spoiler
 date: 2017-10-19
 tags:
-  - pensamentos
-description: A ideia de ser surpreendido com o final de uma história que você ainda está lendo ou com a descrição de uma cena incrível de um filme que…
-image: 
-aliases:
+- pensamentos
+description: A ideia de ser surpreendido com o final de uma história que você ainda
+  está lendo ou com a descrição de uma cena incrível de um filme que…
+image: null
+aliases: null
 permalink: alerta-de-spoiler
+author: Marcos Ramon
 ---
 A ideia de ser surpreendido com o final de uma história que você ainda está lendo ou com a descrição de uma cena incrível de um filme que você ainda não assistiu não é nova. Isso sempre aconteceu de alguma forma, nos clubes de livro, nas filas de cinema, em críticas mal escritas das revistas. Contudo, nada se compara com o poder do _spoiler_ na internet. Falar para os outros o que eles ainda não sabem (e não gostariam de saber até o fim) é algo tentador e, às vezes, até natural para quem cresce em um ambiente em que as formas de entretenimento estão tão misturadas.
 
@@ -25,7 +27,7 @@ Usei o último quadrinho no meu #inktober. Acompanhe os [outros desenhos no inst
 
 #pensamentos #informação
 
-> Leia também:
-> - <a href="/alerta-de-spoilers">Alerta de spoilers</a>
-> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
-> - <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>
+<h3>Leia também:</h3>
+- <a href="/alerta-de-spoilers">Alerta de spoilers</a>
+- <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+- <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>

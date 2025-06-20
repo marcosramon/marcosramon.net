@@ -2,13 +2,14 @@
 title: Calvin é filho da década de 1980
 date: 2013-06-29
 tags:
-  - pensamentos
-  - quadrinhos
-  - arte
+- pensamentos
+- quadrinhos
+- arte
 description: Calvin é filho da década de 1980.
-image: 
-aliases:
+image: null
+aliases: null
 permalink: calvin-e-filho-da-decada-de-1980
+author: Marcos Ramon
 ---
 <img src="/assets/img/calvin-é-filho-da-década-de 1980.-medium.jpeg">
 
@@ -31,7 +32,7 @@ Pois é, é isso. Agora vou parar isso aqui e ler mais umas tirinhas...
 
 #arte #quadrinhos
 
-> Leia também:
-> - <a href="/eu-sei">Eu sei</a>
-> - <a href="/a-arte-depois-da-arte">A arte depois da arte</a>
-> - <a href="/as-primeiras-horas-da-manha">As primeiras horas da manhã</a>
+<h3>Leia também:</h3>
+- <a href="/eu-sei">Eu sei</a>
+- <a href="/a-arte-depois-da-arte">A arte depois da arte</a>
+- <a href="/as-primeiras-horas-da-manha">As primeiras horas da manhã</a>

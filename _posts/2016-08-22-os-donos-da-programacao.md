@@ -2,16 +2,18 @@
 title: Os donos da programação
 date: 2016-08-22
 tags:
-  - arte
-  - comportamento
-  - tecnologia
-  - Jogos
-  - televisão
-  - internet
-description: Agora que as Olimpíadas do Rio acabaram, aparecem as primeiras análises sobre a audiência global do evento na televisão.
-image: 
-aliases:
+- arte
+- comportamento
+- tecnologia
+- Jogos
+- televisão
+- internet
+description: Agora que as Olimpíadas do Rio acabaram, aparecem as primeiras análises
+  sobre a audiência global do evento na televisão.
+image: null
+aliases: null
 permalink: os-donos-da-programacao
+author: Marcos Ramon
 ---
 Agora que as Olimpíadas do Rio acabaram, aparecem as primeiras análises sobre a audiência global do evento na televisão. Depois das Olimpíadas de Londres a expectativa era grande. Afinal, [os jogos de 2012 só perderam em audiência para os jogos de 1996, em Atlanta](http://tvbythenumbers.zap2it.com/2016/08/05/olympics-ratings-will-rio-2016-top-londons-audience/). Mas a expectativa não se concretizou. A [NBC](https://pt.wikipedia.org/wiki/National_Broadcasting_Company), a mais antiga e uma das maiores redes de televisão dos EUA, fez um grande investimento em tecnologia e na cobertura do evento, mas acabou tendo prejuízo. E de quem é a culpa? Dos jovens, claro.
 
@@ -26,7 +28,7 @@ A queda de interesse pelas Olimpíadas na televisão não significa uma queda de
 
 #internet #televisão
 
-> Leia também:
-> - <a href="/desejo-e-realidade">Desejo e realidade</a>
-> - <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>
-> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+<h3>Leia também:</h3>
+- <a href="/desejo-e-realidade">Desejo e realidade</a>
+- <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>
+- <a href="/nao-e-so-um-jogo">Não é só um jogo</a>

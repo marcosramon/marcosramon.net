@@ -22,7 +22,7 @@ Será que dá pra chamar isso de otimismo?
 
 
 
-> Leia também:
-> - <a href="/eles-sabem-o-que-eu-nao-sei">Eles sabem o que eu não sei</a>
-> - <a href="/fazer-so-o-que-da-para-fazer">Fazer só o que dá para fazer</a>
-> - <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>
+<h3>Leia também:</h3>
+- <a href="/eles-sabem-o-que-eu-nao-sei">Eles sabem o que eu não sei</a>
+- <a href="/fazer-so-o-que-da-para-fazer">Fazer só o que dá para fazer</a>
+- <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>

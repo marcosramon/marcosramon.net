@@ -2,15 +2,17 @@
 title: Felicidade em dia de chuva
 date: 2016-10-04
 tags:
-  - filosofia
-  - reflexão
-  - ética
-  - arte
-  - estética
-description: Eu gosto de chuva. Sempre gostei. Mas o meu apreço pela chuva tem a ver também com uma certa melancolia gerada pelo clima e pela…
-image: 
-aliases:
+- filosofia
+- reflexão
+- ética
+- arte
+- estética
+description: Eu gosto de chuva. Sempre gostei. Mas o meu apreço pela chuva tem a ver
+  também com uma certa melancolia gerada pelo clima e pela…
+image: null
+aliases: null
 permalink: felicidade-em-dia-de-chuva
+author: Marcos Ramon
 ---
 Eu gosto de chuva. Sempre gostei. Mas o meu apreço pela chuva tem a ver também com uma certa melancolia gerada pelo clima e pela identificação da chuva com o estar em casa (o que, na minha adolescência, implicava em solidão). Daí eu achar estranha qualquer tipo de relação — ainda que casual — entre a chuva e a sensação de felicidade.
 
@@ -25,7 +27,7 @@ Não combina, mas também não tem nada de errado. Afinal, quem pode dizer que u
 
 #filosofia #arte
 
-> Leia também:
-> - <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>
-> - <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
-> - <a href="/dia-de-comprar">Dia de comprar</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>
+- <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
+- <a href="/dia-de-comprar">Dia de comprar</a>

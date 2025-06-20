@@ -2,11 +2,12 @@
 title: Indefinido
 date: 2017-02-17
 tags:
-  - arte
+- arte
 description: Indefinido
-image: 
-aliases:
+image: null
+aliases: null
 permalink: indefinido
+author: Marcos Ramon
 ---
 Toda forma de saber é permeada por perguntas — mais do que por respostas. É a pergunta que define os pesquisadores, artistas, filósofos e escritores. Claro que responder é importante e conquistamos muita coisa quando algumas dessas respostas permitem alguma aplicação prática. Mas não é necessário que se faça isso. Ou não era.
 
@@ -21,7 +22,7 @@ Fotografia de [Csenge Vass](https://www.behance.net/gallery/33409681/PCKT-TRNSP
 
 #arte #educação
 
-> Leia também:
-> - <a href="/o-que-precisamos-consertar">O que precisamos consertar</a>
-> - <a href="/aprendendo">Aprendendo</a>
-> - <a href="/se-perder-no-caminho">Se perder no caminho</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-precisamos-consertar">O que precisamos consertar</a>
+- <a href="/aprendendo">Aprendendo</a>
+- <a href="/se-perder-no-caminho">Se perder no caminho</a>

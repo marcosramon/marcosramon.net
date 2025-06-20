@@ -1,16 +1,17 @@
 ---
 title: Viver de arte
-date: 2018-09-13 00:00:00 Z
+date: 2018-09-13 00:00:00+00:00
 categories:
-  - blog
+- blog
 tags:
-  - arte
-  - cultura
+- arte
+- cultura
 description: Sobre Andy Warhol, arte e dinheiro
 og_image: /assets/images/viverdearte.jpeg
 permalink: viver-de-arte
+author: Marcos Ramon
 ---
-[[Andy Warhol]] produzia imagens que remetiam ao mundo do consumo e ganhava dinheiro com essas obras. Pintava dinheiro em uma tela e depois trocava essas pinturas por dinheiro de verdade. E fazia ainda mais pinturas.
+Andy Warhol produzia imagens que remetiam ao mundo do consumo e ganhava dinheiro com essas obras. Pintava dinheiro em uma tela e depois trocava essas pinturas por dinheiro de verdade. E fazia ainda mais pinturas.
 
 <img src="/assets/img/Pasted image 20250307224314.png">
 <small>Foto retirada do artigo <a href="Foto retirada do artigo Warhol's Dollar Bill Fetches $32.8 Million at Sotheby's London">Warhol's Dollar Bill Fetches $32.8 Million at Sotheby's London</a></small>
@@ -21,7 +22,7 @@ A obra de Warhol certamente não agrada a todos (e nem deveria, como tudo na vid
 
 #arte #Consumo 
 
-> Leia também:
-> - <a href="/nao-existe-arte-pop">Não existe arte pop</a>
-> - <a href="/podcastandy-warhol-dinheiro-e-arte">Andy Warhol, dinheiro e arte</a>
-> - <a href="/arte-e-vida">Arte e vida</a>
+<h3>Leia também:</h3>
+- <a href="/nao-existe-arte-pop">Não existe arte pop</a>
+- <a href="/podcastandy-warhol-dinheiro-e-arte">Andy Warhol, dinheiro e arte</a>
+- <a href="/arte-e-vida">Arte e vida</a>

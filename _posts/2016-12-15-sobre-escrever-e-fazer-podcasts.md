@@ -2,14 +2,16 @@
 title: Sobre escrever e fazer podcasts
 date: 2016-12-15
 tags:
-  - pensamentos
-  - podcast
-  - escrita
-  - Escrever
-description: "Para escrever e para fazer um podcast acho que o conselho é o mesmo: comece imediatamente. É meio óbvio isso, mas o que eu quero dizer é…"
-image: 
-aliases:
+- pensamentos
+- podcast
+- escrita
+- Escrever
+description: 'Para escrever e para fazer um podcast acho que o conselho é o mesmo:
+  comece imediatamente. É meio óbvio isso, mas o que eu quero dizer é…'
+image: null
+aliases: null
 permalink: sobre-escrever-e-fazer-podcasts
+author: Marcos Ramon
 ---
 Para escrever e para fazer um podcast acho que o conselho é o mesmo: comece imediatamente. É meio óbvio isso, mas o que eu quero dizer é que é preciso iniciar de alguma forma, com os meios que você tiver, e o mais rápido que você conseguir. Esperar pelas condições ideais não é uma boa. Primeiro, porque o _ideal_ pode mudar o tempo todo, e depois porque pode ser frustrante esperar e se preparar muito pra fazer uma coisa e depois perceber que o resultado pode não corresponder à sua expectativa. Por isso, o melhor jeito de sentir se você realmente quer se dedicar a alguma coisa é começando logo. Se você vai publicar ou não, aí já é outra coisa. Mas comece a experimentar possibilidades e formatos, até sentir que está fazendo algo que você quer mostrar pros outros. Mas apesar desse ponto em comum, acho que existem algumas diferenças entre o processo da escrita e o da criação de um podcast.
 
@@ -40,7 +42,7 @@ Então é isso. Seja para a escrita ou para o podcast, apenas _comece_. Se você
 
 #pensamentos #podcast
 
-> Leia também:
-> - <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>
-> - <a href="/a-hora-e-a-vez-do-podcast">A hora e a vez do podcast</a>
-> - <a href="/sofrimento-alheio">Sofrimento alheio</a>
+<h3>Leia também:</h3>
+- <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>
+- <a href="/a-hora-e-a-vez-do-podcast">A hora e a vez do podcast</a>
+- <a href="/sofrimento-alheio">Sofrimento alheio</a>

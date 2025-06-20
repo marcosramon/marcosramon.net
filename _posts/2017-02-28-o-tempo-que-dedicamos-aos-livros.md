@@ -2,11 +2,12 @@
 title: O tempo que dedicamos aos livros
 date: 2017-02-28
 tags:
-  - arte
+- arte
 description: O tempo que dedicamos aos livros
-image: 
-aliases:
+image: null
+aliases: null
 permalink: o-tempo-que-dedicamos-aos-livros
+author: Marcos Ramon
 ---
 A leitura permite a cada um de nós experimentar um pouco do mundo que foi visto e vivenciado por outros. Quando lemos, percebemos o mundo com os pensamentos de outras pessoas; e o simples fato de isso ser possível, mostra como a inteligência humana é complexa e rica em possibilidades.
 
@@ -19,7 +20,7 @@ Eu sempre acreditei que a leitura me trazia uma vantagem para além do entreteni
 
 #arte #leitura
 
-> Leia também:
-> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
-> - <a href="/o-que-o-silencio-diz">O que o silêncio diz</a>
-> - <a href="/o-tempo-e-os-livros">O tempo e os livros</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+- <a href="/o-que-o-silencio-diz">O que o silêncio diz</a>
+- <a href="/o-tempo-e-os-livros">O tempo e os livros</a>

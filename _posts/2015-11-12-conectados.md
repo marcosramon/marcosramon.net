@@ -27,7 +27,7 @@ Espero que a gente supere esse ideal de razão, controle e medida, que condicion
 
 
 
-> Leia também:
-> - <a href="/ficcoes-00-apresentacao">Ficções #00   apresentação</a>
-> - <a href="/arte-e-vida">Arte e vida</a>
-> - <a href="/duvidar-para-fazer-as-perguntas-certas">Duvidar para fazer as perguntas certas</a>
+<h3>Leia também:</h3>
+- <a href="/ficcoes-00-apresentacao">Ficções #00   apresentação</a>
+- <a href="/arte-e-vida">Arte e vida</a>
+- <a href="/duvidar-para-fazer-as-perguntas-certas">Duvidar para fazer as perguntas certas</a>

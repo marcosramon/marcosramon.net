@@ -2,11 +2,13 @@
 title: Caminhando longe de tudo
 date: 2016-02-28
 tags:
-  - pensamentos
-description: No episódio de hoje do meu podcast Ano Bissexto, li esse texto que você vê mais abaixo.
-image: 
-aliases:
+- pensamentos
+description: No episódio de hoje do meu podcast Ano Bissexto, li esse texto que você
+  vê mais abaixo.
+image: null
+aliases: null
 permalink: caminhando-longe-de-tudo
+author: Marcos Ramon
 ---
 No [episódio de hoje do meu podcast **Ano Bissexto**](http://www.marcosramon.net/ano-bissexto/059-caminhando-longe-de-tudo), li esse texto que você vê mais abaixo. Escrevi isso como uma letra de uma música que nunca chegou a existir. Na época (Janeiro de 2011), com pouco tempo aqui em Brasília, eu estava cansado e triste por estar vivendo nessa cidade. Mas o tempo passou e o meu sentimento em relação à cidade (e a mim mesmo) mudou.
 
@@ -52,7 +54,7 @@ não quero pensar
 
 #pensamentos #conhecimento
 
-> Leia também:
-> - <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>
-> - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
-> - <a href="/alerta-de-spoiler">Alerta de spoiler</a>
+<h3>Leia também:</h3>
+- <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>
+- <a href="/a-ausencia-da-memoria">A ausência da memória</a>
+- <a href="/alerta-de-spoiler">Alerta de spoiler</a>

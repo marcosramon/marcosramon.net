@@ -2,11 +2,12 @@
 title: Não ter plano algum
 date: 2017-02-20
 tags:
-  - arte
+- arte
 description: Não ter plano algum
-image: 
-aliases:
+image: null
+aliases: null
 permalink: nao-ter-plano-algum
+author: Marcos Ramon
 ---
 Pode até parecer estranho - e talvez até irresponsável -, mas viver sem um plano específico tem seus benefícios. Ter que fazer escolhas, todos temos. Mas podemos também escolher deixar muitas coisas em aberto, dando espaço para o acaso e para as surpresas que chegam pelo caminho.
 
@@ -21,7 +22,7 @@ Pintura de [Martin Wehmer](http://www.missmoss.co.za/2015/06/17/martin-wehmer/)
 
 #arte #filosofia
 
-> Leia também:
-> - <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>
-> - <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
-> - <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>
+<h3>Leia também:</h3>
+- <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>
+- <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
+- <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>

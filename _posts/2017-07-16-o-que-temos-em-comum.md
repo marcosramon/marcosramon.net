@@ -2,11 +2,13 @@
 title: O que temos em comum
 date: 2017-07-16
 tags:
-  - pensamentos
-description: Se existe uma vantagem em nos percebermos incapazes de realizar tudo o que queremos, essa vantagem é a sensação de pertencimento. Somos…
-image: 
-aliases:
+- pensamentos
+description: Se existe uma vantagem em nos percebermos incapazes de realizar tudo
+  o que queremos, essa vantagem é a sensação de pertencimento. Somos…
+image: null
+aliases: null
 permalink: o-que-temos-em-comum
+author: Marcos Ramon
 ---
 Se existe uma vantagem em nos percebermos incapazes de realizar tudo o que queremos, essa vantagem é a sensação de pertencimento. Somos humanos, frágeis, esperançosos, quase os mesmos.
 
@@ -20,7 +22,7 @@ Ilustração de [James Lipnickas](https://www.instagram.com/jameslipnickasart/)
 
 #pensamentos #leitura
 
-> Leia também:
-> - <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>
-> - <a href="/o-tempo-que-dedicamos-aos-livros">O tempo que dedicamos aos livros</a>
-> - <a href="/o-medo-que-nos-move">O medo que nos move</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>
+- <a href="/o-tempo-que-dedicamos-aos-livros">O tempo que dedicamos aos livros</a>
+- <a href="/o-medo-que-nos-move">O medo que nos move</a>

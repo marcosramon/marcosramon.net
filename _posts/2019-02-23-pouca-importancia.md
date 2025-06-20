@@ -22,7 +22,7 @@ Pode parecer desestimulante falar sobre a pouca importância de cada um de nós,
 
 
 
-> Leia também:
-> - <a href="/a-realidade-se-impoe">A realidade se impõe</a>
-> - <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>
-> - <a href="/o-que-todo-mundo-e">O que todo mundo é</a>
+<h3>Leia também:</h3>
+- <a href="/a-realidade-se-impoe">A realidade se impõe</a>
+- <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>
+- <a href="/o-que-todo-mundo-e">O que todo mundo é</a>

@@ -1,16 +1,17 @@
 ---
 title: A arte depois da arte
-date: 2013-09-14 00:00:00 Z
+date: 2013-09-14 00:00:00+00:00
 categories:
-  - blog
+- blog
 tags:
-  - arte
-  - comportamento
+- arte
+- comportamento
 description: A arte precisa estar em todos os lugares
 image: graffitiremoval.jpg
 aliases:
-  - "[[arte]]"
+- '[[arte]]'
 permalink: a-arte-depois-da-arte
+author: Marcos Ramon
 ---
 Um artista de rua chamado [DS](http://www.dsart.co.uk/profile/) foi avisado que alguém ia remover um grafite dele num lugar específico. Ele foi lá, conseguiu tirar uma foto do cara bem na hora e depois grafitou o removedor de grafites na parede. Muito bom!
 
@@ -33,7 +34,7 @@ Não desmereço a arte clássica que está nos museus, mas a arte da rua está m
 
 #arte #cultura 
 
-> Leia também:
-> - <a href="/leo-pipo">Leo & Pipo</a>
-> - <a href="/quando-a-arte-nos-define">Quando a arte nos define</a>
-> - <a href="/nao-existe-arte-pop">Não existe arte pop</a>
+<h3>Leia também:</h3>
+- <a href="/leo-pipo">Leo & Pipo</a>
+- <a href="/quando-a-arte-nos-define">Quando a arte nos define</a>
+- <a href="/nao-existe-arte-pop">Não existe arte pop</a>

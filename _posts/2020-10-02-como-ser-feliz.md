@@ -29,7 +29,7 @@ Sempre vai faltar alguma coisa. E ainda assim podemos seguir, com [a felicidade 
 
 #Felicidade #Ética 
 
-> Leia também:
-> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
-> - <a href="/a-presuncao-moral">A presunção moral</a>
-> - <a href="/sofrimento-alheio">Sofrimento alheio</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+- <a href="/a-presuncao-moral">A presunção moral</a>
+- <a href="/sofrimento-alheio">Sofrimento alheio</a>

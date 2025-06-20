@@ -1,11 +1,12 @@
 ---
 title: Alguém sabe o que está fazendo?
 tags:
-  - educação
-  - ensino
-  - Aula
+- educação
+- ensino
+- Aula
 date: 2014-06-11
 permalink: alguem-sabe-o-que-esta-fazendo
+author: Marcos Ramon
 ---
 Trabalho com educação e é impossível eu não pensar sobre como as coisas funcionam em relação ao processo de ensino-aprendizagem. Quer dizer, por que ensinamos da forma como ensinamos? Por que essa estratégia e não outra? Por que esses conteúdos? Isso é realmente importante para a formação dos estudantes?
 
@@ -26,7 +27,7 @@ Tive muitos professores bons. Eram pessoas que, ainda que não fossem a maioria,
 
 #ensino #educação
 
-> Leia também:
-> - <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>
-> - <a href="/o-possivel-amanha">O possível amanhã</a>
-> - <a href="/o-que-precisamos-consertar">O que precisamos consertar</a>
+<h3>Leia também:</h3>
+- <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>
+- <a href="/o-possivel-amanha">O possível amanhã</a>
+- <a href="/o-que-precisamos-consertar">O que precisamos consertar</a>

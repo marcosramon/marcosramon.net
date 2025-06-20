@@ -2,14 +2,16 @@
 title: Sobre “O ritual do corpo entre os Sonacirema”
 date: 2015-04-13
 tags:
-  - cultura
-  - sociedade
-  - pesquisa
-  - leitura
-description: É um pouco difícil escrever sobre texto O ritual do corpo entre os Sonacirema, de Horace Miner, sem detalhar o que ocorre no texto…
-image: 
-aliases:
+- cultura
+- sociedade
+- pesquisa
+- leitura
+description: É um pouco difícil escrever sobre texto O ritual do corpo entre os Sonacirema,
+  de Horace Miner, sem detalhar o que ocorre no texto…
+image: null
+aliases: null
 permalink: sobre-o-ritual-do-corpo-entre-os-sonacirema
+author: Marcos Ramon
 ---
 _É um pouco difícil escrever sobre texto_ [_O ritual do corpo entre os Sonacirema_](https://www.dropbox.com/s/p86muv3tpvs3bvk/MINNER_Horace%20-%20O%20Ritual%20do%20Corpo%20entre%20os%20Sonacirema.pdf?dl=0)_, de Horace Miner, sem detalhar o que ocorre no texto. Normalmente, em um texto de antropologia, esse não deveria ser o problema, mas na verdade é, e só lendo o texto você consegue entender. De qualquer forma, aqui seguem algumas impressões gerais sobre o que é abordado e sobre o que discutimos no encontro do dia 13/04/2015._
 
@@ -26,7 +28,7 @@ A crença de que as coisas são como são e que simplesmente devemos aceitar a i
 
 #pesquisa #leitura
 
-> Leia também:
-> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
-> - <a href="/o-tempo-que-dedicamos-aos-livros">O tempo que dedicamos aos livros</a>
-> - <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>
+<h3>Leia também:</h3>
+- <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+- <a href="/o-tempo-que-dedicamos-aos-livros">O tempo que dedicamos aos livros</a>
+- <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>

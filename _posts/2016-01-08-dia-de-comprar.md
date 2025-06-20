@@ -2,13 +2,15 @@
 title: Dia de comprar
 date: 2016-01-08
 tags:
-  - arte
-  - comportamento
-  - Consumo
-description: "Ontem (08/01), logo cedo, vi na internet alguma coisa sobre ser o #DiaDoLeitor e junto um monte de propagandas e links para sites que…"
-image: 
-aliases:
+- arte
+- comportamento
+- Consumo
+description: 'Ontem (08/01), logo cedo, vi na internet alguma coisa sobre ser o #DiaDoLeitor
+  e junto um monte de propagandas e links para sites que…'
+image: null
+aliases: null
 permalink: dia-de-comprar
+author: Marcos Ramon
 ---
 Ontem (08/01), logo cedo, vi na internet alguma coisa sobre ser o _#DiaDoLeitor_ e junto um monte de propagandas e links para sites que estavam vendendo livros, _e-readers_ e os itens mais diversos para os amantes da leitura. Hoje, quase num replay, vi na internet pela manhã que era o _#DiaDaFotografia_ e junto com isso adivinhe o quê? Exato. Propagandas e links vendendo câmeras, lentes, livros sobre fotografia e tudo o que possa interessar aos amantes dessa arte.
 
@@ -21,7 +23,7 @@ Não me entenda mal. Eu sou consumista. E talvez até demais. E é por isso que 
 
 #comportamento #arte
 
-> Leia também:
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
-> - <a href="/como-os-personagens-sao-criados">Como os personagens são criados</a>
-> - <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>
+<h3>Leia também:</h3>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+- <a href="/como-os-personagens-sao-criados">Como os personagens são criados</a>
+- <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>

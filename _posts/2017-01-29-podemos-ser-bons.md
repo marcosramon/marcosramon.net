@@ -1,11 +1,12 @@
 ---
 title: Podemos ser bons?
 tags:
-  - filosofia
-  - Ética
-  - comportamento
+- filosofia
+- Ética
+- comportamento
 date: 2017-01-29
 permalink: podemos-ser-bons
+author: Marcos Ramon
 ---
 Rousseau acreditava na bondade inata do ser humano. Para ele, nascemos bons, mas somos corrompidos pela sociedade. O que mais me chama atenção nesta ideia é que ela carrega consigo um estranho paradoxo: nossa essência, vista de maneira isolada, é boa; mas quando nos juntamos nos corrompemos mutuamente, despejando maldade no mundo.
 
@@ -20,7 +21,7 @@ Colagem criada por [Beth Hoeckel](http://bethhoeckel.com/)
 
 #filosofia #Ética
 
-> Leia também:
-> - <a href="/a-necessidade-de-estar-inteiro">A necessidade de estar inteiro</a>
-> - <a href="/podcastrousseau-e-a-contradicao-entre-as-ideias-e-todo-o-resto">Rousseau e a contradição entre as ideias e todo o resto</a>
-> - <a href="/saber-a-felicidade">Saber a felicidade</a>
+<h3>Leia também:</h3>
+- <a href="/a-necessidade-de-estar-inteiro">A necessidade de estar inteiro</a>
+- <a href="/podcastrousseau-e-a-contradicao-entre-as-ideias-e-todo-o-resto">Rousseau e a contradição entre as ideias e todo o resto</a>
+- <a href="/saber-a-felicidade">Saber a felicidade</a>

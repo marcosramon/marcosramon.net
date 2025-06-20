@@ -2,12 +2,13 @@
 title: Necessidades básicas
 date: 2013-08-29
 tags:
-  - arte
-  - cultura
+- arte
+- cultura
 description: Todas as pessoas possuem necessidades.
-image: 
-aliases:
+image: null
+aliases: null
 permalink: necessidades-basicas
+author: Marcos Ramon
 ---
 Todas as pessoas possuem necessidades. E mesmo quando elas são comuns à maioria de nós — a necessidade de alimento, por exemplo — nós conseguimos nos diferir em relação à prioridade que elencamos para escolher _esta_ opção e não _aquela_. Isso acontece quando alguém opta por jantar em um local de prestígio pelo prestígio — e não pelo sabor — ou quando alguém decide se alimentar com algo que considera ruim só porque é nutritivo.
 
@@ -26,7 +27,7 @@ Devemos lutar pelo básico, porque a vida precisa, em primeiro lugar, ser vivida
 
 #arte #cultura
 
-> Leia também:
-> - <a href="/todos-iguais">Todos iguais</a>
-> - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
-> - <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>
+<h3>Leia também:</h3>
+- <a href="/todos-iguais">Todos iguais</a>
+- <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
+- <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>

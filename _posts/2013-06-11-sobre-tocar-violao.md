@@ -4,8 +4,8 @@ date: 2013-06-11 00:00:00+00:00
 author: Marcos Ramon
 description: Recentemente compramos um violão.
 tags:
-  - cotidiano
-  - música
+- cotidiano
+- música
 published: true
 permalink: sobre-tocar-violao
 ---
@@ -28,7 +28,7 @@ Quando ele nasceu eu imaginei que ia viver o mundo através dos olhos dele, tent
 
 
 
-> Leia também:
-> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
-> - <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>
-> - <a href="/sobre-o-ritual-do-corpo-entre-os-sonacirema">Sobre “O ritual do corpo entre os Sonacirema”</a>
+<h3>Leia também:</h3>
+- <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+- <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>
+- <a href="/sobre-o-ritual-do-corpo-entre-os-sonacirema">Sobre “O ritual do corpo entre os Sonacirema”</a>

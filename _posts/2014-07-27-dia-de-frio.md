@@ -13,7 +13,7 @@ permalink: dia-de-frio
 
 
 
-> Leia também:
-> - <a href="/dia-de-comprar">Dia de comprar</a>
-> - <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>
-> - <a href="/o-cansaco-nosso-de-cada-dia">O cansaço nosso de cada dia</a>
+<h3>Leia também:</h3>
+- <a href="/dia-de-comprar">Dia de comprar</a>
+- <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>
+- <a href="/o-cansaco-nosso-de-cada-dia">O cansaço nosso de cada dia</a>

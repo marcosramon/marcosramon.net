@@ -2,12 +2,13 @@
 title: A incompatibilidade entre a ideia e a ação
 date: 2017-01-05
 tags:
-  - arte
-  - filosofia
+- arte
+- filosofia
 description: A incompatibilidade entre a ideia e a ação
-image: 
-aliases:
+image: null
+aliases: null
 permalink: a-incompatibilidade-entre-a-ideia-e-a-acao
+author: Marcos Ramon
 ---
 Não é raro criticarmos pessoas que dizem acreditar em uma coisa mas acabam agindo de maneira completamente distinta. Às vezes é alguma uma incoerência dificilmente perceptível, em outras algo gritante, mas trata-se sempre de algo mais comum e natural do que seu inverso. Gostamos de pensar que existe um total controle da razão em nossa existência e que a lógica é o nosso caminho preferido e necessário. Mas, tirando os casos extremos, que por motivos óbvios chamam muito a atenção, iremos sempre ver pessoas defendendo ideias que são incapazes de seguir.
 
@@ -26,7 +27,7 @@ Gráfico que representa o pessimismo, criado pelo [Studio Carreras](http://studi
 
 #arte #filosofia
 
-> Leia também:
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
-> - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
-> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+<h3>Leia também:</h3>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+- <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
+- <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>

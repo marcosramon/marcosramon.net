@@ -2,11 +2,11 @@
 title: A solidão liberta?
 date: 2017-09-12
 tags:
-  - cotidiano
-  - reflexão
-description: 
+- cotidiano
+- reflexão
+description: null
 permalink: a-solidao-liberta
-aliases: 
+aliases: null
 author: Marcos Ramon
 ---
 De forma geral, acho que dá pra dizer que ninguém gosta de se sentir sozinho. Algumas pessoas escolhem a solidão por motivos distintos, em situações particulares; já outras se veem sozinhas sem fazer qualquer tipo de escolha. Mas desconfio que, se pudéssemos, a solidão seria sempre a nossa última opção.
@@ -23,7 +23,7 @@ Se sentir só é terrível. Mas todo mundo precisa passar por isso, para entende
 ---
 
 
-> Leia também:
-> - <a href="/a-experiencia-negativa">A experiência negativa</a>
-> - <a href="/a-maior-derrota-que-se-pode-ter">A maior derrota que se pode ter</a>
-> - <a href="/saber-a-felicidade">Saber a felicidade</a>
+<h3>Leia também:</h3>
+- <a href="/a-experiencia-negativa">A experiência negativa</a>
+- <a href="/a-maior-derrota-que-se-pode-ter">A maior derrota que se pode ter</a>
+- <a href="/saber-a-felicidade">Saber a felicidade</a>

@@ -2,11 +2,12 @@
 title: A matéria das memórias
 date: 2017-01-26
 tags:
-  - pensamentos
+- pensamentos
 description: A matéria das memórias
-image: 
-aliases:
+image: null
+aliases: null
 permalink: a-materia-das-memorias
+author: Marcos Ramon
 ---
 Quando passa o tempo e nos distanciamos dos fatos, construímos uma teia de lembranças que insistimos serem o equivalente aos fatos. Mas, lá no fundo, todo mundo intui que as memórias são uma invenção; nem sempre uma invenção voluntária, é verdade, mas ainda assim uma criação particular e nada isenta.
 
@@ -21,7 +22,7 @@ Foto de [Paul Schneggenburger](http://www.schneggenburger.at/)
 
 #pensamentos #pensamento
 
-> Leia também:
-> - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
-> - <a href="/muito-papel">Muito papel</a>
-> - <a href="/uma-semana-nas-ferias">Uma semana nas férias</a>
+<h3>Leia também:</h3>
+- <a href="/a-ausencia-da-memoria">A ausência da memória</a>
+- <a href="/muito-papel">Muito papel</a>
+- <a href="/uma-semana-nas-ferias">Uma semana nas férias</a>

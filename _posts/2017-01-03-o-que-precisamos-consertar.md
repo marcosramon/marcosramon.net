@@ -2,13 +2,14 @@
 title: O que precisamos consertar
 date: 2017-01-03
 tags:
-  - arte
-  - educação
-  - sociedade
+- arte
+- educação
+- sociedade
 description: O que precisamos consertar
-image: 
-aliases:
+image: null
+aliases: null
 permalink: o-que-precisamos-consertar
+author: Marcos Ramon
 ---
 A vida social é um embate constante. E como se trata de um confronto, sempre existe algo que é destruído, algo que fica pra trás. Às vezes, o que sobrevive ao confronto é tão bom e positivo que esquecemos dos destroços; mas na maior parte das vezes é preciso recuperar, consertar alguma coisa, porque precisamos, porque temos saudades, porque temos vontade.
 
@@ -23,7 +24,7 @@ Viver em sociedade é olhar para o futuro. E isso implica em ter um espírito me
 
 #educação #arte
 
-> Leia também:
-> - <a href="/o-que-o-silencio-diz">O que o silêncio diz</a>
-> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-o-silencio-diz">O que o silêncio diz</a>
+- <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>

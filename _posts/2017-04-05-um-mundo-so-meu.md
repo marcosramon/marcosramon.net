@@ -2,11 +2,13 @@
 title: Um mundo só meu
 date: 2017-04-05
 tags:
-  - pensamentos
-description: Um caminho recorrente que costumamos adotar é considerar o mundo inteiro a partir de nossas próprias experiências e possibilidades. Não é…
-image: 
-aliases:
+- pensamentos
+description: Um caminho recorrente que costumamos adotar é considerar o mundo inteiro
+  a partir de nossas próprias experiências e possibilidades. Não é…
+image: null
+aliases: null
 permalink: um-mundo-so-meu
+author: Marcos Ramon
 ---
 Um caminho recorrente que costumamos adotar é considerar o mundo inteiro a partir de nossas próprias experiências e possibilidades. Não é maldade. Simplesmente aprendemos a desconsiderar os outros porque, ora, não somos os outros e, por isso, não somos estimulados a pensar em situações em que poderíamos observar a realidade das outras pessoas com mais cuidado e consideração.
 
@@ -19,7 +21,7 @@ Quando consideramos que outras pessoas fazem sempre as suas escolhas de forma co
 
 #pensamentos #livros
 
-> Leia também:
-> - <a href="/interagir-so-com-quem-se-precisa">Interagir só com quem se precisa</a>
-> - <a href="/encontrar-um-caminho">Encontrar um caminho</a>
-> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+<h3>Leia também:</h3>
+- <a href="/interagir-so-com-quem-se-precisa">Interagir só com quem se precisa</a>
+- <a href="/encontrar-um-caminho">Encontrar um caminho</a>
+- <a href="/nao-e-so-um-jogo">Não é só um jogo</a>

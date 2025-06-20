@@ -20,7 +20,7 @@ Mas uma coisa que eu já entendi da vida é que sempre teremos tempo para aprend
 
 
 
-> Leia também:
-> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
-> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
-> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+<h3>Leia também:</h3>
+- <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+- <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+- <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>

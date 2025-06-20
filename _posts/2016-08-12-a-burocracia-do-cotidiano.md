@@ -2,12 +2,14 @@
 title: A burocracia do cotidiano
 date: 2016-08-12
 tags:
-  - pensamentos
-  - cotidiano
-description: A maioria das pessoas — e eu estou nesse grupo — trata a vida como um evento burocrático. Organizamos nossas tarefas, afazeres e desejos em…
-image: 
-aliases:
+- pensamentos
+- cotidiano
+description: A maioria das pessoas — e eu estou nesse grupo — trata a vida como um
+  evento burocrático. Organizamos nossas tarefas, afazeres e desejos em…
+image: null
+aliases: null
 permalink: a-burocracia-do-cotidiano
+author: Marcos Ramon
 ---
 A maioria das pessoas — e eu estou nesse grupo — trata a vida como um evento burocrático. Organizamos nossas tarefas, afazeres e desejos em torno de metas e propósitos, definimos uma ordem de prioridades e seguimos em busca dos melhores resultados: o melhor horário para praticar uma atividade física, a melhor alimentação, o melhor roteiro de viagem, os melhores encontros com os melhores amigos etc.
 
@@ -22,7 +24,7 @@ Ilustração de [Ana Yael](http://www.anayael.net/)
 
 #pensamentos #cotidiano
 
-> Leia também:
-> - <a href="/saia-e-divirta-se">Saia e divirta-se!</a>
-> - <a href="/a-beleza-do-absurdo">A beleza do absurdo</a>
-> - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
+<h3>Leia também:</h3>
+- <a href="/saia-e-divirta-se">Saia e divirta-se!</a>
+- <a href="/a-beleza-do-absurdo">A beleza do absurdo</a>
+- <a href="/a-ausencia-da-memoria">A ausência da memória</a>

@@ -26,7 +26,7 @@ As diferentes cores representam áreas de proximidade temática. E quanto maior 
 
 
 
-> Leia também:
-> - <a href="/visualizando-a-hashtag-diadopodcast">Visualizando a hashtag #diadopodcast</a>
-> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
-> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+<h3>Leia também:</h3>
+- <a href="/visualizando-a-hashtag-diadopodcast">Visualizando a hashtag #diadopodcast</a>
+- <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+- <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>

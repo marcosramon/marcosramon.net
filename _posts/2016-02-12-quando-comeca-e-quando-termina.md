@@ -1,11 +1,12 @@
 ---
 title: Quando começa e quando termina?
 tags:
-  - cotidiano
-  - reflexão
-  - comportamento
+- cotidiano
+- reflexão
+- comportamento
 date: 2016-02-12
 permalink: quando-comeca-e-quando-termina
+author: Marcos Ramon
 ---
 Não sou adepto dessa história de que o ano começa depois do carnaval. Todo mundo faz um monte de coisa antes do carnaval, e dizer que nada de importante aconteceu antes é só um jeito de atrasar coisas que você sabe que deveria fazer. Além disso, essa medida do tempo é só uma ilusão. Cada dia é um dia e o tempo não para pra esperar a gente se decidir. Defender a ideia de que um ano começa (ou termina) em uma data específica é uma maneira simples de fingir não se importar com o fato de que a gente é finito.
 
@@ -24,7 +25,7 @@ _Ilustração de_ [_Christoph Niemann_](http://www.christophniemann.com)
 
 #reflexão #comportamento
 
-> Leia também:
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
-> - <a href="/desistir">Desistir</a>
-> - <a href="/o-que-realmente-importa">O que realmente importa</a>
+<h3>Leia também:</h3>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+- <a href="/desistir">Desistir</a>
+- <a href="/o-que-realmente-importa">O que realmente importa</a>

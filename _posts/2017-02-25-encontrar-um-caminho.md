@@ -2,11 +2,12 @@
 title: Encontrar um caminho
 date: 2017-02-25
 tags:
-  - pensamentos
+- pensamentos
 description: Encontrar um caminho
-image: 
-aliases:
+image: null
+aliases: null
 permalink: encontrar-um-caminho
+author: Marcos Ramon
 ---
 Todos nós sentimos em algum momento que precisamos tomar decisões definitivas sobre o rumo de nossas vidas. Digo isso como uma verdade absoluta — e aceito correr o risco da generalização — porque realmente penso que não existe vida humana sem o mínimo de reflexão. E, de todos os pensamentos que tentamos abdicar, o único que não aceita ir embora é aquele que procura nos mostrar a responsabilidade que temos com relação ao nosso próprio caminho.
 
@@ -21,7 +22,7 @@ Ilustração de [Susa Monteiro](http://susamonteiro.tumblr.com/)
 
 #pensamentos #música
 
-> Leia também:
-> - <a href="/aprender-a-olhar">Aprender a olhar</a>
-> - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
-> - <a href="/um-mundo-so-meu">Um mundo só meu</a>
+<h3>Leia também:</h3>
+- <a href="/aprender-a-olhar">Aprender a olhar</a>
+- <a href="/a-ausencia-da-memoria">A ausência da memória</a>
+- <a href="/um-mundo-so-meu">Um mundo só meu</a>

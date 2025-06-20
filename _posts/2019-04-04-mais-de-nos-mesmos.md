@@ -21,7 +21,7 @@ O desafio, no que se refere a esse tema, é aprender a insistir. Quem desiste e 
 
 
 
-> Leia também:
-> - <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>
-> - <a href="/trabalho-antes-de-tudo">Trabalho, antes de tudo</a>
-> - <a href="/como-ser-feliz">Como ser feliz</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>
+- <a href="/trabalho-antes-de-tudo">Trabalho, antes de tudo</a>
+- <a href="/como-ser-feliz">Como ser feliz</a>

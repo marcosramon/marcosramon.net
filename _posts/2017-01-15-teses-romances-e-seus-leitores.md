@@ -2,11 +2,12 @@
 title: Teses, Romances e seus leitores
 date: 2017-01-15
 tags:
-  - pensamentos
+- pensamentos
 description: Teses, Romances e seus leitores
-image: 
-aliases:
+image: null
+aliases: null
 permalink: teses-romances-e-seus-leitores
+author: Marcos Ramon
 ---
 Quando estava na graduação me indicaram o livro “[Como se faz uma tese](http://amzn.to/2jRsuyn)” do Umberto Eco. No Brasil utilizamos a palavra _tese_ no contexto do Doutorado, mas na Itália esse termo se aplica para os trabalhos de conclusão de curso como um todo. Logo no início do livro, Eco faz um alerta para o público da obra: é um livro apenas para aqueles que estejam, de fato, interessados em pesquisar e produzir conhecimento. Todos os outros — aqueles que só querem o diploma, por exemplo — não deveriam ler o livro. Para estes, Umberto Eco indica que _comprem_ ou _copiem_ a tese de alguém. Essa provocação, que assusta num primeiro momento, revela a real intenção do autor: estabelecer um diálogo com o seu público mostrando que o processo da escrita (e da leitura) sempre envolve comprometimento.
 
@@ -25,7 +26,7 @@ Ilustração do Sketchbook de [Chris Riddell](http://chrisriddellblog.tumblr.co
 
 #pensamentos #conhecimento
 
-> Leia também:
-> - <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>
-> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
-> - <a href="/formacao-e-trajetoria">Formação e trajetória</a>
+<h3>Leia também:</h3>
+- <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>
+- <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+- <a href="/formacao-e-trajetoria">Formação e trajetória</a>

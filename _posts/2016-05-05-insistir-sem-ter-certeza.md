@@ -2,14 +2,16 @@
 title: Insistir sem ter certeza
 date: 2016-05-05
 tags:
-  - arte
-  - ensino
-  - educação
-  - ensinar
-description: Tenho tentado encontrar soluções para fazer aulas diferentes, mais dinâmicas e menos tradicionais.
-image: 
-aliases:
+- arte
+- ensino
+- educação
+- ensinar
+description: Tenho tentado encontrar soluções para fazer aulas diferentes, mais dinâmicas
+  e menos tradicionais.
+image: null
+aliases: null
 permalink: insistir-sem-ter-certeza
+author: Marcos Ramon
 ---
 Tenho tentado encontrar soluções para fazer aulas diferentes, mais dinâmicas e menos tradicionais. Não porque eu queira, mas porque os estudantes demandam isso.
 
@@ -46,7 +48,7 @@ De qualquer forma, fico pensando que talvez seja justamente essa a maior beleza 
 
 #ensinar #ensino
 
-> Leia também:
-> - <a href="/ensinar-e-dificil">Ensinar é difícil</a>
-> - <a href="/progredir-sem-medo-de-errar">Progredir, sem medo de errar</a>
-> - <a href="/alguem-sabe-o-que-esta-fazendo">Alguém sabe o que está fazendo</a>
+<h3>Leia também:</h3>
+- <a href="/ensinar-e-dificil">Ensinar é difícil</a>
+- <a href="/progredir-sem-medo-de-errar">Progredir, sem medo de errar</a>
+- <a href="/alguem-sabe-o-que-esta-fazendo">Alguém sabe o que está fazendo</a>

@@ -19,7 +19,7 @@ Pra mim, frustração é como se um buraco se abrisse na minha cabeça e começa
 
 
 
-> Leia também:
-> - <a href="/como-ser-feliz">Como ser feliz</a>
-> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
-> - <a href="/encarar-o-sofrimento">Encarar o sofrimento</a>
+<h3>Leia também:</h3>
+- <a href="/como-ser-feliz">Como ser feliz</a>
+- <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+- <a href="/encarar-o-sofrimento">Encarar o sofrimento</a>

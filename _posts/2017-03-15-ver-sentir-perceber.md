@@ -2,11 +2,13 @@
 title: Ver, sentir, perceber
 date: 2017-03-15
 tags:
-  - arte
-description: Hoje precisei sair de casa sem óculos. Tinha que trocar as lentes e como meus óculos precisavam ficar na ótica, saí para trabalhar sem…
-image: 
-aliases:
+- arte
+description: Hoje precisei sair de casa sem óculos. Tinha que trocar as lentes e como
+  meus óculos precisavam ficar na ótica, saí para trabalhar sem…
+image: null
+aliases: null
 permalink: ver-sentir-perceber
+author: Marcos Ramon
 ---
 Hoje precisei sair de casa sem óculos. Tinha que trocar as lentes e como meus óculos precisavam ficar na ótica, saí para trabalhar sem conseguir ver direito o que me aparecia pela frente.
 
@@ -25,7 +27,7 @@ Me reconheço como parte da humanidade mais pelo que me falta do que por qualque
 
 #arte #ética
 
-> Leia também:
-> - <a href="/diorama">Diorama</a>
-> - <a href="/viver-o-trabalho">Viver o trabalho</a>
-> - <a href="/o-absurdo-cotidiano">O absurdo cotidiano</a>
+<h3>Leia também:</h3>
+- <a href="/diorama">Diorama</a>
+- <a href="/viver-o-trabalho">Viver o trabalho</a>
+- <a href="/o-absurdo-cotidiano">O absurdo cotidiano</a>

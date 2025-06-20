@@ -2,12 +2,14 @@
 title: Duvidar um pouco
 date: 2016-09-26
 tags:
-  - tecnologia
-  - comportamento
-description: Estamos em uma época em que se fala sobre tanta coisa e com tanta propriedade que fica até mesmo difícil avaliar em que medida essas…
-image: 
-aliases:
+- tecnologia
+- comportamento
+description: Estamos em uma época em que se fala sobre tanta coisa e com tanta propriedade
+  que fica até mesmo difícil avaliar em que medida essas…
+image: null
+aliases: null
 permalink: duvidar-um-pouco
+author: Marcos Ramon
 ---
 Estamos em uma época em que se fala sobre tanta coisa e com tanta propriedade que fica até mesmo difícil avaliar em que medida essas proposições fazem sentido. Entendo como uma conquista fantástica podermos, com auxílio da tecnologia, encontrar a informação que precisamos por conta própria. Existe, no entanto, um espaço vazio entre acessar a informação e atestar a validade da informação encontrada.
 
@@ -22,7 +24,7 @@ Mas pra resolver isso não precisamos abandonar a informação, só precisamos d
 
 #tecnologia #comportamento
 
-> Leia também:
-> - <a href="/estamos-perdidos">Estamos perdidos</a>
-> - <a href="/espacos-para-respirar">Espaços para respirar</a>
-> - <a href="/olhando-com-cuidado">Olhando com cuidado</a>
+<h3>Leia também:</h3>
+- <a href="/estamos-perdidos">Estamos perdidos</a>
+- <a href="/espacos-para-respirar">Espaços para respirar</a>
+- <a href="/olhando-com-cuidado">Olhando com cuidado</a>

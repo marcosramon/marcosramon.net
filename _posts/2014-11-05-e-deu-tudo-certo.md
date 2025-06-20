@@ -26,7 +26,7 @@ Por outro lado, agora não estou mais ansioso/angustiado/preocupado e isso é mu
 
 
 
-> Leia também:
-> - <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>
-> - <a href="/tudo-no-lugar-certo">Tudo no lugar certo</a>
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+<h3>Leia também:</h3>
+- <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>
+- <a href="/tudo-no-lugar-certo">Tudo no lugar certo</a>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>

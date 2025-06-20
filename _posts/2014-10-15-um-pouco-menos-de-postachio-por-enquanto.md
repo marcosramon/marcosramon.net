@@ -4,9 +4,9 @@ date: 2014-10-15
 author: Marcos Ramon
 description: Comecei a escrever no Postach.io no ano passado.
 tags:
-  - Cotidiano
-  - tecnologia
-  - internet
+- Cotidiano
+- tecnologia
+- internet
 published: true
 permalink: um-pouco-menos-de-postachio-por-enquanto
 ---
@@ -30,7 +30,7 @@ Torço de longe para que o serviço se estabilize e que a proposta vingue de fat
 
 
 
-> Leia também:
-> - <a href="/ficcoes-09-um-pouco-de-verdade">Ficções #09   um pouco de verdade</a>
-> - <a href="/e-so-um-algoritmo">É só um algoritmo</a>
-> - <a href="/analise-de-um-forum-de-ead">Análise de um Fórum de EAD</a>
+<h3>Leia também:</h3>
+- <a href="/ficcoes-09-um-pouco-de-verdade">Ficções #09   um pouco de verdade</a>
+- <a href="/e-so-um-algoritmo">É só um algoritmo</a>
+- <a href="/analise-de-um-forum-de-ead">Análise de um Fórum de EAD</a>

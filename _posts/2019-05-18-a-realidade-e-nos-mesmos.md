@@ -1,21 +1,23 @@
 ---
 title: A realidade e nós mesmos
-date: 2019-05-18 00:00:00 Z
+date: 2019-05-18 00:00:00+00:00
 categories:
-  - blog
+- blog
 tags:
-  - reflexão
-  - filosofia
-  - realidade
-excerpt: Quando pensamos sobre as coisas que nos determinam, imaginamos nossos gostos, impressões sobre arte, cultura, nossos trejeitos e manias.
+- reflexão
+- filosofia
+- realidade
+excerpt: Quando pensamos sobre as coisas que nos determinam, imaginamos nossos gostos,
+  impressões sobre arte, cultura, nossos trejeitos e manias.
 og_image: assets/images/Weird_Trees_Mark_Bartkiw.jpg
 aliases:
-  - "[[reflexão]]"
-  - "[[filosofia]]"
-  - "[[pensamento]]"
+- '[[reflexão]]'
+- '[[filosofia]]'
+- '[[pensamento]]'
 permalink: a-realidade-e-nos-mesmos
+author: Marcos Ramon
 ---
-Quando pensamos sobre as coisas que nos determinam, imaginamos nossos gostos, impressões sobre arte, [[cultura]], nossos trejeitos e manias. Mas essas são características externas, coisas que os outros conseguem observar em nós - ou coisas que acreditamos que podem ser percebidas por qualquer um, mas que só nós mesmos conseguimos identificar.
+Quando pensamos sobre as coisas que nos determinam, imaginamos nossos gostos, impressões sobre arte, cultura, nossos trejeitos e manias. Mas essas são características externas, coisas que os outros conseguem observar em nós - ou coisas que acreditamos que podem ser percebidas por qualquer um, mas que só nós mesmos conseguimos identificar.
 
 De qualquer forma, ao pensar sobre aquilo que eu sou, tenho dificuldade em me observar, em tentar entender aquilo que faz com eu seja eu mesmo e mais ninguém. E por que é tão difícil perceber o que sentimos? Provavelmente isso ocorre porque a realidade nos define ao mesmo tempo em que estamos nela. Somos pessoas que se entendem como seres vivos durante o próprio processo de existir. E, sendo assim, não temos a habilidade de nos captarmos "de fora", como quando observamos um personagem em um filme.
 
@@ -30,7 +32,7 @@ De qualquer forma, ao pensar sobre aquilo que eu sou, tenho dificuldade em me ob
 
 
 
-> Leia também:
-> - <a href="/a-realidade-e-nos-mesmos-ficcoes">A realidade e nós mesmos — Ficções</a>
-> - <a href="/saber-a-felicidade">Saber a felicidade</a>
-> - <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
+<h3>Leia também:</h3>
+- <a href="/a-realidade-e-nos-mesmos-ficcoes">A realidade e nós mesmos — Ficções</a>
+- <a href="/saber-a-felicidade">Saber a felicidade</a>
+- <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>

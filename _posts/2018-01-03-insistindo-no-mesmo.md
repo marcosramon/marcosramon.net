@@ -2,13 +2,14 @@
 title: Insistindo no mesmo
 date: 2018-01-03
 tags:
-  - arte
-  - cultura
-  - sociedade
+- arte
+- cultura
+- sociedade
 description: Insistindo no mesmo
-image: 
-aliases:
+image: null
+aliases: null
 permalink: insistindo-no-mesmo
+author: Marcos Ramon
 ---
 Hoje vi um tweet do Leon (do canal do Youtube [Coisa de Nerd](https://www.youtube.com/channel/UCuxfOdbKQy0tgGXcm9sjHiw)) falando sobre a utopia inicial da internet como um lugar de troca de conhecimentos e elucidação das pessoas:
 
@@ -26,7 +27,7 @@ Foto de [Dudi Ben Simon](https://www.instagram.com/dudibensimon/)
 
 #cultura #arte
 
-> Leia também:
-> - <a href="/a-arte-depois-da-arte">A arte depois da arte</a>
-> - <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>
-> - <a href="/distraidos">Distraídos</a>
+<h3>Leia também:</h3>
+- <a href="/a-arte-depois-da-arte">A arte depois da arte</a>
+- <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>
+- <a href="/distraidos">Distraídos</a>

@@ -2,11 +2,12 @@
 title: Interesse pela vida
 date: 2017-01-29
 tags:
-  - pensamentos
+- pensamentos
 description: Interesse pela vida
-image: 
-aliases:
+image: null
+aliases: null
 permalink: interesse-pela-vida
+author: Marcos Ramon
 ---
 Um site que eu sempre consulto e que me traz constantemente uma sensação boa de estar aprendendo coisas novas é o [Brain Pickings](https://www.brainpickings.org/). Esse site, criado e mantido por [Maria Popova](https://medium.com/u/964fe4a6b632), me lembra o tempo todo o que a internet pode e deve ser: um lugar para descobrir coisas novas que nos inspiram e nos ajudam a pensar de uma maneira mais apurada.
 
@@ -25,7 +26,7 @@ Por outro lado, sempre podemos aprender com o que os outros disseram e escrevera
 
 #pensamentos #política
 
-> Leia também:
-> - <a href="/coragem">Coragem</a>
-> - <a href="/aprender-a-olhar">Aprender a olhar</a>
-> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+<h3>Leia também:</h3>
+- <a href="/coragem">Coragem</a>
+- <a href="/aprender-a-olhar">Aprender a olhar</a>
+- <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>

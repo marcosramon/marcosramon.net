@@ -2,15 +2,17 @@
 title: Análise de um Fórum de EAD
 date: 2016-05-28
 tags:
-  - educação
-  - cultura
-  - Grafos
-  - pesquisa
-  - ensino
-description: Nesse primeiro semestre de 2016 tive uma experiência de trabalho com EAD (Educação à Distância), produzindo material para uma disciplina e…
-image: 
-aliases:
+- educação
+- cultura
+- Grafos
+- pesquisa
+- ensino
+description: Nesse primeiro semestre de 2016 tive uma experiência de trabalho com
+  EAD (Educação à Distância), produzindo material para uma disciplina e…
+image: null
+aliases: null
 permalink: analise-de-um-forum-de-ead
+author: Marcos Ramon
 ---
 Nesse primeiro semestre de 2016 tive uma experiência de trabalho com EAD (Educação à Distância), produzindo material para uma disciplina e acompanhando o desenvolvimento da mesma no Moodle. Essa experiência aconteceu na instituição em que atuo, o Instituto Federal de Brasília — IFB. No primeiro encontro que tive com a equipe foi feita uma dinâmica em que se buscava a reprodução de um fórum a partir da estrutura de uma rede conectada. Tentei aqui, a partir da visualização por meio de [grafos](https://pt.wikipedia.org/wiki/Teoria_dos_grafos), reproduzir essa experiência com um fórum real da disciplina “Homem, pensamento e cultura: abordagem filosófica e antropológica”.
 
@@ -39,7 +41,7 @@ Já no [grafo](https://pt.wikipedia.org/wiki/Teoria_dos_grafos) a seguir é poss
 
 #educação #Grafos
 
-> Leia também:
-> - <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>
-> - <a href="/um-sonho-de-sempre">Um sonho de sempre</a>
-> - <a href="/visualizando-a-hashtag-diadopodcast">Visualizando a hashtag diadopodcast</a>
+<h3>Leia também:</h3>
+- <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>
+- <a href="/um-sonho-de-sempre">Um sonho de sempre</a>
+- <a href="/visualizando-a-hashtag-diadopodcast">Visualizando a hashtag diadopodcast</a>

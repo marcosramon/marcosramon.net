@@ -18,7 +18,7 @@ Um pensamento que me ocorreu agora: o passado e o presente são simultâneos, fa
 
 
 
-> Leia também:
-> - <a href="/como-se-importar-muito-com-o-que-nao-importa">Como se importar muito com o que não importa</a>
-> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
-> - <a href="/eles-sabem-o-que-eu-nao-sei">Eles sabem o que eu não sei</a>
+<h3>Leia também:</h3>
+- <a href="/como-se-importar-muito-com-o-que-nao-importa">Como se importar muito com o que não importa</a>
+- <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+- <a href="/eles-sabem-o-que-eu-nao-sei">Eles sabem o que eu não sei</a>

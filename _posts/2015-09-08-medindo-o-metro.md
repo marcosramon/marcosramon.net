@@ -24,7 +24,7 @@ Na verdade, a explicação dele foi desestimulante, justamente porque me tirou d
 
 
 
-> Leia também:
-> - <a href="/alguem-sabe-o-que-esta-fazendo">Alguém sabe o que está fazendo</a>
-> - <a href="/como-se-importar-muito-com-o-que-nao-importa">Como se importar muito com o que não importa</a>
-> - <a href="/eles-sabem-o-que-eu-nao-sei">Eles sabem o que eu não sei</a>
+<h3>Leia também:</h3>
+- <a href="/alguem-sabe-o-que-esta-fazendo">Alguém sabe o que está fazendo</a>
+- <a href="/como-se-importar-muito-com-o-que-nao-importa">Como se importar muito com o que não importa</a>
+- <a href="/eles-sabem-o-que-eu-nao-sei">Eles sabem o que eu não sei</a>

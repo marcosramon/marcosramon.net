@@ -2,11 +2,12 @@
 title: O que o silêncio diz
 date: 2017-02-01
 tags:
-  - arte
+- arte
 description: O que o silêncio diz
-image: 
-aliases:
+image: null
+aliases: null
 permalink: o-que-o-silencio-diz
+author: Marcos Ramon
 ---
 Parece que é da natureza humana gostar de falar — e escrever — sobre tudo, mais ou menos isso que eu faço aqui, jogando opiniões e pensamentos pra todos os lados, esperando que alguma coisa (não sei bem o quê) faça sentido. Mas na maior parte das vezes, sinto que poderia abrir mão de dizer o que penso porque, oras, o que eu tenho pra dizer não é, nem de longe, algo tão importante assim.
 
@@ -21,7 +22,7 @@ Ilustração de [Martino Pietropoli](https://medium.com/u/eef82c79dda2)
 
 #arte #livros
 
-> Leia também:
-> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
-> - <a href="/o-que-precisamos-consertar">O que precisamos consertar</a>
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+- <a href="/o-que-precisamos-consertar">O que precisamos consertar</a>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>

@@ -2,11 +2,12 @@
 title: A ausência da memória
 date: 2018-01-05
 tags:
-  - pensamentos
+- pensamentos
 description: A ausência da memória
-image: 
-aliases:
+image: null
+aliases: null
 permalink: a-ausencia-da-memoria
+author: Marcos Ramon
 ---
 [No episódio de hoje do meu podcast eu falei sobre memória](https://www.marcosramon.net/ficcoes/tres-minutos-72-memoria), e algo que sempre relaciono com esse tema é a infância. Quando crianças temos uma vontade, que é quase universal entre os pequenos, de nos tornarmos adultos. É bem provável que a maioria das crianças pense sobre isso em algum momento: como seria bom ser adulto, e fazer o que eu quiser e me sentir livre etc. Depois crescemos e, você sabe, o processo se inverte. Nós, adultos, acabamos desejando a infância, época da real liberdade, das poucas preocupações, da felicidade verdadeira.
 
@@ -21,7 +22,7 @@ Colagem de [Julia Gleiser](http://julia-geiser.ch/)
 
 #pensamentos #grafos
 
-> Leia também:
-> - <a href="/interagir-so-com-quem-se-precisa">Interagir só com quem se precisa</a>
-> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
-> - <a href="/juntos">Juntos</a>
+<h3>Leia também:</h3>
+- <a href="/interagir-so-com-quem-se-precisa">Interagir só com quem se precisa</a>
+- <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+- <a href="/juntos">Juntos</a>

@@ -2,11 +2,12 @@
 title: O que contamos de nós mesmos
 date: 2017-02-16
 tags:
-  - pensamentos
+- pensamentos
 description: O que contamos de nós mesmos
-image: 
-aliases:
+image: null
+aliases: null
 permalink: o-que-contamos-de-nos-mesmos
+author: Marcos Ramon
 ---
 Na nossa própria cabeça estamos sempre do lado do bem, defendendo a verdade, a justiça e tudo aquilo que é certo. Todo mundo, tenho quase certeza, se sente meio herói ou heroína; e, se algum vacilo acontece e sentimos que agimos mal, encontramos logo uma justificativa do tipo: “era necessário”, “não tinha outro jeito” etc.
 
@@ -21,7 +22,7 @@ Fotografia de [Arianna Pagani](http://www.ariannapagani.com/)
 
 #pensamentos #consumo
 
-> Leia também:
-> - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
-> - <a href="/a-solidao-que-precisamos">A solidão que precisamos</a>
-> - <a href="/o-que-temos-em-comum">O que temos em comum</a>
+<h3>Leia também:</h3>
+- <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
+- <a href="/a-solidao-que-precisamos">A solidão que precisamos</a>
+- <a href="/o-que-temos-em-comum">O que temos em comum</a>

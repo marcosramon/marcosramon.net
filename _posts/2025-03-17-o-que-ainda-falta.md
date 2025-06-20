@@ -2,11 +2,12 @@
 title: O que ainda falta
 date: 2025-03-17
 tags:
-  - Tempo
-  - Realidade
-description: Esses dias, minha esposa começou a fazer uma conta de quantos anos faltam pra gente chegar aos 60. Fiquei impressionado que falta tão pouco.
+- Tempo
+- Realidade
+description: Esses dias, minha esposa começou a fazer uma conta de quantos anos faltam
+  pra gente chegar aos 60. Fiquei impressionado que falta tão pouco.
 permalink: o-que-ainda-falta
-aliases: 
+aliases: null
 author: Marcos Ramon
 image: arquivos/signac.png
 og_image: arquivos/signac.png
@@ -29,7 +30,7 @@ Apesar do medo, acho que vale muito pensar sobre isso para internalizar o eviden
 
 ---
 
-> Leia também:
-> - <a href="/tudo-no-lugar-certo">Tudo no lugar certo</a>
-> - <a href="/e-so-o-tempo-que-passa">É só o tempo que passa</a>
-> - <a href="/eu-e-o-tempo">Eu e o tempo</a>
+<h3>Leia também:</h3>
+- <a href="/tudo-no-lugar-certo">Tudo no lugar certo</a>
+- <a href="/e-so-o-tempo-que-passa">É só o tempo que passa</a>
+- <a href="/eu-e-o-tempo">Eu e o tempo</a>

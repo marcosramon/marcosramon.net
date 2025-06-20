@@ -29,7 +29,7 @@ Em um mundo complexo como o nosso as identidades que assumimos (e desse jeito me
 
 
 
-> Leia também:
-> - <a href="/como-ser-feliz">Como ser feliz</a>
-> - <a href="/duvidar-para-fazer-as-perguntas-certas">Duvidar para fazer as perguntas certas</a>
-> - <a href="/basta-estar-vivo">Basta estar vivo</a>
+<h3>Leia também:</h3>
+- <a href="/como-ser-feliz">Como ser feliz</a>
+- <a href="/duvidar-para-fazer-as-perguntas-certas">Duvidar para fazer as perguntas certas</a>
+- <a href="/basta-estar-vivo">Basta estar vivo</a>

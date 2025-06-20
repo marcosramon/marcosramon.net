@@ -28,7 +28,7 @@ Que falta vai nos fazer a materialidade, quando não tivermos mais resquícios d
 
 
 
-> Leia também:
-> - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
-> - <a href="/uma-cidade">Uma cidade</a>
-> - <a href="/como-ser-feliz">Como ser feliz</a>
+<h3>Leia também:</h3>
+- <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
+- <a href="/uma-cidade">Uma cidade</a>
+- <a href="/como-ser-feliz">Como ser feliz</a>

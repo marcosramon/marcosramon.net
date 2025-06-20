@@ -2,13 +2,14 @@
 title: Se perder no caminho
 date: 2017-05-11
 tags:
-  - arte
-  - tecnologia
-  - educação
+- arte
+- tecnologia
+- educação
 description: Estar atento o tempo todo é quase impossível.
-image: 
-aliases:
+image: null
+aliases: null
 permalink: se-perder-no-caminho
+author: Marcos Ramon
 ---
 Estar atento o tempo todo é quase impossível. É tudo tão rápido, tão imediato, que não alcançar um de seus objetivos é só um dos problemas com os quais você vai, invariavelmente, ter que lidar.
 
@@ -23,7 +24,7 @@ Gif criado por [Julien Douvier](http://juliendouvier.tumblr.com/)
 
 #arte #educação
 
-> Leia também:
-> - <a href="/o-que-precisamos-consertar">O que precisamos consertar</a>
-> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
-> - <a href="/indefinido">Indefinido</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-precisamos-consertar">O que precisamos consertar</a>
+- <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+- <a href="/indefinido">Indefinido</a>

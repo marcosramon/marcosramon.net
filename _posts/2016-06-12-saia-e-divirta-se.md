@@ -2,12 +2,14 @@
 title: Saia e divirta-se!
 date: 2016-06-12
 tags:
-  - pensamentos
-  - cotidiano
-description: Domingo à noite. Estou sentado em uma mesa de um restaurante, sozinho, esperando os hambúrgueres que eu pedi. Hoje à gente vai comer em…
-image: 
-aliases:
+- pensamentos
+- cotidiano
+description: Domingo à noite. Estou sentado em uma mesa de um restaurante, sozinho,
+  esperando os hambúrgueres que eu pedi. Hoje à gente vai comer em…
+image: null
+aliases: null
 permalink: saia-e-divirta-se
+author: Marcos Ramon
 ---
 Domingo à noite. Estou sentado em uma mesa de um restaurante, sozinho, esperando os hambúrgueres que eu pedi. Hoje à gente vai comer em casa. Meu filho vai comer um peixe que sobrou do almoço e eu e a minha esposa vamos comer os sanduíches que vou levar (o meu é um _cheese_ salada e o dela é um hambúrguer com alho, sem mostarda).
 
@@ -28,7 +30,7 @@ Colagem de [Tristram Mason](https://br.pinterest.com/pin/633387425123140/)
 
 #pensamentos #cotidiano
 
-> Leia também:
-> - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
-> - <a href="/a-burocracia-do-cotidiano">A burocracia do cotidiano</a>
-> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+<h3>Leia também:</h3>
+- <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
+- <a href="/a-burocracia-do-cotidiano">A burocracia do cotidiano</a>
+- <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>

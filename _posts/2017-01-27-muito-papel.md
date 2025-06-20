@@ -2,11 +2,12 @@
 title: Muito papel
 date: 2017-01-27
 tags:
-  - pensamentos
+- pensamentos
 description: Muito papel
-image: 
-aliases:
+image: null
+aliases: null
 permalink: muito-papel
+author: Marcos Ramon
 ---
 Hoje, arrumando documentos e papéis, percebi (ou melhor, lembrei) que tenho uma dificuldade gigantesca de me desfazer das coisas — inclusive de coisas que não lembrava que tinha ou que sei que não vou precisar. E assim acumulo mais do que preciso.
 
@@ -19,7 +20,7 @@ Mas não vai ser assim, porque as coisas sabem a hora certa de sumir e de se esc
 
 #pensamentos #pensamento
 
-> Leia também:
-> - <a href="/viver-esquecendo">Viver esquecendo</a>
-> - <a href="/a-materia-das-memorias">A matéria das memórias</a>
-> - <a href="/uma-semana-nas-ferias">Uma semana nas férias</a>
+<h3>Leia também:</h3>
+- <a href="/viver-esquecendo">Viver esquecendo</a>
+- <a href="/a-materia-das-memorias">A matéria das memórias</a>
+- <a href="/uma-semana-nas-ferias">Uma semana nas férias</a>

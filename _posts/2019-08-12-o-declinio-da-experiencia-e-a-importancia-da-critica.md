@@ -29,7 +29,7 @@ A arte, por meio de sua condição alegórica, reflete mais do que o passado [^1
 
 
 
-> Leia também:
-> - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
-> - <a href="/o-cotidiano-da-sala-de-aula">O cotidiano da sala de aula</a>
+<h3>Leia também:</h3>
+- <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+- <a href="/o-cotidiano-da-sala-de-aula">O cotidiano da sala de aula</a>

@@ -4,8 +4,8 @@ date: 2020-11-11 00:00:00+00:00
 author: Marcos Ramon
 description: Manter um ritmo de produção sempre foi uma coisa difícil pra mim.
 tags:
-  - Escrever
-  - blog
+- Escrever
+- blog
 published: true
 permalink: o-tempo-da-escrita
 ---
@@ -21,7 +21,7 @@ Mas no fundo tudo é desculpa pra eu não fazer o que devia fazer. É estranho t
 
 #Escrever #blog 
 
-> Leia também:
-> - <a href="/o-cotidiano-da-sala-de-aula">O cotidiano da sala de aula</a>
-> - <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>
-> - <a href="/o-tempo">O tempo</a>
+<h3>Leia também:</h3>
+- <a href="/o-cotidiano-da-sala-de-aula">O cotidiano da sala de aula</a>
+- <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>
+- <a href="/o-tempo">O tempo</a>

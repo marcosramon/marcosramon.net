@@ -26,7 +26,7 @@ Mais do que isso, saber existir é entender que ninguém deixa a vida de forma a
 
 
 
-> Leia também:
-> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
-> - <a href="/trabalho-antes-de-tudo">Trabalho, antes de tudo</a>
-> - <a href="/mais-de-nos-mesmos">Mais de nós mesmos</a>
+<h3>Leia também:</h3>
+- <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+- <a href="/trabalho-antes-de-tudo">Trabalho, antes de tudo</a>
+- <a href="/mais-de-nos-mesmos">Mais de nós mesmos</a>

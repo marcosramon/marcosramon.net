@@ -2,17 +2,19 @@
 title: Sobre Van Gogh
 date: 2017-06-16
 tags:
-  - arte
-  - comportamento
-description: Vincent Van Gogh nasceu na Holanda, no dia 30 de Março de 1853 e morreu na França, no dia 29 de Julho de 1890, dois dias depois de ter dado…
-image: 
+- arte
+- comportamento
+description: Vincent Van Gogh nasceu na Holanda, no dia 30 de Março de 1853 e morreu
+  na França, no dia 29 de Julho de 1890, dois dias depois de ter dado…
+image: null
 cssclasses:
-  - img-grid
+- img-grid
 permalink: sobre-van-gogh
+author: Marcos Ramon
 ---
 Vincent Van Gogh nasceu na Holanda, no dia 30 de Março de 1853 e morreu na França, no dia 29 de Julho de 1890, dois dias depois de ter dado um tiro no próprio peito.
 
-[[Van Gogh]] era filho de um pastor protestante e teve mais cinco irmãos, sendo o seu irmão mais novo, Theo, o grande incentivador e patrocinador de sua arte. Com 16 anos Vincent foi trabalhar como aprendiz em uma empresa francesa de negociantes de arte, Goupil & Cia, por influência de um tio que trabalhava nesta empresa. Importante ressaltar que o trabalho de Vincent era como assistente de negócios e não como artista. De qualquer forma, essa experiência foi importante por lhe colocar em contato com os trabalhos mais recentes dos grandes artistas da Europa. Como parecia ter tino para o comércio, ele foi transferido para a filial de Londres em 1873. Van Gogh tinha então 20 anos.
+Van Gogh era filho de um pastor protestante e teve mais cinco irmãos, sendo o seu irmão mais novo, Theo, o grande incentivador e patrocinador de sua arte. Com 16 anos Vincent foi trabalhar como aprendiz em uma empresa francesa de negociantes de arte, Goupil & Cia, por influência de um tio que trabalhava nesta empresa. Importante ressaltar que o trabalho de Vincent era como assistente de negócios e não como artista. De qualquer forma, essa experiência foi importante por lhe colocar em contato com os trabalhos mais recentes dos grandes artistas da Europa. Como parecia ter tino para o comércio, ele foi transferido para a filial de Londres em 1873. Van Gogh tinha então 20 anos.
 
 Em 1875 ele foi transferido mais uma vez, agora para Paris, mas acabou sendo demitido em 1876. Sabemos pela correspondência entre Vincent e Theo, que Vincent queria se tornar pastor protestante, assim como o pai, e de fato viveu durante algum pouco tempo como pregador em comunidades de trabalhadores na Bélgica. Mas o seu trabalho não foi bem recebido e o próprio Vincent tinha dúvidas sobre a sua aptidão como pastor. Foi nesse momento que Theo — que era também um negociante de arte, trabalhando na mesma empresa em que Vincent havia trabalhado — sugeriu ao irmão mais velho que se tornasse um artista.
 
@@ -58,7 +60,7 @@ _Van Gogh — Amendoeira em flor, 1890_
 
 #arte #comportamento
 
-> Leia também:
-> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
-> - <a href="/dia-de-comprar">Dia de comprar</a>
+<h3>Leia também:</h3>
+- <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+- <a href="/dia-de-comprar">Dia de comprar</a>

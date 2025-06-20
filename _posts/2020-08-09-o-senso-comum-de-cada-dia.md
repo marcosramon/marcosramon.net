@@ -29,7 +29,7 @@ Mesmo assim, é fato que a ciência tem seus erros. Por isso, a questione e não
 
 
 
-> Leia também:
-> - <a href="/o-cansaco-nosso-de-cada-dia">O cansaço nosso de cada dia</a>
-> - <a href="/o-cansaco-nosso-de-cada-dia">O cansaço nosso de cada dia</a>
-> - <a href="/de-onde-vem-o-conhecimento">De onde vem o conhecimento</a>
+<h3>Leia também:</h3>
+- <a href="/o-cansaco-nosso-de-cada-dia">O cansaço nosso de cada dia</a>
+- <a href="/o-cansaco-nosso-de-cada-dia">O cansaço nosso de cada dia</a>
+- <a href="/de-onde-vem-o-conhecimento">De onde vem o conhecimento</a>

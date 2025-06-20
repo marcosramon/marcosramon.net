@@ -3,9 +3,10 @@ title: Reconhecer
 date: 2024-08-27
 excerpt: Sobre a necessidade de aprender a respirar melhor
 aliases:
-  - "[[cotidiano]]"
-  - "[[comportamento]]"
+- '[[cotidiano]]'
+- '[[comportamento]]'
 permalink: reconhecer
+author: Marcos Ramon
 ---
 Quando as coisas se colocam diante de mim, percebo que o cotidiano se impõe de uma maneira que ultrapassa minha capacidade de lidar com o ritmo das transformações que aparecem na minha vida.
 
@@ -17,7 +18,7 @@ Quando me vejo preso dentro do carro, costumo abrir um pouco as janelas para res
 
 #cotidiano #pensamento 
 
-> Leia também:
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
-> - <a href="/como-se-importar-muito-com-o-que-nao-importa">Como se importar muito com o que não importa</a>
-> - <a href="/duvidar-para-fazer-as-perguntas-certas">Duvidar para fazer as perguntas certas</a>
+<h3>Leia também:</h3>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+- <a href="/como-se-importar-muito-com-o-que-nao-importa">Como se importar muito com o que não importa</a>
+- <a href="/duvidar-para-fazer-as-perguntas-certas">Duvidar para fazer as perguntas certas</a>

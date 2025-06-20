@@ -2,11 +2,13 @@
 title: Aprender a olhar
 date: 2017-12-16
 tags:
-  - pensamentos
-description: Das muitas coisas que a vida faz com a gente, talvez a mais doída seja minar a nossa vontade de acreditar que existe um porquê para tudo o…
-image: 
-aliases:
+- pensamentos
+description: Das muitas coisas que a vida faz com a gente, talvez a mais doída seja
+  minar a nossa vontade de acreditar que existe um porquê para tudo o…
+image: null
+aliases: null
 permalink: aprender-a-olhar
+author: Marcos Ramon
 ---
 Das muitas coisas que a vida faz com a gente, talvez a mais doída seja minar a nossa vontade de acreditar que existe um porquê para tudo o que nos acontece. Algumas pessoas, é verdade, continuam insistindo, e se esforçam na busca pelos sentidos e motivos. Busca inútil, que traz dor e desalento, e que pouco acrescenta a esse tempo tão curto que temos para ficar neste mundo.
 
@@ -21,7 +23,7 @@ Colagem feita por [Alma Haser](http://t.umblr.com/redirect?z=http%3A%2F%2Finagb
 
 #pensamentos #música
 
-> Leia também:
-> - <a href="/encontrar-um-caminho">Encontrar um caminho</a>
-> - <a href="/a-beleza-do-absurdo">A beleza do absurdo</a>
-> - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
+<h3>Leia também:</h3>
+- <a href="/encontrar-um-caminho">Encontrar um caminho</a>
+- <a href="/a-beleza-do-absurdo">A beleza do absurdo</a>
+- <a href="/a-ausencia-da-memoria">A ausência da memória</a>

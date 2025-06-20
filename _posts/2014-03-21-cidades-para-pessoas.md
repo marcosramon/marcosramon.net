@@ -2,11 +2,13 @@
 title: Cidades para pessoas
 date: 2014-03-21
 tags:
-  - pensamentos
-description: Nunca fui nenhum ativista crítico dos carros e do pouco incentivo que vemos ao transporte público. Contudo, pelo menos aqui em Brasília, a…
-image: 
-aliases:
+- pensamentos
+description: Nunca fui nenhum ativista crítico dos carros e do pouco incentivo que
+  vemos ao transporte público. Contudo, pelo menos aqui em Brasília, a…
+image: null
+aliases: null
 permalink: cidades-para-pessoas
+author: Marcos Ramon
 ---
 Nunca fui nenhum ativista crítico dos carros e do pouco incentivo que vemos ao transporte público. Contudo, pelo menos aqui em Brasília, a cada dia a situação se agrava tanto que mesmo quem nunca se colocou para pensar sobre isso começa agora a questionar se precisamos mesmo de tantos carros assim.
 
@@ -20,7 +22,7 @@ Considerando essa realidade do ônibus apresentada no vídeo e dos espaços púb
 
 #pensamentos #escrita
 
-> Leia também:
-> - <a href="/pessoas-e-horarios">Pessoas e horários</a>
-> - <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>
-> - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
+<h3>Leia também:</h3>
+- <a href="/pessoas-e-horarios">Pessoas e horários</a>
+- <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>
+- <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>

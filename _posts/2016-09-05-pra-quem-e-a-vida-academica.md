@@ -1,11 +1,12 @@
 ---
 title: Pra quem é a vida acadêmica?
 tags:
-  - ensino
-  - pesquisa
-  - Ciência
+- ensino
+- pesquisa
+- Ciência
 date: 2016-09-05
 permalink: pra-quem-e-a-vida-academica
+author: Marcos Ramon
 ---
 ### Pra quem é a vida acadêmica?
 
@@ -36,7 +37,7 @@ Nem todo mundo precisa ter apreço pela leitura, pela investigação e pela refl
 
 #ensino #pesquisa
 
-> Leia também:
-> - <a href="/a-vida-e-uma-espera">A vida é uma espera</a>
-> - <a href="/ensinar-e-dificil">Ensinar é difícil</a>
-> - <a href="/o-nivel-de-confianca-desse-texto-e-de-95">O nível de confiança desse texto é de 95%</a>
+<h3>Leia também:</h3>
+- <a href="/a-vida-e-uma-espera">A vida é uma espera</a>
+- <a href="/ensinar-e-dificil">Ensinar é difícil</a>
+- <a href="/o-nivel-de-confianca-desse-texto-e-de-95">O nível de confiança desse texto é de 95%</a>

@@ -1,11 +1,12 @@
 ---
 title: A experiência negativa
 date: 2018-01-17
-excerpt: 
+excerpt: null
 aliases:
-  - "[[cotidiano]]"
-  - "[[reflexão]]"
+- '[[cotidiano]]'
+- '[[reflexão]]'
 permalink: a-experiencia-negativa
+author: Marcos Ramon
 ---
 Encarar a complexidade da vida é também esquecer-se um pouco de tudo o que representamos diante do mundo. A experiência negativa da existência — seja pela ignorância ou pelo estado consciente da dúvida — sempre nos leva à angústia. Se essa angústia como elemento a ser combatido (já que ninguém quer, realmente, ficar angustiado) pode se configurar em uma experiência transformadora, é o que define uma maior ou menor satisfação na vida.
 
@@ -24,7 +25,7 @@ A única explicação que consigo imaginar para isso é uma esperteza da naturez
 
 
 
-> Leia também:
-> - <a href="/a-solidao-liberta">A solidão liberta</a>
-> - <a href="/uma-vida-sem-reflexao">Uma vida sem reflexão</a>
-> - <a href="/a-maior-derrota-que-se-pode-ter">A maior derrota que se pode ter</a>
+<h3>Leia também:</h3>
+- <a href="/a-solidao-liberta">A solidão liberta</a>
+- <a href="/uma-vida-sem-reflexao">Uma vida sem reflexão</a>
+- <a href="/a-maior-derrota-que-se-pode-ter">A maior derrota que se pode ter</a>

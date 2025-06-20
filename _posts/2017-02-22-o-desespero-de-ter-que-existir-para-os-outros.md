@@ -2,11 +2,12 @@
 title: O desespero de ter que existir para os outros
 date: 2017-02-22
 tags:
-  - pensamentos
+- pensamentos
 description: O desespero de ter que existir para os outros
-image: 
-aliases:
+image: null
+aliases: null
 permalink: o-desespero-de-ter-que-existir-para-os-outros
+author: Marcos Ramon
 ---
 #### Sobre o livro “A filha perdida”, de Elena Ferrante
 
@@ -21,7 +22,7 @@ Não quero dar uma impressão errada aqui e também não vou dar _spoilers_ da h
 
 #pensamentos #reflexão
 
-> Leia também:
-> - <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>
-> - <a href="/o-medo-que-nos-move">O medo que nos move</a>
-> - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>
+- <a href="/o-medo-que-nos-move">O medo que nos move</a>
+- <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>

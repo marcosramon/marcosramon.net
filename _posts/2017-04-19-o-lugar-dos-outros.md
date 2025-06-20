@@ -2,12 +2,14 @@
 title: O lugar dos outros
 date: 2017-04-19
 tags:
-  - comportamento
-  - cultura
-description: Quando procuramos entender o comportamento alheio, sempre usamos como parâmetros as nossas próprias ações. Se por um lado isso é…
-image: 
-aliases:
+- comportamento
+- cultura
+description: Quando procuramos entender o comportamento alheio, sempre usamos como
+  parâmetros as nossas próprias ações. Se por um lado isso é…
+image: null
+aliases: null
 permalink: o-lugar-dos-outros
+author: Marcos Ramon
 ---
 Quando procuramos entender o comportamento alheio, sempre usamos como parâmetros as nossas próprias ações. Se por um lado isso é inevitável, já que só conhecemos o mundo por nossas próprias experiências, por outro é incrivelmente limitador. Afinal, somos quase sempre heróis e ídolos de nós mesmos, e mesmo a modéstia que por vezes demonstramos costuma ser mediada por algum desejo de reconhecimento e glória.
 
@@ -24,7 +26,7 @@ Esculturas de metal de [Zadok Ben-David](http://zadokbendavid.com/)
 
 #comportamento #cultura
 
-> Leia também:
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
-> - <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
-> - <a href="/o-possivel-amanha">O possível amanhã</a>
+<h3>Leia também:</h3>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+- <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
+- <a href="/o-possivel-amanha">O possível amanhã</a>

@@ -2,11 +2,12 @@
 title: Sem esperar nenhuma resposta
 date: 2017-02-07
 tags:
-  - pensamentos
+- pensamentos
 description: Sem esperar nenhuma resposta
-image: 
-aliases:
+image: null
+aliases: null
 permalink: sem-esperar-nenhuma-resposta
+author: Marcos Ramon
 ---
 Admiro as pessoas que entendem que a vida é feita de acasos, mas que nem por isso sentem o peso do mundo caindo em suas cabeças. Eu não sei viver vivo assim, sereno. E a gente admira muito mais o que não alcança do que aquilo que enxerga no espelho todos os dias.
 
@@ -21,7 +22,7 @@ Foto de [Greg Girard](http://www.greggirard.com/)
 
 #pensamentos #arte
 
-> Leia também:
-> - <a href="/um-parque-uma-descoberta">Um parque, uma descoberta</a>
-> - <a href="/colagem">Colagem</a>
-> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+<h3>Leia também:</h3>
+- <a href="/um-parque-uma-descoberta">Um parque, uma descoberta</a>
+- <a href="/colagem">Colagem</a>
+- <a href="/o-que-e-ser-criativo">O que é ser criativo</a>

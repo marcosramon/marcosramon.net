@@ -20,7 +20,7 @@ Enfim, o cara chegou e eu saí. Mas tá vendo, não faço atividade física por 
 
 
 
-> Leia também:
-> - <a href="/duvidar-para-fazer-as-perguntas-certas">Duvidar para fazer as perguntas certas</a>
-> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
-> - <a href="/fazer-o-melhor-que-eu-posso">Fazer o melhor que eu posso</a>
+<h3>Leia também:</h3>
+- <a href="/duvidar-para-fazer-as-perguntas-certas">Duvidar para fazer as perguntas certas</a>
+- <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+- <a href="/fazer-o-melhor-que-eu-posso">Fazer o melhor que eu posso</a>

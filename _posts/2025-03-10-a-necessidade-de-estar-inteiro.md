@@ -1,15 +1,17 @@
 ---
 title: A necessidade de estar inteiro
 tags:
-  - rousseau
-  - filosofia
-  - sociedade
-  - comportamento
-description: Quando penso em todas as coisas que tento fazer, em todas as obrigações que tenho, vejo que não há outra forma de existir senão sendo uma, duas ou mais pessoas ao mesmo tempo.
+- rousseau
+- filosofia
+- sociedade
+- comportamento
+description: Quando penso em todas as coisas que tento fazer, em todas as obrigações
+  que tenho, vejo que não há outra forma de existir senão sendo uma, duas ou mais
+  pessoas ao mesmo tempo.
 permalink: a-necessidade-de-estar-inteiro
 aliases:
-  - "[[Rousseau]]"
-  - "[[Filosofia]]"
+- '[[Rousseau]]'
+- '[[Filosofia]]'
 author: Marcos Ramon
 date: 2025-03-10
 image: /arquivos/horizon.png
@@ -17,7 +19,7 @@ og_image: /arquivos/horizon.png
 ---
 Quando penso em todas as coisas que tento fazer, em todas as obrigações que tenho, vejo que não há outra forma de existir senão sendo uma, duas ou mais pessoas ao mesmo tempo.
 
-[[Rousseau]] escreveu que escolhemos usar máscaras sociais para suportar a vida, ao mesmo tempo em que alimentamos nosso amor-próprio. Para ele, a invenção da vida social implicou na valorização da opinião dos outros sobre nós, o que fez surgir o sentimento de amor-próprio — uma consequência da saída do estado de natureza. 
+Rousseau escreveu que escolhemos usar máscaras sociais para suportar a vida, ao mesmo tempo em que alimentamos nosso amor-próprio. Para ele, a invenção da vida social implicou na valorização da opinião dos outros sobre nós, o que fez surgir o sentimento de amor-próprio — uma consequência da saída do estado de natureza. 
 
 No estado de natureza, o ser humano era movido pelo amor de si, um sentimento de autopreservação simples e instintivo. No entanto, ao entrar na sociedade, passamos a depender do olhar do outro para nos definir, e essa necessidade de reconhecimento deu origem a um amor-próprio complexo e frágil, constantemente alimentado pela aceitação alheia.
 
@@ -32,7 +34,7 @@ No final, será que é isso mesmo? Não existimos sem uma das máscaras que esco
 
 #rousseau #filosofia 
 
-> Leia também:
-> - <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
-> - <a href="/a-realidade-e-nos-mesmos">A realidade e nós mesmos</a>
-> - <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>
+<h3>Leia também:</h3>
+- <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
+- <a href="/a-realidade-e-nos-mesmos">A realidade e nós mesmos</a>
+- <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>

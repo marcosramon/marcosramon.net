@@ -18,7 +18,7 @@ Quero voltar a ler Borges e Montaigne. Quero voltar a escutar a discografia do L
 
 
 
-> Leia também:
-> - <a href="/de-onde-vem-o-conhecimento">De onde vem o conhecimento</a>
-> - <a href="/atraves-de-mim">Através de mim</a>
-> - <a href="/banksy-ou-como-a-arte-de-rua-pode-ser-pop">Banksy ou como a arte de rua pode ser pop</a>
+<h3>Leia também:</h3>
+- <a href="/de-onde-vem-o-conhecimento">De onde vem o conhecimento</a>
+- <a href="/atraves-de-mim">Através de mim</a>
+- <a href="/banksy-ou-como-a-arte-de-rua-pode-ser-pop">Banksy ou como a arte de rua pode ser pop</a>

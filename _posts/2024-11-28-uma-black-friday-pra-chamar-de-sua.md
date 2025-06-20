@@ -1,16 +1,19 @@
 ---
 title: Uma Black Friday pra chamar de sua
 date: 2024-11-28
-excerpt: Em um mundo marcado pelo consumo extremo, onde até mesmo nosso entretenimento se baseia em assistir outras pessoas consumindo, não surpreende que uma das datas mais celebradas do ano seja dedicada às compras
+excerpt: Em um mundo marcado pelo consumo extremo, onde até mesmo nosso entretenimento
+  se baseia em assistir outras pessoas consumindo, não surpreende que uma das datas
+  mais celebradas do ano seja dedicada às compras
 tags:
-  - comportamento
-  - Consumo
+- comportamento
+- Consumo
 aliases:
-  - "[[comportamento]]"
-  - "[[consumo]]"
-  - "[[cotidiano]]"
-  - "[[Gilles Lipovetsky]]"
+- '[[comportamento]]'
+- '[[consumo]]'
+- '[[cotidiano]]'
+- '[[Gilles Lipovetsky]]'
 permalink: uma-black-friday-pra-chamar-de-sua
+author: Marcos Ramon
 ---
 Esses dias estava conversando com minha esposa, e a gente especulava sobre o que iríamos comprar na Black Friday: "Vamos pensar, tem que ter alguma coisa".
 
@@ -29,7 +32,7 @@ Da mesma forma, quanto dinheiro uma pessoa precisa ter para não se importar com
 
 #Consumo #comportamento
 
-> Leia também:
-> - <a href="/uma-imagem-de-nos">Uma imagem de nós</a>
-> - <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>
-> - <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>
+<h3>Leia também:</h3>
+- <a href="/uma-imagem-de-nos">Uma imagem de nós</a>
+- <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>
+- <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>

@@ -2,16 +2,17 @@
 title: O que aprendi fazendo um episódio de podcast por dia durante 2016
 date: 2017-01-02
 tags:
-  - arte
-  - filosofia
-  - comportamento
-  - tecnologia
-  - cultura
-  - sociedade
+- arte
+- filosofia
+- comportamento
+- tecnologia
+- cultura
+- sociedade
 description: O que aprendi fazendo um episódio de podcast por dia durante 2016
-image: 
-aliases:
+image: null
+aliases: null
 permalink: o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016
+author: Marcos Ramon
 ---
 Em 2016 eu decidi tentar mais uma vez realizar um projeto de um ano inteiro. Já tinha tentado com fotografia, música e desenho — e sempre falhei miseravelmente. Eu não tinha, portanto, indício nenhum de que essa tentativa de gravar um episódio todo santo dia durante um ano iria dar certo, mas acabou funcionando.
 
@@ -49,7 +50,7 @@ De qualquer forma, agora eu volto com o [Ficções](http://www.marcosramon.net/f
 
 #arte #filosofia
 
-> Leia também:
-> - <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>
-> - <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>
-> - <a href="/podcastfriday-dia-2">PodcastFriday, dia 2</a>
+<h3>Leia também:</h3>
+- <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>
+- <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>
+- <a href="/podcastfriday-dia-2">PodcastFriday, dia 2</a>

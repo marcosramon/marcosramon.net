@@ -2,13 +2,14 @@
 title: Progredir, sem medo de errar
 date: 2016-12-09
 tags:
-  - pensamentos
-  - cotidiano
-  - ensino
+- pensamentos
+- cotidiano
+- ensino
 description: Progredir, sem medo de errar
-image: 
-aliases:
+image: null
+aliases: null
 permalink: progredir-sem-medo-de-errar
+author: Marcos Ramon
 ---
 Neste ano, em uma prova para o ensino médio, eu coloquei esta citação inspiradora:
 
@@ -27,7 +28,7 @@ O conhecimento não é uma caixinha de ideias certas e erradas dentro da cabeç
 
 #ensino #pensamentos
 
-> Leia também:
-> - <a href="/passividade">Passividade</a>
-> - <a href="/alerta-de-spoiler">Alerta de spoiler</a>
-> - <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>
+<h3>Leia também:</h3>
+- <a href="/passividade">Passividade</a>
+- <a href="/alerta-de-spoiler">Alerta de spoiler</a>
+- <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>

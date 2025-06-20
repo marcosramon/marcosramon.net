@@ -2,11 +2,13 @@
 title: Entender o tempo
 date: 2017-04-11
 tags:
-  - pensamentos
-description: Nem sempre as coisas vão bem. Mas algo que eu tenho me esforçado para aprender é entender que tudo tem um tempo, e que só reclamar não…
-image: 
-aliases:
+- pensamentos
+description: Nem sempre as coisas vão bem. Mas algo que eu tenho me esforçado para
+  aprender é entender que tudo tem um tempo, e que só reclamar não…
+image: null
+aliases: null
 permalink: entender-o-tempo
+author: Marcos Ramon
 ---
 Nem sempre as coisas vão bem. Mas algo que eu tenho me esforçado para aprender é entender que tudo tem um tempo, e que só reclamar não adianta muita coisa. É preciso agir, e ter paciência, e cuidar de quem queremos bem.
 
@@ -21,7 +23,7 @@ Ilustração de [Matt Blease](http://mattblease.tumblr.com/)
 
 #pensamentos #comportamento
 
-> Leia também:
-> - <a href="/para-entender-o-nosso-tempo">Para entender o nosso tempo</a>
-> - <a href="/coisas-estranhas-que-eu-vi-recentemente">Coisas estranhas que eu vi recentemente</a>
-> - <a href="/o-que-realmente-importa">O que realmente importa</a>
+<h3>Leia também:</h3>
+- <a href="/para-entender-o-nosso-tempo">Para entender o nosso tempo</a>
+- <a href="/coisas-estranhas-que-eu-vi-recentemente">Coisas estranhas que eu vi recentemente</a>
+- <a href="/o-que-realmente-importa">O que realmente importa</a>

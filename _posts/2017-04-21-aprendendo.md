@@ -2,12 +2,14 @@
 title: Aprendendo
 date: 2017-04-21
 tags:
-  - arte
-  - educação
-description: Hoje, organizando material para as minhas aulas e pensando nas coisas que preciso fazer, me dei conta de uma das coisas mais interessantes…
-image: 
-aliases:
+- arte
+- educação
+description: Hoje, organizando material para as minhas aulas e pensando nas coisas
+  que preciso fazer, me dei conta de uma das coisas mais interessantes…
+image: null
+aliases: null
 permalink: aprendendo
+author: Marcos Ramon
 ---
 Hoje, organizando material para as minhas aulas e pensando nas coisas que preciso fazer, me dei conta de uma das coisas mais interessantes do ensino: estar em contato com pessoas que querem aprender e descobrir coisas novas. Mas parece estranho eu dizer isso, e por dois motivos:
 
@@ -29,7 +31,7 @@ Ilustração de [Nhung Le](https://www.behance.net/nhungle)
 
 #arte #educação
 
-> Leia também:
-> - <a href="/indefinido">Indefinido</a>
-> - <a href="/todas-as-escolas-deveriam-ser-escolas-de-arte">Todas as escolas deveriam ser escolas de arte</a>
-> - <a href="/o-que-precisamos-consertar">O que precisamos consertar</a>
+<h3>Leia também:</h3>
+- <a href="/indefinido">Indefinido</a>
+- <a href="/todas-as-escolas-deveriam-ser-escolas-de-arte">Todas as escolas deveriam ser escolas de arte</a>
+- <a href="/o-que-precisamos-consertar">O que precisamos consertar</a>

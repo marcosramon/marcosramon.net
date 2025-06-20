@@ -2,12 +2,13 @@
 title: Como os personagens são criados
 date: 2017-01-22
 tags:
-  - arte
-  - comportamento
+- arte
+- comportamento
 description: Como os personagens são criados
-image: 
-aliases:
+image: null
+aliases: null
 permalink: como-os-personagens-sao-criados
+author: Marcos Ramon
 ---
 Muitas coisas encantam os leitores: a capacidade de descrição do autor, o enredo da história, a trama bem feita, a escrita competente e (esse para mim é o principal) o caráter dos personagens. Acho que tudo na escrita pode ser aprendido, mas o aspecto menos mecânico do processo está na identificação que o autor consegue criar entre os leitores e os personagens.
 
@@ -24,7 +25,7 @@ Uma coisa que sempre vou querer saber, mas que imagino que nenhum escritor saiba
 
 #arte #comportamento
 
-> Leia também:
-> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
-> - <a href="/dia-de-comprar">Dia de comprar</a>
+<h3>Leia também:</h3>
+- <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+- <a href="/dia-de-comprar">Dia de comprar</a>

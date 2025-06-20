@@ -2,11 +2,12 @@
 title: Uma semana nas férias
 date: 2017-01-20
 tags:
-  - pensamentos
+- pensamentos
 description: Uma semana nas férias
-image: 
-aliases:
+image: null
+aliases: null
 permalink: uma-semana-nas-ferias
+author: Marcos Ramon
 ---
 Escrevi outro dia que [coisas estranhas acontecem o tempo todo](https://arcano5.com.br/coisas-estranhas-acontecem-bb17bdd2def8#.101niq5mp), mas o estranhamento vem da própria realidade e não precisa ser nenhum absurdo. A sua vida não tem que ser um quadro do Dalí pra ser surreal; e basta observar o cotidiano pra comprovar o que estou dizendo:
 
@@ -15,7 +16,7 @@ Escrevi outro dia que [coisas estranhas acontecem o tempo todo](https://arcano5.
 
 #pensamentos #pensamento
 
-> Leia também:
-> - <a href="/viver-esquecendo">Viver esquecendo</a>
-> - <a href="/a-materia-das-memorias">A matéria das memórias</a>
-> - <a href="/muito-papel">Muito papel</a>
+<h3>Leia também:</h3>
+- <a href="/viver-esquecendo">Viver esquecendo</a>
+- <a href="/a-materia-das-memorias">A matéria das memórias</a>
+- <a href="/muito-papel">Muito papel</a>

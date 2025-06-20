@@ -1,11 +1,12 @@
 ---
 title: O que tem de interessante em você?
 tags:
-  - comportamento
-  - cotidiano
-  - reflexão
+- comportamento
+- cotidiano
+- reflexão
 date: 2017-03-07
 permalink: o-que-tem-de-interessante-em-voce
+author: Marcos Ramon
 ---
 Se alguém perguntar o que tem de interessante em você, é bem provável que a sua resposta seja um apanhado de tudo o que você acha que os outros pensam a seu respeito. Durante a maior parte das nossas vidas, nós nos acostumamos com a sensação de existir para os outros, sendo para eles, vivendo o nosso cotidiano na expectativa de agradar, de não decepcionar, de conquistar empatia.
 
@@ -20,7 +21,7 @@ Pintura de [Martin Honasan](http://martinhonasan.tumblr.com/)
 
 #cotidiano #comportamento
 
-> Leia também:
-> - <a href="/o-que-e-ter-uma-carreira">O que é ter uma carreira</a>
-> - <a href="/o-que-ainda-pode-mudar">O que ainda pode mudar</a>
-> - <a href="/o-espaco-entre-nos">O espaço entre nós</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-e-ter-uma-carreira">O que é ter uma carreira</a>
+- <a href="/o-que-ainda-pode-mudar">O que ainda pode mudar</a>
+- <a href="/o-espaco-entre-nos">O espaço entre nós</a>

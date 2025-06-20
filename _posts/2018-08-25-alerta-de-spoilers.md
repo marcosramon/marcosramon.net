@@ -22,7 +22,7 @@ Se você já leu o *It*, não vai querer ler ou não liga pra *spoilers*, então
 
 
 
-> Leia também:
-> - <a href="/alerta-de-spoiler">Alerta de spoiler</a>
-> - <a href="/trabalho-antes-de-tudo">Trabalho, antes de tudo</a>
-> - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
+<h3>Leia também:</h3>
+- <a href="/alerta-de-spoiler">Alerta de spoiler</a>
+- <a href="/trabalho-antes-de-tudo">Trabalho, antes de tudo</a>
+- <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>

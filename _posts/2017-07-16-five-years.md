@@ -2,11 +2,13 @@
 title: Five years
 date: 2017-07-16
 tags:
-  - arte
-description: Estava ouvindo hoje uma música do David Bowie e lembrei da sensação que tive quando escutei esse disco pela primeira vez. Eu estava…
-image: 
-aliases:
+- arte
+description: Estava ouvindo hoje uma música do David Bowie e lembrei da sensação que
+  tive quando escutei esse disco pela primeira vez. Eu estava…
+image: null
+aliases: null
 permalink: five-years
+author: Marcos Ramon
 ---
 > “I think I saw you in an ice-cream parlour  
 drinking milk shakes cold and long  
@@ -26,7 +28,7 @@ Imaginar que temos um propósito na vida é um jeito bom de dar significado para
 
 #arte #ensino
 
-> Leia também:
-> - <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>
-> - <a href="/todas-as-escolas-deveriam-ser-escolas-de-arte">Todas as escolas deveriam ser escolas de arte</a>
-> - <a href="/a-arte-depois-da-arte">A arte depois da arte</a>
+<h3>Leia também:</h3>
+- <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>
+- <a href="/todas-as-escolas-deveriam-ser-escolas-de-arte">Todas as escolas deveriam ser escolas de arte</a>
+- <a href="/a-arte-depois-da-arte">A arte depois da arte</a>

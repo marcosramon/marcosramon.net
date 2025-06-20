@@ -31,7 +31,7 @@ Brandon Sheffield é desenvolvedor de games, e ressalta o fato de que o Irã nã
 
 
 
-> Leia também:
-> - <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>
-> - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
-> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+<h3>Leia também:</h3>
+- <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>
+- <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
+- <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>

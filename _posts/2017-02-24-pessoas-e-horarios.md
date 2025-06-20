@@ -2,11 +2,12 @@
 title: Pessoas e horários
 date: 2017-02-24
 tags:
-  - arte
+- arte
 description: Pessoas e horários
-image: 
-aliases:
+image: null
+aliases: null
 permalink: pessoas-e-horarios
+author: Marcos Ramon
 ---
 Tem dias em que pego o metrô bem cedo para ir ao trabalho. Nesses dias me encontro no meio de grupo bem heterogêneo. Estudantes e trabalhadores ocupam os vagões apertados. Todo tipo de gente triste, expressões cansadas, olhares pesados — de sono e de descaso com a vida. No geral, são pessoas simples, vestidas de forma modesta e quase indiferentes uns com os outros, não por presunção, mas por estarem absortas demais com a dinâmica de suas próprias vidas. E assim, enquanto o metrô faz seu caminho, as pessoas entram e saem dos vagões quase ser deixar rastros. Cada um mal olha para os outros, e a vida se encaminha de forma tediosa como no dia anterior, e como em todos os outros.
 
@@ -20,7 +21,7 @@ Engraçado essa separação social, estabelecida por horários e circunstâncias
 
 #arte #escrita
 
-> Leia também:
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
-> - <a href="/desejo-e-realidade">Desejo e realidade</a>
-> - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
+<h3>Leia também:</h3>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+- <a href="/desejo-e-realidade">Desejo e realidade</a>
+- <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>

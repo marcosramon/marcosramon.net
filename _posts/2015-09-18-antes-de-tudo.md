@@ -23,7 +23,7 @@ Eu só considero confiáveis as pessoas repletas de obsessões e que não tem me
 
 
 
-> Leia também:
-> - <a href="/trabalho-antes-de-tudo">Trabalho, antes de tudo</a>
-> - <a href="/reclamar-de-tudo">Reclamar de tudo</a>
-> - <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>
+<h3>Leia também:</h3>
+- <a href="/trabalho-antes-de-tudo">Trabalho, antes de tudo</a>
+- <a href="/reclamar-de-tudo">Reclamar de tudo</a>
+- <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>

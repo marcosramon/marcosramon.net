@@ -1,23 +1,25 @@
 ---
 title: Não existe arte pop...
-date: 2014-09-22 00:00:00 Z
+date: 2014-09-22 00:00:00+00:00
 categories:
-  - blog
+- blog
 tags:
-  - arte
-description: A utilização da expressão arte pop remete às experimentações de Richard Hamilton, Roy Lichtenstein, Andy  Warhol, dentre outros.
+- arte
+description: A utilização da expressão arte pop remete às experimentações de Richard
+  Hamilton, Roy Lichtenstein, Andy  Warhol, dentre outros.
 image: drowninggirl.jpg
 aliases:
-  - "[[arte]]"
-  - "[[cultura]]"
-  - "[[Andy Warhol]]"
-  - "[[Richard Hamilton]]"
-  - "[[Roy Lichtenstein]]"
+- '[[arte]]'
+- '[[cultura]]'
+- '[[Andy Warhol]]'
+- '[[Richard Hamilton]]'
+- '[[Roy Lichtenstein]]'
 permalink: nao-existe-arte-pop
+author: Marcos Ramon
 ---
 ... só o que existe é arte. 
 
-A utilização da expressão *arte pop* remete às experimentações de Richard Hamilton, Roy Lichtenstein, [[Andy  Warhol]], dentre outros. O movimento teve início nos anos de 1950 na Inglaterra e logo se expandiu para os Estados Unidos. Apesar desse nome ser difundido como uma escola ou estilo de arte, entendo que a ideia de uma *arte pop*, em detrimento de uma outra que não o é, traz uma confusão sobre o sentido do que arte pode significar para nós. 
+A utilização da expressão *arte pop* remete às experimentações de Richard Hamilton, Roy Lichtenstein, Andy  Warhol, dentre outros. O movimento teve início nos anos de 1950 na Inglaterra e logo se expandiu para os Estados Unidos. Apesar desse nome ser difundido como uma escola ou estilo de arte, entendo que a ideia de uma *arte pop*, em detrimento de uma outra que não o é, traz uma confusão sobre o sentido do que arte pode significar para nós. 
 
 Ao mesmo tempo em que pode parecer uma vantagem ver a arte liberta dos modelos de erudição que afastavam ela do campo do entretenimento e da aproximação com a maior parte das pessoas, é ruim pensar a arte como uma experimentação aparentemente descompromissada e focada na reprodução dos ícones da mídia e dos objetos cotidianos. Me entenda, a arte pode ser isso, mas ela nunca é *só* isso.
 
@@ -43,7 +45,7 @@ A chamada _arte pop_ é arte, boa arte. Esqueça esse _pop_.
 
 #arte #consumo
 
-> Leia também:
-> - <a href="/espetaculo">Espetáculo</a>
-> - <a href="/a-arte-depois-da-arte">A arte depois da arte</a>
-> - <a href="/que-cultura">Que cultura</a>
+<h3>Leia também:</h3>
+- <a href="/espetaculo">Espetáculo</a>
+- <a href="/a-arte-depois-da-arte">A arte depois da arte</a>
+- <a href="/que-cultura">Que cultura</a>

@@ -4,8 +4,8 @@ date: 2020-07-24
 author: Marcos Ramon
 description: Uma reflexão sobre o que faz com que a ciência seja ciência
 tags:
-  - Ciência
-  - Verdade
+- Ciência
+- Verdade
 published: true
 permalink: cientificamente-comprovado
 ---
@@ -55,7 +55,7 @@ Para explicar o que a ciência é Weber estabelece uma relação entre a arte e 
 
 #Ciência #conhecimento 
 
-> Leia também:
-> - <a href="/para-entender-o-nosso-tempo">Para entender o nosso tempo</a>
-> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
-> - <a href="/conhecimento-rapido">Conhecimento rápido</a>
+<h3>Leia também:</h3>
+- <a href="/para-entender-o-nosso-tempo">Para entender o nosso tempo</a>
+- <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+- <a href="/conhecimento-rapido">Conhecimento rápido</a>

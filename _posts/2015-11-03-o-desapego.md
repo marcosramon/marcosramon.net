@@ -37,7 +37,7 @@ O desapego tem seus mistérios. E um deles, parece, é conspirar pra gente fazer
 
 
 
-> Leia também:
-> - <a href="/o-desapego">O desapego</a>
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
-> - <a href="/de-onde-vem-o-conhecimento">De onde vem o conhecimento</a>
+<h3>Leia também:</h3>
+- <a href="/o-desapego">O desapego</a>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+- <a href="/de-onde-vem-o-conhecimento">De onde vem o conhecimento</a>

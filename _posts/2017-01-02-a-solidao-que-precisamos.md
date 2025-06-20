@@ -2,11 +2,12 @@
 title: A solidão que precisamos
 date: 2017-01-02
 tags:
-  - pensamentos
+- pensamentos
 description: A solidão que precisamos
-image: 
-aliases:
+image: null
+aliases: null
 permalink: a-solidao-que-precisamos
+author: Marcos Ramon
 ---
 Ninguém quer ser só, ninguém gosta de se imaginar só. Mas isso só acontece porque entendemos a solidão como um fracasso, ou como uma negação da vida. Mas quantos problemas, quantos desgraças seriam evitadas se soubéssemos conviver mais apenas conosco e não com os outros.
 
@@ -19,7 +20,7 @@ Ilustração de [Miguel Almagro](http://miguelalmagro.tumblr.com/post/105901059
 
 #pensamentos #consumo
 
-> Leia também:
-> - <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>
-> - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
-> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>
+- <a href="/a-ausencia-da-memoria">A ausência da memória</a>
+- <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>

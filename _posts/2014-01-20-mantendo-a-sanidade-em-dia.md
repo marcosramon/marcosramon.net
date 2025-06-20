@@ -2,13 +2,15 @@
 title: Mantendo a sanidade em dia
 date: 2014-01-20
 tags:
-  - tecnologia
-  - internet
-  - comportamento
-description: 5 medidas que eu tomei para manter o foco no que eu realmente preciso fazer.
-image: 
-aliases:
+- tecnologia
+- internet
+- comportamento
+description: 5 medidas que eu tomei para manter o foco no que eu realmente preciso
+  fazer.
+image: null
+aliases: null
 permalink: mantendo-a-sanidade-em-dia
+author: Marcos Ramon
 ---
 # 5 medidas que eu tomei para manter o foco no que eu realmente preciso fazer.
 
@@ -42,7 +44,7 @@ Já escrevi sobre isso outras vezes e repito: eu não detesto a tecnologia, pelo
 
 #comportamento #internet
 
-> Leia também:
-> - <a href="/fazer-so-o-que-da-para-fazer">Fazer só o que dá para fazer</a>
-> - <a href="/o-que-realmente-importa">O que realmente importa</a>
-> - <a href="/coisas-estranhas-que-eu-vi-recentemente">Coisas estranhas que eu vi recentemente</a>
+<h3>Leia também:</h3>
+- <a href="/fazer-so-o-que-da-para-fazer">Fazer só o que dá para fazer</a>
+- <a href="/o-que-realmente-importa">O que realmente importa</a>
+- <a href="/coisas-estranhas-que-eu-vi-recentemente">Coisas estranhas que eu vi recentemente</a>

@@ -2,11 +2,12 @@
 title: Formação e trajetória
 date: 2017-02-16
 tags:
-  - educação
+- educação
 description: Formação e trajetória
-image: 
-aliases:
+image: null
+aliases: null
 permalink: formacao-e-trajetoria
+author: Marcos Ramon
 ---
 Estava lendo hoje uma [entrevista com a psicanalista Maria Rita Kehl](http://www.carosamigos.com.br/index.php/grandes-entrevistas/6082-entrevista-maria-rita-kehl) e lá ela fala algo interessante ao ser questionada sobre sua formação na psicanálise: “não vou dizer que seja uma formação, é uma trajetória”. A palavra “formação” tem realmente um sentido terrível, se pensarmos bem. Formar, colocar na forma, moldar… De fato, nas instituições de ensino passamos por processos de formação e conformação aos modelos e estruturas estabelecidas. E assim nos tornamos aptos a contribuir com um mundo em que se exige quase tudo de nós, exceto que pensemos por conta própria.
 
@@ -21,7 +22,7 @@ Ilustração de [Siggi Eggertsson](http://www.siggieggertsson.com/)
 
 #educação #conhecimento
 
-> Leia também:
-> - <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>
-> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
-> - <a href="/viver-em-sociedade">Viver em sociedade</a>
+<h3>Leia também:</h3>
+- <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>
+- <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+- <a href="/viver-em-sociedade">Viver em sociedade</a>

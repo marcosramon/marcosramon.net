@@ -26,7 +26,7 @@ Estão vendo, não é só um jogo. É a melhor representação do que nós somos
 
 
 
-> Leia também:
-> - <a href="/e-so-um-algoritmo">É só um algoritmo</a>
-> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
-> - <a href="/duvidar-para-fazer-as-perguntas-certas">Duvidar para fazer as perguntas certas</a>
+<h3>Leia também:</h3>
+- <a href="/e-so-um-algoritmo">É só um algoritmo</a>
+- <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+- <a href="/duvidar-para-fazer-as-perguntas-certas">Duvidar para fazer as perguntas certas</a>

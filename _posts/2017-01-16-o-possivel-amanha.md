@@ -2,12 +2,13 @@
 title: O possível amanhã
 date: 2017-01-16
 tags:
-  - educação
-  - cultura
+- educação
+- cultura
 description: O possível amanhã
-image: 
-aliases:
+image: null
+aliases: null
 permalink: o-possivel-amanha
+author: Marcos Ramon
 ---
 A ideia de educação escolar costuma passar por dois elementos principais: transmissão de conhecimentos historicamente estabelecidos e construção de valores. Algumas escolas priorizam o conteúdo, outras a “formação” do cidadão e existem ainda as que tentam conciliar os dois elementos. O problema que eu vejo, contudo, é que quase sempre o discurso educacional se volta para a manutenção daquilo que se considera importante para o futuro. Mas a educação, a meu ver, não deveria ser pensada como eternização de valores (sejam eles cognitivos ou morais), e sim entendida como aquilo que ela pode fazer de melhor (na minha opinião): permitir a compreensão da nossa época.
 
@@ -22,7 +23,7 @@ Na escola a gente aprende que a vida só chega depois.
 
 #educação #cultura
 
-> Leia também:
-> - <a href="/viver-o-trabalho">Viver o trabalho</a>
-> - <a href="/alguem-sabe-o-que-esta-fazendo">Alguém sabe o que está fazendo</a>
-> - <a href="/o-lugar-dos-outros">O lugar dos outros</a>
+<h3>Leia também:</h3>
+- <a href="/viver-o-trabalho">Viver o trabalho</a>
+- <a href="/alguem-sabe-o-que-esta-fazendo">Alguém sabe o que está fazendo</a>
+- <a href="/o-lugar-dos-outros">O lugar dos outros</a>

@@ -16,7 +16,7 @@ Mas não é assim. E nunca vai ser. Pelo simples fato de que temos medo de sermo
 
 <img src="/assets/img/Pasted image 20250310152648.png"><small>Foto de <a href="http://www.reiniergerritsen.nl">Reinier Gerritsen</a></small>
 
-> Leia também:
-> - <a href="/trabalho-antes-de-tudo">Trabalho, antes de tudo</a>
-> - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
-> - <a href="/aprender-a-perder">Aprender a perder</a>
+<h3>Leia também:</h3>
+- <a href="/trabalho-antes-de-tudo">Trabalho, antes de tudo</a>
+- <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
+- <a href="/aprender-a-perder">Aprender a perder</a>

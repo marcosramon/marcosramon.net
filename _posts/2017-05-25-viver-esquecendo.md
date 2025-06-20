@@ -2,11 +2,12 @@
 title: Viver esquecendo
 date: 2017-05-25
 tags:
-  - pensamentos
+- pensamentos
 description: Aprender a esquecer para viver melhor.
-image: 
-aliases:
+image: null
+aliases: null
 permalink: viver-esquecendo
+author: Marcos Ramon
 ---
 Existe um espaço — quase inalcançável — que fica entre o desejo e a expectativa. Das muitas coisas que cada de nós tem em mente como um desejo concreto (algo realizável, possível e viável), certamente a maioria parece, no campo das ideias, muito mais interessante e importante do que efetivamente é.
 
@@ -21,7 +22,7 @@ Ilustração de [Mariana, a miserável](http://marianaamiseravel.tictail.com/)
 
 #pensamentos #pensamento
 
-> Leia também:
-> - <a href="/muito-papel">Muito papel</a>
-> - <a href="/uma-semana-nas-ferias">Uma semana nas férias</a>
-> - <a href="/a-materia-das-memorias">A matéria das memórias</a>
+<h3>Leia também:</h3>
+- <a href="/muito-papel">Muito papel</a>
+- <a href="/uma-semana-nas-ferias">Uma semana nas férias</a>
+- <a href="/a-materia-das-memorias">A matéria das memórias</a>

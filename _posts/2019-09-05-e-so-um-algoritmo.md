@@ -24,7 +24,7 @@ Mas isso é realmente um problema? Só o tempo vai dizer. De qualquer forma, já
 
 
 
-> Leia também:
-> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
-> - <a href="/e-so-o-tempo-que-passa">É só o tempo que passa</a>
-> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+<h3>Leia também:</h3>
+- <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+- <a href="/e-so-o-tempo-que-passa">É só o tempo que passa</a>
+- <a href="/o-que-e-ser-criativo">O que é ser criativo</a>

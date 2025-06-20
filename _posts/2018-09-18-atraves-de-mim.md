@@ -29,7 +29,7 @@ Mas sim, existem coisas boas na docência; e eu respeito e valorizo o meu trabal
 
 
 
-> Leia também:
-> - <a href="/alerta-de-spoiler">Alerta de spoiler</a>
-> - <a href="/alerta-de-spoilers">Alerta de spoilers</a>
-> - <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>
+<h3>Leia também:</h3>
+- <a href="/alerta-de-spoiler">Alerta de spoiler</a>
+- <a href="/alerta-de-spoilers">Alerta de spoilers</a>
+- <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>

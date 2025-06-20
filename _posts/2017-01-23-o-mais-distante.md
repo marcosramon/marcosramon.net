@@ -2,11 +2,12 @@
 title: O mais distante
 date: 2017-01-23
 tags:
-  - pensamentos
+- pensamentos
 description: O mais distante
-image: 
-aliases:
+image: null
+aliases: null
 permalink: o-mais-distante
+author: Marcos Ramon
 ---
 De acordo com [Cioran](https://pt.wikipedia.org/wiki/Emil_Cioran) o tema central das utopias não é a felicidade, mas a _ideia_ de felicidade. Gostamos, portanto, das utopias porque elas apelam para o nosso fascínio pelo impossível. Muito pouco desejo surge daquilo que se possui, daquilo que é viável. Por outro lado, o irrealizável é sempre interessante, porque o mistério do estranho encanta, atrai e apaixona.
 
@@ -21,7 +22,7 @@ Instalação de rua de [Slinkachu](http://www.slinkachu.com/)
 
 #pensamentos #estética
 
-> Leia também:
-> - <a href="/mais-individualismo">Mais individualismo</a>
-> - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
-> - <a href="/os-contos-e-suas-releituras">Os contos e suas releituras</a>
+<h3>Leia também:</h3>
+- <a href="/mais-individualismo">Mais individualismo</a>
+- <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
+- <a href="/os-contos-e-suas-releituras">Os contos e suas releituras</a>

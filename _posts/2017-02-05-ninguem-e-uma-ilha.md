@@ -2,12 +2,13 @@
 title: Ninguém é uma ilha
 date: 2017-02-05
 tags:
-  - arte
-  - cultura
+- arte
+- cultura
 description: Ninguém é uma ilha
-image: 
-aliases:
+image: null
+aliases: null
 permalink: ninguem-e-uma-ilha
+author: Marcos Ramon
 ---
 Existe algo inevitável na vida humana: nunca estamos sozinhos. Podemos nos isolar momentaneamente, decidir não falar com outras pessoas, podemos até mesmo nos afastar fisicamente dos outros, mas sempre estaremos contaminados com a presença da cultura em nossas vidas — através dos pensamentos, sentimentos, linguagem etc.
 
@@ -22,7 +23,7 @@ Poesia de [Erica Baum](https://en.wikipedia.org/wiki/Erica_Baum)
 
 #arte #cultura
 
-> Leia também:
-> - <a href="/todos-iguais">Todos iguais</a>
-> - <a href="/necessidades-basicas">Necessidades básicas</a>
-> - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
+<h3>Leia também:</h3>
+- <a href="/todos-iguais">Todos iguais</a>
+- <a href="/necessidades-basicas">Necessidades básicas</a>
+- <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>

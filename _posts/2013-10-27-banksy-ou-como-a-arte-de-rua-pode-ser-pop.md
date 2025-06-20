@@ -1,9 +1,10 @@
 ---
 title: Banksy ou como a arte de rua pode ser pop?
 tags:
-  - arte
+- arte
 date: 2013-10-27
 permalink: banksy-ou-como-a-arte-de-rua-pode-ser-pop
+author: Marcos Ramon
 ---
 A _street art_ também tem seus ídolos e [Banksy](http://www.banksyny.com/) certamente é um deles. Banksy faz suas intervenções em toda Nova York, geralmente sem permissão dos “donos” do espaço.
 
@@ -22,7 +23,7 @@ O purismo do artista que faz a arte pela arte renegando a fama e a idolatria nã
 
 #arte #grafos
 
-> Leia também:
-> - <a href="/nao-existe-arte-pop">Não existe arte pop</a>
-> - <a href="/podcastandy-warhol-dinheiro-e-arte">Andy Warhol, dinheiro e arte</a>
-> - <a href="/leo-pipo">Leo & Pipo</a>
+<h3>Leia também:</h3>
+- <a href="/nao-existe-arte-pop">Não existe arte pop</a>
+- <a href="/podcastandy-warhol-dinheiro-e-arte">Andy Warhol, dinheiro e arte</a>
+- <a href="/leo-pipo">Leo & Pipo</a>

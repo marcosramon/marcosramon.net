@@ -2,12 +2,13 @@
 title: O progresso que oprime
 date: 2017-03-07
 tags:
-  - política
-  - sociedade
+- política
+- sociedade
 description: O progresso que oprime
-image: 
-aliases:
+image: null
+aliases: null
 permalink: o-progresso-que-oprime
+author: Marcos Ramon
 ---
 Desde o século XIX a ideia de progresso parece ter se tornado uma obsessão para a sociedade ocidental. O ritmo das mudanças tecnológicas — em conjunto com inúmeras transformações sociais — consolidou o modelo de mundo em que vivemos hoje: muita informação, muitos bens disponíveis e uma busca quase insensata pelo prazer e pela satisfação.
 
@@ -22,7 +23,7 @@ Grafite feito por [Anders Gjennestad](http://www.andersgjennestad.com/news.html)
 
 #política #sociedade
 
-> Leia também:
-> - <a href="/o-que-todo-mundo-e">O que todo mundo é</a>
-> - <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>
-> - <a href="/o-risco">O risco</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-todo-mundo-e">O que todo mundo é</a>
+- <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>
+- <a href="/o-risco">O risco</a>

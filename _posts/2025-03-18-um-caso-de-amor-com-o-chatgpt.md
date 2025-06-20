@@ -2,12 +2,14 @@
 title: Um caso de amor com o ChatGPT
 date: 2025-03-18
 tags:
-  - inteligência-artificial
-  - tecnologia
-  - comportamento
-description: O uso de IA generativa levanta preocupações diversas, incluindo dependência emocional. Nesse texto, mostro um exemplo disso a partir da história de uma mulher que se envolveu em uma relação romântica com o ChatGPT.
+- inteligência-artificial
+- tecnologia
+- comportamento
+description: O uso de IA generativa levanta preocupações diversas, incluindo dependência
+  emocional. Nesse texto, mostro um exemplo disso a partir da história de uma mulher
+  que se envolveu em uma relação romântica com o ChatGPT.
 permalink: um-caso-de-amor-com-o-chatgpt
-aliases: 
+aliases: null
 author: Marcos Ramon
 image: arquivos/robot-love.png
 og_image: arquivos/robot-love.png
@@ -107,7 +109,7 @@ Se, por um lado, é verdade que ainda são necessárias mais pesquisas, fica evi
 
 ---
 
-> Leia também:
-> - <a href="/estamos-perdidos">Estamos perdidos</a>
-> - <a href="/olhando-com-cuidado">Olhando com cuidado</a>
-> - <a href="/reconhecer">Reconhecer</a>
+<h3>Leia também:</h3>
+- <a href="/estamos-perdidos">Estamos perdidos</a>
+- <a href="/olhando-com-cuidado">Olhando com cuidado</a>
+- <a href="/reconhecer">Reconhecer</a>

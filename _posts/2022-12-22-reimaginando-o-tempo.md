@@ -18,7 +18,7 @@ Mas tem um beleza mesmo nesse caminho atropelado que é a sucessão do tempo. [S
 
 #Tempo #cotidiano
 
-> Leia também:
-> - <a href="/e-so-o-tempo-que-passa">É só o tempo que passa</a>
-> - <a href="/o-tempo">O tempo</a>
-> - <a href="/para-entender-o-nosso-tempo">Para entender o nosso tempo</a>
+<h3>Leia também:</h3>
+- <a href="/e-so-o-tempo-que-passa">É só o tempo que passa</a>
+- <a href="/o-tempo">O tempo</a>
+- <a href="/para-entender-o-nosso-tempo">Para entender o nosso tempo</a>

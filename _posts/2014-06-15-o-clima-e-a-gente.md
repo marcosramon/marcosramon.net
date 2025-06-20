@@ -18,7 +18,7 @@ Será que, no geral, somos só isso? Um reflexo do clima?
 
 
 
-> Leia também:
-> - <a href="/o-totalitarismo-e-a-gente">O totalitarismo e a gente</a>
-> - <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+<h3>Leia também:</h3>
+- <a href="/o-totalitarismo-e-a-gente">O totalitarismo e a gente</a>
+- <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>

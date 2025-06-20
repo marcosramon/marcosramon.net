@@ -2,11 +2,14 @@
 title: A repetição que nos acolhe
 date: 2021-02-01 00:00:00+00:00
 author: Marcos Ramon
-description: "Nossa primeira forma de relacionamento com a realidade, e a mais duradoura, é a indução. Invariavelmente acontece assim: observamos determinados fatos, testamos a regularidade deles e ganhamos confiança de que as coisas continuarão sempre as mesmas."
+description: 'Nossa primeira forma de relacionamento com a realidade, e a mais duradoura,
+  é a indução. Invariavelmente acontece assim: observamos determinados fatos, testamos
+  a regularidade deles e ganhamos confiança de que as coisas continuarão sempre as
+  mesmas.'
 tags:
-  - Vida
-  - Indução
-  - reflexão
+- Vida
+- Indução
+- reflexão
 published: true
 permalink: a-repeticao-que-nos-acolhe
 ---
@@ -20,7 +23,7 @@ A indução pura e simples, essa que nos traz a satisfação da crença certa no
 
 #Realidade #conhecimento 
 
-> Leia também:
-> - <a href="/a-maior-derrota-que-se-pode-ter">A maior derrota que se pode ter</a>
-> - <a href="/a-solidao-que-precisamos">A solidão que precisamos</a>
-> - <a href="/eles-sabem-o-que-eu-nao-sei">Eles sabem o que eu não sei</a>
+<h3>Leia também:</h3>
+- <a href="/a-maior-derrota-que-se-pode-ter">A maior derrota que se pode ter</a>
+- <a href="/a-solidao-que-precisamos">A solidão que precisamos</a>
+- <a href="/eles-sabem-o-que-eu-nao-sei">Eles sabem o que eu não sei</a>

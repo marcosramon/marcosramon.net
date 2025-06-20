@@ -43,7 +43,7 @@ Nenhum guia é bom o suficiente se não puder ser adaptado para a realidade de q
 
 
 
-> Leia também:
-> - <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>
-> - <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+<h3>Leia também:</h3>
+- <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>
+- <a href="/felicidade-em-dia-de-chuva">Felicidade em dia de chuva</a>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>

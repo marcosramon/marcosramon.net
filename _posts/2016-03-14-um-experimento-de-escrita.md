@@ -2,14 +2,16 @@
 title: Um experimento de escrita
 date: 2016-03-14
 tags:
-  - pensamentos
-  - gephi
-  - pesquisa
-  - Escrever
-description: Por esses dias eu estava pensando sobre a possibilidade de encontrar novas formas de me relacionar com os meus textos e com as coisas…
-image: 
-aliases:
+- pensamentos
+- gephi
+- pesquisa
+- Escrever
+description: Por esses dias eu estava pensando sobre a possibilidade de encontrar
+  novas formas de me relacionar com os meus textos e com as coisas…
+image: null
+aliases: null
 permalink: um-experimento-de-escrita
+author: Marcos Ramon
 ---
 Por esses dias eu estava pensando sobre a possibilidade de encontrar novas formas de me relacionar com os meus textos e com as coisas ideias presentes neles.
 
@@ -30,7 +32,7 @@ Aqui embaixo você pode ver o grafo criado a partir do _Infranodus_ para esse te
 
 #pensamentos #Escrever
 
-> Leia também:
-> - <a href="/um-parque-uma-descoberta">Um parque, uma descoberta</a>
-> - <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>
-> - <a href="/alerta-de-spoiler">Alerta de spoiler</a>
+<h3>Leia também:</h3>
+- <a href="/um-parque-uma-descoberta">Um parque, uma descoberta</a>
+- <a href="/caminhando-longe-de-tudo">Caminhando longe de tudo</a>
+- <a href="/alerta-de-spoiler">Alerta de spoiler</a>

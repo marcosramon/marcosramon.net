@@ -1,11 +1,13 @@
 ---
 title: A realidade se impõe
 date: 2018-08-25
-tags: 
-excerpt: No nosso cotidiano convivemos com o dilema de ver a realidade competindo com as expectativas que temos.
+tags: null
+excerpt: No nosso cotidiano convivemos com o dilema de ver a realidade competindo
+  com as expectativas que temos.
 aliases:
-  - "[[cotidiano]]"
+- '[[cotidiano]]'
 permalink: a-realidade-se-impoe
+author: Marcos Ramon
 ---
 No nosso cotidiano convivemos com o dilema de ver a realidade competindo com as expectativas que temos. Digo que é um dilema porque cada pessoa sente que quer saber a "verdade" ao mesmo tempo em que sofre desejando que a realidade seja agradável e conveniente. Cada um de nós guarda, em algum lugar da nossa mente, um conjunto de ilusões que queremos sustentar e com as quais contamos para suportar a vida: a crença no destino, no amor ideal e na liberdade de escolha são algumas dessas ilusões. E assim lutamos durante parte de nossas vidas argumentando que essas coisas fazem sentido, acreditando (querendo acreditar!) que elas explicam tudo o que sentimos e compreendemos.
 
@@ -21,7 +23,7 @@ A realidade, contudo, acaba se impondo em algum momento da existência. O que no
 
 
 
-> Leia também:
-> - <a href="/a-maior-derrota-que-se-pode-ter">A maior derrota que se pode ter</a>
-> - <a href="/desejo-e-realidade">Desejo e realidade</a>
-> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+<h3>Leia também:</h3>
+- <a href="/a-maior-derrota-que-se-pode-ter">A maior derrota que se pode ter</a>
+- <a href="/desejo-e-realidade">Desejo e realidade</a>
+- <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>

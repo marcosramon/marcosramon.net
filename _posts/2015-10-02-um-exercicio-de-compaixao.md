@@ -25,7 +25,7 @@ Um desafio: aceitar a simplicidade disso.
 
 
 
-> Leia também:
-> - <a href="/mais-de-nos-mesmos">Mais de nós mesmos</a>
-> - <a href="/um-pouco-menos-de-postachio-por-enquanto">Um pouco menos de postach.io (por enquanto)</a>
-> - <a href="/analise-de-um-forum-de-ead">Análise de um Fórum de EAD</a>
+<h3>Leia também:</h3>
+- <a href="/mais-de-nos-mesmos">Mais de nós mesmos</a>
+- <a href="/um-pouco-menos-de-postachio-por-enquanto">Um pouco menos de postach.io (por enquanto)</a>
+- <a href="/analise-de-um-forum-de-ead">Análise de um Fórum de EAD</a>

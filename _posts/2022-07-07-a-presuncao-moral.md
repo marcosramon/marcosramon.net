@@ -21,7 +21,7 @@ No âmbito do confronto, muitas pessoas se colocam como mais capazes e moralment
 
 #Ética #filosofia
 
-> Leia também:
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
-> - <a href="/a-experiencia-negativa">A experiência negativa</a>
-> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+<h3>Leia também:</h3>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+- <a href="/a-experiencia-negativa">A experiência negativa</a>
+- <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>

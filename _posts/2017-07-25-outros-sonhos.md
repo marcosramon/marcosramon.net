@@ -2,11 +2,13 @@
 title: Outros sonhos
 date: 2017-07-25
 tags:
-  - pensamentos
-description: Ninguém gosta de pensar em si mesmo como um objeto, como alguém que existe para os outros, sendo explorado e manipulado para interesses que…
-image: 
-aliases:
+- pensamentos
+description: Ninguém gosta de pensar em si mesmo como um objeto, como alguém que existe
+  para os outros, sendo explorado e manipulado para interesses que…
+image: null
+aliases: null
 permalink: outros-sonhos
+author: Marcos Ramon
 ---
 Ninguém gosta de pensar em si mesmo como um objeto, como alguém que existe para os outros, sendo explorado e manipulado para interesses que não os seus. Mas, independentemente de nossos desejos, a realidade é assim.
 
@@ -21,7 +23,7 @@ Gif criado por [Andrey Kasay](http://andreykasay.com/wall/)
 
 #pensamentos #comunicação
 
-> Leia também:
-> - <a href="/a-beleza-do-absurdo">A beleza do absurdo</a>
-> - <a href="/sentir-se-preso">Sentir-se preso</a>
-> - <a href="/colagem">Colagem</a>
+<h3>Leia também:</h3>
+- <a href="/a-beleza-do-absurdo">A beleza do absurdo</a>
+- <a href="/sentir-se-preso">Sentir-se preso</a>
+- <a href="/colagem">Colagem</a>

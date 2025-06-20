@@ -2,11 +2,12 @@
 title: Viver em sociedade
 date: 2016-08-26
 tags:
-  - sociedade
+- sociedade
 description: A dor de viver em sociedade é a dor de esquecer o que somos, o que queremos.
-image: 
-aliases:
+image: null
+aliases: null
 permalink: viver-em-sociedade
+author: Marcos Ramon
 ---
 Eu caminhava com raiva pelas ruas da cidade, como se cada passo significasse um ato de violência, um grito, uma febre contra todos os que por mim, indiscriminadamente, passavam. Encarar a vida prática e se estabelecer na rotina— não importa quando, não importa aonde — é sempre uma dor impensável. Não que ter hábitos seja difícil. A gente se acostuma com isso. Mas o costume não é sinônimo de satisfação; e talvez antes o contrário, já que nos habituamos também à maldade, ao martírio, à religiosidade. É tudo uma questão de exposição; exposição ao horrendo, ao sacrifício.
 
@@ -23,7 +24,7 @@ Colagem de [Julia Geiser](http://julia-geiser.ch/post/144503242859)
 
 #sociedade #educação
 
-> Leia também:
-> - <a href="/saudades">Saudades</a>
-> - <a href="/o-que-todo-mundo-e">O que todo mundo é</a>
-> - <a href="/formacao-e-trajetoria">Formação e trajetória</a>
+<h3>Leia também:</h3>
+- <a href="/saudades">Saudades</a>
+- <a href="/o-que-todo-mundo-e">O que todo mundo é</a>
+- <a href="/formacao-e-trajetoria">Formação e trajetória</a>

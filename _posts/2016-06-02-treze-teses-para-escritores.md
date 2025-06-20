@@ -2,13 +2,15 @@
 title: Treze teses para escritores
 date: 2016-06-02
 tags:
-  - pensamentos
-  - escrita
-  - filosofia
-  - Escrever
-description: Na década de 1930 Walter Benjamin escreveu uma série de listas inspiradas pelo número treze (A técnica do escritor em treze teses, Treze…
-image:
+- pensamentos
+- escrita
+- filosofia
+- Escrever
+description: Na década de 1930 Walter Benjamin escreveu uma série de listas inspiradas
+  pelo número treze (A técnica do escritor em treze teses, Treze…
+image: null
 permalink: treze-teses-para-escritores
+author: Marcos Ramon
 ---
 Na década de 1930 [Walter Benjamin](https://pt.wikipedia.org/wiki/Walter_Benjamin) escreveu uma série de listas inspiradas pelo número treze (_A técnica do escritor em treze teses_, _Treze teses contra esnobes_, _A técnica do crítico em treze teses, No.13, O caminho do sucesso em treze teses)._ Essas teses estão publicadas em português no livro [Rua de Mão Única](http://www.amazon.com.br/gp/product/851135011X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=851135011X&linkCode=as2&tag=marcramo-20&linkId=3UFJ3XGKMIRDYNID).
 
@@ -19,7 +21,7 @@ No episódio 153 do meu podcast [_Ano Bissexto_](http://www.marcosramon.net/ano-
 [**Ano Bissexto #153 - A técnica do escritor em treze teses (de acordo com Walter Benjamin)**  
 _A técnica do escritor em treze teses (de acordo com Walter Benjamin). As treze teses. * Mais informações sobre os meus…_www.marcosramon.net](http://www.marcosramon.net/ano-bissexto/153-a-tecnica-do-escritor-em-treze-teses-de-acordo-com-walter-benjamin "http://www.marcosramon.net/ano-bissexto/153-a-tecnica-do-escritor-em-treze-teses-de-acordo-com-walter-benjamin")[](http://www.marcosramon.net/ano-bissexto/153-a-tecnica-do-escritor-em-treze-teses-de-acordo-com-walter-benjamin)
 
-Leia aqui a lista completa do [[Benjamin]]:
+Leia aqui a lista completa do Benjamin:
 
 _“1. Quem se propõe a escrever uma obra de grande envergadura deve ser indulgente consigo mesmo e, ao terminar sua tarefa diária, deve se conceder tudo aquilo que não prejudique a continuidade da mesma._
 
@@ -52,7 +54,7 @@ _13. O trabalho é a máscara mortuária de sua concepção.”_
 
 #filosofia #escrita
 
-> Leia também:
-> - <a href="/cidades-para-pessoas">Cidades para pessoas</a>
-> - <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
-> - <a href="/desistir">Desistir</a>
+<h3>Leia também:</h3>
+- <a href="/cidades-para-pessoas">Cidades para pessoas</a>
+- <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
+- <a href="/desistir">Desistir</a>

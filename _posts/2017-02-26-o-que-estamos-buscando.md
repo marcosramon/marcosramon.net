@@ -1,11 +1,12 @@
 ---
 title: O que estamos buscando?
 tags:
-  - tecnologia
-  - internet
-  - Consumo
+- tecnologia
+- internet
+- Consumo
 date: 2017-02-26
 permalink: o-que-estamos-buscando
+author: Marcos Ramon
 ---
 Hoje vi que a [Nokia está relançando o celular Nokia 3310](https://twitter.com/search?q=%22Nokia%203310%22&s=09), um aparelho que saiu de linha em 2005, tem conexão 2G, câmera de 2 megapixels e sem os apps que você se acostumou a usar no seu smartphone (mas tem, justamente por isso, uma bateria que pode durar mais de 20 horas em conversação e quase um mês em uso moderado!). Vendo a empolgação das pessoas com o relançamento fica difícil de entender se é tudo nostalgia, [ludismo](https://pt.m.wikipedia.org/wiki/Ludismo) ou apenas uma brincadeira. Afinal, estamos buscando exatamente o quê quando criticamos a tecnologia — e a nós mesmos, os usuários dela?
 
@@ -20,7 +21,7 @@ Comprar um Nokia 3310, um toca discos, uma câmera analógica e um nintendinho 8
 
 #Consumo #tecnologia
 
-> Leia também:
-> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
-> - <a href="/estamos-perdidos">Estamos perdidos</a>
-> - <a href="/o-que-todo-mundo-e">O que todo mundo é</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+- <a href="/estamos-perdidos">Estamos perdidos</a>
+- <a href="/o-que-todo-mundo-e">O que todo mundo é</a>

@@ -2,11 +2,12 @@
 title: Interagir só com quem se precisa
 date: 2017-01-04
 tags:
-  - pensamentos
+- pensamentos
 description: Interagir só com quem se precisa
-image: 
-aliases:
+image: null
+aliases: null
 permalink: interagir-so-com-quem-se-precisa
+author: Marcos Ramon
 ---
 Quando vamos envelhecendo conseguimos prestar atenção às coisas de um jeito diferente. É como se a natureza quisesse nos situar em um mundo novo, mais lento, mais cuidadoso. A reflexão se torna mais forte, o pessimismo também, e assim conseguimos um estranho misto de satisfação e insanidade. Satisfação vem da sensação de perceber que sabemos mais do que outros e mais do que nós mesmos em outras épocas e a insanidade vem justamente daí, porque olhamos pra nossa vida até aqui e não conseguimos acreditar que agimos desta ou daquela maneira. Nos sentimos como se tivéssemos sido _outras pessoas_.
 
@@ -21,7 +22,7 @@ Gif criado por [Nicolas Monterrat](https://www.behance.net/UGDTG)
 
 #pensamentos #grafos
 
-> Leia também:
-> - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
-> - <a href="/basta-estar-vivo">Basta estar vivo</a>
-> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+<h3>Leia também:</h3>
+- <a href="/a-ausencia-da-memoria">A ausência da memória</a>
+- <a href="/basta-estar-vivo">Basta estar vivo</a>
+- <a href="/nao-e-so-um-jogo">Não é só um jogo</a>

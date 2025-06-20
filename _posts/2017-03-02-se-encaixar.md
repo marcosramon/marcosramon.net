@@ -2,12 +2,13 @@
 title: Se encaixar
 date: 2017-03-02
 tags:
-  - arte
-  - sociedade
+- arte
+- sociedade
 description: Se encaixar
-image: 
-aliases:
+image: null
+aliases: null
 permalink: se-encaixar
+author: Marcos Ramon
 ---
 De uma forma ou de outra, todo mundo acaba sentindo em determinados momentos da vida a pressão para ter que se encaixar em algum contexto social. Isso pode acontecer na família — que ninguém escolhe, mas precisa aprender a conviver— na escola, no trabalho e em qualquer outro ambiente compartilhado em que você venha a estar presente. Ninguém escapa desta sina, ao mesmo tempo que ninguém precisa realmente condicionar a própria vida à tudo.
 
@@ -22,7 +23,7 @@ Gif criado por [Kiszkiloszki](http://kiszkiloszki.tumblr.com/)
 
 #arte #sociedade
 
-> Leia também:
-> - <a href="/star-wars-eu-e-os-outros">Star Wars, eu e os outros</a>
-> - <a href="/o-risco">O risco</a>
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+<h3>Leia também:</h3>
+- <a href="/star-wars-eu-e-os-outros">Star Wars, eu e os outros</a>
+- <a href="/o-risco">O risco</a>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>

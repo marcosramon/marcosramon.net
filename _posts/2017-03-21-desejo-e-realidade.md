@@ -2,11 +2,13 @@
 title: Desejo e realidade
 date: 2017-03-21
 tags:
-  - arte
-description: Às vezes queremos tanto que determinadas coisas aconteçam que as imaginamos como fatos. E isso não é tão estranho quanto parece. Afinal, é…
-image: 
-aliases:
+- arte
+description: Às vezes queremos tanto que determinadas coisas aconteçam que as imaginamos
+  como fatos. E isso não é tão estranho quanto parece. Afinal, é…
+image: null
+aliases: null
 permalink: desejo-e-realidade
+author: Marcos Ramon
 ---
 Às vezes queremos tanto que determinadas coisas aconteçam que as imaginamos como fatos. E isso não é tão estranho quanto parece. Afinal, é daí que vem a fonte de quase toda criação artística. Boa parte da ficção que se produz tem a ver com isso, com nossa vontade de ver aquilo que nos encanta de um jeito que a realidade não comporta. A nossa vida pode ser interessante e incrível aos olhos de um escritor, mas estamos tão ocupados com tudo o que fazemos que não conseguimos encontrar a poesia e a mágica que os outros podem ver no que fazemos e sentimos.
 
@@ -19,7 +21,7 @@ Ilustração de [Mark Conlan](http://markconlan.com/)
 
 #arte #internet
 
-> Leia também:
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
-> - <a href="/pessoas-e-horarios">Pessoas e horários</a>
-> - <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
+<h3>Leia também:</h3>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+- <a href="/pessoas-e-horarios">Pessoas e horários</a>
+- <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>

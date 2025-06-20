@@ -2,13 +2,14 @@
 title: Quando a Nintendo salvou os games
 date: 2013-06-27
 tags:
-  - arte
-  - Jogos
-  - Nintendo
+- arte
+- Jogos
+- Nintendo
 description: Quando a Nintendo salvou os games
-image: 
-aliases:
+image: null
+aliases: null
 permalink: quando-a-nintendo-salvou-os-games
+author: Marcos Ramon
 ---
 <img src="/assets/img/quando-a-nintendo-salvou-os games-medium-1.jpeg">
 
@@ -72,7 +73,7 @@ O videogame é um brinquedo e a Nintendo sabe disso. E ela faz os melhores brinq
 
 #Nintendo #Jogos
 
-> Leia também:
-> - <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>
-> - <a href="/quando-a-arte-nos-define">Quando a arte nos define</a>
-> - <a href="/a-arte-depois-da-arte">A arte depois da arte</a>
+<h3>Leia também:</h3>
+- <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>
+- <a href="/quando-a-arte-nos-define">Quando a arte nos define</a>
+- <a href="/a-arte-depois-da-arte">A arte depois da arte</a>

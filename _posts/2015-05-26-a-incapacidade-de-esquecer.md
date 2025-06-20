@@ -20,7 +20,7 @@ Para vivermos de forma mais digna, precisamos esquecer o que somos como humanida
 
 
 
-> Leia também:
-> - <a href="/a-releitura-como-forma-de-reencontro">A releitura como forma de reencontro</a>
-> - <a href="/mais-de-nos-mesmos">Mais de nós mesmos</a>
-> - <a href="/a-inquietude-de-existir">A inquietude de existir</a>
+<h3>Leia também:</h3>
+- <a href="/a-releitura-como-forma-de-reencontro">A releitura como forma de reencontro</a>
+- <a href="/mais-de-nos-mesmos">Mais de nós mesmos</a>
+- <a href="/a-inquietude-de-existir">A inquietude de existir</a>

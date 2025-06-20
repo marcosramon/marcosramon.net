@@ -2,11 +2,12 @@
 title: Aprender a perder
 date: 2017-02-12
 tags:
-  - arte
+- arte
 description: Aprender a perder
-image: 
-aliases:
+image: null
+aliases: null
 permalink: aprender-a-perder
+author: Marcos Ramon
 ---
 Competir exige aprendizado. E eu nunca fui um bom competidor. Lembro, por exemplo, de uma vez em que eu estava jogando ludo em casa com um monte de gente e, na iminência de perder a partida, fiquei com tanta raiva que joguei o tabuleiro pra cima. Peças voando pelo quarto, gente saindo de perto de mim e eu lá, sozinho, com cara de choro. Naquela época, competir era para mim sinônimo de frustração.
 
@@ -21,7 +22,7 @@ Foto de [Kristina Makeeva](https://www.instagram.com/hobopeeba/)
 
 #arte #política
 
-> Leia também:
-> - <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>
-> - <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+<h3>Leia também:</h3>
+- <a href="/o-melhor-lugar-para-voce-estar-em-2018">O melhor lugar para você estar em 2018</a>
+- <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>

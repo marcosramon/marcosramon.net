@@ -2,11 +2,12 @@
 title: Escolha o tédio
 date: 2017-01-07
 tags:
-  - pensamentos
+- pensamentos
 description: Escolha o tédio
-image: 
-aliases:
+image: null
+aliases: null
 permalink: escolha-o-tedio
+author: Marcos Ramon
 ---
 Eu fui criança em uma época bem diferente desta em que agora sou pai. Quando eu criança o meu número de opções em termos de diversão era sempre limitado. Não existiam programas infantis na tevê o tempo todo, não existiam tantos livros e filmes para crianças, não tinha internet e, portanto, nada de _Youtube_, redes sociais ou similares.
 
@@ -19,7 +20,7 @@ Se eu tiver que dar apenas uma dica para os futuros pais — e pros atuais t
 
 #pensamentos #cotidiano
 
-> Leia também:
-> - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
-> - <a href="/o-medo-que-nos-move">O medo que nos move</a>
-> - <a href="/o-que-e-ter-uma-carreira">O que é ter uma carreira</a>
+<h3>Leia também:</h3>
+- <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
+- <a href="/o-medo-que-nos-move">O medo que nos move</a>
+- <a href="/o-que-e-ter-uma-carreira">O que é ter uma carreira</a>

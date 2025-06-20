@@ -2,12 +2,14 @@
 title: Distraídos
 date: 2017-03-16
 tags:
-  - arte
-  - cultura
-description: Até mesmo quem costuma ter muita certeza pode se enganar, pode se perder pelo caminho. E errar não é um problema terrível. Muitas…
-image: 
-aliases:
+- arte
+- cultura
+description: Até mesmo quem costuma ter muita certeza pode se enganar, pode se perder
+  pelo caminho. E errar não é um problema terrível. Muitas…
+image: null
+aliases: null
 permalink: distraidos
+author: Marcos Ramon
 ---
 Até mesmo quem costuma ter muita certeza pode se enganar, pode se perder pelo caminho. E errar não é um problema terrível. Muitas descobertas e criações surgiram do equívoco, mas como vemos apenas o resultado final desconsideramos a possibilidade de que o processo tenha sido longo e conturbado (e na maioria das vezes, pra qualquer empreendimento que você imaginar, geralmente é ).
 
@@ -22,7 +24,7 @@ Gif criado por [Janneke Meekes](http://jannekemeekes.tumblr.com/)
 
 #arte #cultura
 
-> Leia também:
-> - <a href="/viver-o-trabalho">Viver o trabalho</a>
-> - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
-> - <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>
+<h3>Leia também:</h3>
+- <a href="/viver-o-trabalho">Viver o trabalho</a>
+- <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
+- <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>

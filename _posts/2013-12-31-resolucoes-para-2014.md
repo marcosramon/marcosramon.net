@@ -13,7 +13,7 @@ permalink: resolucoes-para-2014
 
 
 
-> Leia também:
-> - <a href="/resolucoes-para-2014">Resoluções para 2014</a>
-> - <a href="/cidades-para-pessoas">Cidades para pessoas</a>
-> - <a href="/como-se-preparar-para-o-final-do-ano">Como se preparar para o final do ano</a>
+<h3>Leia também:</h3>
+- <a href="/resolucoes-para-2014">Resoluções para 2014</a>
+- <a href="/cidades-para-pessoas">Cidades para pessoas</a>
+- <a href="/como-se-preparar-para-o-final-do-ano">Como se preparar para o final do ano</a>

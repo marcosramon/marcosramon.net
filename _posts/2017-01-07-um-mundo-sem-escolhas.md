@@ -2,11 +2,12 @@
 title: Um mundo sem escolhas
 date: 2017-01-07
 tags:
-  - cultura
+- cultura
 description: Um mundo sem escolhas
-image: 
-aliases:
+image: null
+aliases: null
 permalink: um-mundo-sem-escolhas
+author: Marcos Ramon
 ---
 Precisamos do livre-arbítrio? A maioria das pessoas, provavelmente, responderia que sim, já que normalmente não queremos aceitar que a nossa vida possa não depender de nossas escolhas. No entanto, nunca saberemos com certeza se somos realmente livres ou se tudo já está determinado. Sendo assim, só consigo imaginar que essa defesa do livre-arbítrio tem mais a ver com autossugestão do que com uma real convicção.
 
@@ -21,7 +22,7 @@ Existem muitas coisas na vida que escapam ao nosso controle; acontece com qualqu
 
 #cultura #comunicação
 
-> Leia também:
-> - <a href="/o-que-todo-mundo-e">O que todo mundo é</a>
-> - <a href="/escrever-um-diario">Escrever um diário</a>
-> - <a href="/todos-iguais">Todos iguais</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-todo-mundo-e">O que todo mundo é</a>
+- <a href="/escrever-um-diario">Escrever um diário</a>
+- <a href="/todos-iguais">Todos iguais</a>

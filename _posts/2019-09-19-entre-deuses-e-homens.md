@@ -11,12 +11,12 @@ tags:
 published: true
 permalink: entre-deuses-e-homens
 ---
-[[Luc Ferry]] argumenta que existem três tarefas que toda grande filosofia busca explorar[^1]: 
+Luc Ferry argumenta que existem três tarefas que toda grande filosofia busca explorar[^1]: 
 
 1) o desenvolvimento de uma teoria; 
 2) uma concepção de moral; e 3) uma doutrina de salvação sem Deus. 
 
-Falando sobre [[Nietzsche]], e tentando encaixar essa forma de ver a filosofia na obra do autor alemão, Ferry se depara com a dificuldade de encontrar uma unidade teórica e metodológica em obras tão distantes quanto *Assim Falou Zaratustra*, *Humano, Demasiado Humano* e *Ecce Homo*. Ainda assim, ele acredita que em Nietzsche os três elementos aparecem com distinção suficiente para qualquer um perceber — desde que leia as obras e não os comentadores. Pode parecer estranho que ele diga isso sendo ele mesmo um comentador. Mas ele propõe também um convite à leitura do autor para além de sua interpretação. Portanto, o resumo das ideias que apresento aqui (baseadas principalmente na leitura do texto de Luc Ferry) precisam de confrontação com os textos do próprio Nietzsche, tarefa aliás necessária sempre que se lê um autor por meio de outros.
+Falando sobre Nietzsche, e tentando encaixar essa forma de ver a filosofia na obra do autor alemão, Ferry se depara com a dificuldade de encontrar uma unidade teórica e metodológica em obras tão distantes quanto *Assim Falou Zaratustra*, *Humano, Demasiado Humano* e *Ecce Homo*. Ainda assim, ele acredita que em Nietzsche os três elementos aparecem com distinção suficiente para qualquer um perceber — desde que leia as obras e não os comentadores. Pode parecer estranho que ele diga isso sendo ele mesmo um comentador. Mas ele propõe também um convite à leitura do autor para além de sua interpretação. Portanto, o resumo das ideias que apresento aqui (baseadas principalmente na leitura do texto de Luc Ferry) precisam de confrontação com os textos do próprio Nietzsche, tarefa aliás necessária sempre que se lê um autor por meio de outros.
 
 O que Ferry critica nos comentadores ortodoxos de Nietzsche — e, sim, é engraçado que isso exista — é o fato de que, para a maioria deles, Nietzsche foi um filósofo que defendeu a destruição da modernidade, mas não propôs nada para ficar no lugar. No entanto, ainda que em seu estilo poético, Nietzsche apresentou algumas propostas sim, e Luc Ferry acredita que elas se encaixam no modelo estabelecido por ele para definir o pensamento filosófico. Para começar, Nietzsche possui uma teoria focada na crítica à racionalidade, a genealogia, que possui como método a desconstrução dos valores estabelecidos. Há quem veja certa incoerência nisto, já que é mais fácil imaginarmos que estamos diante de uma anti-teoria. Ainda assim, estabelecer uma crítica ao Iluminismo, ao tecnicismo e à preponderância do pensamento lógico é, de alguma forma, assumir um posicionamento diante daquilo que é menos importante, mas sem supor a mera destruição de tudo. Esse é um dos pontos essenciais da discussão que Ferry retoma em sua leitura de Nietzsche. A crítica à racionalidade não se configura, necessariamente, como um apelo à irracionalidade pura e simples. E Ferry cita várias passagens de Nietzsche em que este mostra seu apreço pelo conhecimento, pela argumentação e pelo desenvolvimento do pensamento. A questão, portanto, não é que o pensamento racional é ruim. Mas sim que ele, na opinião de Nietzsche, não deveria estar no topo da hierarquia do pensamento, mas sim subordinado à experiência estética. 
 
@@ -38,7 +38,7 @@ Nietzsche foi uma figura controversa e ele mesmo um homem atormentado por suas i
 
 
 
-> Leia também:
-> - <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
-> - <a href="/rousseau-e-a-contradicao-entre-as-ideias-e-todo-o-resto">Rousseau e a contradição entre as ideias e todo o resto</a>
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+<h3>Leia também:</h3>
+- <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
+- <a href="/rousseau-e-a-contradicao-entre-as-ideias-e-todo-o-resto">Rousseau e a contradição entre as ideias e todo o resto</a>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>

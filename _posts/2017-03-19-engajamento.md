@@ -2,11 +2,13 @@
 title: Engajamento
 date: 2017-03-19
 tags:
-  - comportamento
-description: Recentemente o serviço de streaming de vídeos Netflix anunciou que vai mudar o jeito como os usuários classificam filmes e séries que…
-image: 
-aliases:
+- comportamento
+description: Recentemente o serviço de streaming de vídeos Netflix anunciou que vai
+  mudar o jeito como os usuários classificam filmes e séries que…
+image: null
+aliases: null
 permalink: engajamento
+author: Marcos Ramon
 ---
 Recentemente [o serviço de _streaming_ de vídeos _Netflix_ anunciou que vai mudar o jeito como os usuários classificam filmes e séries que assistem](http://www.theverge.com/2017/3/16/14952434/netflix-five-star-ratings-going-away-thumbs-up-down). A forma original era a classificação de 1 a 5 estrelas, o que gerava posteriormente uma classificação indicativa com a opinião de todos os usuários. Agora, contudo, no Netflix teremos apenas a opção de curtir ou _descurtir_.
 
@@ -23,7 +25,7 @@ O engajamento é uma moeda importante atualmente, mas o que estamos dispostos a 
 
 #comportamento #podcast
 
-> Leia também:
-> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
-> - <a href="/perspectiva">Perspectiva</a>
+<h3>Leia também:</h3>
+- <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+- <a href="/perspectiva">Perspectiva</a>

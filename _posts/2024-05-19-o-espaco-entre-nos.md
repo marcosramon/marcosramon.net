@@ -1,12 +1,14 @@
 ---
 title: O espaço entre nós
-excerpt: Estamos chegando mais perto do objetivo de perder o pouco que ainda temos de nós mesmos
+excerpt: Estamos chegando mais perto do objetivo de perder o pouco que ainda temos
+  de nós mesmos
 date: 2024-05-19
 aliases:
-  - "[[cotidiano]]"
-  - "[[comportamento]]"
-tags: 
+- '[[cotidiano]]'
+- '[[comportamento]]'
+tags: null
 permalink: o-espaco-entre-nos
+author: Marcos Ramon
 ---
 O que faz com que a gente possa se entender no mundo é o fato de que não somos todos os mesmos. Pensando, chorando, sofrendo e sorrindo, somos todos diferentes, únicos, versões de nós mesmos que nem entendemos de direito. E isso nos permite a sensação de novidade quando encontramos uns aos outros.
 
@@ -19,7 +21,7 @@ Nada disso é novidade. Esse embate entre o outro e o mesmo existe desde sempre.
 
 #cotidiano #comportamento 
 
-> Leia também:
-> - <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
-> - <a href="/o-que-e-ter-uma-carreira">O que é ter uma carreira</a>
-> - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
+- <a href="/o-que-e-ter-uma-carreira">O que é ter uma carreira</a>
+- <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>

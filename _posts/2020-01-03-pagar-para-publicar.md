@@ -24,7 +24,7 @@ Quando eu estava no Doutorado, participei de um congresso e depois recebi um ema
 Como disse antes, o Brasil tem hoje a vantagem de possuir uma produção acadêmica livre para acesso em sistemas open-source, com bases de dados fáceis de buscar e com possibilidade de publicação para grande parte da comunidade acadêmica. Perder isso é enveredar por um caminho em que o desenvolvimento científico se torne cada vez mais improvável. Mas esse modelo não funciona no exterior? Sim, e o Brasil é diferente o suficiente deles para que ele não funcione aqui. No momento, só cabe observar e torcer para esta iniciativa isolada não se torne uma regra.
 
 <img src="/assets/img//arquivos/pagar.jpeg">
-> Leia também:
-> - <a href="/duvidar-para-fazer-as-perguntas-certas">Duvidar para fazer as perguntas certas</a>
-> - <a href="/fazer-so-o-que-da-para-fazer">Fazer só o que dá para fazer</a>
-> - <a href="/para-entender-o-nosso-tempo">Para entender o nosso tempo</a>
+<h3>Leia também:</h3>
+- <a href="/duvidar-para-fazer-as-perguntas-certas">Duvidar para fazer as perguntas certas</a>
+- <a href="/fazer-so-o-que-da-para-fazer">Fazer só o que dá para fazer</a>
+- <a href="/para-entender-o-nosso-tempo">Para entender o nosso tempo</a>

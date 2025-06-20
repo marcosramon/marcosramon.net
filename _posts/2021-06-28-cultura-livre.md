@@ -33,7 +33,7 @@ A beleza de um blog na internet é que ele ainda pode ser um ambiente livre de t
 
 #cultura #internet 
 
-> Leia também:
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
-> - <a href="/um-parque-uma-descoberta">Um parque, uma descoberta</a>
-> - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
+<h3>Leia também:</h3>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+- <a href="/um-parque-uma-descoberta">Um parque, uma descoberta</a>
+- <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>

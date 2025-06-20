@@ -2,11 +2,12 @@
 title: Os contos e suas releituras
 date: 2017-01-31
 tags:
-  - pensamentos
+- pensamentos
 description: Os contos e suas releituras
-image: 
-aliases:
+image: null
+aliases: null
 permalink: os-contos-e-suas-releituras
+author: Marcos Ramon
 ---
 Admiro bem mais os autores de contos do que os que escrevem romances. Mais impressionantes ainda são os que conseguem fazer bem as duas coisas, como [Neil Gaiman](http://amzn.to/2jP6fWi), por exemplo. De qualquer forma, é sempre no conto que me vejo mais absorto e surpreendido.
 
@@ -21,7 +22,7 @@ Instalação de [Airan Kang](http://www.artnet.com/artists/airan-kang/). Foto de
 
 #pensamentos #estética
 
-> Leia também:
-> - <a href="/o-mais-distante">O mais distante</a>
-> - <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>
-> - <a href="/mais-individualismo">Mais individualismo</a>
+<h3>Leia também:</h3>
+- <a href="/o-mais-distante">O mais distante</a>
+- <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>
+- <a href="/mais-individualismo">Mais individualismo</a>

@@ -20,7 +20,7 @@ Em outro contexto, li uma vez (em um [livro do Alberto Manguel](https://amzn.to/
 
 
 
-> Leia também:
-> - <a href="/a-hora-e-a-vez-do-podcast">A hora e a vez do podcast</a>
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
-> - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
+<h3>Leia também:</h3>
+- <a href="/a-hora-e-a-vez-do-podcast">A hora e a vez do podcast</a>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+- <a href="/a-ausencia-da-memoria">A ausência da memória</a>

@@ -33,7 +33,7 @@ Quer saber, não concordo com aquela ideia de que menos sempre é mais. Na maior
 
 
 
-> Leia também:
-> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
-> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
-> - <a href="/o-que-todo-mundo-e">O que todo mundo é</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+- <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+- <a href="/o-que-todo-mundo-e">O que todo mundo é</a>

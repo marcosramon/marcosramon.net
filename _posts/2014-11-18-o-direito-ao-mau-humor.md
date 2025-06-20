@@ -2,11 +2,12 @@
 title: O direito ao mau humor
 date: 2014-11-18 00:00:00+00:00
 author: Marcos Ramon
-description: Recentemente li um texto que falava sobre as coisas terríveis do funcionalismo público...
+description: Recentemente li um texto que falava sobre as coisas terríveis do funcionalismo
+  público...
 tags:
-  - cotidiano
-  - cultura
-  - sociedade
+- cotidiano
+- cultura
+- sociedade
 published: true
 permalink: o-direito-ao-mau-humor
 ---
@@ -30,7 +31,7 @@ O funcionalismo público tem muitos, muitos problemas, mas se tiver que apontar 
 
 
 
-> Leia também:
-> - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
-> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+<h3>Leia também:</h3>
+- <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+- <a href="/nao-e-so-um-jogo">Não é só um jogo</a>

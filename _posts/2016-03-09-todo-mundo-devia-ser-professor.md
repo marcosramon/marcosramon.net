@@ -2,16 +2,17 @@
 title: Todo mundo devia ser professor
 date: 2016-03-09
 categories:
-  - blog
+- blog
 tags:
-  - reflexão
-  - comportamento
-  - ensino
-  - educação
+- reflexão
+- comportamento
+- ensino
+- educação
 excerpt: O melhor de ser professor é se ver confrontado com a realidade a todo instante.
-last_modified_at: 2016-03-09 15:27:01 Z
+last_modified_at: 2016-03-09 15:27:01+00:00
 og_image: assets/images/oska.png
 permalink: todo-mundo-devia-ser-professor
+author: Marcos Ramon
 ---
 O melhor de ser professor é se ver confrontado com a realidade a todo instante.
 
@@ -35,7 +36,7 @@ Todo mundo devia ser professor.
 
 
 
-> Leia também:
-> - <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>
-> - <a href="/alguem-sabe-o-que-esta-fazendo">Alguém sabe o que está fazendo</a>
-> - <a href="/ensinar-e-dificil">Ensinar é difícil</a>
+<h3>Leia também:</h3>
+- <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>
+- <a href="/alguem-sabe-o-que-esta-fazendo">Alguém sabe o que está fazendo</a>
+- <a href="/ensinar-e-dificil">Ensinar é difícil</a>

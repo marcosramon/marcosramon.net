@@ -4,8 +4,8 @@ date: 2014-09-08 00:00:00+00:00
 author: Marcos Ramon
 description: Existem atos realmente altruístas.
 tags:
-  - filosofia
-  - cotidiano
+- filosofia
+- cotidiano
 published: true
 permalink: altruismo
 ---
@@ -19,7 +19,7 @@ Assim a gente vive mais tranquilo.
 
 
 
-> Leia também:
-> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
-> - <a href="/quem-ainda-le-poesia-hoje-em-dia">Quem ainda lê poesia hoje em dia</a>
-> - <a href="/o-que-estamos-buscando">O que estamos buscando</a>
+<h3>Leia também:</h3>
+- <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+- <a href="/quem-ainda-le-poesia-hoje-em-dia">Quem ainda lê poesia hoje em dia</a>
+- <a href="/o-que-estamos-buscando">O que estamos buscando</a>

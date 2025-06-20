@@ -102,7 +102,7 @@ Que coisa bizarra. Eu achando que só eu não lembrava dele. Mas no final, foi e
 
 #Memória #sociedade 
 
-> Leia também:
-> - <a href="/de-onde-vem-o-conhecimento">De onde vem o conhecimento</a>
-> - <a href="/mais-de-nos-mesmos">Mais de nós mesmos</a>
-> - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
+<h3>Leia também:</h3>
+- <a href="/de-onde-vem-o-conhecimento">De onde vem o conhecimento</a>
+- <a href="/mais-de-nos-mesmos">Mais de nós mesmos</a>
+- <a href="/a-ausencia-da-memoria">A ausência da memória</a>

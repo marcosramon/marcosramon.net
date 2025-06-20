@@ -25,7 +25,7 @@ Quero acreditar nisso: às vezes ninguém está com a razão, porque não existe
 
 
 
-> Leia também:
-> - <a href="/como-se-importar-muito-com-o-que-nao-importa">Como se importar muito com o que não importa</a>
-> - <a href="/como-ser-feliz">Como ser feliz</a>
-> - <a href="/interagir-so-com-quem-se-precisa">Interagir só com quem se precisa</a>
+<h3>Leia também:</h3>
+- <a href="/como-se-importar-muito-com-o-que-nao-importa">Como se importar muito com o que não importa</a>
+- <a href="/como-ser-feliz">Como ser feliz</a>
+- <a href="/interagir-so-com-quem-se-precisa">Interagir só com quem se precisa</a>

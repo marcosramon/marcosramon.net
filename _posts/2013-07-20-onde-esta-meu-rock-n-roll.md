@@ -3,9 +3,10 @@ title: Onde está meu rock n’ roll?
 date: 2013-07-20
 author: Marcos Ramon
 tags:
-  - música
-  - arte
-description: Dia desses vi uma matéria no site da revista _Rolling Stone_ que mostrava 20 músicas que já completaram 20 anos.
+- música
+- arte
+description: Dia desses vi uma matéria no site da revista _Rolling Stone_ que mostrava
+  20 músicas que já completaram 20 anos.
 permalink: onde-esta-meu-rock-n-roll
 ---
 ![](https://cdn-images-1.medium.com/max/800/0*l8hNCdxHEYWOh3Qd.jpeg)
@@ -25,7 +26,7 @@ Alguém me diz aí: **_Onde é que está meu rock n' roll?_**
 
 #música #arte
 
-> Leia também:
-> - <a href="/a-importancia-do-contexto">A importância do contexto</a>
-> - <a href="/quando-a-arte-nos-define">Quando a arte nos define</a>
-> - <a href="/valorizar-a-busca">Valorizar a busca</a>
+<h3>Leia também:</h3>
+- <a href="/a-importancia-do-contexto">A importância do contexto</a>
+- <a href="/quando-a-arte-nos-define">Quando a arte nos define</a>
+- <a href="/valorizar-a-busca">Valorizar a busca</a>

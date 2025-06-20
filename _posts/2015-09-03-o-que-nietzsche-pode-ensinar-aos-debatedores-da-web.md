@@ -2,10 +2,11 @@
 title: O que Nietzsche pode ensinar aos debatedores da web
 date: 2015-09-03 00:00:00+00:00
 author: Marcos Ramon
-description: Nos dias de hoje - e especialmente na internet - vemos mais gente brigando, reclamando e discutindo do que propondo soluções ou ajudando a resolver problemas.
+description: Nos dias de hoje - e especialmente na internet - vemos mais gente brigando,
+  reclamando e discutindo do que propondo soluções ou ajudando a resolver problemas.
 tags:
-  - Nietzsche
-  - Guerra
+- Nietzsche
+- Guerra
 published: true
 permalink: o-que-nietzsche-pode-ensinar-aos-debatedores-da-web
 ---
@@ -27,7 +28,7 @@ Os blogueiros e podcasters das tretas atuais poderiam pelo menos ter esse sentid
 
 
 
-> Leia também:
-> - <a href="/o-que-ainda-pode-mudar">O que ainda pode mudar</a>
-> - <a href="/o-tempo-que-dedicamos-aos-livros">O tempo que dedicamos aos livros</a>
-> - <a href="/ficcoes-01-o-que-nao-se-pode-falar">Ficções #01   o que não se pode falar</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-ainda-pode-mudar">O que ainda pode mudar</a>
+- <a href="/o-tempo-que-dedicamos-aos-livros">O tempo que dedicamos aos livros</a>
+- <a href="/ficcoes-01-o-que-nao-se-pode-falar">Ficções #01   o que não se pode falar</a>

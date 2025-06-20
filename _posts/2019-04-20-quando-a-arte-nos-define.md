@@ -1,20 +1,22 @@
 ---
 title: Quando a arte nos define
-date: 2019-04-20 00:00:00 Z
+date: 2019-04-20 00:00:00+00:00
 categories:
-  - blog
+- blog
 tags:
-  - arte
-  - reflexão
-excerpt: A arte faz parte da vida de todos nós de uma maneira tão intensa que é desafiador pensar em uma vida sem arte.
-last_modified_at: 2019-04-20 15:27:01 Z
+- arte
+- reflexão
+excerpt: A arte faz parte da vida de todos nós de uma maneira tão intensa que é desafiador
+  pensar em uma vida sem arte.
+last_modified_at: 2019-04-20 15:27:01+00:00
 og_image: assets/images/describe.jpg
 aliases:
-  - "[[arte]]"
-  - "[[música]]"
-  - "[[reflexão]]"
-  - "[[Nietzsche]]"
+- '[[arte]]'
+- '[[música]]'
+- '[[reflexão]]'
+- '[[Nietzsche]]'
 permalink: quando-a-arte-nos-define
+author: Marcos Ramon
 ---
 A arte faz parte da vida de todos nós de uma maneira tão intensa que é desafiador pensar em uma vida sem arte. Imagine alguém que não goste de música, cinema, literatura, teatro, dança... Será que você conhece alguém assim?
 
@@ -34,7 +36,7 @@ Entrei no jogo e tentei me definir com três discos, sem muito critério, é ver
 
 
 
-> Leia também:
-> - <a href="/valorizar-a-busca">Valorizar a busca</a>
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
-> - <a href="/a-importancia-do-contexto">A importância do contexto</a>
+<h3>Leia também:</h3>
+- <a href="/valorizar-a-busca">Valorizar a busca</a>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+- <a href="/a-importancia-do-contexto">A importância do contexto</a>

@@ -2,10 +2,10 @@
 title: O amante do coentro
 date: 2018-02-21
 tags:
-  - pensamentos
+- pensamentos
 description: O amante do coentro
-image: 
-aliases: 
+image: null
+aliases: null
 author: Marcos Ramon
 permalink: o-amante-do-coentro
 ---
@@ -20,7 +20,7 @@ Quando ele escolheu — e foram só dois maços — eu já estava nas la
 
 #pensamentos #ética
 
-> Leia também:
-> - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
-> - <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>
-> - <a href="/entender-o-tempo">Entender o tempo</a>
+<h3>Leia também:</h3>
+- <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
+- <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>
+- <a href="/entender-o-tempo">Entender o tempo</a>

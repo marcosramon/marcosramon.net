@@ -24,7 +24,7 @@ Uma das ideias mais interessantes de Kierkegaard é sua divisão das fases ou et
 
 
 
-> Leia também:
-> - <a href="/a-releitura-como-forma-de-reencontro">A releitura como forma de reencontro</a>
-> - <a href="/trabalho-antes-de-tudo">Trabalho, antes de tudo</a>
-> - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
+<h3>Leia também:</h3>
+- <a href="/a-releitura-como-forma-de-reencontro">A releitura como forma de reencontro</a>
+- <a href="/trabalho-antes-de-tudo">Trabalho, antes de tudo</a>
+- <a href="/a-ausencia-da-memoria">A ausência da memória</a>

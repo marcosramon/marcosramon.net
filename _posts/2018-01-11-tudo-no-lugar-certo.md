@@ -1,12 +1,13 @@
 ---
 title: Tudo no lugar certo
 tags:
-  - cotidiano
-excerpt: 
+- cotidiano
+excerpt: null
 aliases:
-  - "[[cotidiano]]"
+- '[[cotidiano]]'
 date: 2018-01-11
 permalink: tudo-no-lugar-certo
+author: Marcos Ramon
 ---
 A realidade é imprevisível até certo ponto. Na maior parte do tempo, sabemos o que vai acontecer e até quando vai acontecer. Existe encanto e absurdo na vida, mas também existe previsibilidade; que, aliás, é o motivo principal para continuarmos seguindo um dia após o outro, montando as peças desse quebra-cabeça gigante no qual vivemos.
 
@@ -18,7 +19,7 @@ A realidade é imprevisível até certo ponto. Na maior parte do tempo, sabemos 
 
 #cotidiano 
 
-> Leia também:
-> - <a href="/a-realidade-se-impoe">A realidade se impõe</a>
-> - <a href="/revisar2020-09-20-saber-a-felicidade">2020-09-20-saber-a-felicidade</a>
-> - <a href="/reclamar-de-tudo">Reclamar de tudo</a>
+<h3>Leia também:</h3>
+- <a href="/a-realidade-se-impoe">A realidade se impõe</a>
+- <a href="/revisar2020-09-20-saber-a-felicidade">2020-09-20-saber-a-felicidade</a>
+- <a href="/reclamar-de-tudo">Reclamar de tudo</a>

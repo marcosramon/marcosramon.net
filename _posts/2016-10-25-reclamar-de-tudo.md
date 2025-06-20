@@ -2,12 +2,14 @@
 title: Reclamar de tudo
 date: 2016-10-25
 tags:
-  - arte
-  - cotidiano
-description: A nossa vida já é complicada demais. Por diversos motivos — que nem eu nem você conseguiríamos enumerar — viver é um desafio constante; e…
-image: 
-aliases:
+- arte
+- cotidiano
+description: A nossa vida já é complicada demais. Por diversos motivos — que nem eu
+  nem você conseguiríamos enumerar — viver é um desafio constante; e…
+image: null
+aliases: null
 permalink: reclamar-de-tudo
+author: Marcos Ramon
 ---
 A nossa vida já é complicada demais. Por diversos motivos — que nem eu nem você conseguiríamos enumerar — viver é um desafio constante; e, para deixar tudo ainda mais difícil, não existem regras claras ou atalhos para facilitar o caminho. Mas quem não atrapalha já ajuda um pouco. E por isso entendo que o que vou escrever aqui é importante e, em certa medida, até mesmo revolucionário: _não seja aquela pessoa que reclama de tudo_.
 
@@ -30,7 +32,7 @@ _Se você gosta das coisas que eu produzo na internet e quiser me apoiar,_ [_com
 
 #arte #cotidiano
 
-> Leia também:
-> - <a href="/de-onde-vem-o-conhecimento">De onde vem o conhecimento</a>
-> - <a href="/todos-iguais">Todos iguais</a>
-> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+<h3>Leia também:</h3>
+- <a href="/de-onde-vem-o-conhecimento">De onde vem o conhecimento</a>
+- <a href="/todos-iguais">Todos iguais</a>
+- <a href="/o-que-e-ser-criativo">O que é ser criativo</a>

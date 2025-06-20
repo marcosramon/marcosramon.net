@@ -1,12 +1,14 @@
 ---
 title: Olhando com cuidado
-excerpt: Acordei achando que era sábado. Em vários momentos do dia me distraí pensando que fosse esse outro dia. Mas não era, e não tinha problema.
+excerpt: Acordei achando que era sábado. Em vários momentos do dia me distraí pensando
+  que fosse esse outro dia. Mas não era, e não tinha problema.
 date: 2024-04-18
 aliases:
-  - "[[tecnologia]]"
-  - "[[informação]]"
-  - "[[cotidiano]]"
+- '[[tecnologia]]'
+- '[[informação]]'
+- '[[cotidiano]]'
 permalink: olhando-com-cuidado
+author: Marcos Ramon
 ---
 Enquanto espero para decidir qual será a próxima tarefa que vou tentar cumprir (deixando muitas outras para depois), reflito sobre esse desafio constante de lutar contra mim mesmo e contra o que sou capaz de realizar. Olhando com cuidado, só consigo concluir que nosso modo de vida é apenas uma grande distração. Quando não estamos engajados em atividades produtivas, sentimos a necessidade de preencher nosso tempo e esforços com coisas que, embora desnecessárias, parecem urgentes.
 
@@ -19,7 +21,7 @@ Não sou importante, mas gostaria de ser. Esta é a única resposta que encontro
 
 #tecnologia #comportamento 
 
-> Leia também:
-> - <a href="/estamos-perdidos">Estamos perdidos</a>
-> - <a href="/duvidar-um-pouco">Duvidar um pouco</a>
-> - <a href="/espacos-para-respirar">Espaços para respirar</a>
+<h3>Leia também:</h3>
+- <a href="/estamos-perdidos">Estamos perdidos</a>
+- <a href="/duvidar-um-pouco">Duvidar um pouco</a>
+- <a href="/espacos-para-respirar">Espaços para respirar</a>

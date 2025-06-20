@@ -24,7 +24,7 @@ Hoje, como nossos dados certamente sobreviverão a nós por mais tempo do que pr
 
 
 
-> Leia também:
-> - <a href="/a-hora-e-a-vez-do-podcast">A hora e a vez do podcast</a>
-> - <a href="/qualquer-historia">Qualquer história</a>
-> - <a href="/a-memoria-a-historia">A memória, a história</a>
+<h3>Leia também:</h3>
+- <a href="/a-hora-e-a-vez-do-podcast">A hora e a vez do podcast</a>
+- <a href="/qualquer-historia">Qualquer história</a>
+- <a href="/a-memoria-a-historia">A memória, a história</a>

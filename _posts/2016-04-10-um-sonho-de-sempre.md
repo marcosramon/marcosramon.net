@@ -2,14 +2,16 @@
 title: Um sonho de sempre
 date: 2016-04-10
 tags:
-  - pensamentos
-  - Grafos
-  - pesquisa
-  - sonhos
-description: Desde o dia 09 de Abril eu estou anotando os meus sonhos, da forma como me lembro deles. Anoto em um caderno logo cedo, enquanto faço café.
-image: 
-aliases:
+- pensamentos
+- Grafos
+- pesquisa
+- sonhos
+description: Desde o dia 09 de Abril eu estou anotando os meus sonhos, da forma como
+  me lembro deles. Anoto em um caderno logo cedo, enquanto faço café.
+image: null
+aliases: null
 permalink: um-sonho-de-sempre
+author: Marcos Ramon
 ---
 _Desde o dia 09 de Abril eu estou anotando os meus sonhos, da forma como me lembro deles. Anoto em um caderno logo cedo, enquanto faço café._
 
@@ -34,7 +36,7 @@ _Update (13/06/2016): não atualizei mais o grafo como tinha me comprometido e h
 
 #Grafos #sonhos
 
-> Leia também:
-> - <a href="/analise-de-um-forum-de-ead">Análise de um Fórum de EAD</a>
-> - <a href="/visualizando-as-letras-do-bob-dylan">Visualizando as letras do Bob Dylan</a>
-> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+<h3>Leia também:</h3>
+- <a href="/analise-de-um-forum-de-ead">Análise de um Fórum de EAD</a>
+- <a href="/visualizando-as-letras-do-bob-dylan">Visualizando as letras do Bob Dylan</a>
+- <a href="/nao-e-so-um-jogo">Não é só um jogo</a>

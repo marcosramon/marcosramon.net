@@ -2,12 +2,13 @@
 title: PodcastFriday, dia 2
 date: 2016-09-24
 tags:
-  - filosofia
-  - reflexão
-  - cotidiano
+- filosofia
+- reflexão
+- cotidiano
 description: Sobre o segundo dia da ação
-image: 
+image: null
 permalink: podcastfriday-dia-2
+author: Marcos Ramon
 ---
 Ontem (23/09/2016) foi o segundo dia da ação #podcastfriday. Como fiz uma [análise do primeiro dia,](https://arcano5.com.br/podcastfriday-352aec06a55#.rlsequ2a0) achei que seria bacana, para comparação, produzir algo também sobre o que ocorreu ontem. Não vou continuar fazendo isso toda semana porque acho que perde o sentido, mas nesse momento penso que vale a análise para entender o crescimento do engajamento dos podcasters e ouvintes.
 
@@ -43,7 +44,7 @@ No final da análise anterior eu questionava se a empolgação continuaria. Bem,
 
 #cotidiano #filosofia
 
-> Leia também:
-> - <a href="/podcastfriday">PodcastFriday</a>
-> - <a href="/podcastfriday-tres-meses-depois">Podcastfriday, três meses depois</a>
-> - <a href="/visualizando-a-pesquisa">Visualizando a pesquisa</a>
+<h3>Leia também:</h3>
+- <a href="/podcastfriday">PodcastFriday</a>
+- <a href="/podcastfriday-tres-meses-depois">Podcastfriday, três meses depois</a>
+- <a href="/visualizando-a-pesquisa">Visualizando a pesquisa</a>

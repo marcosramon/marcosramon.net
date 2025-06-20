@@ -2,11 +2,13 @@
 title: Basta estar vivo
 date: 2017-07-11
 tags:
-  - pensamentos
-description: Quando pensamos em coisas que consideramos essenciais para uma boa vida, inevitavelmente pensamos em autoconhecimento. Os bens materiais e…
-image: 
-aliases:
+- pensamentos
+description: Quando pensamos em coisas que consideramos essenciais para uma boa vida,
+  inevitavelmente pensamos em autoconhecimento. Os bens materiais e…
+image: null
+aliases: null
 permalink: basta-estar-vivo
+author: Marcos Ramon
 ---
 Quando pensamos em coisas que consideramos essenciais para uma boa vida, inevitavelmente pensamos em autoconhecimento. Os bens materiais e a opinião que os outros possuem de nós também são fatores importantes, mas eles certamente teriam um impacto menor caso os tivéssemos como elementos únicos de nossas vidas. Se somos alienados de nós mesmos, desencontrados com nossa existência e com nosso propósito no mundo (propósito inventado, claro, não estou falando aqui de destino), não tem dinheiro ou reconhecimento alheio que nos permita uma sensação próxima da satisfação.
 
@@ -21,7 +23,7 @@ Ilustração de [Andrea Ucini](https://www.behance.net/uciniandrec1fd)
 
 #pensamentos #ciência
 
-> Leia também:
-> - <a href="/interagir-so-com-quem-se-precisa">Interagir só com quem se precisa</a>
-> - <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>
-> - <a href="/encontrar-um-caminho">Encontrar um caminho</a>
+<h3>Leia também:</h3>
+- <a href="/interagir-so-com-quem-se-precisa">Interagir só com quem se precisa</a>
+- <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>
+- <a href="/encontrar-um-caminho">Encontrar um caminho</a>

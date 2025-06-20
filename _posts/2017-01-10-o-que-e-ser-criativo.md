@@ -1,12 +1,13 @@
 ---
 title: O que é ser criativo?
 tags:
-  - conhecimento
-  - pensamento
-  - arte
-  - filosofia
+- conhecimento
+- pensamento
+- arte
+- filosofia
 date: 2017-01-10
 permalink: o-que-e-ser-criativo
+author: Marcos Ramon
 ---
 O bloqueio criativo é algo que ocorre quando falta a alguém a inspiração necessária para finalizar alguma tarefa. Ouvimos dizer que isso é algo relativamente comum entre escritores, cientistas e artistas. Mas por que não estender isso a todas as pessoas? Eu penso que a vida está envolta em inventividade o tempo todo. Sendo mais claro: todo mundo é criativo — e não só os publicitários e designers que adoram bradar aos quatro ventos que o trabalho deles é, vejam só, serem criativos. E com isso não estou desconsiderando o fato de que muitas pessoas possuem empregos burocráticos em que se demanda quase sempre apenas repetição. Sim, isso existe aos montes. Mas quem disse que a criatividade só pode existir em conjunto com um salário?
 
@@ -21,7 +22,7 @@ O que eu acredito é que a vida cotidiana é uma fonte com constante potencial c
 
 #conhecimento #arte
 
-> Leia também:
-> - <a href="/de-onde-vem-o-conhecimento">De onde vem o conhecimento</a>
-> - <a href="/o-que-todo-mundo-e">O que todo mundo é</a>
-> - <a href="/o-que-o-silencio-diz">O que o silêncio diz</a>
+<h3>Leia também:</h3>
+- <a href="/de-onde-vem-o-conhecimento">De onde vem o conhecimento</a>
+- <a href="/o-que-todo-mundo-e">O que todo mundo é</a>
+- <a href="/o-que-o-silencio-diz">O que o silêncio diz</a>

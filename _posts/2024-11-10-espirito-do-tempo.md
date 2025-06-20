@@ -1,13 +1,15 @@
 ---
 title: Espírito do tempo
 date: 2024-11-10
-excerpt: Sobre nosso estilo de vida, a pressa, o incômodo, a incapacidade de aproveitar o momento
+excerpt: Sobre nosso estilo de vida, a pressa, o incômodo, a incapacidade de aproveitar
+  o momento
 aliases:
-  - "[[tempo]]"
-  - "[[música]]"
-  - "[[Caetano Veloso|Caetano]]"
-  - "[[Maria Bethânia]]"
+- '[[tempo]]'
+- '[[música]]'
+- '[[Caetano Veloso|Caetano]]'
+- '[[Maria Bethânia]]'
 permalink: espirito-do-tempo
+author: Marcos Ramon
 ---
 Último show de Maria Bethânia e Caetano Veloso cantando juntos. Eles começam a penúltima música do show e as pessoas começam a ir embora, para evitar o trânsito.
 
@@ -38,7 +40,7 @@ O que sei mesmo é que é difícil ser gente.
 
 #música #comportamento
 
-> Leia também:
-> - <a href="/a-burocracia-do-cotidiano">A burocracia do cotidiano</a>
-> - <a href="/o-tempo">O tempo</a>
-> - <a href="/para-entender-o-nosso-tempo">Para entender o nosso tempo</a>
+<h3>Leia também:</h3>
+- <a href="/a-burocracia-do-cotidiano">A burocracia do cotidiano</a>
+- <a href="/o-tempo">O tempo</a>
+- <a href="/para-entender-o-nosso-tempo">Para entender o nosso tempo</a>

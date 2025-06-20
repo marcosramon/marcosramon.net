@@ -2,20 +2,21 @@
 title: Escrever para ser diferente de mim
 date: 2025-03-12
 tags:
-  - escrita
-  - Escrever
-  - leitura
-  - conhecimento
-description: Para mim, escrever é um processo de me conectar com quem eu sou, ao mesmo tempo em que faço um desligamento de tudo o que tem a ver comigo.
+- escrita
+- Escrever
+- leitura
+- conhecimento
+description: Para mim, escrever é um processo de me conectar com quem eu sou, ao mesmo
+  tempo em que faço um desligamento de tudo o que tem a ver comigo.
 permalink: escrever-para-ser-diferente-de-mim
-aliases: 
+aliases: null
 author: Marcos Ramon
 og_image: arquivos/writing-bacon.png
 image: arquivos/writing-bacon.png
 ---
 Para mim, escrever é um processo de me conectar com quem eu sou, ao mesmo tempo em que faço um desligamento de tudo o que tem a ver comigo.
 
-Como escreveu [[Elena Ferrante]], falando sobre [[Virginia Woolf]]:
+Como escreveu Elena Ferrante, falando sobre Virginia Woolf:
 
 > "O eu que escreve a sério são vinte pessoas (...). Quem escreve não tem nome" (Elena Ferrante, [As margens e o ditado](https://amzn.to/4bMHxQR), p. 31).
 
@@ -30,7 +31,7 @@ Escrever é uma armadilha, porque vicia. Mas é um vício que me aumenta, me tra
 
 #escrita #conhecimento
 
-> Leia também:
-> - <a href="/escrever-um-diario">Escrever um diário</a>
-> - <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
-> - <a href="/o-tempo-da-escrita">O tempo da escrita</a>
+<h3>Leia também:</h3>
+- <a href="/escrever-um-diario">Escrever um diário</a>
+- <a href="/sobre-escrever-e-fazer-podcasts">Sobre escrever e fazer podcasts</a>
+- <a href="/o-tempo-da-escrita">O tempo da escrita</a>

@@ -24,7 +24,7 @@ Desenhamos desde de que somos crianças, mas pouco a pouco vamos deixando os pap
 
 
 
-> Leia também:
-> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
-> - <a href="/como-ser-feliz">Como ser feliz</a>
-> - <a href="/a-guerra-na-teve">A guerra na tevê</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+- <a href="/como-ser-feliz">Como ser feliz</a>
+- <a href="/a-guerra-na-teve">A guerra na tevê</a>

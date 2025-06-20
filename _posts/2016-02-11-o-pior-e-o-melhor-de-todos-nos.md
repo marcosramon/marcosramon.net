@@ -2,13 +2,15 @@
 title: O pior e o melhor de todos nós
 date: 2016-02-11
 tags:
-  - pensamentos
-  - cotidiano
-  - comportamento
-description: Uma das consequências mais terríveis de se andar de transporte público — pelo menos pra mim — é acabar sentindo raiva. Raiva do cara de…
-image: 
-aliases:
+- pensamentos
+- cotidiano
+- comportamento
+description: Uma das consequências mais terríveis de se andar de transporte público
+  — pelo menos pra mim — é acabar sentindo raiva. Raiva do cara de…
+image: null
+aliases: null
 permalink: o-pior-e-o-melhor-de-todos-nos
+author: Marcos Ramon
 ---
 Uma das consequências mais terríveis de se andar de transporte público — pelo menos pra mim — é acabar sentindo raiva. Raiva do cara de vinte e poucos anos lendo uma revista da Marvel sentado no assento preferencial (com duas idosas em pé ao lado dele); raiva do outro que espirra em cima de todo mundo no metrô lotado sem se preocupar com a saúde alheia; raiva daquele que escuta música no volume máximo, sem entender que as outras pessoas no vagão não compartilham do desejo dele de ficar surdo.
 
@@ -25,7 +27,7 @@ _Sadness, colagem de_ [_Merve Ozaslan_](https://br.pinterest.com/merveozaslan/c
 
 #cotidiano #pensamentos
 
-> Leia também:
-> - <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>
-> - <a href="/saia-e-divirta-se">Saia e divirta-se!</a>
-> - <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-contamos-de-nos-mesmos">O que contamos de nós mesmos</a>
+- <a href="/saia-e-divirta-se">Saia e divirta-se!</a>
+- <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>

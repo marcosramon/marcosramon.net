@@ -2,11 +2,12 @@
 title: Abraçando o nada
 date: 2018-01-02
 tags:
-  - pensamentos
+- pensamentos
 description: Abraçando o nada
-image: 
-aliases:
+image: null
+aliases: null
 permalink: abracando-o-nada
+author: Marcos Ramon
 ---
 Foi ainda antes da Universidade que eu descobri o [Alberto Moravia](https://g.co/kgs/d8bBFT). Eu ia muito às bibliotecas do Centro de São Luís e em alguma tarde puxei um livro dele da prateleira (ou alguém me indicou um, não lembro bem). Li muito ele por essa época. Nas bibliotecas encontrei os livros _Desidéria_, _A Romana_ e _A coisa e outros contos_. Esse último, especialmente, me pareceu o mais interessante (os outros, aliás, eu nem me recordo. Sei que li, mas não lembro de nenhum detalhe).
 
@@ -18,7 +19,7 @@ A memória, os sonhos, o diabo, o revólver, a sexualidade reprimida. Esses são
 
 #literatura #Livros 
 
-> Leia também:
-> - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
-> - <a href="/o-meio-termo">O meio-termo</a>
-> - <a href="/e-so-o-tempo-que-passa">É só o tempo que passa</a>
+<h3>Leia também:</h3>
+- <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
+- <a href="/o-meio-termo">O meio-termo</a>
+- <a href="/e-so-o-tempo-que-passa">É só o tempo que passa</a>

@@ -25,7 +25,7 @@ Coisas estranhas acontecem, o tempo todo, com todo mundo. Treinamos o nosso olha
 
 
 
-> Leia também:
-> - <a href="/coisas-estranhas-que-eu-vi-recentemente">Coisas estranhas que eu vi recentemente</a>
-> - <a href="/a-realidade-se-impoe">A realidade se impõe</a>
-> - <a href="/como-ser-feliz">Como ser feliz</a>
+<h3>Leia também:</h3>
+- <a href="/coisas-estranhas-que-eu-vi-recentemente">Coisas estranhas que eu vi recentemente</a>
+- <a href="/a-realidade-se-impoe">A realidade se impõe</a>
+- <a href="/como-ser-feliz">Como ser feliz</a>

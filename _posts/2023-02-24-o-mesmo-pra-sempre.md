@@ -20,7 +20,7 @@ Ninguém consegue suportar ser outro alguém e, por isso, lá no fundo, gostarí
 
 #cotidiano #comportamento 
 
-> Leia também:
-> - <a href="/sempre-o-mesmo">Sempre o mesmo</a>
-> - <a href="/de-onde-vem-o-conhecimento">De onde vem o conhecimento</a>
-> - <a href="/o-mundo-e-pequeno-pra-caramba">O mundo é pequeno pra caramba</a>
+<h3>Leia também:</h3>
+- <a href="/sempre-o-mesmo">Sempre o mesmo</a>
+- <a href="/de-onde-vem-o-conhecimento">De onde vem o conhecimento</a>
+- <a href="/o-mundo-e-pequeno-pra-caramba">O mundo é pequeno pra caramba</a>

@@ -21,7 +21,7 @@ Ninguém escapa da tentação de acreditar no destino e esperar por uma reviravo
 
 
 
-> Leia também:
-> - <a href="/e-so-o-tempo-que-passa">É só o tempo que passa</a>
-> - <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>
-> - <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>
+<h3>Leia também:</h3>
+- <a href="/e-so-o-tempo-que-passa">É só o tempo que passa</a>
+- <a href="/o-que-aprendi-fazendo-um-episodio-de-podcast-por-dia-durante-2016">O que aprendi fazendo um episódio de podcast por dia durante 2016</a>
+- <a href="/o-que-tem-de-interessante-em-voce">O que tem de interessante em você</a>

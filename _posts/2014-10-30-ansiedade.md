@@ -23,7 +23,7 @@ Ansiedade... coisa terrível.
 
 
 
-> Leia também:
-> - <a href="/a-experiencia-negativa">A experiência negativa</a>
-> - <a href="/trabalho-antes-de-tudo">Trabalho, antes de tudo</a>
-> - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
+<h3>Leia também:</h3>
+- <a href="/a-experiencia-negativa">A experiência negativa</a>
+- <a href="/trabalho-antes-de-tudo">Trabalho, antes de tudo</a>
+- <a href="/a-ausencia-da-memoria">A ausência da memória</a>

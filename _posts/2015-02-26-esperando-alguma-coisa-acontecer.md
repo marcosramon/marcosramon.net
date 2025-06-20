@@ -24,7 +24,7 @@ Como ninguém tem culpa de nada (já que cada faz de sua vida o que quer e trata
 
 
 
-> Leia também:
-> - <a href="/a-coisa-mais-importante">A coisa mais importante</a>
-> - <a href="/ficcoes-00-apresentacao">Ficções #00   apresentação</a>
-> - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
+<h3>Leia também:</h3>
+- <a href="/a-coisa-mais-importante">A coisa mais importante</a>
+- <a href="/ficcoes-00-apresentacao">Ficções #00   apresentação</a>
+- <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>

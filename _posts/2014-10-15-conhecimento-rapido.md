@@ -21,7 +21,7 @@ Livros de divulgação filosófica e científica podem ser pouco úteis, mas liv
 
 
 
-> Leia também:
-> - <a href="/o-conhecimento-obsoleto">O conhecimento obsoleto</a>
-> - <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>
-> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+<h3>Leia também:</h3>
+- <a href="/o-conhecimento-obsoleto">O conhecimento obsoleto</a>
+- <a href="/teses-romances-e-seus-leitores">Teses, Romances e seus leitores</a>
+- <a href="/nao-e-so-um-jogo">Não é só um jogo</a>

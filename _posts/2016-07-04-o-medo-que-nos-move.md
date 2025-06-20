@@ -2,12 +2,14 @@
 title: O medo que nos move
 date: 2016-07-04
 tags:
-  - pensamentos
-  - cotidiano
-description: "Estou aqui parado pensando em qualquer coisa que não signifique me esforçar. A minha vida é meio isso: um esforço de displicência, para…"
-image: 
-aliases:
+- pensamentos
+- cotidiano
+description: 'Estou aqui parado pensando em qualquer coisa que não signifique me esforçar.
+  A minha vida é meio isso: um esforço de displicência, para…'
+image: null
+aliases: null
 permalink: o-medo-que-nos-move
+author: Marcos Ramon
 ---
 Estou aqui parado pensando em qualquer coisa que não signifique me esforçar. A minha vida é meio isso: um esforço de displicência, para esquecer de tudo, me desenganar de tudo (ou quase).
 
@@ -26,7 +28,7 @@ Pintura de [Joel Rea](http://www.joelrea.com.au/)
 
 #pensamentos #cotidiano
 
-> Leia também:
-> - <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
-> - <a href="/escolha-o-tedio">Escolha o tédio</a>
-> - <a href="/eles-sabem-o-que-eu-nao-sei">Eles sabem o que eu não sei</a>
+<h3>Leia também:</h3>
+- <a href="/o-pior-e-o-melhor-de-todos-nos">O pior e o melhor de todos nós</a>
+- <a href="/escolha-o-tedio">Escolha o tédio</a>
+- <a href="/eles-sabem-o-que-eu-nao-sei">Eles sabem o que eu não sei</a>

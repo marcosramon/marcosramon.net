@@ -18,7 +18,7 @@ O encanto não se encontra em qualquer lugar. Mas saber que ainda podemos ter pa
 
 
 
-> Leia também:
-> - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
-> - <a href="/um-pouco-menos-de-postachio-por-enquanto">Um pouco menos de postach.io (por enquanto)</a>
-> - <a href="/e-so-um-algoritmo">É só um algoritmo</a>
+<h3>Leia também:</h3>
+- <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
+- <a href="/um-pouco-menos-de-postachio-por-enquanto">Um pouco menos de postach.io (por enquanto)</a>
+- <a href="/e-so-um-algoritmo">É só um algoritmo</a>

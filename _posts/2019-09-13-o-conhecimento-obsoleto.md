@@ -21,7 +21,7 @@ Mais uma vez, não acho que esse é o posicionamento da maioria. Nas minhas aula
 
 
 
-> Leia também:
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
-> - <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>
-> - <a href="/encarar-o-sofrimento">Encarar o sofrimento</a>
+<h3>Leia também:</h3>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+- <a href="/o-declinio-da-experiencia-e-a-importancia-da-critica">O declínio da experiência e a importância da crítica</a>
+- <a href="/encarar-o-sofrimento">Encarar o sofrimento</a>

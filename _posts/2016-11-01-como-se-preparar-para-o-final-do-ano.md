@@ -2,13 +2,14 @@
 title: Como se preparar para o final do ano
 date: 2016-11-01
 tags:
-  - pensamentos
-  - Aula
-  - ensino
+- pensamentos
+- Aula
+- ensino
 description: Dicas pra encarar o resto da ano letivo sem perder a cabeça
-image: 
-aliases:
+image: null
+aliases: null
 permalink: como-se-preparar-para-o-final-do-ano
+author: Marcos Ramon
 ---
 ## Dicas pra encarar o resto da ano letivo sem perder a cabeça
 
@@ -19,7 +20,7 @@ O final do ano vai chegando e eu, sendo professor, vejo os estudantes (principal
 
 #ensino #Aula
 
-> Leia também:
-> - <a href="/como-se-importar-muito-com-o-que-nao-importa">Como se importar muito com o que não importa</a>
-> - <a href="/alguem-sabe-o-que-esta-fazendo">Alguém sabe o que está fazendo</a>
-> - <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>
+<h3>Leia também:</h3>
+- <a href="/como-se-importar-muito-com-o-que-nao-importa">Como se importar muito com o que não importa</a>
+- <a href="/alguem-sabe-o-que-esta-fazendo">Alguém sabe o que está fazendo</a>
+- <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>

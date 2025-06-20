@@ -1,16 +1,18 @@
 ---
 title: Uma vida sem reflexão
 date: 2017-03-05
-excerpt: De acordo com Platão, Sócrates era da opinião de que uma vida sem reflexão não merecia ser vivida.
+excerpt: De acordo com Platão, Sócrates era da opinião de que uma vida sem reflexão
+  não merecia ser vivida.
 aliases:
-  - "[[Platão]]"
-  - "[[Sócrates]]"
-  - "[[filosofia]]"
-  - "[[reflexão]]"
-  - "[[liberdade]]"
+- '[[Platão]]'
+- '[[Sócrates]]'
+- '[[filosofia]]'
+- '[[reflexão]]'
+- '[[liberdade]]'
 permalink: uma-vida-sem-reflexao
+author: Marcos Ramon
 ---
-De acordo com Platão, [[Sócrates]] era da opinião de que uma vida sem reflexão não merecia ser vivida. Apesar da beleza desse tipo de proposta, a maior parte das pessoas de fato vivem sem refletir sobre a própria existência. Além disso, é bem provável que dentre esses, muitos ainda defendam que não refletir é o melhor que se pode fazer para viver bem.
+De acordo com Platão, Sócrates era da opinião de que uma vida sem reflexão não merecia ser vivida. Apesar da beleza desse tipo de proposta, a maior parte das pessoas de fato vivem sem refletir sobre a própria existência. Além disso, é bem provável que dentre esses, muitos ainda defendam que não refletir é o melhor que se pode fazer para viver bem.
 
 Nem todos possuem as mesmas oportunidades na vida. Enquanto alguns têm acesso a uma educação consistente, a maioria da população depende quase que exclusivamente da mídia para “entender” a realidade a sua volta. Em um contexto como esse, fica difícil exigir das pessoas que elas se comprometam com o pensamento livre e com as diferentes maneiras de se relacionar uns com os outros. A ausência de reflexão, assim, se torna um conforto. E o entretenimento constante se mostra como uma possibilidade de respiro diante da [agonia da liberdade](https://arcano5.com.br/como-suportar-a-liberdade-c0d8bcca74d6#.pfadcj2m4).
 
@@ -26,7 +28,7 @@ Colagem criada por <small><a href="http://marcosmtez.com/">Marcos Martínez</a>
 
 
 
-> Leia também:
-> - <a href="/a-experiencia-negativa">A experiência negativa</a>
-> - <a href="/saber-a-felicidade">Saber a felicidade</a>
-> - <a href="/a-realidade-e-nos-mesmos">A realidade e nós mesmos</a>
+<h3>Leia também:</h3>
+- <a href="/a-experiencia-negativa">A experiência negativa</a>
+- <a href="/saber-a-felicidade">Saber a felicidade</a>
+- <a href="/a-realidade-e-nos-mesmos">A realidade e nós mesmos</a>

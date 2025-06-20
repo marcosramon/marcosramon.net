@@ -1,12 +1,13 @@
 ---
 title: De onde vem o conhecimento?
 tags:
-  - conhecimento
-  - pensamento
-  - arte
-  - filosofia
+- conhecimento
+- pensamento
+- arte
+- filosofia
 date: 2016-08-15
 permalink: de-onde-vem-o-conhecimento
+author: Marcos Ramon
 ---
 A gente cresceu aprendendo que o conhecimento é algo necessário. Mas aprendemos também que o conhecimento é produzido por poucos, sendo muito difícil entrar nesse _clube_ de pessoas com habilidades especiais. Lemos os livros, assistimos aos filmes, ouvimos falar das inovações criadas por pessoas que souberam pensar de forma não tradicional, quebrando regras e se lançando para o desconhecido de maneira impetuosa e sem medo de errar. Quantas histórias assim você conhece? Leonardo da Vinci, Giordano Bruno, Van Gogh, Marcel Duchamp, Isadora Duncan, Jorge Luis Borges, Niels Bohr, Marie Curie, George Orwell, Clarice Lispector, Nina Simone, Malcolm X, Steve Jobs… Conseguiríamos, eu e você, ficar aqui num bate-bola eterno, citando nomes e nomes de pessoas incríveis que contestaram os valores de suas épocas e foram grandes em suas áreas específicas de atuação. Mas até que ponto somos estimulados a fazer o mesmo?
 
@@ -23,7 +24,7 @@ Ilustração de [Sveta Dorosheva](https://www.behance.net/lattona)
 
 #arte #conhecimento
 
-> Leia também:
-> - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
-> - <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
-> - <a href="/o-cansaco-nosso-de-cada-dia">O cansaço nosso de cada dia</a>
+<h3>Leia também:</h3>
+- <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
+- <a href="/a-internet-e-o-olhar-dos-outros">A internet e o olhar dos outros</a>
+- <a href="/o-cansaco-nosso-de-cada-dia">O cansaço nosso de cada dia</a>

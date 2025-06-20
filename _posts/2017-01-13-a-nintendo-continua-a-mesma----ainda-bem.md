@@ -2,12 +2,13 @@
 title: A Nintendo continua a mesma — ainda bem
 date: 2017-01-13
 tags:
-  - arte
-  - cultura
+- arte
+- cultura
 description: A Nintendo continua a mesma — ainda bem
-image: 
-aliases:
+image: null
+aliases: null
 permalink: a-nintendo-continua-a-mesma-ainda-bem
+author: Marcos Ramon
 ---
 Em 2013, com apenas um ano de lançamento do Wii U, eu [escrevi um texto defendendo que a Nintendo era a empresa mais relevante do mercado de consoles de videogames](https://arcano5.com.br/por-que-a-nintendo-ainda-e-a-empresa-mais-relevante-da-industria-de-videogames-812e77a600df#.vs3x9aaxy). E ainda penso a mesma coisa. Inclusive o argumento continua o mesmo: a Nintendo é a única empresa que se ocupa, realmente, com o público infantil — ainda que seus jogos não sejam só para crianças, como alguns dizem.
 
@@ -28,7 +29,7 @@ O que eu temia antes do anúncio do [Switch](http://www.nintendo.com/switch/) er
 
 #arte #cultura
 
-> Leia também:
-> - <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
-> - <a href="/todos-iguais">Todos iguais</a>
-> - <a href="/viver-o-trabalho">Viver o trabalho</a>
+<h3>Leia também:</h3>
+- <a href="/judith-butler-e-a-reflexao-filosofica-sobre-genero">Judith Butler e a reflexão filosófica sobre gênero</a>
+- <a href="/todos-iguais">Todos iguais</a>
+- <a href="/viver-o-trabalho">Viver o trabalho</a>
