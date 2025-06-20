@@ -158,57 +158,66 @@
   margin-bottom: 2rem; /* Adiciona espaço antes do corpo do texto */
 }
 
-/* Estilo para o bloco "Leia também" */
-.leia-tambem { /* Você precisará adicionar esta classe ao <div> que envolve a seção */
-  background-color: #f8f9fa; /* Um cinza muito claro */
-  border-left: 4px solid #007bff; /* Uma borda azul. Troque pela cor principal do seu site */
-  padding: 1.5em; /* Espaçamento interno generoso */
-  margin: 2em 0; /* Espaçamento externo (em cima e embaixo) */
+/* Opção 1: Caixa Refinada */
+.leia-tambem {
+  background-color: #f8f9fa;
+  border-left: 3px solid #007bff; /* Borda um pouco mais fina */
+  padding: 1.2em 1.5em; /* Um pouco menos de padding vertical */
+  margin: 2em 0;
   border-radius: 4px;
 }
 
-/* Título dentro do bloco */
 .leia-tambem h2 {
   margin-top: 0;
-  margin-bottom: 0.8em;
-  font-size: 1.2em; /* Um pouco maior que o texto normal */
+  margin-bottom: 1em;
+  font-size: 1.1em; /* Título um pouco menor */
+  font-weight: 600; /* Um pouco mais de peso */
 }
 
-/* Lista de links dentro do bloco */
 .leia-tambem ul {
-  list-style: none; /* Remove as bolinhas padrão */
+  list-style: none;
   padding-left: 0;
-  margin-bottom: 0;
+  margin: 0;
+  font-size: 0.9em; /* IMPORTANTE: Deixa o texto dos links 10% menor que o corpo */
 }
 
 .leia-tambem ul li {
-  padding-bottom: 0.5em; /* Espaçamento entre os links */
+  padding: 0.3em 0; /* Espaçamento mais sutil entre os links */
+  display: flex;
+  align-items: center;
 }
 
-/* Bloco que contém todas as notas de rodapé */
-.footnotes {
-  margin-top: 3em; /* Mais espaço separando do texto principal */
-  font-size: 0.85em; /* O mais importante: diminui o tamanho da fonte de tudo dentro */
-  color: #555; /* Um cinza escuro em vez de preto puro, para reduzir o contraste */
+/* O truque para o marcador personalizado */
+.leia-tambem ul li::before {
+  content: '→'; /* Pode ser '›', '•', ou qualquer outro símbolo */
+  margin-right: 0.7em;
+  color: #007bff; /* Cor do marcador, igual à da borda */
+  font-weight: bold;
 }
 
-/* Linha horizontal que geralmente separa as notas */
-.footnotes hr {
-  border-color: #ccc; /* Deixa a linha mais sutil */
+/* VERSÃO MAIS ESPECÍFICA DO CSS */
+
+/* Usando div.footnotes para aumentar a prioridade */
+div.footnotes {
+  margin-top: 3em;
+  font-size: 0.85em; 
+  color: #555; 
+}
+
+div.footnotes hr {
+  border-color: #ccc; 
   margin-bottom: 1.5em;
 }
 
-/* Itens da lista de notas */
-.footnotes ol {
-  padding-left: 1.2em; /* Ajusta o recuo dos números */
+div.footnotes ol {
+  padding-left: 1.2em; 
 }
 
-.footnotes li {
-  line-height: 1.5; /* Melhora a legibilidade com um espaçamento maior entre linhas */
+div.footnotes li {
+  line-height: 1.5; 
 }
 
-/* Remove o espaçamento extra do parágrafo dentro da nota */
-.footnotes li p {
+div.footnotes li p {
   margin-bottom: 0.8em;
 }
 
