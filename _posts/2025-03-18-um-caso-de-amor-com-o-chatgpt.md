@@ -107,8 +107,6 @@ Se, por um lado, é verdade que ainda são necessárias mais pesquisas, fica evi
 
 #inteligência-artificial #tecnologia 
 
----
-
 <div class="leia-tambem" markdown="1">
 ## Leia também:
 
