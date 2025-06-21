@@ -18,7 +18,7 @@ O podcast é uma mídia que está crescendo bastante. Em outubro se comemora o d
 
 Diante de tanta coisa que temos na internet, tantos textos, _memes_, vídeos, _gifs_ etc., acho que o podcast é interessante porque exige ainda um mínimo de desprendimento de outras coisas que você está fazendo para que você possa aproveitá-lo. Claro que cada um escuta podcast de um jeito: no carro, lavando louça, caminhando, no ônibus ou o que for; mas, diferentemente de uma _timeline_ infinita em que você pode ficar passando os olhos por horas sem necessariamente assimilar nada, para ouvir e entender o que está sendo dito em um podcast você precisa estar um pouco concentrado e disposto a refletir sobre algo. Se o podcast já nos trouxesse só isso, já teríamos um exercício fantástico, mas tem mais.
 
->[!ideia] https://mundopodcast.com.br/artigos/podcast-pode-te-proporcionar/
+> [O que o podcast pode te proporcionar](https://mundopodcast.com.br/artigos/podcast-pode-te-proporcionar/)
 
 É possível aprender muita coisa ouvindo podcast. E existe podcast sobre todo tipo de tema, com muitas possibilidades de abordagens. Infelizmente ainda temos poucas experimentações em relação ao formato dos podcasts no Brasil e a maioria deles se parece com uma conversa entre amigos sobre um tema qualquer. Mas qual é o problema com esse formato? Bem, o problema não é o formato em si, mas como se costuma trabalhar com ele. Pra mim, um podcast de bate-papo geralmente acaba se parecendo com uma dessas duas coisas:
 
@@ -75,7 +75,7 @@ Agora, se você me aguentou até aqui, as minhas indicações: nos exemplos que 
 
 ---
 
-> [!info] **Alguns bônus**
+> **Alguns bônus**
 
 Vou deixar aqui algumas dicas rápidas de outros podcasts bacanas que descobri nesse ano, mas sem indicar um episódio específico:
 
