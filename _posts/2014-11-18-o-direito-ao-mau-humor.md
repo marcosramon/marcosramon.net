@@ -27,7 +27,9 @@ Hoje sou professor em instituição pública e se um estudante pergunta a mesma 
 O funcionalismo público tem muitos, muitos problemas, mas se tiver que apontar uma grande vantagem, é essa: o direito ao mau humor.
 
 <img src="/assets/img/blackhole.jpg">
-<small>Cenas do clipe *Black Hole Sun*, do Soundgarden. Veja os sorrisos sinceros.</small><div class="leia-tambem" markdown="1">
+<small>Cenas do clipe *Black Hole Sun*, do Soundgarden. Veja os sorrisos sinceros.</small>
+
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
