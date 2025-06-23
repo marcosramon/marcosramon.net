@@ -20,7 +20,9 @@ Eu não consegui dizer nada além de: "Não sei, filho. Todo dia a gente fica ma
      
 Vai ver que é só isso, o tempo que passa.
 
-<img src="/assets/img/Pasted image 20250225130816.png"><div class="leia-tambem" markdown="1">
+<img src="/assets/img/Pasted image 20250225130816.png">
+
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-que-e-ser-criativo">O que é ser criativo</a>
