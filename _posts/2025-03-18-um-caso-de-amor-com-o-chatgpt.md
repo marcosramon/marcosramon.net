@@ -106,8 +106,6 @@ Se, por um lado, é verdade que ainda são necessárias mais pesquisas, fica evi
 <small>Adobe Stock</small>
 
 <div class="leia-tambem" markdown="1">
-
-<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 * <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>
