@@ -193,7 +193,7 @@
 div.footnotes {
   margin-top: 3em;
   font-size: 0.85em; 
-  color: #555; 
+  color: var(--color-text-sub); /* <-- AQUI ESTÁ A MUDANÇA */
 }
 
 div.footnotes hr {
