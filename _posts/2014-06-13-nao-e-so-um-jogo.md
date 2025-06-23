@@ -22,7 +22,9 @@ Mas o juiz não. Esse não pode errar. Esse não pode ser considerado um ser hum
  
 Estão vendo, não é só um jogo. É a melhor representação do que nós somos.
 
-<img src="/assets/img/penaltifred.jpg"><div class="leia-tambem" markdown="1">
+<img src="/assets/img/penaltifred.jpg">
+
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/e-so-um-algoritmo">É só um algoritmo</a>
