@@ -35,6 +35,6 @@ Em outro texto vou destacar o valor do mito e sua importância em culturas disti
 
 - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
 - <a href="/a-arte-depois-da-arte">A arte depois da arte</a>
-- [[2019-08-12-o-declinio-da-experiencia-e-a-importancia-da-critica|O declínio da experiência e a importância da crítica]]
+- [[2019-08-12-o-declinio-da-experiencia-e-a-importancia-da-critica]]
 </div>
 
