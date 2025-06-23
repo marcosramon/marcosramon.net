@@ -1,7 +1,7 @@
 ---
 title: Sobre o espetáculo “Mobilidade Cultural — Corpos em Movimento” (para os estudantes
   e professores envolvidos)
-date: 2015-04-08 00:00:00+00:00
+date: 2015-04-08
 author: Marcos Ramon
 description: O que a arte pode fazer com a gente?
 tags:
@@ -25,7 +25,9 @@ Dizer que amei tudo o que vi, ouvi e senti por causa de vocês é fazer uso de u
 
 E não digo também que amei simplesmente porque gostei do espetáculo, mas sim porque ele me fez desejar ser o que não sou — e não é todo dia que se vive algo assim.
 
-Vendo vocês entendi que eu sou humano. E que bom é poder descobrir isso! Eu invejo. Eu amo. E isso, pra mim, é quase dançar.<div class="leia-tambem" markdown="1">
+Vendo vocês entendi que eu sou humano. E que bom é poder descobrir isso! Eu invejo. Eu amo. E isso, pra mim, é quase dançar.
+
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/uma-reflexao-sobre-o-podcast-e-alguns-dos-melhores-episodios-que-eu-ouvi-em-2015">Uma reflexão sobre o podcast — e alguns dos melhores episódios que eu ouvi em 2015</a>
