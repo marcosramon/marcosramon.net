@@ -37,7 +37,9 @@ Quero ter espaço na cabeça para pensar e desejar, mas por mim mesmo, sem algor
 <img src="assets/img/Pasted%20image%2020250224205847.png">
 *Untitled (Dada) por Hannah Höch, 1922*
 
-<h4>Leia também:</h4>
+<div class="leia-tambem" markdown="1">
+## Leia também:
 - <a href="/olhando-com-cuidado">Olhando com cuidado</a>
 - <a href="/ler-menos">Ler menos</a>
 - <a href="/progredir-sem-medo-de-errar">Progredir, sem medo de errar</a>
+</div>
