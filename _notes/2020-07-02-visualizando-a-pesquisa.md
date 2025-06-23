@@ -1,16 +1,17 @@
 ---
 title: Visualizando a pesquisa
-date: 2020-07-02 00:00:00+00:00
+date: 2020-07-02
 author: Marcos Ramon
 description: Observando termos relacionados em uma reunião do grupo de pesquisa.
 tags:
-- Https
-- Partir
-- Grafos
-- Aqui
-- Possível
+  - Https
+  - Partir
+  - Grafos
+  - Aqui
+  - Possível
 published: true
 permalink: visualizando-a-pesquisa
+feed: show
 ---
 Na última terça, no grupo de pesquisa, começamos a leitura do livro "[O objeto ansioso](https://amzn.to/31Cyz6L)", de Harold Rosenberg. A partir das discussões pelo Google Meet (éramos seis pessoas) montei um grafo com as anotações das nossas falas e reflexões: 
 

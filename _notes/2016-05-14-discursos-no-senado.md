@@ -2,17 +2,17 @@
 title: Discursos no Senado
 date: 2016-05-14
 tags:
-- reflexão
-- cotidiano
-- pensamento
-- Grafos
-- pesquisa
-description: Na última quarta-feira, dia 11/05, os senadores aprovaram o relatório
-  favorável à admissibilidade do processo de impeachment contra a…
-image: null
-aliases: null
+  - reflexão
+  - cotidiano
+  - pensamento
+  - Grafos
+  - pesquisa
+description: Na última quarta-feira, dia 11/05, os senadores aprovaram o relatório favorável à admissibilidade do processo de impeachment contra a…
+image: 
+aliases: 
 permalink: discursos-no-senado
 author: Marcos Ramon
+feed: show
 ---
 Na última quarta-feira, dia 11/05, os senadores aprovaram o relatório favorável à admissibilidade do processo de impeachment contra a presidente Dilma Rousseff.
 

@@ -1,17 +1,17 @@
 ---
 title: O gênio maligno
-date: 2020-09-20 00:00:00+00:00
+date: 2020-09-20
 author: Marcos Ramon
-description: Para Descartes a dúvida é a prova cabal que existimos. Mas será essa
-  certeza inabalável uma garantia de paz de espírito?
+description: Para Descartes a dúvida é a prova cabal que existimos. Mas será essa certeza inabalável uma garantia de paz de espírito?
 tags:
-- Descartes
-- Deus
-- Gênio
-- Maligno
-- Saber
+  - Descartes
+  - Deus
+  - Gênio
+  - Maligno
+  - Saber
 published: true
 permalink: o-genio-maligno
+feed: show
 ---
 Descartes, apesar de não ser cético, utilizava o ceticismo como método. O filósofo francês, considerado por muitos como pai da Filosofia Moderna, defendia que devemos duvidar de tudo num primeiro instante. Mas, diferentemente dos céticos, ele não acreditava que deveríamos parar na dúvida; é preciso superá-la para [produzir conhecimento](https://marcosramon.net/conhecimento-filosofico) e, sim, é possível fazer isso com o uso das nossas capacidades racionais, algo que os céticos negavam.
 

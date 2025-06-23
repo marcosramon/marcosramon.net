@@ -2,16 +2,15 @@
 title: O declínio da experiência e a importância da crítica
 date: 2019-08-12 00:00:00+00:00
 author: Marcos Ramon
-description: Quando eu estava na Universidade cursando a Licenciatura em Filosofia,
-  tínhamos uma disciplina que era ministrada por dois professores que se alternavam
-  a cada semestre. Um só falava de Benjamin, o outro, de Heidegger.
+description: Quando eu estava na Universidade cursando a Licenciatura em Filosofia, tínhamos uma disciplina que era ministrada por dois professores que se alternavam a cada semestre. Um só falava de Benjamin, o outro, de Heidegger.
 tags:
-- filosofia
-- história
-- experiência
-- arte
+  - filosofia
+  - história
+  - experiência
+  - arte
 published: true
 permalink: o-declinio-da-experiencia-e-a-importancia-da-critica
+feed: show
 ---
 Quando eu estava na Universidade cursando a Licenciatura em Filosofia, tínhamos uma disciplina que era ministrada por dois professores que se alternavam a cada semestre. Um só falava de Benjamin, o outro, de Heidegger. Eu fiz a tal disciplina no modo Benjamin, e foi uma boa surpresa. Conheci ali um autor contemporâneo que, primeiro, não era impossível de ler e, segundo, tinha um apreço realmente gigante pela arte e pela forma como arte nos afeta, modificando nossa forma de entender e sentir a realidade. Heidegger, eu descobri depois, também tinha uma perspectiva poética na escrita (principalmente nos últimos textos), mas sinto até hoje que ele é um autor que pensa em voz alta no lugar de dialogar com o leitor. Benjamin não; ali eu reconheci o que mais admiro em qualquer escritor: a capacidade de se aproximar de quem lê.
 

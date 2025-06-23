@@ -2,15 +2,15 @@
 title: Treze teses para escritores
 date: 2016-06-02
 tags:
-- pensamentos
-- escrita
-- filosofia
-- Escrever
-description: Na década de 1930 Walter Benjamin escreveu uma série de listas inspiradas
-  pelo número treze (A técnica do escritor em treze teses, Treze…
-image: null
+  - pensamentos
+  - escrita
+  - filosofia
+  - Escrever
+description: Na década de 1930 Walter Benjamin escreveu uma série de listas inspiradas pelo número treze (A técnica do escritor em treze teses, Treze…
+image: 
 permalink: treze-teses-para-escritores
 author: Marcos Ramon
+feed: show
 ---
 Na década de 1930 [Walter Benjamin](https://pt.wikipedia.org/wiki/Walter_Benjamin) escreveu uma série de listas inspiradas pelo número treze (_A técnica do escritor em treze teses_, _Treze teses contra esnobes_, _A técnica do crítico em treze teses, No.13, O caminho do sucesso em treze teses)._ Essas teses estão publicadas em português no livro [Rua de Mão Única](http://www.amazon.com.br/gp/product/851135011X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=851135011X&linkCode=as2&tag=marcramo-20&linkId=3UFJ3XGKMIRDYNID).
 

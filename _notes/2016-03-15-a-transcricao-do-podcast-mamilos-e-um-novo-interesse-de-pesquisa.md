@@ -2,18 +2,19 @@
 title: A transcrição do podcast “Mamilos” e um novo interesse de pesquisa
 date: 2016-03-15
 tags:
-- arte
-- tecnologia
-- cultura
-- política
-- Grafos
-- podcast
-- pesquisa
+  - arte
+  - tecnologia
+  - cultura
+  - política
+  - Grafos
+  - podcast
+  - pesquisa
 description: A transcrição do podcast “Mamilos” e um novo interesse de pesquisa
-image: null
-aliases: null
+image: 
+aliases: 
 permalink: a-transcricao-do-podcast-mamilos-e-um-novo-interesse-de-pesquisa
 author: Marcos Ramon
+feed: show
 ---
 <img src="/assets/img/a-transcrição-do-podcast-“mamilos”-e-um-novo-interesse-de pesquisa-medium-1.png">
 
