@@ -1,5 +1,5 @@
 ---
-title: Quatro minutos e 33 segundos
+title: Quatro minutos e trinta e três segundos
 date: 2015-12-21
 tags:
 - arte
