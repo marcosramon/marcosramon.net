@@ -20,7 +20,9 @@ Os primeiros teóricos otimistas que analisavam a internet, acreditavam que ela 
 
 Mas isso é realmente um problema? Só o tempo vai dizer. De qualquer forma, já sabemos que os algoritmos são mais do que meras linhas de programação. Em muitas situações são eles que nos comandam, e não nós a eles; e isso, por si só, já deveria ser um alerta.
 
-![](arquivos/web.png)<div class="leia-tambem" markdown="1">
+<img src="/assets/img/web.png">
+
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>
