@@ -47,9 +47,11 @@ Talvez isso tenha acontecido porque achei que _Coiote_ ia me fazer sentir as sen
 
 Agora que reli esse livro que eu amava tanto e não me empolguei como imaginava, reforço um pensamento contrário ao comum: reler é melhor do que ler (Schopenhauer escreveu sobre isso, aliás). Porque, ao reler, aprendemos mais sobre o texto, mas, principalmente, aprendemos mais sobre nós mesmos, nos reencontramos com o que somos agora. E isso, por si só, já vale o risco.
 
-![](arquivos/Pasted%20image%2020250224205642.png)
+<img src="/assets/img/Pasted%20image%2020250224205642.png">
 
-[^1]: Eu nunca tinha esquecido, por exemplo, da cena de uma mulher em uma instituição psiquiátrica, sendo arrastada por enfermeiros e recitando o discurso de Brutus no *Júlio César*, de Shakespeare. Épico.<div class="leia-tambem" markdown="1">
+[^1]: Eu nunca tinha esquecido, por exemplo, da cena de uma mulher em uma instituição psiquiátrica, sendo arrastada por enfermeiros e recitando o discurso de Brutus no *Júlio César*, de Shakespeare. Épico.
+
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/ler-menos">Ler menos</a>
