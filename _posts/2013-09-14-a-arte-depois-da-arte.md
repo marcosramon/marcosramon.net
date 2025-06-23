@@ -1,6 +1,6 @@
 ---
 title: A arte depois da arte
-date: 2013-09-14 00:00:00+00:00
+date: 2013-09-14
 categories:
 - blog
 tags:
