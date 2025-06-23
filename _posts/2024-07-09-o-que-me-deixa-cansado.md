@@ -14,6 +14,7 @@ O problema não é isso, mas o que está fora. Esse "fora" são as demandas do t
 Eu queria isso, simplesmente existir. Não parece possível.
 
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/cuPm4p4pClZVC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cuPm4p4pClZVC">via GIPHY</a></p>
+
 <div class="leia-tambem" markdown="1">
 ## Leia também:
 
