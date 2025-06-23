@@ -16,7 +16,9 @@ Você não vai conseguir e vai se sentir frustrado, mas lá no fundo vai ter que
 
 Queria tentar me dedicar mais a todas as coisas que acho que são importantes. Às vezes, quando inicio uma coisa pequena mas legal, já me sinto bem, me sinto animado e um pouco do cansaço dá espaço pra empolgação. Nesses dias começou a funcionar o meu [grupo de pesquisa no IFB](http://www.gpinterface.com.br/) (se você estiver em Brasília em algum momento visita a gente lá). A ideia é simples e nunca foi difícil de realizar: encontrar pessoas interessadas em discutir temas comuns, escrever, produzir pesquisa... É simples, mas sempre tive a desculpa - que eu dava pra mim mesmo - de que não adiantava acelerar mais. Mas deu.
 
-E você, como andam os seus projetos? Continua no caminho?<div class="leia-tambem" markdown="1">
+E você, como andam os seus projetos? Continua no caminho?
+
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-cansaco-nosso-de-cada-dia">O cansaço nosso de cada dia</a>
