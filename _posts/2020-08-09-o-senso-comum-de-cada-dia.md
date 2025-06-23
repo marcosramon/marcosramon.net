@@ -25,7 +25,9 @@ Mesmo assim, é fato que a ciência tem seus erros. Por isso, a questione e não
 [^1]: O físico <a href="https://g.co/kgs/njJ7JZ">Niels Bohr</a>, por exemplo, tinha uma ferradura em sua porta, por superstição. 
 
 <img src="/assets/img/Sidney-Harris.jpg">
-<small>Cartoon de <a href="https://g.co/kgs/dxm2L6">Sidney Harris</a></small><div class="leia-tambem" markdown="1">
+<small>Cartoon de <a href="https://g.co/kgs/dxm2L6">Sidney Harris</a></small>
+
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-cansaco-nosso-de-cada-dia">O cansaço nosso de cada dia</a>
