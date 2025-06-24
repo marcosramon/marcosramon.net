@@ -7,15 +7,15 @@ permalink:
 author: Marcos Ramon
 feed: show
 ---
-No último ano estou desenvolvendo uma pesquisa sobre metodologias de ensino de Filosofia. Voltada especificamente para a minha atuação no IFB, especialmente nos cursos de Ensino Médio Integrado, a ideia é tentar desenvolver estratégias para ensinar Filosofia com mais qualidade e de uma maneira que faça mais sentido para os estudantes do Ensino Médio.
+Atualmente estou desenvolvendo uma pesquisa sobre metodologias de ensino em Filosofia. Voltada especificamente para a minha atuação no IFB, especialmente nos cursos de Ensino Médio Integrado, a ideia desse projeto é tentar desenvolver estratégias para ensinar Filosofia com mais qualidade e de uma maneira que faça mais sentido para os estudantes do Ensino Médio.
 
-Em tempos de ChatGPT, fake news e Tik Tok, como pode a filosofia sobreviver no Ensino Médio? Sempre foi difícil, e agora cada vez mais. Mas, contraditoriamente, talvez seja agora o momento em que a filosofia na educação básica se mostra mais relevante.
+Afinal, em tempos de ChatGPT, fake news e Tik Tok, como pode a filosofia sobreviver na educação básica? Não tenho nenhuma resposta boa para essa pergunta, além de dizer que [[Ensinar é difícil|ensinar sempre foi difícil]] e que agora é ainda mais. Mas, contraditoriamente, penso que talvez seja agora o momento em que a filosofia na escola se mostra mais relevante.
 
-Na minha época de graduação, no início dos anos 2000, havia um debate curioso sobre este tema. Enquanto alguns pesquisadores da Universidade alegavam que a filosofia no Ensino Médio era desnecessária — porque envolvia processos de leitura e escrita que eram muitos complexos para os estudantes daquele nível — professores demandavam a presença da disciplina para garantir um espaço de trabalho. O tema, portanto, era tratado em torno de questões operacionais: a dificuldade do ensino e a necessidade de acomodar profissionais no mercado. Mas quase nada se falava sobre a relevância do tema.
+Na minha época de graduação, no início dos anos 2000, havia um debate curioso sobre este tema. Enquanto alguns pesquisadores da Universidade alegavam que a filosofia no Ensino Médio era desnecessária — porque envolvia processos de leitura e escrita que eram muitos complexos para os estudantes daquele nível —, muitos professores demandavam a presença da disciplina para garantir um espaço de trabalho. O tema, portanto, era tratado em torno de questões operacionais: a dificuldade do ensino e a necessidade de acomodar profissionais no mercado. Mas quase nada se falava sobre a relevância da filosofia para aqueles estudantes.
 
-Agora não há outro caminho: a filosofia deve persistir no Ensino Médio por sua relevância. E entender como ensinar essa disciplina, como torná-la interessante, agradável e significativa, é algo cada vez mais importante.
+Agora, quando vivemos na expectativa de que em um futuro próximo talvez não haja mais ensino presencial algum (por conta do advento de [[LLM|LLMs]] de todo tipo e outras questões relacionadas ao uso de [[inteligência artificial]]) não há mais outro caminho: a filosofia deve ~~existir~~ persistir no Ensino Médio por sua relevância e urgência, e só. Por isso, entender como ensinar essa disciplina, tornando-a interessante, agradável e significativa, é algo que ocupa parte do meu tempo.
 
-<img src="Captura de tela 2025-06-24 133327.png">
+<img src="/assets/img/tuymans-conversation.png">
 <small>The conversation, Luc Tuymans</small>
 
 
@@ -23,6 +23,6 @@ Agora não há outro caminho: a filosofia deve persistir no Ensino Médio por su
 ## Leia também:
 
 - <a href="/decidir">[[A origem da filosofia]]
-- [[2019-10-10-o-desafio-de-ensinar|O desafio de ensinar]]
+- <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>
 - [[Ensinar é difícil]]
 </div>
