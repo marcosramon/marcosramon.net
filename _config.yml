@@ -52,6 +52,12 @@ collections:
     output: true
     permalink: /post/:title
 
+# Adicione esta seção para incluir 'posts' e 'notes' no feed
+feed:
+  collections:
+    - posts
+    - notes
+
 # Markdown settings
 markdown: kramdown
 kramdown:
