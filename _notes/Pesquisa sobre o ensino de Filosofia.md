@@ -21,7 +21,7 @@ Agora, quando vivemos na expectativa de que em um futuro próximo talvez não ha
 <div class="leia-tambem" markdown="1">
 ## Leia também:
 
-- [[A origem da filosofia]]
+- [[A origem da Filosofia]]
 - <a href="/o-desafio-de-ensinar">O desafio de ensinar</a>
 - [[Ensinar é difícil]]
 </div>
