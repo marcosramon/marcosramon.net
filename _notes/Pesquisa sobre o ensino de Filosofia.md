@@ -1,11 +1,10 @@
 ---
 title: Pesquisa sobre o ensino de Filosofia
-date: 2025-06-24
+date: 025-06-24 15:10:00 -0300
 tags: 
 description: 
 permalink: 
 author: Marcos Ramon
-feed: show
 ---
 Atualmente estou desenvolvendo uma pesquisa sobre metodologias de ensino em Filosofia. Voltada especificamente para a minha atuação no IFB, especialmente nos cursos de Ensino Médio Integrado, a ideia desse projeto é tentar desenvolver estratégias para ensinar Filosofia com mais qualidade e de uma maneira que faça mais sentido para os estudantes do Ensino Médio.
 
