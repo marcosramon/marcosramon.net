@@ -1,6 +1,6 @@
 ---
 title: Pesquisa sobre o ensino de Filosofia
-date: 025-06-24 15:10:00 -0300
+date: 2025-06-24 15:10:00 -0300
 tags: 
 description: 
 permalink: 
