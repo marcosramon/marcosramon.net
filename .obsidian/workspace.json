@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Pesquisa sobre o ensino de Filosofia.md",
+                "file": "_notes/Public/Pesquisa sobre o ensino de Filosofia.md",
                 "mode": "source",
                 "source": false
               },
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Teste de controle notes.md",
+                "file": "_notes/Public/Teste de controle notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -266,20 +266,21 @@
   },
   "active": "f5ac7fe560e36b7d",
   "lastOpenFiles": [
+    "_site/note/Teste-de-controle-notes.html",
+    "_notes/Public/A origem da Filosofia.md",
+    "_notes/Public/Pesquisa sobre o ensino de Filosofia.md",
+    "_notes/Public/Teste de controle notes.md",
     "_site/pesquisa-sobre-o-ensino-de-filosofia.html",
     "_site/Teste de controle notes.html",
     "_site/post/teste-de-controle-post.html",
     "_site/post",
     "_posts/2025-06-24-teste-de-controle-post.md",
-    "_notes/Teste de controle notes.md",
     "_site/2025-06-24-teste-de-controle-post.html",
     "_site/a-transcricao-do-podcast-mamilos-e-um-novo-interesse-de-pesquisa.html",
     "_site/um-experimento-de-escrita.html",
     "_site/quatro-minutos-e-trinta-e-tres-segundos.html",
     "_site/visualizando-a-hashtag-diadopodcast.html",
     "_site/o-que-nietzsche-pode-ensinar-aos-debatedores-da-web.html",
-    "_site/sobre-o-ritual-do-corpo-entre-os-sonacirema.html",
-    "_notes/Pesquisa sobre o ensino de Filosofia.md",
     "_site/assets/img/índice2.png",
     "_site/assets/img/índice.png",
     "_site/assets/img/yoon.gif",
@@ -293,10 +294,9 @@
     "_site/assets/img/teste.md",
     "_site/assets/img/nada.md",
     "_site/assets/img/imagens.md",
-    "_notes/A origem da Filosofia.md",
     "_notes/Private/Markdown Rendered.md",
-    "_notes/Estamos perdidos.md",
-    "_notes/Quatro minutos e trinta e três segundos.md",
+    "_notes/Public/Estamos perdidos.md",
+    "_notes/Public/Quatro minutos e trinta e três segundos.md",
     "pages/lists.md",
     "pages/posts.md",
     "pages/index.md",
@@ -305,12 +305,12 @@
     "Callouts.md",
     "templates/Posts.md",
     "templates/Notes.md",
-    "_notes/Escola em tempo integral.md",
-    "_notes/Ensinar é difícil.md",
-    "_notes/Razão, intuição e um sentido para existir.md",
-    "_notes/A presunção moral.md",
-    "_notes/Marx e as diferentes faces da dialética.md",
-    "_notes/Cientificamente comprovado.md",
-    "_notes/Viver de arte.md"
+    "_notes/Public/Escola em tempo integral.md",
+    "_notes/Public/Ensinar é difícil.md",
+    "_notes/Public/Razão, intuição e um sentido para existir.md",
+    "_notes/Public/A presunção moral.md",
+    "_notes/Public/Marx e as diferentes faces da dialética.md",
+    "_notes/Public/Cientificamente comprovado.md",
+    "_notes/Public/Viver de arte.md"
   ]
 }
