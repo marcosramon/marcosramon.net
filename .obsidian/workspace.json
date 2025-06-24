@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/index.md",
+                "file": "pages/lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "lists"
             }
           }
         ],
@@ -224,11 +224,11 @@
   },
   "active": "4fa66abda5639d46",
   "lastOpenFiles": [
+    "pages/posts.md",
+    "pages/index.md",
     "pages/404.md",
     "pages/notes.md",
-    "pages/posts.md",
     "pages/lists.md",
-    "pages/index.md",
     "Callouts.md",
     "templates/Posts.md",
     "Untitled.md",
