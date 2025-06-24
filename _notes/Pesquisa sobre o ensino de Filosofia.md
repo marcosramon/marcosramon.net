@@ -2,7 +2,7 @@
 title: Pesquisa sobre o ensino de Filosofia
 date: 2025-06-24 15:10:00 -0300
 tags: 
-description: 
+description: "Uma reflexão sobre os desafios e a relevância do ensino de Filosofia na educação básica em tempos de inteligência artificial e fake news."
 permalink: 
 author: Marcos Ramon
 feed: show
