@@ -76,9 +76,37 @@
               "icon": "lucide-file",
               "title": "Pesquisa sobre o ensino de Filosofia"
             }
+          },
+          {
+            "id": "94869ddac00d46ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-06-24-teste-de-controle-post.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-24-teste-de-controle-post"
+            }
+          },
+          {
+            "id": "b5561b9742340fa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teste de controle notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Teste de controle notes"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -236,13 +264,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5ac7fe560e36b7d",
+  "active": "b5561b9742340fa7",
   "lastOpenFiles": [
-    "_notes/A origem da Filosofia.md",
+    "_site/Teste de controle notes.html",
+    "_site/post/teste-de-controle-post.html",
+    "_site/post",
+    "_posts/2025-06-24-teste-de-controle-post.md",
+    "Teste de controle notes.md",
+    "_site/2025-06-24-teste-de-controle-post.html",
+    "_site/a-transcricao-do-podcast-mamilos-e-um-novo-interesse-de-pesquisa.html",
+    "_site/um-experimento-de-escrita.html",
+    "_site/quatro-minutos-e-trinta-e-tres-segundos.html",
+    "_site/visualizando-a-hashtag-diadopodcast.html",
+    "_site/o-que-nietzsche-pode-ensinar-aos-debatedores-da-web.html",
+    "_site/sobre-o-ritual-do-corpo-entre-os-sonacirema.html",
+    "_site/escola-em-tempo-integral.html",
     "_notes/Pesquisa sobre o ensino de Filosofia.md",
+    "_site/assets/img/índice2.png",
+    "_site/assets/img/índice.png",
+    "_site/assets/img/yoon.gif",
+    "_site/assets/img/yan.gif",
+    "_site/assets/img/writing-bacon.png",
+    "_site/assets/img/willem+weismann.png",
+    "_site/assets/img/wilde.jpg",
+    "_site/assets/img/web.png",
+    "_site/assets/img/warhol-dollar-bill-sothebys-2.jpg",
+    "_site/assets/img/viverdearte.jpeg",
+    "_site/assets/img/teste.md",
+    "_site/assets/img/nada.md",
+    "_site/assets/img/imagens.md",
+    "_notes/A origem da Filosofia.md",
     "_notes/Private/Markdown Rendered.md",
-    "_notes/Private",
-    "assets/img/tuymans-conversation.png",
     "_notes/Estamos perdidos.md",
     "_notes/Quatro minutos e trinta e três segundos.md",
     "pages/lists.md",
@@ -259,30 +311,6 @@
     "_notes/A presunção moral.md",
     "_notes/Marx e as diferentes faces da dialética.md",
     "_notes/Cientificamente comprovado.md",
-    "_notes/Viver de arte.md",
-    "_notes/Interesse pelo feio.md",
-    "_notes/Sobre Van Gogh.md",
-    "_notes/Comunicar.md",
-    "_notes/Teses, Romances e seus leitores.md",
-    "_notes/Visualizando as letras do Bob Dylan.md",
-    "_notes/Podcastfriday, três meses depois.md",
-    "_posts/remover_hashtags.py",
-    "_posts/atualizar_leia_tambem.py",
-    "_includes/data-formatada.html",
-    "assets/audio",
-    "Blog",
-    "assets/audio/ayrin (2).mp3",
-    "assets/img/arquivos/#diadopodcast-2017-medium-1.png",
-    "assets/img/writing-bacon.png",
-    "assets/img/viver-o trabalho-medium.jpeg",
-    "assets/img/viver-esquecendo-medium.jpeg",
-    "assets/img/viver-em-sociedade-medium.jpeg",
-    "assets/img/visualizando-letras-de-música-como networks-medium-6.png",
-    "assets/img/visualizando-letras-de-música-como networks-medium-5.jpeg",
-    "assets/img/visualizando-letras-de-música-como networks-medium-4.png",
-    "assets/img/visualizando-letras-de-música-como networks-medium-3.jpeg",
-    "assets/img/peanuts",
-    "assets/img/o-desapego-medium",
-    "assets/img/goodreads-(ou"
+    "_notes/Viver de arte.md"
   ]
 }
