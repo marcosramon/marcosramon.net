@@ -34,7 +34,7 @@ Em outro texto vou destacar o valor do mito e sua importância em culturas disti
 ## Leia também:
 
 - <a href="/a-ausencia-da-memoria">A ausência da memória</a>
-- <a href="/a-arte-depois-da-arte">A arte depois da arte</a>
+- [[O gênio maligno]]
 - [[O declínio da experiência e a importância da crítica]]
 </div>
 

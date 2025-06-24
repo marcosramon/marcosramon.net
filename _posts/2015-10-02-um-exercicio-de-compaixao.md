@@ -10,7 +10,7 @@ tags:
 published: true
 permalink: um-exercicio-de-compaixao
 ---
-Só quando escondemos algo de nós mesmos é que nos supreendemos com o fato de que a nossa realidade é mais incompreensível do que imaginamos.
+Só quando escondemos algo de nós mesmos é que nos surpreendemos com o fato de que a nossa realidade é mais incompreensível do que imaginamos.
 
 É muito simples considerar as coisas como problemas quando sentimos/percebemos que essas coisas são externas a nós. Mas aceitar que o problema está com a gente é algo quase insuportável. E isso tudo tem consequências. 
 

@@ -2,15 +2,15 @@
 title: Visualizando as letras do Bob Dylan
 date: 2016-11-11
 tags:
-- pensamentos
-- música
-- Grafos
-- pesquisa
-description: O Eduardo Friedman fez uma seleção com algumas das melhores letras do
-  Bob Dylan. No post ele explica o motivo da escolha das canções e do…
-image: null
+  - pensamentos
+  - música
+  - Grafos
+  - pesquisa
+description: O Eduardo Friedman fez uma seleção com algumas das melhores letras do Bob Dylan. No post ele explica o motivo da escolha das canções e do…
+image: 
 permalink: visualizando-as-letras-do-bob-dylan
 author: Marcos Ramon
+feed: show
 ---
 O [Eduardo Friedman](https://medium.com/u/4c7cd2bb169b) fez uma seleção com algumas das melhores letras do Bob Dylan. [No post](https://cabineliteraria.com.br/melhores-letras-do-dylan-1964-1976-4f7715f25940#.1tgafgnht) ele explica o motivo da escolha das canções e do período da obra do Dylan (1964–1976). Como forma de contribuir/retribuir, eu fiz um [grafo](https://pt.wikipedia.org/wiki/Teoria_dos_grafos) com os termos mais utilizados pelo Dylan nesse conjunto de letras.
 

@@ -36,7 +36,7 @@ Infelizmente não encontrei uma transcrição com os discursos completos dos sen
 <div class="leia-tambem" markdown="1">
 ## Leia também:
 
-- <a href="/a-experiencia-negativa">A experiência negativa</a>
+- [[A transcrição do podcast “Mamilos” e um novo interesse de pesquisa]]
 - <a href="/o-que-realmente-importa">O que realmente importa</a>
 - <a href="/as-primeiras-horas-da-manha">As primeiras horas da manhã</a>
 </div>

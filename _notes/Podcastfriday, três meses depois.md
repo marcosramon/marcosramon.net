@@ -2,27 +2,21 @@
 title: Podcastfriday, três meses depois
 date: 2016-12-19
 tags:
-- filosofia
-- reflexão
-- cotidiano
-- cultura
-- arte
-- Grafos
-- pesquisa
-- podcast
+  - filosofia
+  - reflexão
+  - cotidiano
+  - cultura
+  - arte
+  - Grafos
+  - pesquisa
+  - podcast
 description: Uma análise da
-image: null
-aliases: null
+image: 
+aliases: 
 permalink: podcastfriday-tres-meses-depois
 author: Marcos Ramon
+feed: show
 ---
-# #podcastfriday, três meses depois
-
-Uma análise da #podcastfriday, três meses depois do início da ação
-
----
-
-
 Em setembro deste ano eu fiz a análise dos dois primeiros dias da _#podcastfriday_ (veja a análise do [primeiro dia aqui](https://arcano5.com.br/podcastfriday-352aec06a55#.6iccmdb6l) e a do [segundo aqui](https://arcano5.com.br/podcastfriday-dia-2-48a8d8c4be6#.t8grv8cvo)). Se você não sabe ainda do que se trata esta ação, acesse o [site oficial do projeto](http://podcastfriday.com.br/ ).
 
 Então, parei de fazer a análise semana a semana porque provavelmente iria ficar muito repetitivo, mas continuei acompanhando a movimentação, principalmente no Twitter. Como na última sexta, 16/12, o projeto fez três meses, decidi experimentar uma nova análise. Uma coisa que percebi é que, de setembro pra cá, aumentou o uso da hashtag _#podcastfriday_ por pessoas de fora do Brasil. Você pode observar isso, por exemplo, nestes _posts_:

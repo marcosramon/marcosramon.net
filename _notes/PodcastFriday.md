@@ -2,24 +2,19 @@
 title: PodcastFriday
 date: 2016-09-16
 tags:
-- filosofia
-- reflexão
-- cotidiano
-- arte
-- estética
-- Grafos
-- pesquisa
-description: 'Análise do uso da hashtag #podcastfriday'
-image: null
+  - filosofia
+  - reflexão
+  - cotidiano
+  - arte
+  - estética
+  - Grafos
+  - pesquisa
+description: "Análise do uso da hashtag #podcastfriday"
+image: 
 permalink: podcastfriday
 author: Marcos Ramon
+feed: show
 ---
-# #PodcastFriday
-
-Análise do uso da hashtag #podcastfriday no dia 16/09/2016
-
----
-
 
 Ontem, dia 16/09/2016, o [Jurandir Filho](https://medium.com/u/9922ba124ee3), dos podcasts [Cinema com Rapadura](http://cinemacomrapadura.com.br/) e [99 Vidas](http://99vidas.com.br/), apresentou uma proposta de utilização da sexta-feira como um dia para se divulgar/indicar podcasts:
 

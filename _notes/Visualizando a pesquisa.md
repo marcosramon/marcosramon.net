@@ -28,7 +28,7 @@ As diferentes cores representam áreas de proximidade temática. E quanto maior 
 <div class="leia-tambem" markdown="1">
 ## Leia também:
 
-- <a href="/visualizando-a-hashtag-diadopodcast">Visualizando a hashtag #diadopodcast</a>
-- <a href="/a-felicidade-pelo-caminho">A felicidade pelo caminho</a>
+- [[A transcrição do podcast “Mamilos” e um novo interesse de pesquisa]]
+- [[Discursos no Senado]]
 - <a href="/visualizando-as-letras-do-bob-dylan">Visualizando as letras do Bob Dylan</a>
 </div>

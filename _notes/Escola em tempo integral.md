@@ -1,14 +1,14 @@
 ---
 title: Escola em tempo integral
-date: 2014-09-23 00:00:00+00:00
+date: 2014-09-23
 author: Marcos Ramon
-description: Nesse ano de campanha política a expressão que mais ouvi até agora foi
-  *escola em tempo integral*.
+description: Nesse ano de campanha política a expressão que mais ouvi até agora foi *escola em tempo integral*.
 tags:
-- ensino
-- cotidiano
+  - ensino
+  - cotidiano
 published: true
 permalink: escola-em-tempo-integral
+feed: show
 ---
 Nesse ano de campanha política a expressão que mais ouvi até agora foi *escola em tempo integral*. A proposta alardeada de maneira praticamente unânime pela maioria dos candidatos a cargos eletivos não leva em consideração o papel que está se atribuindo à escola. O que é, exatamente, que se busca com uma escola de tempo integral? Uma educação mais adequada, efetiva e significativa, ou simplesmente um lugar mais seguro para os estudantes ficarem durante o dia, enquanto os pais estão fora?
 

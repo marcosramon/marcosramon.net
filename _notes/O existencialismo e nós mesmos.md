@@ -4,11 +4,12 @@ date: 2019-06-13 00:00:00+00:00
 author: Marcos Ramon
 description: Quando a filosofia fala sobre nós
 tags:
-- filosofia
-- sociedade
-- ética
+  - filosofia
+  - sociedade
+  - ética
 published: true
 permalink: o-existencialismo-e-nos-mesmos
+feed: show
 ---
 O existencialismo é uma das correntes filosóficas mais conhecidas. Isso se não for, efetivamente, a mais destacada (ou mais famosa, caso optemos por essa distinção) dentre todas aquelas que surgiram na profusão de teorias e propostas decorrentes da passagem da modernidade para a contemporaneidade.
 

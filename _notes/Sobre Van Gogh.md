@@ -2,15 +2,15 @@
 title: Sobre Van Gogh
 date: 2017-06-16
 tags:
-- arte
-- comportamento
-description: Vincent Van Gogh nasceu na Holanda, no dia 30 de Março de 1853 e morreu
-  na França, no dia 29 de Julho de 1890, dois dias depois de ter dado…
-image: null
+  - arte
+  - comportamento
+description: Vincent Van Gogh nasceu na Holanda, no dia 30 de Março de 1853 e morreu na França, no dia 29 de Julho de 1890, dois dias depois de ter dado…
+image: 
 cssclasses:
-- img-grid
+  - img-grid
 permalink: sobre-van-gogh
 author: Marcos Ramon
+feed: show
 ---
 Vincent Van Gogh nasceu na Holanda, no dia 30 de Março de 1853 e morreu na França, no dia 29 de Julho de 1890, dois dias depois de ter dado um tiro no próprio peito.
 

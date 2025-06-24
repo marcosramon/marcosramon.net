@@ -4,10 +4,11 @@ date: 2020-07-24
 author: Marcos Ramon
 description: Uma reflexão sobre o que faz com que a ciência seja ciência
 tags:
-- Ciência
-- Verdade
+  - Ciência
+  - Verdade
 published: true
 permalink: cientificamente-comprovado
+feed: show
 ---
 A melhor forma de iniciar uma discussão sobre o valor da ciência é apresentando um conceito. O que eu trago aqui é um conceito bem genérico, é verdade, mas que atende satisfatoriamente a nossa percepção sobre o que é a ciência e o que podemos esperar dela: 
 

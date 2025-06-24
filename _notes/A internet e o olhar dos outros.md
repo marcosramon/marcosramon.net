@@ -2,17 +2,17 @@
 title: A internet e o olhar dos outros
 date: 2016-06-06
 tags:
-- arte
-- internet
-- comportamento
-- Comunicação
-- filosofia
-description: De alguma forma as pessoas parecem acreditar — ou querem acreditar, não
-  sei bem — que a presença na internet não é algo tão sério assim…
-image: null
-aliases: null
+  - arte
+  - internet
+  - comportamento
+  - Comunicação
+  - filosofia
+description: De alguma forma as pessoas parecem acreditar — ou querem acreditar, não sei bem — que a presença na internet não é algo tão sério assim…
+image: 
+aliases: 
 permalink: a-internet-e-o-olhar-dos-outros
 author: Marcos Ramon
+feed: show
 ---
 De alguma forma as pessoas parecem acreditar — ou querem acreditar, não sei bem — que a presença na internet não é algo tão sério assim. Dizer o que se pensa, de maneira agressiva e sem medir minimamente as consequências na internet, não é o mesmo que fazer um comentário em uma mesa de bar entre amigos. “Mas o Facebook e o Twitter fazem parte da minha vida privada”, muitos vão dizer. Contudo, não acredito que essa separação entre o público e o privado funcione na internet da mesma forma que fora dela. Por exemplo, quantas vezes você já não ouviu uma conversa absurda em um ônibus ou na mesa ao lado da sua? E você se meteu na conversa? Brigou com as pessoas que estavam ali? Provavelmente não. Então, é quase a mesma coisa, mas é exatamente no _quase_ que mora toda a diferença.
 

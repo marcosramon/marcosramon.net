@@ -1,15 +1,14 @@
 ---
 title: Ensinar é difícil
-excerpt: No contexto da educação, boa parte dos professores se ocupa do processo de
-  adquirir proficiência e técnica na sua área específica, mas deveríamos pensar mesmo
-  era sobre como educar.
+excerpt: No contexto da educação, boa parte dos professores se ocupa do processo de adquirir proficiência e técnica na sua área específica, mas deveríamos pensar mesmo era sobre como educar.
 aliases:
-- '[[Martha Nusbaum]]'
-- '[[Platão]]'
-- '[[Descartes]]'
+  - "[[Martha Nusbaum]]"
+  - "[[Platão]]"
+  - "[[Descartes]]"
 date: 2023-03-10
 permalink: ensinar-e-dificil
 author: Marcos Ramon
+feed: show
 ---
 Como professor de Filosofia eu me interesso sempre menos pelo aspecto filosófico (no sentido técnico do termo) e mais pela característica pedagógica do que faço. Já conheci vários outros professores de Filosofia que dedicavam grande parte do tempo que tinham para estudar autores, ideias, conceitos e para se especializarem em algum ponto da história da filosofia; mas não gostavam de discutir educação, muito menos o que fazer em sala de aula.
 

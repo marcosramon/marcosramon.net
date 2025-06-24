@@ -2,15 +2,15 @@
 title: Interesse pelo feio
 date: 2017-12-21
 tags:
-- arte
-- cultura
-- sociedade
-description: É difícil imaginar que alguém deliberadamente escolha algo feio para
-  admirar. Por outro lado, a percepção da beleza e da feiúra envolve…
-image: null
-aliases: null
+  - arte
+  - cultura
+  - sociedade
+description: É difícil imaginar que alguém deliberadamente escolha algo feio para admirar. Por outro lado, a percepção da beleza e da feiúra envolve…
+image: 
+aliases: 
 permalink: interesse-pelo-feio
 author: Marcos Ramon
+feed: show
 ---
 É difícil imaginar que alguém deliberadamente escolha algo feio para admirar. Por outro lado, a percepção da beleza e da feiúra envolve, senão a total relatividade, pelo menos alguma particularidade. Não vemos as mesmas coisas como belas ou feias. Aquela ideia do belo como algo que agrada universalmente e da relação entre prazer/beleza e desprazer/feiúra não funciona tão bem na vida prática. Em muitos momentos é o estranho, o feio, que agrada. E como entender? Tem que entender?
 

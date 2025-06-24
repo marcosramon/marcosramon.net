@@ -2,16 +2,16 @@
 title: Um experimento de escrita
 date: 2016-03-14
 tags:
-- pensamentos
-- gephi
-- pesquisa
-- Escrever
-description: Por esses dias eu estava pensando sobre a possibilidade de encontrar
-  novas formas de me relacionar com os meus textos e com as coisas…
-image: null
-aliases: null
+  - pensamentos
+  - gephi
+  - pesquisa
+  - Escrever
+description: Por esses dias eu estava pensando sobre a possibilidade de encontrar novas formas de me relacionar com os meus textos e com as coisas…
+image: 
+aliases: 
 permalink: um-experimento-de-escrita
 author: Marcos Ramon
+feed: show
 ---
 Por esses dias eu estava pensando sobre a possibilidade de encontrar novas formas de me relacionar com os meus textos e com as coisas ideias presentes neles.
 

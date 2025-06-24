@@ -2,14 +2,15 @@
 title: Comunicar
 date: 2017-02-20
 tags:
-- arte
-- cultura
-- sociedade
+  - arte
+  - cultura
+  - sociedade
 description: Comunicar
-image: null
-aliases: null
+image: 
+aliases: 
 permalink: comunicar
 author: Marcos Ramon
+feed: show
 ---
 A essência da vida em sociedade é a comunicação. Não tenho nenhum dado que comprove isso, mas acredito realmente que o que nos permitiu sobreviver até aqui foi a nossa capacidade de comunicar sentimentos, sensações, sonhos…
 

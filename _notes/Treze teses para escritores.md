@@ -55,7 +55,7 @@ _13. O trabalho é a máscara mortuária de sua concepção.”_
 <div class="leia-tambem" markdown="1">
 ## Leia também:
 
-- <a href="/cidades-para-pessoas">Cidades para pessoas</a>
+- [[O declínio da experiência e a importância da crítica]]
 - <a href="/a-incompatibilidade-entre-a-ideia-e-a-acao">A incompatibilidade entre a ideia e a ação</a>
 - <a href="/desistir">Desistir</a>
 </div>

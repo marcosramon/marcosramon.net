@@ -2,17 +2,17 @@
 title: Visualizando a hashtag diadopodcast
 date: 2015-10-25
 tags:
-- podcast
-- tecnologia
-- internet
-- pesquisa
-- Grafos
-description: O dia 21 de Outubro é o dia do podcast no Brasil. Esse dia é utilizado
-  como pretexto para se divulgar de forma mais intensa o podcast no…
-image: null
-aliases: null
+  - podcast
+  - tecnologia
+  - internet
+  - pesquisa
+  - Grafos
+description: O dia 21 de Outubro é o dia do podcast no Brasil. Esse dia é utilizado como pretexto para se divulgar de forma mais intensa o podcast no…
+image: 
+aliases: 
 permalink: visualizando-a-hashtag-diadopodcast
 author: Marcos Ramon
+feed: show
 ---
 O dia 21 de Outubro é o dia do podcast no Brasil. Esse dia é utilizado como pretexto para se divulgar de forma mais intensa o podcast no Brasil. A ação, que foi idealizada por um [grupo de podcasters brasileiros](http://diadopodcast.com.br/), acaba mobilizando naturalmente um grande número de produtores e consumidores da mídia.
 

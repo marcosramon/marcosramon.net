@@ -20,8 +20,10 @@ A linha que separa a vida da morte é tão tênue, que às vezes é razoável su
 
 Mais do que isso, saber existir é entender que ninguém deixa a vida de forma absoluta. Continuamos vivendo nas memórias de outras pessoas, nos traços de personalidade que legamos a quem nos conheceu, nas ideias que compartilhamos. Como disse antes, talvez a linha que separa a vida da morte seja só uma ilusão. Apenas continuamos.
 
-<img src="/assets/img//arquivos/botas.jpeg">
-<small>Par de botas (1886). Pintura de Vincent Van Gogh.</small><div class="leia-tambem" markdown="1">
+<img src="/assets/img/botas.jpeg">
+<small>Par de botas (1886). Pintura de Vincent Van Gogh.</small>
+
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/nao-e-so-um-jogo">Não é só um jogo</a>

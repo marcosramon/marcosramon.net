@@ -1,14 +1,15 @@
 ---
 title: É só um algoritmo
-date: 2019-09-05 00:00:00+00:00
+date: 2019-09-05
 author: Marcos Ramon
 description: Estamos perdendo o controle do que acontece com a gente na internet
 tags:
-- internet
-- comportamento
-- tecnologia
+  - internet
+  - comportamento
+  - tecnologia
 published: true
 permalink: e-so-um-algoritmo
+feed: show
 ---
 Autores como [Jaron Lanier](https://amzn.to/2Ly7FmS) e pesquisadores da tecnologia como [Richard Stallman](https://g.co/kgs/ndeqvC) são obcecados com a ideia de que não deveríamos estar nas redes sociais. Parte disso pode ser uma consequência típica do pensamento de mudança de gerações, que é o que acontece quando alguém diz: “na minha época era melhor, quando eu era adolescente o mundo era assim...” E, claro, cada um tende a acreditar que as suas experiências são mais valiosas e significativas. Assim, para pessoas que viram a internet se tornar o que é, mas que tinham uma experiência antes dela, se manter ausente é mais simples e viável. O mesmo não se pode dizer de pessoas que crescem nesse mundo e não conheceram outra realidade.
 

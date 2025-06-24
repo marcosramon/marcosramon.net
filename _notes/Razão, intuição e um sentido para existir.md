@@ -2,18 +2,16 @@
 title: Razão, intuição e um sentido para existir
 date: 2023-06-13
 author: Marcos Ramon
-description: A racionalidade humana é um tema recorrente nas coisas que escrevo, especialmente
-  porque lendo os autores que mais gosto, vejo que a maioria deles concorda com o
-  fato de que a razão não é algo que nos torna melhores do que qualquer outra coisa
-  no universo.
+description: A racionalidade humana é um tema recorrente nas coisas que escrevo, especialmente porque lendo os autores que mais gosto, vejo que a maioria deles concorda com o fato de que a razão não é algo que nos torna melhores do que qualquer outra coisa no universo.
 tags:
-- Schopenhauer
-- Vontade
-- Sistema
-- Razão
-- Kahneman
+  - Schopenhauer
+  - Vontade
+  - Sistema
+  - Razão
+  - Kahneman
 published: true
 permalink: razao-intuicao-e-um-sentido-para-existir
+feed: show
 ---
 A racionalidade humana é um tema recorrente nas coisas que escrevo, especialmente porque lendo os autores que mais gosto, vejo que a maioria deles concorda com o fato de que a razão não é algo que nos torna melhores do que qualquer outra coisa no universo. Na maior parte do tempo, cada um deles me diz, à sua maneira, que somos tapeados com a sensação de que a racionalidade nos mantém no controle de tudo.
 

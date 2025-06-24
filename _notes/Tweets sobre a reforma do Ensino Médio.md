@@ -2,15 +2,15 @@
 title: Tweets sobre a reforma do Ensino Médio
 date: 2016-06-23
 tags:
-- pensamentos
-- pesquisa
-- Grafos
-- educação
-description: Hoje saiu a medida provisória do Governo Federal com mudanças no Ensino
-  Médio. No episódio abaixo, do meu podcast Ano Bissexto, eu comento…
-image: null
+  - pensamentos
+  - pesquisa
+  - Grafos
+  - educação
+description: Hoje saiu a medida provisória do Governo Federal com mudanças no Ensino Médio. No episódio abaixo, do meu podcast Ano Bissexto, eu comento…
+image: 
 permalink: tweets-sobre-a-reforma-do-ensino-medio
 author: Marcos Ramon
+feed: show
 ---
 Hoje saiu a [medida provisória do Governo Federal com mudanças no Ensino Médio](http://g1.globo.com/educacao/noticia/temer-apresenta-medida-provisoria-da-reforma-do-ensino-medio-veja-destaques.ghtml). No episódio abaixo, do meu podcast [Ano Bissexto](http://www.marcosramon.net/ano-bissexto/), eu comento um pouco a questão:
 
