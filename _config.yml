@@ -48,6 +48,7 @@ collections:
   notes:
     output: true
     permalink: /note/:title
+    posts_dir: _notes
   posts:
     output: true
     permalink: /post/:title
