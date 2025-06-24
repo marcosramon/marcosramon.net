@@ -48,16 +48,9 @@ collections:
   notes:
     output: true
     permalink: /note/:title
-    posts_dir: _notes
   posts:
     output: true
     permalink: /post/:title
-
-# Adicione esta seção para incluir 'posts' e 'notes' no feed
-feed:
-  collections:
-    - posts
-    - notes
 
 # Markdown settings
 markdown: kramdown
