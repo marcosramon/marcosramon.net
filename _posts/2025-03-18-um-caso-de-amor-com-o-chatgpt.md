@@ -108,8 +108,8 @@ Se, por um lado, é verdade que ainda são necessárias mais pesquisas, fica evi
 <div class="leia-tambem" markdown="1">
 ## Leia também:
 
-* <a href="/a-nintendo-continua-a-mesma-ainda-bem">A Nintendo continua a mesma — ainda bem</a>
+* [[É só um algoritmo]]
 * <a href="/quando-a-arte-nos-define">Quando a arte nos define</a>
-* <a href="/a-arte-depois-da-arte">A arte depois da arte</a>
+* [[Estamos perdidos]]
 </div>
 
