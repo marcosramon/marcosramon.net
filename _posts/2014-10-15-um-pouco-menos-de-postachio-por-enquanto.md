@@ -26,7 +26,9 @@ Torço de longe para que o serviço se estabilize e que a proposta vingue de fat
 ![Postach.io](https://appcenter.evernote.com/assets/img/apps/postashio/web/postachio-web-4.png)
 
 [^1]: Se você mora ou já veio a Brasília sabe que não é um percurso tão um longo. Dá uma meia hora, mais ou menos.
-[^2]: Eu sei que num mundo ideal a atitude mais saudável seria continuar apoiando a proposta - inclusive financeiramente - até que eles consigam estabilizar o serviço. Mas é que o meu dinheiro é curto e é preciso saber como gastá-lo.<div class="leia-tambem" markdown="1">
+[^2]: Eu sei que num mundo ideal a atitude mais saudável seria continuar apoiando a proposta - inclusive financeiramente - até que eles consigam estabilizar o serviço. Mas é que o meu dinheiro é curto e é preciso saber como gastá-lo.
+
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/ficcoes-09-um-pouco-de-verdade">Ficções #09   um pouco de verdade</a>
