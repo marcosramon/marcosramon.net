@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Private/Ficções.md",
+                "file": "_notes/Private/Sobre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ficções"
+              "title": "Sobre"
             }
           }
         ],
@@ -252,10 +252,12 @@
   },
   "active": "b5561b9742340fa7",
   "lastOpenFiles": [
-    "_notes/Private/Palestras.md",
-    "_notes/Private/Livros.md",
-    "_notes/Private/Publicações.md",
     "_notes/Private/Vida acadêmica.md",
+    "_notes/Private/Publicações.md",
+    "_notes/Private/Livros.md",
+    "_notes/Private/Ficções.md",
+    "_notes/Private/Palestras.md",
+    "_notes/Private/Sobre.md",
     "_notes/Public/Visualizando letras de música como networks.md",
     "_notes/Public/PodcastFriday dia 2.md",
     "_notes/Public/Judith Butler e a reflexão filosófica sobre gênero.md",
@@ -276,8 +278,6 @@
     "_posts/2018-09-13-viver-de-arte.md",
     "_notes/Public/Cientificamente comprovado.md",
     "_notes/Public/Estamos perdidos.md",
-    "_notes/Public/Razão, intuição e um sentido para existir.md",
-    "_posts/2022-07-07-a-presunção-moral.md",
     "scripts python/atualizar_posts.py",
     "scripts python/remover_hashtags.py",
     "scripts python/atualizar_leia_tambem.py",

@@ -4,8 +4,9 @@ author: Marcos Ramon
 date: 2025-06-25
 aliases: 
 permalink: palestras
+feed: hide
 ---
-> Aqui você encontra uma lista de algumas palestras que realizei nos últimos anos. 
+Aqui você encontra uma lista de algumas palestras que realizei nos últimos anos. 
 
 - **Inteligência Artificial no Mundo do Trabalho** – Palestra realizada na SECOM da Presidência da República (2023).
 - **ChatGPT na Prática Docente** – Palestra apresentada no Tribunal de Contas do DF (2023).
@@ -16,5 +17,5 @@ permalink: palestras
 - **Explorando a IA Generativa: Utilização, Vantagens e Riscos das Ferramentas Gratuitas** – Palestra no Seminário de Fiscalização do Sistema CFC/CRCs (2024).
 - **Inteligência Artificial na Educação Profissional** – Palestra online realizada no TecPed/SENAR (2024).
 
-> ## Contato
-> Se quiser me convidar para fazer uma palestra, minicurso ou participar de algum evento acadêmico, mande um e-mail para: <a href="mailto:marcos.ferreira@ifb.edu.br">marcos.ferreira@ifb.edu.br</a> 😉
+### ✉️ Contato
+Se quiser me convidar para fazer uma palestra, minicurso ou participar de algum evento acadêmico, mande um e-mail para: <a href="mailto:marcos.ferreira@ifb.edu.br">marcos.ferreira@ifb.edu.br</a> 😉
