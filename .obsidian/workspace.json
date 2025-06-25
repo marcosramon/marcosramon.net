@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-06-17-o-que-talvez-aconteca.md",
+                "file": "_notes/Private/Sobre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-17-o-que-talvez-aconteca"
+              "title": "Sobre"
             }
           }
         ],
@@ -264,10 +264,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5ac7fe560e36b7d",
+  "active": "d3d11bf7103e5788",
   "lastOpenFiles": [
-    "assets/img/colagem-paper1.png",
     "_posts/2025-06-17-o-que-talvez-aconteca.md",
+    "assets/img/colagem-paper1.png",
     "_notes/Private/Vida acadêmica.md",
     "_notes/Private/Publicações.md",
     "_notes/Private/Ficções.md",
