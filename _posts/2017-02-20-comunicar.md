@@ -10,7 +10,6 @@ image:
 aliases: 
 permalink: comunicar
 author: Marcos Ramon
-feed: show
 ---
 A essência da vida em sociedade é a comunicação. Não tenho nenhum dado que comprove isso, mas acredito realmente que o que nos permitiu sobreviver até aqui foi a nossa capacidade de comunicar sentimentos, sensações, sonhos…
 

@@ -10,7 +10,6 @@ image:
 aliases: 
 permalink: quatro-minutos-e-trinta-e-tres-segundos
 author: Marcos Ramon
-feed: show
 ---
 O músico norte americano [John Cage](https://en.wikipedia.org/wiki/John_Cage) apresentou ao público, em 29 de Agosto de 1952, a composição 4'33". A proposta era muito simples. David Tudor, pianista, subiu ao palco do Maverick Concert Hall, em Nova York, sentou-se ao piano e durante 4'33" ficou lá, sem tocar uma nota sequer. Apesar do óbvio, é interessante perceber que a composição em questão, pelo menos para mim, não trata de silêncio, mas sim da impossibilidade do silêncio. Quando o músico não toca nota nenhuma, outros sons se tornam audíveis: os ruídos que fazemos, nossa respiração, nossas inquietudes…
 

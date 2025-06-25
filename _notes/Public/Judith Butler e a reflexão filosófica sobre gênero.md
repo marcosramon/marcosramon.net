@@ -2,17 +2,17 @@
 title: Judith Butler e a reflexão filosófica sobre gênero
 date: 2017-11-10
 tags:
-- arte
-- filosofia
-- cultura
-- política
-- sociedade
-description: A ideia de falar sobre Judith Butler e a sua reflexão filosófica sobre
-  gênero, veio depois de eu observar as manifestações contra a vinda…
-image: null
-aliases: null
+  - arte
+  - filosofia
+  - cultura
+  - política
+  - sociedade
+description: A ideia de falar sobre Judith Butler e a sua reflexão filosófica sobre gênero, veio depois de eu observar as manifestações contra a vinda…
+image: 
+aliases: 
 permalink: judith-butler-e-a-reflexao-filosofica-sobre-genero
 author: Marcos Ramon
+feed: show
 ---
 A ideia de falar sobre [Judith Butler](https://g.co/kgs/WpgNae) e a sua reflexão filosófica sobre gênero, veio depois de eu observar as manifestações contra a vinda dela ao Brasil para participar do evento [“Os fins da democracia”](https://www.sescsp.org.br/programacao/135255_OS+FINS+DA+DEMOCRACIA+THE+ENDS+OF+DEMOCRACY), que ocorreu no Sesc Pompeia, em São Paulo, nessa semana que passou, entre os dia 7 e 9 de Novembro. O evento foi organizado pelo Convênio Internacional de Programas de Teoria Crítica (UC Berkeley) e Departamento de Filosofia da Universidade de São Paulo. Como indicava o nome do evento, não se tratava diretamente de fomentar um debate sobre gênero, mas mesmo assim ocorreu uma movimentação barulhenta que pedia (se não exigia) que a filósofa não viesse ao Brasil. Os motivos para isso seriam as reflexões da autora como defensora de princípios que “ferem” o posicionamento conservador em relação à questão de gênero.
 

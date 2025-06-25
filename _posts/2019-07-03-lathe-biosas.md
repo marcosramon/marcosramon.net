@@ -10,7 +10,6 @@ tags:
   - comportamento
 published: true
 permalink: lathe-biosas
-feed: show
 ---
 É natural querermos mais atenção do que o necessário. Ao buscarmos esse tipo de popularidade, talvez sem intenção, acabamos também destruindo a possibilidade de uma vida mais tranquila, mais serena. Junte-se a isso o fato de que nunca nos satisfazemos com o que temos e pronto, temos diante de nós a receita da infelicidade — ou pelo menos do descontentamento. Mas então, qual é o caminho para a felicidade?
 

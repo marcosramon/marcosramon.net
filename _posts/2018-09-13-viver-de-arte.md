@@ -10,7 +10,6 @@ description: Sobre Andy Warhol, arte e dinheiro
 og_image: /assets/images/viverdearte.jpeg
 permalink: viver-de-arte
 author: Marcos Ramon
-feed: show
 ---
 Andy Warhol produzia imagens que remetiam ao mundo do consumo e ganhava dinheiro com essas obras. Pintava dinheiro em uma tela e depois trocava essas pinturas por dinheiro de verdade. E fazia ainda mais pinturas.
 

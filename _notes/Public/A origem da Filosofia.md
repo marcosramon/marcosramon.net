@@ -11,7 +11,7 @@ tags:
   - Culturas
 published: true
 permalink: a-origem-da-filosofia
-feed: show
+feed: hide
 ---
 O surgimento do pensamento filosófico ocorreu na Grécia, entre os séculos VII e VI a.C., e o primeiro filósofo se chamava Tales de Mileto.
 
