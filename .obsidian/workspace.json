@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Private/Palestras.md",
+                "file": "_notes/Private/Vida acadêmica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Palestras"
+              "title": "Vida acadêmica"
             }
           }
         ],
@@ -266,14 +266,14 @@
   },
   "active": "d3d11bf7103e5788",
   "lastOpenFiles": [
+    "_notes/Private/Livros.md",
+    "_notes/Private/Palestras.md",
     "_notes/Private/Hidden Note.md",
     "_notes/Private/Markdown Rendered.md",
     "_notes/Private/Welcome to the garden.md",
     "_notes/Private/Credits.md",
-    "_notes/Private/Palestras.md",
     "_notes/Private/Ficções.md",
     "_notes/Private/Publicações.md",
-    "_notes/Private/Livros.md",
     "_notes/Private/Vida acadêmica.md",
     "_notes/Private/Sobre.md",
     "_posts/2025-06-17-o-que-talvez-aconteca.md",
