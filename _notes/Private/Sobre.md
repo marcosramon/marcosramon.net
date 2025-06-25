@@ -19,15 +19,11 @@ Para ver todos os textos do blog, utilize o <a href="https://marcosramon.github.
 
 Este site é um espaço de ideias interconectadas, organizado de maneira não linear, semelhante a um [jardim digital](https://maggieappleton.com/garden-history)[^1]. Aqui, não há uma hierarquia rígida a ser seguida; as conexões surgem organicamente por meio de links internos, permitindo que os temas se cruzem e evoluam com o tempo, no estilo de um [wiki](https://pt.wikipedia.org/wiki/Wiki).
 
-Se você preferir uma estrutura mais tradicional, utilize a [[lista de textos por data]], mas nem todos os textos e links aparecem ali. 😉 
+Na página <a href="https://marcosramon.github.io/notes">pesquisa</a> você encontra textos ou anotações relacionados à minha pesquisa e interesses acadêmicos. Já em <a href="https://marcosramon.github.io/posts">posts</a> você ler os textos em formato de crônica e reflexões sobre o cotidiano que escrevo regularmente. 
 
-Você também pode começar por qualquer ponto que desperte seu interesse, traçando seu próprio caminho. Se estiver no computador, verá um grafo com conexões no lado direito de cada página. Basta clicar nos links para explorar as conexões entre os temas.
+Abaixo dos textos você vai ver indicações para outras publicações dentro site, sendo essa uma outra forma de navegar aqui. 😉 
 
-Outra forma de navegar é pela lista de categorias no lado esquerdo. Se estiver no celular, esse menu fica recolhido por padrão, mas é só tocar nas três linhas ao lado do meu nome, no topo do site, para acessá-lo. Essa lista organiza os principais temas em pastas, mas os links internos e referências cruzadas permitem uma navegação fluida — seja avançando, retrocedendo ou descobrindo conexões inesperadas.
-
-Por fim, este é um espaço onde você pode acompanhar meu processo de escrita e pensamento.
-
-Então, por onde começar? Por onde você quiser! 😄
+Não há seção de comentário no site, mas se quiser conversar sobre qualquer texto ou publicação, mande um <a href="mailto:marcosramon@gmail.com">email</a>.
 
 ### Sobre o site
 Este site é publicado com o [Obsidian Publish](https://obsidian.md/publish) e estou usando o tema [Minimal](https://minimal.guide/publish/download). 
