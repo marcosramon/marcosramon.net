@@ -26,7 +26,9 @@ De uma forma ou de outra, e já que é inevitável, só o que posso dizer é: qu
 
 ***
 
-[^1]: Eu sei que isso não faz muito sentido, mas é meio isso, né? A gente gerando dados pra ver e fiscalizar por onde andamos, o que fizemos etc.<div class="leia-tambem" markdown="1">
+[^1]: Eu sei que isso não faz muito sentido, mas é meio isso, né? A gente gerando dados pra ver e fiscalizar por onde andamos, o que fizemos etc.
+
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-clima-e-a-gente">O clima e a gente</a>
