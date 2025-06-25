@@ -9,7 +9,9 @@ tags:
 published: true
 permalink: dia-de-frio
 ---
-<img src="/assets/img/diadefrio.png"><div class="leia-tambem" markdown="1">
+<img src="/assets/img/diadefrio.png">
+
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/dia-de-comprar">Dia de comprar</a>
