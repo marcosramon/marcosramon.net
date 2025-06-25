@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Private/Sobre.md",
+                "file": "_notes/Private/Palestras.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sobre"
+              "title": "Palestras"
             }
           }
         ],
@@ -266,14 +266,18 @@
   },
   "active": "d3d11bf7103e5788",
   "lastOpenFiles": [
+    "_notes/Private/Hidden Note.md",
+    "_notes/Private/Markdown Rendered.md",
+    "_notes/Private/Welcome to the garden.md",
+    "_notes/Private/Credits.md",
+    "_notes/Private/Palestras.md",
+    "_notes/Private/Ficções.md",
+    "_notes/Private/Publicações.md",
+    "_notes/Private/Livros.md",
+    "_notes/Private/Vida acadêmica.md",
+    "_notes/Private/Sobre.md",
     "_posts/2025-06-17-o-que-talvez-aconteca.md",
     "assets/img/colagem-paper1.png",
-    "_notes/Private/Vida acadêmica.md",
-    "_notes/Private/Publicações.md",
-    "_notes/Private/Ficções.md",
-    "_notes/Private/Palestras.md",
-    "_notes/Private/Sobre.md",
-    "_notes/Private/Livros.md",
     "_notes/Public/Visualizando letras de música como networks.md",
     "_notes/Public/PodcastFriday dia 2.md",
     "_notes/Public/Judith Butler e a reflexão filosófica sobre gênero.md",
@@ -289,9 +293,6 @@
     "_notes/Public/Visualizando a hashtag diadopodcast.md",
     "_notes/Public/Um experimento de escrita.md",
     "_notes/Public/A internet e o olhar dos outros.md",
-    "_posts/2017-02-20-comunicar.md",
-    "_notes/Public/Sobre Van Gogh.md",
-    "_posts/2018-09-13-viver-de-arte.md",
     "scripts python/atualizar_posts.py",
     "scripts python/remover_hashtags.py",
     "scripts python/atualizar_leia_tambem.py",

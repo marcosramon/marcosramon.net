@@ -5,6 +5,7 @@ date: 2025-06-25
 aliases: 
 permalink: palestras
 feed: hide
+format: list
 ---
 Aqui você encontra uma lista de algumas palestras que realizei nos últimos anos. 
 
