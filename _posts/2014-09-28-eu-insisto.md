@@ -14,7 +14,9 @@ Me comove - ou me incomoda? - o fato de eu não saber ser outro, de não consegu
 
 Eu sei que tudo que escrevo parece um lamento. Mas é que eu insisto em ser quem eu sou... e não sei ser diferente.
 <img src="/assets/img/rajdhunna.jpg">
-*Ilustração de [Raj Dhunna](http://rajdh.tumblr.com/)*<div class="leia-tambem" markdown="1">
+*Ilustração de [Raj Dhunna](http://rajdh.tumblr.com/)*
+
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/eles-sabem-o-que-eu-nao-sei">Eles sabem o que eu não sei</a>
