@@ -26,7 +26,7 @@ Abaixo dos textos você vai ver indicações para outras publicações dentro si
 Não há seção de comentário no site, mas se quiser conversar sobre qualquer texto ou publicação, mande um <a href="mailto:marcosramon@gmail.com">email</a>.
 
 ### Sobre o site
-Este site é publicado com o [Obsidian Publish](https://obsidian.md/publish) e estou usando o tema [Minimal](https://minimal.guide/publish/download). 
+Este site é publicado com...
 
 ## Vida acadêmica
 
