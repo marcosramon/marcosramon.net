@@ -16,7 +16,9 @@ Mas agora é diferente. A gente sobrevive com mais facilidade e, em tese, a gent
      
 E um dia, quem sabe, tudo se arranja de um jeito bom meio sem querer. Será?
 
-<img src="/assets/img/piloto.png"><div class="leia-tambem" markdown="1">
+<img src="/assets/img/piloto.png">
+
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-destino-inglorio-dos-livros-gigantes">O destino inglório dos livros gigantes</a>
