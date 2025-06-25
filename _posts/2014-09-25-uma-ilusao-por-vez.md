@@ -16,7 +16,9 @@ Viver é suportar uma ilusão por vez, fingindo que tudo está no caminho certo 
 
 
 ![Uma ilusão por vez](http://4.bp.blogspot.com/-rJuOsRfzWIY/U_5nttIPItI/AAAAAAABDMo/nKqVWkhO7VM/s1600/Hossein-Zare04.jpg)
-<small>Manipulação fotográfica de <a href="https://500px.com/hossein-zare">Hossein Zare</a></small><div class="leia-tambem" markdown="1">
+<small>Manipulação fotográfica de <a href="https://500px.com/hossein-zare">Hossein Zare</a></small>
+
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/uma-cidade">Uma cidade</a>
