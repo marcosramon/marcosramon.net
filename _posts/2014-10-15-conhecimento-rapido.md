@@ -17,7 +17,9 @@ De qualquer forma, entendo o argumento que meus professores defendiam, apesar de
 
 Pois bem, hoje vi na rua uma pessoa segurando um livro chamado "A bíblia em 100 minutos", algo que nunca tinha visto. De primeira pensei: "tá, mas que mal pode ter..." Mas pensando melhor agora acho que tem um mal terrível sim. Se cada fanático religioso que existe no mundo decidir escrever o seu próprio guia de leitura de um livro "sagrado" para leitores *fast food*, daqui a pouco ninguém vai ler os textos religiosos originais (não estou dizendo "verídicos"), o que nos colocará cada vez mais distantes da possibilidade de termos pessoas esclarecidas para entenderem que nem tudo que está escrito em um livro "sagrado" é de fato sagrado e deve ser seguido ao pé da letra.
 
-Livros de divulgação filosófica e científica podem ser pouco úteis, mas livros de divulgação religiosa são potencialmente nocivos. Espero que essa moda acabe.<div class="leia-tambem" markdown="1">
+Livros de divulgação filosófica e científica podem ser pouco úteis, mas livros de divulgação religiosa são potencialmente nocivos. Espero que essa moda acabe.
+
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/o-conhecimento-obsoleto">O conhecimento obsoleto</a>
