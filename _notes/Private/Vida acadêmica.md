@@ -16,6 +16,6 @@ Meu nome é [[Marcos Ramon]] e sou professor no [Instituto Federal de Brasília]
 
 Aqui segue o [link do meu currículo lattes](http://lattes.cnpq.br/9538072103558772) e do [Orcid](https://orcid.org/0000-0002-8720-8706). Se quiser falar comigo sobre qualquer tema relacionado à pesquisa, mande um email para: <a href="mailto:marcos.ferreira@ifb.edu.br">marcos.ferreira@ifb.edu.br</a>
 
-[[Publicações|Nesta página]] você pode acessar algumas publicações que fiz.
+<a href="https://marcosramon.github.io/publicacoes">Nesta página</a> você pode acessar algumas publicações que fiz.
 
 <img src="assets/img/tolis escrevendo.jpg">
