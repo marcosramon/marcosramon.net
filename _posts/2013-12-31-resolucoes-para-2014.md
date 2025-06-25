@@ -9,7 +9,9 @@ tags:
 published: true
 permalink: resolucoes-para-2014
 ---
-<img src="/assets/img/2014.jpg"><div class="leia-tambem" markdown="1">
+<img src="/assets/img/2014.jpg">
+
+<div class="leia-tambem" markdown="1">
 ## Leia também:
 
 - <a href="/resolucoes-para-2014">Resoluções para 2014</a>
