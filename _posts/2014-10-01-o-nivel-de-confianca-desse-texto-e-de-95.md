@@ -14,7 +14,7 @@ author: Marcos Ramon
 ---
 _O que significa dizer que, se esse texto for lido 100 vezes, em 95 as informações contidas nele serão as mesmas._
 
-<img src="/assets/img/o-nível-de-confiança-desse-texto-é-de 95%-medium.jpeg">
+<img src="/assets/img/o-nível-de-confiança-desse-texto-é-de-95%-medium.jpeg">
 
 É meio ridículo, eu sei. Mas não é quase isso que são as pesquisas de opinião nessa época de eleições? Saem pesquisas novas todos os dias e elas sempre aparecem com essa justificativa de que o nível de confiança é de 95%.
 
