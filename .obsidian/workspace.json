@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Private/Sobre.md",
+                "file": "_notes/Private/Vida acadêmica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sobre"
+              "title": "Vida acadêmica"
             }
           }
         ],
@@ -252,12 +252,12 @@
   },
   "active": "b5561b9742340fa7",
   "lastOpenFiles": [
-    "_notes/Private/Vida acadêmica.md",
     "_notes/Private/Publicações.md",
-    "_notes/Private/Livros.md",
     "_notes/Private/Ficções.md",
     "_notes/Private/Palestras.md",
     "_notes/Private/Sobre.md",
+    "_notes/Private/Livros.md",
+    "_notes/Private/Vida acadêmica.md",
     "_notes/Public/Visualizando letras de música como networks.md",
     "_notes/Public/PodcastFriday dia 2.md",
     "_notes/Public/Judith Butler e a reflexão filosófica sobre gênero.md",
