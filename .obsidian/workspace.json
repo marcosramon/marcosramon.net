@@ -95,18 +95,56 @@
             "id": "d3d11bf7103e5788",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "2610ff1d68fe97db",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Private/Vida acadêmica.md",
+                "file": "_posts/2025-06-08-estado-de-animo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vida acadêmica"
+              "title": "2025-06-08-estado-de-animo"
+            }
+          },
+          {
+            "id": "72f46e7ac98b4e28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-06-06-um-novo-jeito-de-falar-o-nome-do-tecnico-da-selecao.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-06-um-novo-jeito-de-falar-o-nome-do-tecnico-da-selecao"
+            }
+          },
+          {
+            "id": "bc125afc0d66e84a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -264,8 +302,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3d11bf7103e5788",
+  "active": "bc125afc0d66e84a",
   "lastOpenFiles": [
+    "_posts/2025-06-06-um-novo-jeito-de-falar-o-nome-do-tecnico-da-selecao.md",
+    "Untitled.md",
+    "assets/img/ancelotti.png",
+    "_posts/2025-06-08-estado-de-animo.md",
+    "assets/img/loom1.gif",
+    "Pasted image 20250626190934.png",
+    "_notes/Private/Vida acadêmica.md",
     "_notes/Private/Livros.md",
     "_notes/Private/Palestras.md",
     "_notes/Private/Hidden Note.md",
@@ -274,7 +319,6 @@
     "_notes/Private/Credits.md",
     "_notes/Private/Ficções.md",
     "_notes/Private/Publicações.md",
-    "_notes/Private/Vida acadêmica.md",
     "_notes/Private/Sobre.md",
     "_posts/2025-06-17-o-que-talvez-aconteca.md",
     "assets/img/colagem-paper1.png",
@@ -290,9 +334,6 @@
     "_notes/Public/O gênio maligno.md",
     "_notes/Public/O que Nietzsche pode ensinar aos debatedores da web.md",
     "_notes/Public/O existencialismo e nós mesmos.md",
-    "_notes/Public/Visualizando a hashtag diadopodcast.md",
-    "_notes/Public/Um experimento de escrita.md",
-    "_notes/Public/A internet e o olhar dos outros.md",
     "scripts python/atualizar_posts.py",
     "scripts python/remover_hashtags.py",
     "scripts python/atualizar_leia_tambem.py",
@@ -308,9 +349,6 @@
     "_site/assets/img/yoon.gif",
     "_site/assets/img/yan.gif",
     "_site/assets/img/writing-bacon.png",
-    "_site/assets/img/willem+weismann.png",
-    "_site/assets/img/wilde.jpg",
-    "_site/assets/img/web.png",
-    "_site/assets/img/warhol-dollar-bill-sothebys-2.jpg"
+    "_site/assets/img/willem+weismann.png"
   ]
 }

@@ -9,6 +9,7 @@ permalink: vida-academica
 Meu nome é [[Marcos Ramon]] e sou professor no [Instituto Federal de Brasília](https://www.ifb.edu.br/), onde leciono Filosofia e coordeno o Grupo Interdisciplinar de Pesquisa em Filosofia e Cultura, com foco nas relações entre tecnologia, sociedade e inovação educacional. Minhas áreas de pesquisa são: estética (filosofia da arte), cibercultura e ensino.
 
 ### Minha formação acadêmica:
+
  - Licenciatura em **Filosofia** (UFMA)
  - Especialização em **Leituras e Práticas Educativas** (UFMA)
  - Mestrado em **Cultura e Sociedade** (UFMA)
