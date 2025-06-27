@@ -27,7 +27,7 @@ Na instituição em que trabalho — e acho que acontece o mesmo em outros lugar
 À medida em que o desinteresse por livros, dança, teatro e cinema avança, precisamos pensar em como manter a cultura viva. A disponibilidade de produtos culturais talvez seja algo essencial. Por isso, iniciativas como [Open Culture](https://www.openculture.com/), [Ubu Web](https://ubu.com/) e tantas outras são extremamente importantes. Essas plataformas oferecem oportunidades e evocam um espírito de coletividade que sempre esteve na base da ideia de uma internet livre e comprometida com valores humanos. Deixar que o acesso à cultura se perca (nas suas diferentes formas, desde livros físicos de baixo custo até sites com vídeos sem propagandas de apostas) em troca de mais entretenimento e de informações rápidas geradas por IA pode ser um caminho sem volta; um caminho que, no fim, apenas piora a nossa relação com o mundo.
 
 <img src="/assets/img/martin-claret.png" width="500">
-<small>Me desfiz da maioria, mas ainda tenho algumas edições da Martin Claret</small>
+ <small>Me desfiz da maioria, mas ainda tenho algumas edições da Martin Claret</small>
 
 [^1]: Há alguns anos, em um show do Paul McCartney em Brasília, um grupo de amigos na fila atrás de mim se divertia bebendo, conversando e rindo o tempo todo, sem dar a mínima bola para o show. Eles pagaram para estar lá como qualquer outra pessoa (imagino). Mas é no mínimo curioso que eles tenham escolhido pagar um preço tão alto para beber uma cerveja cara e conversar, sem interesse algum pelo Beatle que estava logo ali. 
 <div class="leia-tambem" markdown="1">
