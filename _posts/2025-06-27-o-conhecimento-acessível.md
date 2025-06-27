@@ -11,7 +11,9 @@ tags:
 description: Há quem seja contra a disponibilidade do conhecimento e novas formas de relação com os produtos culturais. Mas o futuro será moldado pela maneira como acessamos as coisas, e não pela produção delas.
 permalink: o-conhecimento-acessivel
 author: Marcos Ramon
-image: /assets/img/martin-claret.png
+image:
+  path: /assets/img/martin-claret.png
+  alt: Livros da editora Martin Claret
 ---
 Gosto muito da ideia de imaginar a cultura disponível em suas mais diversas formas, para o maior número de pessoas possível. Verdade: sempre haverá mais pessoas que não querem a literatura, a música ou o cinema do que aquelas que se importam genuinamente com isso. Mas talvez, justamente por isso, permitir que as pessoas encontrem livros, músicas e filmes da forma mais simples possível faça a diferença.
 
