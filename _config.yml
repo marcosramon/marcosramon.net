@@ -81,6 +81,10 @@ defaults:
     values:
       layout: Post
       content-type: notes
+  - scope:
+      path: "" # um escopo vazio se aplica a todos os arquivos
+    values:
+      image: /assets/img/gephi2.png
 
 # Exclude from processing
 exclude:
