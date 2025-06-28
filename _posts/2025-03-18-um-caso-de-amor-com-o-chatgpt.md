@@ -11,8 +11,8 @@ description: O uso de IA generativa levanta preocupações diversas, incluindo d
 permalink: um-caso-de-amor-com-o-chatgpt
 aliases: null
 author: Marcos Ramon
-image: arquivos/robot-love.png
-og_image: arquivos/robot-love.png
+image: assets/img/robot-love.png
+og_image: assets/img/robot-love.png
 ---
 O surgimento das ferramentas de LLM, como o ChatGPT, trouxe de imediato uma série de reflexões sobre o impacto que essa nova tecnologia poderia gerar no campo do trabalho e da educação.
 

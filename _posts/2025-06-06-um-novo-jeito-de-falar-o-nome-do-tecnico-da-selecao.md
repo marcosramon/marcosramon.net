@@ -11,6 +11,9 @@ tags:
 description: como é importante controlar a narrativa até nas coisas mais bobas
 permalink: 
 author: Marcos Ramon
+image:
+  path: /assets/img/ancelotti.png
+  alt: Foto de Carlo Ancelotti dando uma entrevista
 ---
 _Ou como é importante controlar a narrativa até nas coisas mais bobas_
 
@@ -38,7 +41,7 @@ Como disse Foucault, em _A Ordem do Discurso_, controlar a linguagem e as norma
 
 Então, quando você se pegar falando _An**ce**lotti_ na comemoração do hexa ou na reclamação de mais uma derrota na próxima Copa, talvez você se lembre disso. Ou talvez não. Afinal, quem liga pra algo tão desimportante como o jeito de falar o nome dos outros? Como ainda dizem nos corredores das universidades: “isso é coisa de filósofo”.
 
-![[ancelotti.png]]
+<img src="/assets/img/ancelotti.png"><br>
 <small><i>Carlo Ancelotti. Foto por rafaelribeirorio, CBF.</i></small>
 
 <div class="leia-tambem" markdown="1">

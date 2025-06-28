@@ -5,6 +5,9 @@ tags:
 description: Acordei no susto.
 permalink: 
 author: Marcos Ramon
+image:
+  path: /assets/img/loom1.gif
+  alt: Imagem com pontos em movimento
 ---
 Acordei no susto.
 

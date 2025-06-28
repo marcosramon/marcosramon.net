@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-06-27-o-conhecimento-acessível.md",
-                "mode": "preview",
-                "source": true
+                "file": "_posts/2025-03-18-um-caso-de-amor-com-o-chatgpt.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-27-o-conhecimento-acessível"
+              "title": "2025-03-18-um-caso-de-amor-com-o-chatgpt"
             }
           },
           {
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -314,21 +314,22 @@
   },
   "active": "3e3527795e76a4ee",
   "lastOpenFiles": [
+    "_posts/2025-03-26-como-criar-um-indice-de-posts-no-obsidian-publish.md",
+    "_posts/2025-06-06-um-novo-jeito-de-falar-o-nome-do-tecnico-da-selecao.md",
+    "_posts/2025-06-08-estado-de-animo.md",
+    "_posts/2025-06-17-o-que-talvez-aconteca.md",
+    "_posts/2025-06-27-o-conhecimento-acessível.md",
     "_posts/2014-11-26-vivendo-com-nossas-contradicoes.md",
     "_posts/2014-10-08-qualquer-historia.md",
     "_posts/2014-11-05-e-deu-tudo-certo.md",
     "_posts/2014-11-20-coisas-pra-fazer.md",
     "_posts/2014-11-13-o-consumo-nos-transformou-em-seres-ridiculos.md",
     "_posts/2014-10-30-ansiedade.md",
-    "_posts/2025-06-08-estado-de-animo.md",
-    "_posts/2025-03-26-como-criar-um-indice-de-posts-no-obsidian-publish.md",
-    "_posts/2025-06-27-o-conhecimento-acessível.md",
     "_notes/Public/Pesquisa sobre o ensino de Filosofia.md",
     "assets/img/martin-claret.png",
     "assets/img/martin-claret.jpg",
     "assets/img/obsidian-indice.png",
     "assets/img/obsidian-mais-recentes.png",
-    "_posts/2025-06-06-um-novo-jeito-de-falar-o-nome-do-tecnico-da-selecao.md",
     "assets/img/ancelotti.png",
     "assets/img/loom1.gif",
     "Pasted image 20250626190934.png",
@@ -342,7 +343,6 @@
     "_notes/Private/Ficções.md",
     "_notes/Private/Publicações.md",
     "_notes/Private/Sobre.md",
-    "_posts/2025-06-17-o-que-talvez-aconteca.md",
     "assets/img/colagem-paper1.png",
     "_notes/Public/Visualizando letras de música como networks.md",
     "_notes/Public/PodcastFriday dia 2.md",

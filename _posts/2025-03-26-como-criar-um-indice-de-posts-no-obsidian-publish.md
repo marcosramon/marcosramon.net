@@ -10,6 +10,9 @@ tags:
 description: Um guia simples para criar índices de posts no Obsidian Publish
 permalink: como-criar-um-indice-de-posts-no-obsidian-publish
 author: Marcos Ramon
+image:
+  path: /assets/img/obsidian-mais-recentes.png
+  alt: Tela do Obsidian Publish com um índice de textos
 ---
 O [Obsidian Publish](https://obsidian.md/publish) é um serviço que permite que você transforme suas notas do Obsidian em um site. Pensei em usar o serviço como o meu blog permanente, mas encontrei algumas dificuldades, como, por exemplo, criar um índice com todos os textos do blog.
 
