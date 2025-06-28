@@ -1,21 +1,19 @@
 ---
 title: A necessidade de estar inteiro
 tags:
-- rousseau
-- filosofia
-- sociedade
-- comportamento
-description: Quando penso em todas as coisas que tento fazer, em todas as obrigações
-  que tenho, vejo que não há outra forma de existir senão sendo uma, duas ou mais
-  pessoas ao mesmo tempo.
+  - rousseau
+  - filosofia
+  - sociedade
+  - comportamento
+description: Quando penso em todas as coisas que tento fazer, em todas as obrigações que tenho, vejo que não há outra forma de existir senão sendo uma, duas ou mais pessoas ao mesmo tempo.
 permalink: a-necessidade-de-estar-inteiro
 aliases:
-- '[[Rousseau]]'
-- '[[Filosofia]]'
+  - "[[Rousseau]]"
+  - "[[Filosofia]]"
 author: Marcos Ramon
 date: 2025-03-10
-image: /arquivos/horizon.png
-og_image: /arquivos/horizon.png
+image: assets/img/horizon.png
+og_image: assets/img/horizon.png
 ---
 Quando penso em todas as coisas que tento fazer, em todas as obrigações que tenho, vejo que não há outra forma de existir senão sendo uma, duas ou mais pessoas ao mesmo tempo.
 

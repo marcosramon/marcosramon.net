@@ -2,15 +2,17 @@
 title: Uma imagem de nós
 date: 2025-03-02
 tags:
-- cotidiano
-- filosofia
+  - cotidiano
+  - filosofia
 excerpt: Sobre a imagem que achamos que construímos de nós.
 permalink: uma-imagem-de-nos
 aliases:
-- '[[Kant]]'
-- '[[filosofia]]'
-- '[[reflexão]]'
+  - "[[Kant]]"
+  - "[[filosofia]]"
+  - "[[reflexão]]"
 author: Marcos Ramon
+og_image: assets/img/colagem-zinonos.png
+image: assets/img/colagem-zinonos.png
 ---
 Li uma vez, em um texto biográfico sobre a vida de Kant, que suas últimas palavras, pouco antes de morrer, aos 80 anos, foram: “Está bom”.
 

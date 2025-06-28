@@ -2,17 +2,16 @@
 title: Escrever para ser diferente de mim
 date: 2025-03-12
 tags:
-- escrita
-- Escrever
-- leitura
-- conhecimento
-description: Para mim, escrever é um processo de me conectar com quem eu sou, ao mesmo
-  tempo em que faço um desligamento de tudo o que tem a ver comigo.
+  - escrita
+  - Escrever
+  - leitura
+  - conhecimento
+description: Para mim, escrever é um processo de me conectar com quem eu sou, ao mesmo tempo em que faço um desligamento de tudo o que tem a ver comigo.
 permalink: escrever-para-ser-diferente-de-mim
-aliases: null
+aliases: 
 author: Marcos Ramon
-og_image: arquivos/writing-bacon.png
-image: arquivos/writing-bacon.png
+og_image: assets/img/writing-bacon.png
+image: assets/img/writing-bacon.png
 ---
 Para mim, escrever é um processo de me conectar com quem eu sou, ao mesmo tempo em que faço um desligamento de tudo o que tem a ver comigo.
 
