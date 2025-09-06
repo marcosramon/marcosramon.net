@@ -10,7 +10,7 @@ author: Marcos Ramon
 feed: show
 published: true
 ---
-Em outubro deste ano, dentro do CONECTAIF, vai ocorrer o <a href="https://www.even3.com.br/iiisnemi/">III Seminário Nacional do Ensino Médio Integrado</a>. Mandei um texto da minha [[Pesquisa sobre o ensino de Filosofia|pesquisa sobre o ensino de Filosofia]] para publicação como capítulo de livro, e o texto foi aprovado. Ainda não entendi direito como será a dinâmica, mas apresentarei este trabalho durante o evento.
+Em outubro deste ano, dentro do CONECTAIF, vai ocorrer o <a href="https://www.even3.com.br/iiisnemi/">III Seminário Nacional do Ensino Médio Integrado</a>. Mandei um texto da minha [[Pesquisa sobre o ensino de Filosofia]] para publicação como capítulo de livro, e o texto foi aprovado. Ainda não entendi direito como será a dinâmica, mas apresentarei este trabalho durante o evento.
 
 No texto, apresento alguns relatos de experiências que tive com o uso de metodologias ativas no ensino de Filosofia, dentro do IFB, e estabeleço conexões com conceitos-chave da Educação Profissional e Tecnológica. Um dos avaliadores não gostou muito. Pontuou que faltava um posicionamento crítico em relação ao uso das metodologias ativas. Eu entendi.
 
