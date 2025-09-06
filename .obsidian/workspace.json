@@ -65,12 +65,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Private/Sobre.md",
+                "file": "_notes/Public/Pesquisa sobre o ensino de Filosofia.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Pesquisa sobre o ensino de Filosofia"
+            }
+          },
+          {
+            "id": "60adea2cda3e03bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "As metodologias ativas no ensino.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sobre"
+              "title": "As metodologias ativas no ensino"
             }
           },
           {
@@ -154,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -312,10 +326,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e3527795e76a4ee",
+  "active": "60adea2cda3e03bd",
   "lastOpenFiles": [
-    "_notes/Private/Vida acadêmica.md",
+    "Socrates_teaching_Perikles-Nicolas_Guibal-IMG_5309.jpg",
+    "_notes/Public/Pesquisa sobre o ensino de Filosofia.md",
+    "As metodologias ativas no ensino.md",
+    "_notes/Public/O declínio da experiência e a importância da crítica.md",
+    "_notes/Public/A internet e o olhar dos outros.md",
+    "_notes/Public/A origem da Filosofia.md",
     "_notes/Private/Sobre.md",
+    "_notes/Private/Vida acadêmica.md",
     "_notes/Private/Publicações.md",
     "_notes/Private/Palestras.md",
     "_notes/Private/Livros.md",
@@ -334,12 +354,6 @@
     "_posts/2025-03-10-a-necessidade-de-estar-inteiro.md",
     "_posts/2025-03-12-escrever-para-ser-diferente-de-mim.md",
     "_posts/2025-03-13-sem-sono.md",
-    "_posts/2025-03-17-o-que-ainda-falta.md",
-    "_posts/2025-03-18-um-caso-de-amor-com-o-chatgpt.md",
-    "_posts/2025-06-27-o-conhecimento-acessível.md",
-    "_posts/2025-03-26-como-criar-um-indice-de-posts-no-obsidian-publish.md",
-    "_posts/2025-06-06-um-novo-jeito-de-falar-o-nome-do-tecnico-da-selecao.md",
-    "_posts/2025-06-08-estado-de-animo.md",
     "assets/img/martin-claret.png",
     "assets/img/martin-claret.jpg",
     "assets/img/obsidian-indice.png",
