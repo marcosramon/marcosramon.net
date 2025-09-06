@@ -9,7 +9,7 @@ feed: hide
 ---
 <img src="assets/img/tolis2023 1.jpg" width="300">
 
-Meu nome é [[Marcos Ramon]]. Sou professor de Filosofia no Instituto Federal de Brasília, onde pesquiso cibercultura, estética e cultura digital. Também faço [[podcasts]] e vídeos para o YouTube. 
+Meu nome é [[Marcos Ramon]]. Sou professor de Filosofia no Instituto Federal de Brasília, onde pesquiso cibercultura, estética e cultura digital. 
 
 Aqui você vai encontrar uma série de textos e publicações que tenho feito ao longo dos anos, assim como indicações dos meus podcasts e vídeos. É tudo feito por puro diletantismo. Então, encare esses materiais como trabalhos em processo. 😉
 

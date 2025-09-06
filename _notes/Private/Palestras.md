@@ -19,4 +19,4 @@ Aqui você encontra uma lista de algumas palestras que realizei nos últimos ano
 - **Inteligência Artificial na Educação Profissional** – Palestra online realizada no TecPed/SENAR (2024).
 
 ### ✉️ Contato
-Se quiser me convidar para fazer uma palestra, minicurso ou participar de algum evento acadêmico, mande um e-mail para: <a href="mailto:marcos.ferreira@ifb.edu.br">marcos.ferreira@ifb.edu.br</a> 😉
+Se quiser me convidar para fazer uma palestra, minicurso ou para participar de algum evento acadêmico, mande um e-mail para: <a href="mailto:marcos.ferreira@ifb.edu.br">marcos.ferreira@ifb.edu.br</a> 😉
