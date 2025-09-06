@@ -17,4 +17,5 @@ Reorganizei o texto tendo como base essa reflexão e acho que, no final, ficou m
 
 Depois que o livro for publicado, divulgarei aqui no site.
 
-![[Socrates_teaching_Perikles-Nicolas_Guibal-IMG_5309.jpg]]<small><i>Socrates teaching Perikles</i>, por Nicolas Guibal (1780)</small>
+<img src="/assets/img/socrates_teaching.jpg">
+<small><i>Socrates teaching Perikles</i>, por Nicolas Guibal (1780)</small>

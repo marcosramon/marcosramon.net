@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "As metodologias ativas no ensino.md",
+                "file": "_notes/Public/As metodologias ativas no ensino.md",
                 "mode": "source",
                 "source": false
               },
@@ -328,9 +328,9 @@
   },
   "active": "60adea2cda3e03bd",
   "lastOpenFiles": [
-    "Socrates_teaching_Perikles-Nicolas_Guibal-IMG_5309.jpg",
+    "assets/img/socrates_teaching.jpg",
     "_notes/Public/Pesquisa sobre o ensino de Filosofia.md",
-    "As metodologias ativas no ensino.md",
+    "_notes/Public/As metodologias ativas no ensino.md",
     "_notes/Public/O declínio da experiência e a importância da crítica.md",
     "_notes/Public/A internet e o olhar dos outros.md",
     "_notes/Public/A origem da Filosofia.md",
@@ -372,7 +372,6 @@
     "_site/post",
     "_site/2025-06-24-teste-de-controle-post.html",
     "_site/a-transcricao-do-podcast-mamilos-e-um-novo-interesse-de-pesquisa.html",
-    "_site/assets/img/índice2.png",
-    "_site/assets/img/índice.png"
+    "_site/assets/img/índice2.png"
   ]
 }
