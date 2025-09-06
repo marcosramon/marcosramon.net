@@ -13,13 +13,13 @@ Meu nome é [[Marcos Ramon]]. Sou professor de Filosofia no Instituto Federal de
 
 Aqui você vai encontrar uma série de textos e publicações que tenho feito ao longo dos anos, assim como indicações dos meus podcasts e vídeos. É tudo feito por puro diletantismo. Então, encare esses materiais como trabalhos em processo. 😉
 
-Para ver todos os textos do blog, utilize o <a href="https://marcosramon.github.io/posts">índice</a> ou explore o site de outras formas. 👇🏻
+Para ver todos os textos do blog, utilize o <a href="https://marcosramon.net/posts">índice</a> ou explore o site de outras formas. 👇🏻
 
 ## Como funciona este site?
 
 Este site é um espaço de ideias interconectadas, organizado de maneira não linear, semelhante a um [jardim digital](https://maggieappleton.com/garden-history)[^1]. Aqui, não há uma hierarquia rígida a ser seguida; as conexões surgem organicamente por meio de links internos, permitindo que os temas se cruzem e evoluam com o tempo, no estilo de um [wiki](https://pt.wikipedia.org/wiki/Wiki).
 
-Na página <a href="https://marcosramon.github.io/notes">Pesquisa</a> você encontra textos ou anotações relacionados à minha pesquisa e interesses acadêmicos. Já em <a href="https://marcosramon.github.io/posts">Blog</a> você pode ler os textos em formato de crônica e reflexões sobre o cotidiano que escrevo regularmente. Abaixo dos textos você vai ver indicações para outras publicações dentro site, sendo essa uma outra forma de navegar aqui. 
+Na página <a href="https://marcosramon.net/notes">Pesquisa</a> você encontra textos ou anotações relacionados à minha pesquisa e interesses acadêmicos. Já em <a href="https://marcosramon.net/posts">Blog</a> você pode ler os textos em formato de crônica e reflexões sobre o cotidiano que escrevo regularmente. Abaixo dos textos você vai ver indicações para outras publicações dentro site, sendo essa uma outra forma de navegar aqui. 
 
 Não há seção de comentário no site, mas se quiser conversar sobre qualquer texto ou publicação, mande um <a href="mailto:marcosramon@gmail.com">email</a>.
 
@@ -50,5 +50,3 @@ Este é um site pessoal e eu autorizo o compartilhamento, a distribuição e a r
 <img src="assets/img/Pasted image 20250302190730.png" width="150">
 
 [^1]: Um jardim digital é um espaço online para ideias em constante evolução, e, portanto, diferente de um blog tradicional. Em vez de textos apenas organizados por data, ele funciona como um ambiente exploratório, onde notas e reflexões se conectam organicamente. É um conceito que quer resgatar a liberdade criativa dos primeiros dias da web. É possível?
-
-
