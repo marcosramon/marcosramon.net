@@ -1,11 +1,14 @@
 ---
 title: As metodologias ativas no ensino
-date: 2025-09-06 15:10:00 -0300
-tags: 
+date: 2025-09-06
+tags:
+  - filosofia
+  - ensino
 description: Sobre um texto que será publicado no III Seminário Nacional do Ensino Médio Integrado
 permalink: as-metodologias-ativas-no-ensino
 author: Marcos Ramon
 feed: show
+published: true
 ---
 Em outubro deste ano, dentro do CONECTAIF, vai ocorrer o <a href="https://www.even3.com.br/iiisnemi/">III Seminário Nacional do Ensino Médio Integrado</a>. Mandei um texto da minha [[Pesquisa sobre o ensino de Filosofia|pesquisa sobre o ensino de Filosofia]] para publicação como capítulo de livro, e o texto foi aprovado. Ainda não entendi direito como será a dinâmica, mas apresentarei este trabalho durante o evento.
 
