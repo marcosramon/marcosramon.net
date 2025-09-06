@@ -11,13 +11,15 @@ feed: hide
 
 Meu nome é [[Marcos Ramon]]. Sou professor de Filosofia no Instituto Federal de Brasília, onde pesquiso cibercultura, estética e cultura digital. Também faço [[podcasts]] e vídeos para o YouTube. 
 
-Aqui você vai encontrar uma série de textos e publicações que tenho feito ao longo dos anos. Para ver todos os textos do blog, utilize o <a href="https://marcosramon.github.io/posts">índice</a> ou explore o site de outras formas. 👇🏻
+Aqui você vai encontrar uma série de textos e publicações que tenho feito ao longo dos anos, assim como indicações dos meus podcasts e vídeos. É tudo feito por puro diletantismo. Então, encare esses materiais como trabalhos em processo. 😉
+
+Para ver todos os textos do blog, utilize o <a href="https://marcosramon.github.io/posts">índice</a> ou explore o site de outras formas. 👇🏻
 
 ## Como funciona este site?
 
 Este site é um espaço de ideias interconectadas, organizado de maneira não linear, semelhante a um [jardim digital](https://maggieappleton.com/garden-history)[^1]. Aqui, não há uma hierarquia rígida a ser seguida; as conexões surgem organicamente por meio de links internos, permitindo que os temas se cruzem e evoluam com o tempo, no estilo de um [wiki](https://pt.wikipedia.org/wiki/Wiki).
 
-Na página <a href="https://marcosramon.github.io/notes">Pesquisa</a> você encontra textos ou anotações relacionados à minha pesquisa e interesses acadêmicos. Já em <a href="https://marcosramon.github.io/posts">Blog</a> você pode ler os textos em formato de crônica e reflexões sobre o cotidiano que escrevo regularmente. Abaixo dos textos você vai ver indicações para outras publicações dentro site, sendo essa uma outra forma de navegar aqui. 😉 
+Na página <a href="https://marcosramon.github.io/notes">Pesquisa</a> você encontra textos ou anotações relacionados à minha pesquisa e interesses acadêmicos. Já em <a href="https://marcosramon.github.io/posts">Blog</a> você pode ler os textos em formato de crônica e reflexões sobre o cotidiano que escrevo regularmente. Abaixo dos textos você vai ver indicações para outras publicações dentro site, sendo essa uma outra forma de navegar aqui. 
 
 Não há seção de comentário no site, mas se quiser conversar sobre qualquer texto ou publicação, mande um <a href="mailto:marcosramon@gmail.com">email</a>.
 
@@ -30,7 +32,7 @@ Aqui segue o [link do meu currículo lattes](http://lattes.cnpq.br/9538072103558
 
 ## Alguns links
 
-- **[Conexão Filosófica](https://www.youtube.com/conexaofilosofica):** meu canal no YouTube, em que faço vídeos sobre [[filosofia]], tecnologia e ensino.
+- **[Conexão Filosófica](https://www.youtube.com/conexaofilosofica):** meu canal no YouTube, em que divulgo meus vídeos de aula sobre [[filosofia]], tecnologia e ensino.
 - **[Ficções](https://open.spotify.com/show/1smphr2Sl3kHncMYB984rc?si=545bce8419e14da7&nd=1&dlsi=325dcd4d0a134fa7):** meu podcast, com narrativas filosóficas, sobre temas do cotidiano e conceitos clássicos da Filosofia.
 - **[[Livros]]:** lista dos meus livros publicados.
 
