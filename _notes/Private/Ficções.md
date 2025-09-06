@@ -12,7 +12,7 @@ aliases:
 <iframe src="https://embed.podcasts.apple.com/us/podcast/fic%C3%A7%C3%B5es/id967600465?itsct=podcast_box&amp;itscg=30200" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; background: transparent none repeat scroll 0% 0%;" height="450px" frameborder="0"></iframe>
 
 ---
-**Ficções** é um podcast que reúne narrativas filosóficas, ou seja, reflexões que abordam temas variados como filosofia, cotidiano, literatura, arte e tecnologia. Cada episódio explora algum conceito, ideia ou teoria filosófica. O podcast é criado e produzido por [[Marcos Ramon]], professor de [[filosofia]] e escritor. 
+**Ficções** é um podcast que reúne narrativas filosóficas, ou seja, reflexões que abordam temas variados como filosofia, cotidiano, literatura, arte e tecnologia. Cada episódio explora algum conceito, ideia ou teoria filosófica. O podcast é um projeto independente e sem fins comerciais, produzido por [[Marcos Ramon]], professor de [[filosofia]] e escritor. 
 
 ### 🎧 Para ouvir todos os mais de 500 episódios use um dos links a seguir:
 
