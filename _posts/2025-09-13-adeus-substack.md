@@ -8,6 +8,9 @@ tags:
   - publicação
 description: A web está morrendo, e o e-mail como forma de divulgação de textos não parece mais viável para mim.
 permalink: adeus-substack
+image:
+  path: /assets/img/Studies_Hands.jpg
+  alt: Estudo das mãos de Erasmo de Roterdã, por Hans Holbein (1523)
 author: Marcos Ramon
 ---
 Quem me acompanha na internet já sabe que eu escrevo textos, faço podcasts e outras coisas na internet por puro diletantismo. Mas a web quer cada vez menos amadores. Agora tudo é para empreendedores, influencers, *creators*... Não é o meu caso.
