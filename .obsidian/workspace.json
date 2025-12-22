@@ -116,6 +116,20 @@
             }
           },
           {
+            "id": "e35ea6c759248080",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-12-22-sem-ter-como-escapar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-22-sem-ter-como-escapar"
+            }
+          },
+          {
             "id": "b5561b9742340fa7",
             "type": "leaf",
             "state": {
@@ -196,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -355,11 +369,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed2376f9e9747924",
+  "active": "e35ea6c759248080",
   "lastOpenFiles": [
-    "_posts/2025-06-17-o-que-talvez-aconteca.md",
-    "_posts/2025-06-27-o-conhecimento-acessível.md",
     "_posts/2025-09-13-adeus-substack.md",
+    "_posts/2025-12-22-sem-ter-como-escapar.md",
+    "_posts/2025-03-26-como-criar-um-indice-de-posts-no-obsidian-publish.md",
+    "_posts/2025-03-18-um-caso-de-amor-com-o-chatgpt.md",
+    "_posts/2025-06-06-um-novo-jeito-de-falar-o-nome-do-tecnico-da-selecao.md",
+    "_posts/2025-06-08-estado-de-animo.md",
+    "_posts/2025-06-27-o-conhecimento-acessível.md",
+    "assets/img/caindo.gif",
+    "_posts/2025-06-17-o-que-talvez-aconteca.md",
     "assets/img/Studies_Hands.jpg",
     "_notes/Public/Cientificamente comprovado.md",
     "_notes/Public/As metodologias ativas no ensino.md",
@@ -380,11 +400,6 @@
     "pages/404.md",
     "pages/index.md",
     "pages/lists.md",
-    "pages/notes.md",
-    "pages/posts.md",
-    "_notes/Private/Markdown Rendered.md",
-    "templates/Início.md",
-    "templates/Notes.md",
     "assets/img/martin-claret.png",
     "assets/img/martin-claret.jpg",
     "assets/img/obsidian-indice.png",
@@ -392,7 +407,6 @@
     "assets/img/ancelotti.png",
     "assets/img/loom1.gif",
     "Pasted image 20250626190934.png",
-    "assets/img/colagem-paper1.png",
     "scripts python/atualizar_posts.py",
     "scripts python/remover_hashtags.py",
     "scripts python/atualizar_leia_tambem.py",
