@@ -21,7 +21,7 @@ Hoje, mais do que em outras épocas da minha vida, tenho sentido uma sensação 
 
 Não, não sou importante. Sou totalmente irrelevante no que preciso ser e igualmente urgente naquilo que me cabe. Temos, todos nós, um destino compartilhado; mas nesse todo há uma parte que cabe só há mim. Talvez seja a idade, a percepção da finitude, ou só um cansaço pelo excesso de tudo que me cerca, mas penso agora que preciso me ocupar disso (e só disso): do pouquinho de mim que sou só eu mesmo.
 
-![[caindo.gif]]
+<img src="/assets/img/caindo.gif">
 <small>*Fonte: <a href="https://pin.it/1JcwZFXUv">https://pin.it/1JcwZFXUv</a>*</small>
 
 <div class="leia-tambem" markdown="1">
