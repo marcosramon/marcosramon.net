@@ -12,6 +12,9 @@ image:
   path: /assets/img/Studies_Hands.jpg
   alt: Estudo das mãos de Erasmo de Roterdã, por Hans Holbein (1523)
 author: Marcos Ramon
+aliases:
+  - "[[blog]]"
+  - "[[escrita]]"
 ---
 Quem me acompanha na internet já sabe que eu escrevo textos, faço podcasts e outras coisas na internet por puro diletantismo. Mas a web quer cada vez menos amadores. Agora tudo é para empreendedores, influencers, *creators*... Não é o meu caso.
 
