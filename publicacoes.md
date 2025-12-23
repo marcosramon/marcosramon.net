@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publicações
-permalink: /publicacoes/
+permalink: /pesquisa/
 ---
 
 <style>
