@@ -1,6 +1,6 @@
 ---
 title: Novidade mesmo
-layout: post
+layout: Post
 date: 2025-12-23
 ---
 
