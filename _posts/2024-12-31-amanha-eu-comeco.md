@@ -3,10 +3,10 @@ title: Amanhã eu começo
 excerpt: Quando chega um novo ano, saio em busca de soluções.
 date: 2024-12-31
 tags:
-- cotidiano
+  - cotidiano
 aliases:
-- '[[cotidiano]]'
-- '[[tempo]]'
+  - "[[cotidiano]]"
+  - "[[Tempo]]"
 permalink: amanha-eu-comeco
 author: Marcos Ramon
 ---

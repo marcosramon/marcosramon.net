@@ -11,8 +11,9 @@ image:
   path: /assets/img/caindo.gif
   alt: pessoas em sequência caindo, uma sobre a outra
 aliases:
-  - "[[tempo]]"
+  - "[[Tempo]]"
   - "[[reflexão]]"
+  - "[[cotidiano]]"
 ---
 Lendo hoje um texto do Jorge Luis Borges (é meu escritor favorito; então, volto aos mesmos textos de tempos em tempos) me deparei com uma frase que exemplifica muito do que estou sentindo ultimamente:
 

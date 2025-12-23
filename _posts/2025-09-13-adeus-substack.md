@@ -15,6 +15,7 @@ author: Marcos Ramon
 aliases:
   - "[[blog]]"
   - "[[escrita]]"
+  - "[[leitura]]"
 ---
 Quem me acompanha na internet já sabe que eu escrevo textos, faço podcasts e outras coisas na internet por puro diletantismo. Mas a web quer cada vez menos amadores. Agora tudo é para empreendedores, influencers, *creators*... Não é o meu caso.
 

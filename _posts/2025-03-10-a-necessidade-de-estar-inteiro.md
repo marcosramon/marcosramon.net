@@ -10,6 +10,8 @@ permalink: a-necessidade-de-estar-inteiro
 aliases:
   - "[[Rousseau]]"
   - "[[Filosofia]]"
+  - "[[sociedade]]"
+  - "[[comportamento]]"
 author: Marcos Ramon
 date: 2025-03-10
 image: assets/img/horizon.png

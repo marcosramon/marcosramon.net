@@ -1,13 +1,16 @@
 ---
 title: O que talvez aconteça
 date: 2025-06-17
-tags: 
+tags:
 description: Eu tenho uma capacidade incrível de me ocupar com o que vai acontecer, com o que pode acontecer, com o que talvez aconteça.
 permalink: o-que-talvez-aconteca
 author: Marcos Ramon
 image:
   path: /assets/img/colagem-paper1.png
   alt: Colagem
+aliases:
+  - "[[reflexão]]"
+  - "[[pensamento]]"
 ---
 
 Eu tenho uma capacidade incrível de me ocupar com o que vai acontecer, com o que pode acontecer, com o que talvez aconteça.

@@ -1,13 +1,12 @@
 ---
 title: Espírito do tempo
 date: 2024-11-10
-excerpt: Sobre nosso estilo de vida, a pressa, o incômodo, a incapacidade de aproveitar
-  o momento
+excerpt: Sobre nosso estilo de vida, a pressa, o incômodo, a incapacidade de aproveitar o momento
 aliases:
-- '[[tempo]]'
-- '[[música]]'
-- '[[Caetano Veloso|Caetano]]'
-- '[[Maria Bethânia]]'
+  - "[[Tempo]]"
+  - "[[música]]"
+  - "[[Caetano Veloso|Caetano]]"
+  - "[[Maria Bethânia]]"
 permalink: espirito-do-tempo
 author: Marcos Ramon
 ---

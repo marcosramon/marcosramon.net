@@ -8,7 +8,10 @@ tags:
   - conhecimento
 description: Para mim, escrever é um processo de me conectar com quem eu sou, ao mesmo tempo em que faço um desligamento de tudo o que tem a ver comigo.
 permalink: escrever-para-ser-diferente-de-mim
-aliases: 
+aliases:
+  - "[[escrever]]"
+  - "[[leitura]]"
+  - "[[conhecimento]]"
 author: Marcos Ramon
 og_image: assets/img/writing-bacon.png
 image: assets/img/writing-bacon.png

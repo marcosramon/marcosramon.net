@@ -2,10 +2,13 @@
 title: O mais distante
 date: 2017-01-23
 tags:
-- pensamentos
+  - pensamentos
 description: O mais distante
-image: null
-aliases: null
+image:
+aliases:
+  - "[[pensamento]]"
+  - "[[filosofia]]"
+  - "[[história]]"
 permalink: o-mais-distante
 author: Marcos Ramon
 ---

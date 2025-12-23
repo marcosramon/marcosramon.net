@@ -6,7 +6,9 @@ tags:
   - Realidade
 description: Esses dias, minha esposa começou a fazer uma conta de quantos anos faltam pra gente chegar aos 60. Fiquei impressionado que falta tão pouco.
 permalink: o-que-ainda-falta
-aliases: 
+aliases:
+  - "[[Tempo]]"
+  - "[[realidade]]"
 author: Marcos Ramon
 image: assets/img/signac.png
 og_image: assets/img/signac.png

@@ -4,8 +4,8 @@ excerpt: O tempo é sempre, e necessariamente, aquilo que eu mesmo sou.
 permalink: eu-e-o-tempo
 date: 2023-03-07
 aliases:
-- '[[tempo]]'
-- '[[cotidiano]]'
+  - "[[Tempo]]"
+  - "[[cotidiano]]"
 author: Marcos Ramon
 ---
 Quando pensamos sobre o tempo é comum associá-lo a uma coisa externa, que nos afeta, nos condiciona. O tempo, também, é muitas vezes imaginado como algo a que estamos submetidos, uma condição da qual não conseguimos fugir, mesmo tentando insistentemente. Em outros momentos, o tempo é o amigo que nos salva, acolhe, conduz.

@@ -13,6 +13,12 @@ author: Marcos Ramon
 image:
   path: /assets/img/obsidian-mais-recentes.png
   alt: Tela do Obsidian Publish com um índice de textos
+aliases:
+  - "[[obsidian]]"
+  - "[[tecnologia]]"
+  - "[[escrita]]"
+  - "[[publicação]]"
+  - "[[leitura]]"
 ---
 O [Obsidian Publish](https://obsidian.md/publish) é um serviço que permite que você transforme suas notas do Obsidian em um site. Pensei em usar o serviço como o meu blog permanente, mas encontrei algumas dificuldades, como, por exemplo, criar um índice com todos os textos do blog.
 

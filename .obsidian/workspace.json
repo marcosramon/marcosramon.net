@@ -121,12 +121,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-09-13-adeus-substack.md",
+                "file": "_posts/2024-11-12-olhar-o-que-passa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-13-adeus-substack"
+              "title": "2024-11-12-olhar-o-que-passa"
+            }
+          },
+          {
+            "id": "a0e19659aecd3fa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/Public/Tempo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tempo"
             }
           },
           {
@@ -210,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -369,37 +383,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e35ea6c759248080",
+  "active": "a0e19659aecd3fa7",
   "lastOpenFiles": [
-    "_posts/2025-12-22-sem-ter-como-escapar.md",
-    "_posts/2023-03-07-eu-e-o-tempo.md",
-    "_posts/2025-01-19-a-releitura-como-forma-de-reencontro.md",
+    "_notes/Public/Tempo.md",
+    "_notes/Public/Visualizando letras de música como networks.md",
+    "_posts/2024-11-26-espaco.md",
+    "_posts/2024-11-28-uma-black-friday-pra-chamar-de-sua.md",
+    "_posts/2017-01-09-eu-sei.md",
+    "_posts/2025-03-10-a-necessidade-de-estar-inteiro.md",
+    "_posts/2025-03-12-escrever-para-ser-diferente-de-mim.md",
+    "_posts/2025-03-13-sem-sono.md",
+    "_posts/2017-01-23-o-mais-distante.md",
     "_posts/2025-03-17-o-que-ainda-falta.md",
-    "_posts/2025-09-13-adeus-substack.md",
-    "_posts/2024-12-31-amanha-eu-comeco.md",
-    "_posts/2017-02-01-o-que-o-silencio-diz.md",
-    "tempo.md",
-    "_posts/2025-03-26-como-criar-um-indice-de-posts-no-obsidian-publish.md",
     "_posts/2025-03-18-um-caso-de-amor-com-o-chatgpt.md",
+    "_posts/2025-03-26-como-criar-um-indice-de-posts-no-obsidian-publish.md",
     "_posts/2025-06-06-um-novo-jeito-de-falar-o-nome-do-tecnico-da-selecao.md",
     "_posts/2025-06-08-estado-de-animo.md",
-    "_posts/2025-06-27-o-conhecimento-acessível.md",
-    "assets/img/caindo.gif",
     "_posts/2025-06-17-o-que-talvez-aconteca.md",
+    "_posts/2025-06-27-o-conhecimento-acessível.md",
+    "_posts/2025-12-22-sem-ter-como-escapar.md",
+    "_posts/2025-09-13-adeus-substack.md",
+    "_posts/2023-03-07-eu-e-o-tempo.md",
+    "_posts/2025-01-19-a-releitura-como-forma-de-reencontro.md",
+    "_posts/2024-12-31-amanha-eu-comeco.md",
+    "_posts/2017-02-01-o-que-o-silencio-diz.md",
+    "assets/img/caindo.gif",
     "assets/img/Studies_Hands.jpg",
     "_notes/Public/Cientificamente comprovado.md",
     "_notes/Public/As metodologias ativas no ensino.md",
-    "_notes/Public/Visualizando letras de música como networks.md",
     "assets/img/socrates_teaching.jpg",
     "_notes/Public/Pesquisa sobre o ensino de Filosofia.md",
     "_notes/Public/O declínio da experiência e a importância da crítica.md",
-    "_notes/Public/A internet e o olhar dos outros.md",
-    "_notes/Public/A origem da Filosofia.md",
-    "_notes/Private/Sobre.md",
-    "_notes/Private/Vida acadêmica.md",
-    "_notes/Private/Publicações.md",
-    "_notes/Private/Palestras.md",
-    "_notes/Private/Livros.md",
     "assets/img/martin-claret.png",
     "assets/img/martin-claret.jpg",
     "assets/img/obsidian-indice.png",

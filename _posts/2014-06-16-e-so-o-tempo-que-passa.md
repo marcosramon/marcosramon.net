@@ -2,14 +2,14 @@
 title: É só o tempo que passa
 date: 2014-06-16
 categories:
-- blog
+  - blog
 tags:
-- cotidiano
+  - cotidiano
 description: Todo dia a gente fica mais velho
 image: ficandovelho.jpg
 author: Marcos Ramon
 aliases:
-- '[[tempo]]'
+  - "[[Tempo]]"
 permalink: e-so-o-tempo-que-passa
 ---
 Ontem, do nada, Arthur olhou pra mim e perguntou:

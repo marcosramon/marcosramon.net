@@ -14,6 +14,13 @@ author: Marcos Ramon
 image:
   path: /assets/img/martin-claret.png
   alt: Livros da editora Martin Claret
+aliases:
+  - "[[conhecimento]]"
+  - "[[escrita]]"
+  - "[[livros]]"
+  - "[[cultura]]"
+  - "[[arte]]"
+  - "[[inteligência artificial]]"
 ---
 Gosto muito da ideia de imaginar a cultura disponível em suas mais diversas formas, para o maior número de pessoas possível. Verdade: sempre haverá mais pessoas que não querem a literatura, a música ou o cinema do que aquelas que se importam genuinamente com isso. Mas talvez, justamente por isso, permitir que as pessoas encontrem livros, músicas e filmes da forma mais simples possível faça a diferença.
 

@@ -9,11 +9,17 @@ tags:
   - sociedade
   - cultura
 description: como é importante controlar a narrativa até nas coisas mais bobas
-permalink: 
+permalink:
 author: Marcos Ramon
 image:
   path: /assets/img/ancelotti.png
   alt: Foto de Carlo Ancelotti dando uma entrevista
+aliases:
+  - "[[filosofia]]"
+  - "[[linguagem]]"
+  - "[[futebol]]"
+  - "[[sociedade]]"
+  - "[[cultura]]"
 ---
 _Ou como é importante controlar a narrativa até nas coisas mais bobas_
 

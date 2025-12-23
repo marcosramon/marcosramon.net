@@ -1,13 +1,16 @@
 ---
 title: Estado de ânimo
 date: 2025-06-08
-tags: 
+tags:
 description: Acordei no susto.
-permalink: 
+permalink:
 author: Marcos Ramon
 image:
   path: /assets/img/loom1.gif
   alt: Imagem com pontos em movimento
+aliases:
+  - "[[cansaço]]"
+  - "[[cotidiano]]"
 ---
 Acordei no susto.
 
