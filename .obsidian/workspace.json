@@ -149,12 +149,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_news/now.md",
+                "file": "_news/atualizando-o-site.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "now"
+              "title": "atualizando-o-site"
             }
           },
           {
@@ -399,9 +399,9 @@
   },
   "active": "de0a620cf407e83e",
   "lastOpenFiles": [
-    "_news/atualizando-o-site.md",
     "_news/novo-episodio.md",
     "_news/now.md",
+    "_news/atualizando-o-site.md",
     "_notes/Public/Borges.md",
     "_posts/2025-12-22-sem-ter-como-escapar.md",
     "_notes/Public/Sobre Van Gogh.md",

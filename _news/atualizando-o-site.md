@@ -2,6 +2,7 @@
 title: Atualizando o site
 layout: Post
 date: 2025-12-23
+author: Marcos Ramon
 ---
 
 Vou aproveitar as férias do trabalho para atualizar o site e escrever um pouco mais aqui. 

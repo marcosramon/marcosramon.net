@@ -3,10 +3,12 @@ layout: Post
 title: Now
 inline: false
 date: 2025-12-23 10:00:00-0300
+author: Marcos Ramon
 ---
 
-<small>Esse texto é atualizado constantemente com as coisas que estou fazendo no momento. Inspirado em [nownownow.com](https://nownownow.com/about).</small>
+<small><i>Esse texto é atualizado constantemente com as coisas que estou fazendo no momento. Inspirado em [nownownow.com](https://nownownow.com/about).</i></small>
 
+---
 Neste momento estou entrando de férias e vou aproveitar para atualizar meus cursos para o próximo semestre:
 
 - Vou seguir ofertando a disciplina de "Introdução à Estética e História da Arte" para a graduação e quero implementar algumas coisas que aprendi em dois cursos do MASP que fiz neste semestre;
@@ -15,7 +17,7 @@ Neste momento estou entrando de férias e vou aproveitar para atualizar meus cur
 
 Atualizei o layout e recursos do site[^1] e estou animado de escrever de novo.
 Atualmente estou relendo "O Aleph", de Jorge Luis Borges. 
-Estou assistindo Pluribus (é ok até aqui), a última temporada de Stranger Things (é ruim, mas já cheguei até aqui...) e Família Soprano.
+Estou assistindo Pluribus (está ok, por enquanto), a última temporada de Stranger Things (é ruim, mas já cheguei até aqui...) e Família Soprano.
 Toda semana puxo um filme aleatório em algum serviço de streaming pra assistir. O mais recente foi "Os bons companheiros".
 No momento, não estou jogando nada, mas quero jogar "Fez" e um jogo chamado "[Egg](https://terrycavanagh.itch.io/egg)"
 
