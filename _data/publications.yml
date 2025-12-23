@@ -19,22 +19,27 @@
   type: "Artigo publicado em Anais"
   isbn: "978-65-272-1718-3"  
   citation: |                
-    TERRAZA, CRISTIANE; FERREIRA, Marcos Ramon Gomes. UMA EXPERIÊNCIA ARTÍSTICO-PEDAGÓGICA EM "INTRODUÇÃO À ESTÉTICA E HISTÓRIA DA ARTE". In: Anais do Colóquio Arte em Trânsito: arte como território na escola. Anais...Juiz de Fora(MG) MAMM, 2025. Disponível em: https//www.even3.com.br/anais/ix-coloquio-arte-em-transito/1136948-UMA-EXPERIENCIA-ARTISTICO-PEDAGOGICA-EM-INTRODUCAO-A-ESTETICA-E-HISTORIA-DA-ARTE. Acesso em: 23/12/2025
+    TERRAZA, CRISTIANE; FERREIRA, Marcos Ramon Gomes. UMA EXPERIÊNCIA ARTÍSTICO-PEDAGÓGICA EM "INTRODUÇÃO À ESTÉTICA E HISTÓRIA DA ARTE". In: Anais do Colóquio Arte em Trânsito: arte como território na escola. Anais...Juiz de Fora(MG) MAMM, 2025. Disponível em: https//www.even3.com.br/anais/ix-coloquio-arte-em-transito/1136948-UMA-EXPERIENCIA-ARTISTICO-PEDAGOGICA-EM-INTRODUCAO-A-ESTETICA-E-HISTORIA-DA-ARTE. Acesso em: dd/mm/aaaa
   links:
     - label: PDF
       url: "https://drive.google.com/file/d/1qBYc0tW-b_T8_xC2zTFwPEvYVzcbGQPx/view?usp=drive_link"
     - label: Link
       url: "https://www.even3.com.br/anais/ix-coloquio-arte-em-transito/1136948-uma-experiencia-artistico-pedagogica-em-introducao-a-estetica-e-historia-da-arte"
 
-- title: "Cibercultura e Educação: novos desafios"
-  authors: "Marcos Ramon, Autor Parceiro"
-  year: 2023
-  venue: "Anais do Congresso Internacional"
+- title: "Consumo cultural, algoritmos e a ascensão da comodidade"
+  authors: "Marcos Ramon Gomes Ferreira, Gisele Nunes Brasil"
+  year: 2024
+  venue: "IV Encontro Nacional da ABCiber"
+  type: "Artigo publicado em Anais"
+  issn: 2175-2389
+  citation: |                
+    FERREIRA, Marcos Ramon Gomes; BRASIL, Gisele Nunes. Consumo cultural, algoritmos e a ascensão da comodidade. IV Encontro Nacional da ABCiber. Perspectivas Interdisciplinares e Reconfigurações na Cibercultura:
+    Dados, Algoritmos e Inteligência Artificial. Disponível em: https://abciber.org.br/simposios/index.php/virtualabciber/virtual2024/paper/view/2500 Acesso em: dd/mm/aaaa
   links:
-    - label: DOI
-      url: "https://doi.org/..."
-    - label: Slides
-      url: "#"
+    - label: Link
+      url: "https://abciber.org.br/simposios/index.php/virtualabciber/virtual2024/schedConf/presentations?searchInitial=F&track="
+    - label: PDF
+      url: "https://drive.google.com/file/d/1_80WTLBk5f3w5BmH2w5yHK-5xQZjwE7h/view?usp=drive_link"
 
 - title: "O conceito de técnica em Simondon"
   authors: "Marcos Ramon"
