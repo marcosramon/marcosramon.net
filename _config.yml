@@ -52,6 +52,10 @@ collections:
   posts:
     output: true
     permalink: /post/:title
+  news:
+    output: true
+    sort_by: date
+    sort_order: reverse
 
 # Markdown settings
 markdown: kramdown
