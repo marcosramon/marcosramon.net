@@ -23,3 +23,17 @@
   {% endfor %}
   </table>
 </div>
+
+<div class="latest-posts">
+  <h2>Latest Posts</h2>
+  <ul>
+    {% for post in site.posts limit:3 %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <span class="post-date" style="color: #666; font-size: 0.9em;">
+          — {{ post.date | date: "%b %d, %Y" }}
+        </span>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
