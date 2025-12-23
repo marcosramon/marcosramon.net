@@ -1,6 +1,6 @@
 ---
 layout: Post
-title: Novo episódio
+title: Novo texto
 inline: true
 date: 2025-12-22 10:00:00-0300
 ---
