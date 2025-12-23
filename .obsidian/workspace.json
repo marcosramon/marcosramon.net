@@ -135,12 +135,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2017-02-13-o-tempo.md",
-                "mode": "source",
-                "source": false
+                "file": "_posts/2017-02-12-aprender-a-perder.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2017-02-13-o-tempo"
+              "title": "2017-02-12-aprender-a-perder"
             }
           },
           {
