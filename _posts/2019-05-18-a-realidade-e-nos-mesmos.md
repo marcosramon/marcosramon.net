@@ -2,18 +2,17 @@
 title: A realidade e nós mesmos
 date: 2019-05-18 00:00:00+00:00
 categories:
-- blog
+  - blog
 tags:
-- reflexão
-- filosofia
-- realidade
-excerpt: Quando pensamos sobre as coisas que nos determinam, imaginamos nossos gostos,
-  impressões sobre arte, cultura, nossos trejeitos e manias.
+  - reflexão
+  - filosofia
+  - realidade
+excerpt: Quando pensamos sobre as coisas que nos determinam, imaginamos nossos gostos, impressões sobre arte, cultura, nossos trejeitos e manias.
 og_image: assets/images/Weird_Trees_Mark_Bartkiw.jpg
 aliases:
-- '[[reflexão]]'
-- '[[filosofia]]'
-- '[[pensamento]]'
+  - "[[reflexão]]"
+  - "[[Filosofia]]"
+  - "[[pensamento]]"
 permalink: a-realidade-e-nos-mesmos
 author: Marcos Ramon
 ---

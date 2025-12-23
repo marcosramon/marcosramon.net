@@ -2,20 +2,20 @@
 title: O desafio de ensinar
 date: 2019-10-10
 categories:
-- blog
+  - blog
 tags:
-- filosofia
-- conhecimento
-- ensino
-- educação
+  - filosofia
+  - conhecimento
+  - ensino
+  - educação
 excerpt: O ambiente da docência nunca foi tão desafiador.
-header: null
+header:
 aliases:
-- '[[filosofia]]'
-- '[[ciência]]'
-- '[[conhecimento]]'
-- '[[Platão]]'
-- '[[ensino]]'
+  - "[[Filosofia]]"
+  - "[[ciência]]"
+  - "[[conhecimento]]"
+  - "[[Platão]]"
+  - "[[ensino]]"
 permalink: o-desafio-de-ensinar
 author: Marcos Ramon
 ---

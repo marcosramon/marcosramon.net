@@ -7,7 +7,7 @@ description: O mais distante
 image:
 aliases:
   - "[[pensamento]]"
-  - "[[filosofia]]"
+  - "[[Filosofia]]"
   - "[[história]]"
 permalink: o-mais-distante
 author: Marcos Ramon

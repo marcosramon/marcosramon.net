@@ -32,7 +32,7 @@ Aqui segue o [link do meu currículo lattes](http://lattes.cnpq.br/9538072103558
 
 ## Alguns links
 
-- **[Conexão Filosófica](https://www.youtube.com/conexaofilosofica):** meu canal no YouTube, em que divulgo meus vídeos de aula sobre [[filosofia]], tecnologia e ensino.
+- **[Conexão Filosófica](https://www.youtube.com/conexaofilosofica):** meu canal no YouTube, em que divulgo meus vídeos de aula sobre [[Filosofia]], tecnologia e ensino.
 - **[Ficções](https://open.spotify.com/show/1smphr2Sl3kHncMYB984rc?si=545bce8419e14da7&nd=1&dlsi=325dcd4d0a134fa7):** meu podcast, com narrativas filosóficas, sobre temas do cotidiano e conceitos clássicos da Filosofia.
 - **[[Livros]]:** lista dos meus livros publicados.
 

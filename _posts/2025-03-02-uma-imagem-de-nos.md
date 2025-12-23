@@ -8,7 +8,7 @@ excerpt: Sobre a imagem que achamos que construímos de nós.
 permalink: uma-imagem-de-nos
 aliases:
   - "[[Kant]]"
-  - "[[filosofia]]"
+  - "[[Filosofia]]"
   - "[[reflexão]]"
 author: Marcos Ramon
 og_image: assets/img/colagem-zinonos.png

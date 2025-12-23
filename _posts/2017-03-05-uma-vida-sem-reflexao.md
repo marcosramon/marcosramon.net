@@ -1,14 +1,13 @@
 ---
 title: Uma vida sem reflexão
 date: 2017-03-05
-excerpt: De acordo com Platão, Sócrates era da opinião de que uma vida sem reflexão
-  não merecia ser vivida.
+excerpt: De acordo com Platão, Sócrates era da opinião de que uma vida sem reflexão não merecia ser vivida.
 aliases:
-- '[[Platão]]'
-- '[[Sócrates]]'
-- '[[filosofia]]'
-- '[[reflexão]]'
-- '[[liberdade]]'
+  - "[[Platão]]"
+  - "[[Sócrates]]"
+  - "[[Filosofia]]"
+  - "[[reflexão]]"
+  - "[[liberdade]]"
 permalink: uma-vida-sem-reflexao
 author: Marcos Ramon
 ---

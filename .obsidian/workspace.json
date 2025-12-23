@@ -135,12 +135,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Private/Sobre.md",
+                "file": "_notes/Public/Tempo.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sobre"
+              "title": "Tempo"
             }
           },
           {
@@ -385,8 +385,10 @@
   },
   "active": "a0e19659aecd3fa7",
   "lastOpenFiles": [
-    "Marcos Ramon.md",
+    "_notes/Public/Filosofia.md",
+    "_notes/Public/Estamos perdidos.md",
     "_notes/Private/Sobre.md",
+    "Marcos Ramon.md",
     "_posts/2017-02-12-aprender-a-perder.md",
     "_posts/2017-02-13-colagem.md",
     "_posts/2017-02-13-o-tempo.md",
@@ -413,8 +415,6 @@
     "_posts/2025-03-18-um-caso-de-amor-com-o-chatgpt.md",
     "_posts/2025-03-26-como-criar-um-indice-de-posts-no-obsidian-publish.md",
     "_posts/2025-06-06-um-novo-jeito-de-falar-o-nome-do-tecnico-da-selecao.md",
-    "_posts/2025-06-08-estado-de-animo.md",
-    "_posts/2025-06-17-o-que-talvez-aconteca.md",
     "assets/img/caindo.gif",
     "assets/img/Studies_Hands.jpg",
     "assets/img/socrates_teaching.jpg",

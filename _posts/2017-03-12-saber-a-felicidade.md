@@ -1,14 +1,13 @@
 ---
 title: Saber a felicidade
 date: 2017-03-12
-tags: null
-excerpt: Para Epicuro, a tarefa da filosofia é nos proporcionar uma vida feliz. Mas
-  essa é uma forma curiosa de ver a filosofia.
+tags:
+excerpt: Para Epicuro, a tarefa da filosofia é nos proporcionar uma vida feliz. Mas essa é uma forma curiosa de ver a filosofia.
 aliases:
-- '[[Epicuro]]'
-- '[[filosofia]]'
-- '[[reflexão]]'
-- '[[conhecimento]]'
+  - "[[Epicuro]]"
+  - "[[Filosofia]]"
+  - "[[reflexão]]"
+  - "[[conhecimento]]"
 permalink: saber-a-felicidade
 author: Marcos Ramon
 ---

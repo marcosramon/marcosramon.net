@@ -3,14 +3,14 @@ title: Não quero saber
 date: 2024-12-30
 excerpt: Quem precisa saber tanta coisa?
 tags:
-- Informação
-- conhecimento
+  - Informação
+  - conhecimento
 aliases:
-- '[[Schopenhauer]]'
-- '[[Borges]]'
-- '[[filosofia]]'
-- '[[Platão]]'
-- '[[informação]]'
+  - "[[Schopenhauer]]"
+  - "[[Borges]]"
+  - "[[Filosofia]]"
+  - "[[Platão]]"
+  - "[[informação]]"
 permalink: nao-quero-saber
 author: Marcos Ramon
 ---

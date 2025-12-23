@@ -15,7 +15,7 @@ image:
   path: /assets/img/ancelotti.png
   alt: Foto de Carlo Ancelotti dando uma entrevista
 aliases:
-  - "[[filosofia]]"
+  - "[[Filosofia]]"
   - "[[linguagem]]"
   - "[[futebol]]"
   - "[[sociedade]]"
