@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2025-01-15 10:00:00-0300
+inline: true
+---
+
+Lancei um novo episódio do podcast sobre estética e cibercultura. 😉🐟
