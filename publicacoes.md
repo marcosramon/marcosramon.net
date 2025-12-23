@@ -1,6 +1,7 @@
 ---
 layout: Post
 title: Publicações
+author: Marcos Ramon
 permalink: /publicacoes/
 date: 2025-12-23
 content-type: post
