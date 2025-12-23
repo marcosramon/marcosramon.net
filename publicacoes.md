@@ -1,7 +1,7 @@
 ---
-layout: Post
+layout: page
 title: Publicações
-permalink: /pesquisa/
+permalink: /publicacoes/
 ---
 
 <style>
