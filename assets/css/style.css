@@ -1527,12 +1527,13 @@ li {
     padding-bottom: var(--padding-thin);
 }
 
-a[href^="http"] {
+/* a[href^="http"] {
     background-image: url(../img/external-link.svg);
     background-repeat: no-repeat;
     background-position: right;
     padding-right: 1.3rem;
 }
+*/
 
 .home-sub-text {
     padding-top: 2rem;
