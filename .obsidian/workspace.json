@@ -135,12 +135,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Tempo.md",
-                "mode": "source",
+                "file": "_posts/2025-12-22-sem-ter-como-escapar.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tempo"
+              "title": "2025-12-22-sem-ter-como-escapar"
             }
           },
           {
@@ -385,7 +385,7 @@
   },
   "active": "a0e19659aecd3fa7",
   "lastOpenFiles": [
-    "Borges.md",
+    "_notes/Public/Borges.md",
     "_notes/Public/Tempo.md",
     "_notes/Public/Filosofia.md",
     "_notes/Public/Estamos perdidos.md",

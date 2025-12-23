@@ -15,7 +15,7 @@ aliases:
   - "[[reflexão]]"
   - "[[cotidiano]]"
 ---
-Lendo hoje um texto do Jorge Luis Borges (é meu escritor favorito; então, volto aos mesmos textos de tempos em tempos) me deparei com uma frase que exemplifica muito do que estou sentindo ultimamente:
+Lendo hoje um texto do Jorge Luis [[Borges]] (é meu escritor favorito; então, volto aos mesmos textos de tempos em tempos) me deparei com uma frase que exemplifica muito do que estou sentindo ultimamente:
 
 > Compreendeu que um destino não é melhor que outro, mas que todo homem deve acatar o que traz dentro de si. (Jorge Luis Borges. *Biografia de Tadeo Isidoro Cruz*. In: <a href="https://www.amazon.com.br/Aleph-Jorge-Luis-Borges/dp/8535912029">O Aleph</a>)
 
