@@ -8,13 +8,13 @@ content-type: post
 ---
 
 <style>
-  /* Garante que a fonte seja a do sistema (sem serifa) */
+  /* Fonte do sistema */
   .publications-wrapper {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     max-width: 100%;
   }
 
-  /* Estilo do Ano */
+  /* Cabeçalho do Ano */
   .pub-year-heading {
     margin-top: 40px;
     margin-bottom: 20px;
@@ -26,15 +26,14 @@ content-type: post
     opacity: 0.9;
   }
   
-  /* Container de cada publicação */
+  /* Item da publicação */
   .pub-item {
-    margin-bottom: 30px;
+    margin-bottom: 35px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
   }
 
-  /* Título do artigo */
   .pub-title {
     font-weight: 700;
     font-size: 1.1rem;
@@ -43,7 +42,6 @@ content-type: post
     line-height: 1.4;
   }
 
-  /* Autores */
   .pub-authors {
     font-size: 0.95rem;
     color: #555;
@@ -51,50 +49,88 @@ content-type: post
     margin-bottom: 4px;
   }
 
-  /* Revista/Conferência */
   .pub-venue {
     font-size: 0.9rem;
     color: #666;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
   }
 
-  /* Botões (Links) */
+  /* ISBN e Informações Extras */
+  .pub-isbn {
+    font-size: 0.85rem;
+    color: #777;
+    margin-left: 10px;
+    font-weight: normal;
+  }
+
+  /* Botões (Agora usando a cor do link do tema) */
   .pub-buttons {
     display: flex;
     gap: 10px;
     flex-wrap: wrap;
+    margin-top: 5px;
+    align-items: center;
   }
 
   .pub-btn {
     display: inline-block;
-    padding: 4px 12px;
-    border: 1px solid #333;
-    border-radius: 4px; /* Cantos arredondados */
-    font-size: 0.8rem;
+    padding: 3px 10px;
+    border: 1px solid currentColor; /* Pega a cor do texto (azul do tema) */
+    border-radius: 4px;
+    font-size: 0.75rem;
     font-weight: 600;
     text-transform: uppercase;
-    text-decoration: none !important; /* Remove sublinhado padrão */
-    color: #333 !important;
+    text-decoration: none !important;
     background-color: transparent;
+    opacity: 0.9;
     transition: all 0.2s ease;
   }
 
-  /* Efeito Hover (passar o mouse) */
   .pub-btn:hover {
-    background-color: #333;
-    color: #fff !important;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    background-color: rgba(0,0,0,0.05); /* Fundo sutil ao passar o mouse */
+    opacity: 1;
     transform: translateY(-1px);
   }
 
-  /* Ajustes para Modo Escuro (Dark Mode) */
+  /* Área "Como Citar" (Collapsible) */
+  details.pub-citation {
+    margin-top: 10px;
+    width: 100%;
+  }
+
+  summary.citation-trigger {
+    cursor: pointer;
+    font-size: 0.8rem;
+    color: #888;
+    list-style: none; /* Remove a seta padrão em alguns browsers */
+    font-weight: 500;
+  }
+  
+  summary.citation-trigger:hover {
+    color: #555;
+    text-decoration: underline;
+  }
+
+  .citation-content {
+    margin-top: 8px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    font-family: monospace; /* Fonte de código para copiar fácil */
+    color: #555;
+    white-space: pre-wrap; /* Mantém quebras de linha se houver */
+  }
+
+  /* Modo Escuro */
   @media (prefers-color-scheme: dark) {
     .pub-year-heading { color: #eee; border-color: #444; }
     .pub-title { color: #f0f0f0; }
     .pub-authors { color: #bbb; }
-    .pub-venue { color: #999; }
-    .pub-btn { border-color: #eee; color: #eee !important; }
-    .pub-btn:hover { background-color: #eee; color: #111 !important; }
+    .pub-venue, .pub-isbn { color: #999; }
+    .citation-content { background-color: #222; border-color: #444; color: #ccc; }
+    .pub-btn:hover { background-color: rgba(255,255,255,0.1); }
   }
 </style>
 
@@ -112,7 +148,12 @@ content-type: post
           
           <div class="pub-authors">{{ pub.authors }}</div>
           
-          <div class="pub-venue">{{ pub.venue }}</div>
+          <div class="pub-venue">
+            {{ pub.venue }}
+            {% if pub.isbn %}
+              <span class="pub-isbn">ISBN: {{ pub.isbn }}</span>
+            {% endif %}
+          </div>
           
           {% if pub.links %}
           <div class="pub-buttons">
@@ -121,6 +162,14 @@ content-type: post
             {% endfor %}
           </div>
           {% endif %}
+
+          {% if pub.citation %}
+          <details class="pub-citation">
+            <summary class="citation-trigger">▼ Como citar</summary>
+            <div class="citation-content">{{ pub.citation }}</div>
+          </details>
+          {% endif %}
+
         </div>
       {% endfor %}
     </div>
