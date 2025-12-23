@@ -2,7 +2,7 @@
   authors: "Marcos Ramon Gomes Ferreira"
   year: 2025
   venue: "Ensino médio integrado: políticas, currículos e práticas."
-  description: "Capítulo de livro"
+  type: "Capítulo de livro"
   isbn: "978-65-6074-046-4"  
   citation: |                
     FERREIRA, Marcos Ramon Gomes. Práticas pedagógicas em Filosofia para uma formação omnilateral no Ensino Médio Integrado. In: SILVA, Cláudio Nei Nascimento. Ensino médio integrado: políticas, currículos e práticas. Brasília, DF: Editora IFB: Editora Nova Paideia, 2025.
@@ -16,6 +16,7 @@
   authors: "Cristiane Terraza, Marcos Ramon Gomes Ferreira"
   year: 2025
   venue: "IX Colóquio Arte em Trânsito"
+  type: "Artigo publicado em Anais"
   isbn: "978-65-272-1718-3"  
   citation: |                
     TERRAZA, CRISTIANE; FERREIRA, Marcos Ramon Gomes. UMA EXPERIÊNCIA ARTÍSTICO-PEDAGÓGICA EM "INTRODUÇÃO À ESTÉTICA E HISTÓRIA DA ARTE". In: Anais do Colóquio Arte em Trânsito: arte como território na escola. Anais...Juiz de Fora(MG) MAMM, 2025. Disponível em: https//www.even3.com.br/anais/ix-coloquio-arte-em-transito/1136948-UMA-EXPERIENCIA-ARTISTICO-PEDAGOGICA-EM-INTRODUCAO-A-ESTETICA-E-HISTORIA-DA-ARTE. Acesso em: 23/12/2025
