@@ -28,7 +28,7 @@ Este site é publicado com <a href="https://obsidian.md/">Obsidian</a>, <a href=
 
 ## Vida acadêmica
 
-Aqui segue o [link do meu currículo lattes](http://lattes.cnpq.br/9538072103558772)e do [Orcid](https://orcid.org/0000-0002-8720-8706). Se quiser saber mais, acesse outros dados sobre minha [[Vida acadêmica]]. Quem tiver interesse em trocar ideias sobre a pesquisa é só mandar um [email](mailto:marcosramon@gmail.com).
+Aqui segue o [link do meu currículo lattes](http://lattes.cnpq.br/9538072103558772) e do [Orcid](https://orcid.org/0000-0002-8720-8706). Se quiser saber mais, acesse outros dados sobre minha [[Vida acadêmica]]. Quem tiver interesse em trocar ideias sobre a pesquisa é só mandar um [email](mailto:marcosramon@gmail.com).
 
 ## Alguns links
 
