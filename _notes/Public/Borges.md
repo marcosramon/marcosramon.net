@@ -1,5 +1,5 @@
 ---
-title: Jorge Luis Borges
+title: Borges
 date: 23/12/2025
 tags: 
 description: 
