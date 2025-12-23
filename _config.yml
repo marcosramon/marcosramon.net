@@ -89,11 +89,13 @@ defaults:
       path: "" # um escopo vazio se aplica a todos os arquivos
     values:
       image: /assets/img/gephi2.png
-  - scope:
+- scope:
       path: ""
       type: news
     values:
-      layout: Post
+      layout: Post           
+      permalink: /news/:title
+      content-type: post     
 
 # Exclude from processing
 exclude:
