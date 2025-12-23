@@ -1,0 +1,213 @@
+<style>
+    .post-footer-meta {
+        margin-top: 50px;
+        margin-bottom: 40px;
+        padding-top: 30px;
+        border-top: 1px solid var(--color-border-light);
+        font-family: inherit;
+    }
+
+    .meta-actions {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        gap: 25px;
+        margin-bottom: 30px;
+    }
+
+    .share-wrapper {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+    }
+
+    .share-label {
+        font-size: 0.85rem;
+        font-weight: 600;
+        color: var(--color-text-sub);
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+
+    .share-buttons {
+        display: flex;
+        gap: 10px;
+    }
+
+    .share-btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 36px;
+        height: 36px;
+        border-radius: 50%;
+        border: none;
+        background: var(--color-text-main); 
+        color: var(--color-bg-main) !important;
+        transition: all 0.2s ease;
+        text-decoration: none !important;
+        background-image: none !important;
+        padding-right: 0 !important;
+    }
+
+    .share-btn:hover {
+        background: var(--color-text-link); 
+        color: var(--color-bg-main) !important;
+        transform: translateY(-2px);
+        box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    }
+
+    .share-btn i {
+        font-size: 16px;
+    }
+
+    .contact-cta {
+        font-size: 0.85rem;
+        color: var(--color-text-sub);
+        text-align: right;
+        line-height: 1.4;
+    }
+
+    .contact-cta a {
+        color: var(--color-text-link);
+        font-weight: 600;
+        text-decoration: none;
+    }
+
+    .contact-cta a:hover { text-decoration: underline; }
+
+    details.citation-details {
+        width: 100%;
+        border-top: 1px solid var(--color-border-light);
+        padding-top: 15px;
+    }
+
+    summary.citation-trigger {
+        cursor: pointer;
+        font-size: 0.85rem;
+        color: var(--color-text-sub);
+        font-weight: 600;
+        list-style: none;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        transition: color 0.2s;
+    }
+    
+    summary.citation-trigger:hover {
+        color: var(--color-text-main);
+    }
+
+    summary.citation-trigger::-webkit-details-marker {
+        display: none;
+    }
+
+    .citation-container {
+        margin-top: 15px;
+        background-color: var(--color-bg-sub);
+        border: 1px solid var(--color-border-light);
+        border-radius: 6px;
+        padding: 15px;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .citation-text {
+        font-family: monospace;
+        font-size: 0.8rem;
+        color: var(--color-text-main);
+        line-height: 1.4;
+        word-break: break-word;
+    }
+
+    .citation-actions {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .copy-btn {
+        background: transparent;
+        border: 1px solid var(--color-border);
+        color: var(--color-text-sub);
+        cursor: pointer;
+        font-size: 0.75rem;
+        padding: 4px 12px;
+        border-radius: 4px;
+        transition: all 0.2s;
+        font-weight: 600;
+    }
+
+    .copy-btn:hover {
+        border-color: var(--color-text-link);
+        color: var(--color-text-link);
+        background: var(--color-bg-main);
+    }
+
+    @media (max-width: 768px) {
+        .meta-actions { 
+            flex-direction: column; 
+            align-items: flex-start;
+            gap: 20px;
+        }
+        .contact-cta { 
+            text-align: left; 
+        }
+    }
+</style>
+
+<div class="meta-actions">
+    <div class="share-wrapper">
+        <span class="share-label">Compartilhe:</span>
+        <div class="share-buttons">
+            <a href="https://wa.me/?text={{ page.title | url_encode }}%20-%20{{ site.url }}{{ page.url }}" target="_blank" class="share-btn" title="WhatsApp"><i class="fa-brands fa-whatsapp"></i></a>
+            <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ page.url }}" target="_blank" class="share-btn" title="X / Twitter"><i class="fa-brands fa-x-twitter"></i></a>
+            <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title | url_encode }}" target="_blank" class="share-btn" title="LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a>
+            <a href="mailto:?subject={{ page.title | url_encode }}&body=Olha que texto interessante: {{ site.url }}{{ page.url }}" class="share-btn" title="E-mail"><i class="fa-solid fa-envelope"></i></a>
+        </div>
+    </div>
+
+    <div class="contact-cta">
+        Gostou do texto? Vamos conversar.<br>
+        <a href="mailto:marcosramon@gmail.com">Entre em contato por e-mail</a>
+    </div>
+</div>
+
+<details class="citation-details">
+    <summary class="citation-trigger">
+        <i class="fa-solid fa-chevron-down" style="font-size: 0.7rem;"></i>
+        Como citar este texto
+    </summary>
+    <div class="citation-container">
+        <div class="citation-text">RAMON, Marcos. <strong>{{ page.title }}</strong>. {{ site.time | date: "%Y" }}. Disponível em: &lt;{{ site.url }}{{ page.url }}&gt;. Acesso em: <span class="access-date-dynamic"></span>.</div>
+        <div class="citation-actions">
+            <button class="copy-btn" onclick="copyCitation()">COPIAR CITAÇÃO</button>
+        </div>
+    </div>
+</details>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const details = document.querySelector('.citation-details');
+        if(details) {
+            const icon = details.querySelector('.citation-trigger i');
+            details.addEventListener('toggle', (event) => {
+                if (details.open) {
+                    icon.classList.remove('fa-chevron-down');
+                    icon.classList.add('fa-chevron-up');
+                } else {
+                    icon.classList.remove('fa-chevron-up');
+                    icon.classList.add('fa-chevron-down');
+                }
+            });
+        }
+        
+        // Preenche a data se ainda não foi preenchida pelo script do Post.html
+        const dateElements = document.querySelectorAll('.access-date-dynamic');
+        const today = new Date().toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit', year: 'numeric' });
+        dateElements.forEach(el => {
+            if(el.textContent === "") el.textContent = today;
+        });
+    });
+</script>

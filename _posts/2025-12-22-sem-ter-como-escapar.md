@@ -23,7 +23,7 @@ O homem que compreendeu isso era o tal Tadeo Isidoro Cruz, que tem o nome no tí
 
 Hoje, mais do que em outras épocas da minha vida, tenho sentido uma sensação de vazio que faz com que eu (talvez contraditoriamente) me sinta mais relevante, mais necessário pra mim mesmo do que sempre fui antes. Inevitavelmente, esse sentimento me leva a um erro comum: acreditar que eu importo mais do que qualquer outra pessoa. 
 
-Não, não sou importante. Sou totalmente irrelevante no que preciso ser e igualmente urgente naquilo que me cabe. Temos, todos nós, um destino compartilhado; mas nesse todo há uma parte que cabe só há mim. Talvez seja a idade, a percepção da finitude, ou só um cansaço pelo excesso de tudo que me cerca, mas penso agora que preciso me ocupar disso (e só disso): do pouquinho de mim que sou só eu mesmo.
+Não, não sou importante. Sou totalmente irrelevante no que preciso ser e igualmente urgente naquilo que me cabe. Temos, todos nós, um destino compartilhado; mas nesse todo há uma parte que cabe só a mim. Talvez seja a idade, a percepção da finitude, ou só um cansaço pelo excesso de tudo que me cerca, mas penso agora que preciso me ocupar disso (e só disso): do pouquinho de mim que sou só eu mesmo.
 
 <img src="/assets/img/caindo.gif">
 <small>*Fonte: <a href="https://pin.it/1JcwZFXUv">https://pin.it/1JcwZFXUv</a>*</small>

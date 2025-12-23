@@ -1,40 +1,16 @@
 ---
 ---
 
-<!-------------------------------------------------------------------------------------
-*
-* MIT License
-* Copyright (c) 2020 Raghuveer S, Hiran Venugopalan, Asim K T
-*
-* Permission is hereby granted, free of charge, to any person obtaining a copy
-* of this software and associated documentation files (the "Software"), to deal
-* in the Software without restriction, including without limitation the rights
-* to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-* copies of the Software, and to permit persons to whom the Software is
-* furnished to do so, subject to the following conditions:
-*
-* The above copyright notice and this permission notice shall be included in all
-* copies or substantial portions of the Software.
-*
-* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-* IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-* FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-* AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-* LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-* OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-* SOFTWARE.
-*
------------------------------------------------------------------------------------->
-
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     
     {% seo %}
 
@@ -56,14 +32,11 @@
     <section class="section">
         <div class="columns is-centered">
 
-            <!-- Homepage Layout-->
             {%- if page.permalink == "/" -%}
             <div class="column is-8-widescreen  is-8-desktop is-8-tablet is-12-mobile">
                     {%- if site.preferences.homepage.enabled -%}
-                            <!--- Show Homepage -->
                             {%- include Homepage.html -%}
                     {%- else -%}
-                            <!--- Show Feed Part -->
                 <div class="column is-6-widescreen  is-8-desktop is-8-tablet is-12-mobile">
                             <h5 class="meta-title"><a href="/">← Home</a></h5>
                             <div class="jumbo">{{page.title}}</div>
@@ -74,16 +47,15 @@
             </div>
             {%- endif -%}
 
-            <!--- Notes Feed Layout-->
             {%- if page.feedformat -%}
             <div class="column is-6-widescreen  is-8-desktop is-8-tablet is-12-mobile">
                 <h5 class="meta-title"><a href="/">← Home</a></h5>
                     <div class="jumbo">{{page.title}}</div>
                     {%- include Content.html -%}
                     {%- include Feed.html -%}
+            </div>
             {%- endif -%}
 
-            <!--- Notes Layout-->
             {%- if page.content-type == "notes" -%}
             <div class="column is-5-widescreen  is-6-desktop is-8-tablet is-12-mobile">
                     <div class="note-page-section">
@@ -96,7 +68,7 @@
                                     <h5 class="meta-title">← VOLTAR</h5>
                             </a>
                         </div>
-                    <!--- List type Note Layout-->
+                    
                     {%- if page.format == "list" -%}
                     <style>
                         li {border-bottom: 1px solid var(--color-border-light); list-style: none; padding: 0.4rem 0 0.4rem 0;}
@@ -104,16 +76,24 @@
                         h3 {padding-top: 1rem; padding-bottom: 0rem;}
                     </style>                    
                     {%- endif -%}
+
                     <h1>{{page.title}}</h1>
                     <p class="post-meta">{{ page.author }}&nbsp;&middot;&nbsp;{% include data-formatada.html data=page.date %}</p>
-                    {%- include Content.html -%}
+                    
+                    <div id="note-content-container">
+                        {%- include Content.html -%}
+                    </div>
+                    
+                    <div id="note-footer-meta" class="post-footer-meta" style="display: block; margin-top: 40px;">
+                        {% include FooterMeta.html %}
+                    </div>
+
                     {%- include Backlinks.html -%}
                     </div>
             </div>
             {%- endif -%}
 
 
-            <!--- Post Feed Layout-->
             {%- if page.permalink == "/posts" -%}
             <div class="column is-6-widescreen  is-8-desktop is-8-tablet is-12-mobile">
                 <h5 class="meta-title"><a href="/">← Home</a></h5>
@@ -127,12 +107,8 @@
                         </div>
                     {%- endfor -%}
             </div> 
-
-            <ul>
-                
             {%- endif -%}
 
-             <!--- Post Layout-->
              {%- if page.content-type == "post"  -%}
              <div class="column is-5-widescreen  is-6-desktop is-8-tablet is-12-mobile">
                      <div class="note-page-section">
@@ -147,13 +123,73 @@
                          </div>
                      <h1>{{page.title}}</h1>
                      <p class="post-meta">{{ page.author }}&nbsp;&middot;&nbsp;{% include data-formatada.html data=page.date %}</p>
-                     {%- include Content.html -%}
+                     
+                     <div id="post-content-container">
+                        {%- include Content.html -%}
+                     </div>
+
+                     <div id="post-footer-meta" class="post-footer-meta" style="display: none;">
+                        {% include FooterMeta.html %}
+                     </div>
+
+                     <script>
+                        document.addEventListener("DOMContentLoaded", function() {
+                            const metaBlock = document.getElementById('post-footer-meta');
+                            const contentContainer = document.getElementById('post-content-container');
+                            
+                            // Data atual (para citações)
+                            const dateElements = document.querySelectorAll('.access-date-dynamic');
+                            const today = new Date().toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit', year: 'numeric' });
+                            dateElements.forEach(el => el.textContent = today);
+
+                            if (contentContainer && metaBlock) {
+                                const headings = contentContainer.querySelectorAll('h1, h2, h3, h4, h5, p, strong, em');
+                                let targetNode = null;
+
+                                for (let node of headings) {
+                                    if (node.innerText && node.innerText.toLowerCase().includes('leia também')) {
+                                        targetNode = node;
+                                        if ((node.tagName === 'STRONG' || node.tagName === 'EM') && node.parentElement.tagName === 'P') {
+                                            targetNode = node.parentElement;
+                                        }
+                                        break;
+                                    }
+                                }
+
+                                if (targetNode) {
+                                    targetNode.parentNode.insertBefore(metaBlock, targetNode);
+                                } else {
+                                    contentContainer.appendChild(metaBlock);
+                                }
+                                
+                                metaBlock.style.display = 'block';
+                            }
+                        });
+
+                        function copyCitation() {
+                            const citationText = document.querySelector('.citation-text').innerText;
+                            navigator.clipboard.writeText(citationText).then(() => {
+                                const btns = document.querySelectorAll('.copy-btn');
+                                btns.forEach(btn => {
+                                    const originalText = btn.textContent;
+                                    btn.textContent = "COPIADO!";
+                                    btn.style.borderColor = "var(--color-text-link)";
+                                    btn.style.color = "var(--color-text-link)";
+                                    setTimeout(() => { 
+                                        btn.textContent = originalText; 
+                                        btn.style.borderColor = "";
+                                        btn.style.color = "";
+                                    }, 2500);
+                                });
+                            });
+                        }
+                     </script>
+
                      {%- include Backlinks.html -%}
                      </div>
              </div>
              {%- endif -%}
 
-            <!--- Static Page Layout-->
             {%- if page.content-type == "static" -%}
             <div class="column is-5-widescreen  is-6-desktop is-8-tablet is-12-mobile">
                         <div class="jumbo">{{page.title}}</div>                        
@@ -161,7 +197,7 @@
                 </div>
             {%- endif -%}
         </div>
-    </section>   
+    </section>    
     {%- include Footer.html -%}             
 </main>
 </body>
