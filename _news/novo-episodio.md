@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: Post
 title: Novo episódio
 inline: true
-date: 2025-01-15 10:00:00-0300
+date: 2025-12-22 10:00:00-0300
 ---
 
-Lancei um novo episódio do podcast sobre estética e cibercultura. 😉🐟
+Escrevi um [texto novo](https://marcosramon.net/sem-ter-como-escapar) aqui depois de muito tempo. 😊
