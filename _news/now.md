@@ -2,7 +2,7 @@
 layout: Post
 title: Now
 inline: true
-date: 2025-12-2310:00:00-0300
+date: 2025-12-23 10:00:00-0300
 ---
 
 <small>Esse texto é atualizado constantemente com as coisas que estou fazendo no momento. Inspirado em [nownownow.com](https://nownownow.com/about).</small>
