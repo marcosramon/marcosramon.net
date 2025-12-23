@@ -1,6 +1,7 @@
 ---
 title: Livros
 feed: hide
+author: Marcos Ramon
 date: 2025-06-25
 description: Livros publicados | Marcos Ramon
 image: descompasso-div.png
