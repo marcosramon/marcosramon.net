@@ -78,7 +78,10 @@
                     {%- endif -%}
 
                     <h1>{{page.title}}</h1>
-                    <p class="post-meta">{{ page.author }}&nbsp;&middot;&nbsp;{% include data-formatada.html data=page.date %}</p>
+                    <p class="post-meta">
+                        <a href="{{ '/sobre' | relative_url }}" style="color: inherit; text-decoration: none;">{{ page.author }}</a>
+                        &nbsp;&middot;&nbsp;{% include data-formatada.html data=page.date %}
+                    </p>
                     
                     <div id="note-content-container">
                         {%- include Content.html -%}
@@ -122,7 +125,10 @@
                              </a>
                          </div>
                      <h1>{{page.title}}</h1>
-                     <p class="post-meta">{{ page.author }}&nbsp;&middot;&nbsp;{% include data-formatada.html data=page.date %}</p>
+                     <p class="post-meta">
+                        <a href="{{ '/sobre' | relative_url }}" style="color: inherit; text-decoration: none;">{{ page.author }}</a>
+                        &nbsp;&middot;&nbsp;{% include data-formatada.html data=page.date %}
+                     </p>
                      
                      <div id="post-content-container">
                         {%- include Content.html -%}
@@ -137,7 +143,6 @@
                             const metaBlock = document.getElementById('post-footer-meta');
                             const contentContainer = document.getElementById('post-content-container');
                             
-                            // Data atual (para citações)
                             const dateElements = document.querySelectorAll('.access-date-dynamic');
                             const today = new Date().toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit', year: 'numeric' });
                             dateElements.forEach(el => el.textContent = today);
