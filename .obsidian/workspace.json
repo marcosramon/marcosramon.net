@@ -135,12 +135,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2017-02-12-aprender-a-perder.md",
-                "mode": "preview",
+                "file": "_notes/Private/Sobre.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2017-02-12-aprender-a-perder"
+              "title": "Sobre"
             }
           },
           {
@@ -385,11 +385,13 @@
   },
   "active": "a0e19659aecd3fa7",
   "lastOpenFiles": [
+    "Marcos Ramon.md",
+    "_notes/Private/Sobre.md",
+    "_posts/2017-02-12-aprender-a-perder.md",
     "_posts/2017-02-13-colagem.md",
     "_posts/2017-02-13-o-tempo.md",
     "_notes/Public/Tempo.md",
     "_posts/2025-03-17-o-que-ainda-falta.md",
-    "_notes/Private/Sobre.md",
     "_notes/Public/Sobre Van Gogh.md",
     "_posts/2023-03-07-eu-e-o-tempo.md",
     "publicacoes.md",
@@ -413,8 +415,6 @@
     "_posts/2025-06-06-um-novo-jeito-de-falar-o-nome-do-tecnico-da-selecao.md",
     "_posts/2025-06-08-estado-de-animo.md",
     "_posts/2025-06-17-o-que-talvez-aconteca.md",
-    "_posts/2025-06-27-o-conhecimento-acessível.md",
-    "_posts/2025-12-22-sem-ter-como-escapar.md",
     "assets/img/caindo.gif",
     "assets/img/Studies_Hands.jpg",
     "assets/img/socrates_teaching.jpg",
