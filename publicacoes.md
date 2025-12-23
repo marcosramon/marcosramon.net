@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: Post
 title: Publicações
 permalink: /pesquisa/
 ---
