@@ -91,9 +91,9 @@ defaults:
       image: /assets/img/gephi2.png
   - scope:
       path: ""
-      type: "news"
+      type: news
     values:
-      layout: "page"
+      layout: Post
 
 # Exclude from processing
 exclude:
