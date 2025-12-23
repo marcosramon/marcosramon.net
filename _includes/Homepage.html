@@ -6,20 +6,20 @@
         </h3> 
 </div> </div>
 
-<div class="updates-container" style="max-width: 800px; margin: 60px auto; padding: 0 20px; font-family: sans-serif;">
+<div class="updates-container" style="margin-top: 60px; font-family: sans-serif;">
 
   <div class="news-section" style="margin-bottom: 50px;">
-    <h2 style="margin-bottom: 25px; border-bottom: 1px solid #e0e0e0; padding-bottom: 10px; font-size: 1.5rem; color: #333;">
+    <h3 style="margin-bottom: 20px; border-bottom: 1px solid #e0e0e0; padding-bottom: 10px; font-size: 1.2rem; color: #333;">
       Novidades
-    </h2>
+    </h3>
 
     {% assign news = site.news | sort: 'date' | reverse %}
     
     <div class="news-list">
       {% for item in news limit:3 %}
-        <div class="news-item" style="display: flex; margin-bottom: 18px; align-items: baseline;">
+        <div class="news-item" style="display: flex; margin-bottom: 12px; align-items: baseline; font-size: 0.9rem;">
           
-          <div class="news-date" style="flex: 0 0 120px; font-weight: 600; color: #777; font-size: 0.95rem;">
+          <div class="news-date" style="flex: 0 0 100px; color: #777; font-size: 0.85rem;">
             {{ item.date | date: "%b %d, %Y" }}
           </div>
 
@@ -27,7 +27,7 @@
             {% if item.inline %}
               {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
             {% else %}
-              <a class="news-title" href="{{ item.url | relative_url }}" style="font-weight: 600; color: #000; text-decoration: none;">
+              <a class="news-title" href="{{ item.url | relative_url }}" style="font-weight: 600; text-decoration: none;">
                 {{ item.title }}
               </a>
             {% endif %}
@@ -39,20 +39,20 @@
   </div>
 
   <div class="latest-posts-section">
-    <h2 style="margin-bottom: 25px; border-bottom: 1px solid #e0e0e0; padding-bottom: 10px; font-size: 1.5rem; color: #333;">
+    <h3 style="margin-bottom: 20px; border-bottom: 1px solid #e0e0e0; padding-bottom: 10px; font-size: 1.2rem; color: #333;">
       Posts mais recentes
-    </h2>
+    </h3>
 
     <div class="posts-list">
       {% for post in site.posts limit:3 %}
-        <div class="post-item" style="display: flex; margin-bottom: 18px; align-items: baseline;">
+        <div class="post-item" style="display: flex; margin-bottom: 12px; align-items: baseline; font-size: 0.9rem;">
           
-          <div class="post-date" style="flex: 0 0 120px; font-weight: 600; color: #777; font-size: 0.95rem;">
+          <div class="post-date" style="flex: 0 0 100px; color: #777; font-size: 0.85rem;">
             {{ post.date | date: "%b %d, %Y" }}
           </div>
 
           <div class="post-content" style="flex: 1;">
-            <a href="{{ post.url | relative_url }}" style="font-weight: 600; color: #c00; text-decoration: none;">
+            <a href="{{ post.url | relative_url }}" style="font-weight: 600; text-decoration: none;">
               {{ post.title }}
             </a>
           </div>
