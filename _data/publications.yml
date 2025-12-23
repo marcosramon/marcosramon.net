@@ -1,0 +1,28 @@
+- title: "A estética da existência em Foucault"
+  authors: "Marcos Ramon"
+  year: 2024
+  venue: "Revista de Filosofia Moderna"
+  description: "Um estudo sobre a construção de si."
+  links:
+    - label: PDF
+      url: "#"
+    - label: HTML
+      url: "#"
+
+- title: "Cibercultura e Educação: novos desafios"
+  authors: "Marcos Ramon, Autor Parceiro"
+  year: 2023
+  venue: "Anais do Congresso Internacional"
+  links:
+    - label: DOI
+      url: "https://doi.org/..."
+    - label: Slides
+      url: "#"
+
+- title: "O conceito de técnica em Simondon"
+  authors: "Marcos Ramon"
+  year: 2023
+  venue: "Cadernos de Tecnologia"
+  links:
+    - label: PDF
+      url: "#"
