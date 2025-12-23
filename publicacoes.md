@@ -1,7 +1,9 @@
 ---
 layout: Post
-title: Publicações
+title: "Publicações"
 permalink: /publicacoes/
+date: 2025-01-01
+content-type: post
 ---
 
 <style>
