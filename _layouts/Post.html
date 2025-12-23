@@ -125,29 +125,43 @@
                         
                         <style>
                             .post-footer-meta {
-                                margin-top: 40px;
+                                margin-top: 50px;
                                 margin-bottom: 40px;
-                                padding-top: 25px;
-                                padding-bottom: 25px;
+                                padding-top: 30px;
                                 border-top: 1px solid var(--color-border-light);
-                                border-bottom: 1px solid var(--color-border-light);
                                 font-family: inherit;
                             }
                         
+                            /* --- Área de Compartilhamento e Contato --- */
                             .meta-actions {
                                 display: flex;
                                 flex-wrap: wrap;
                                 justify-content: space-between;
                                 align-items: center;
-                                gap: 20px;
-                                margin-bottom: 25px;
+                                gap: 25px;
+                                margin-bottom: 30px;
+                            }
+
+                            .share-wrapper {
+                                display: flex;
+                                align-items: center;
+                                gap: 15px;
+                            }
+
+                            .share-label {
+                                font-size: 0.85rem;
+                                font-weight: 600;
+                                color: var(--color-text-sub);
+                                text-transform: uppercase;
+                                letter-spacing: 0.5px;
                             }
                         
                             .share-buttons {
                                 display: flex;
-                                gap: 12px; /* Aumentei levemente o espaço */
+                                gap: 10px;
                             }
                         
+                            /* Ícones Sólidos (Preenchidos) */
                             .share-btn {
                                 display: flex;
                                 align-items: center;
@@ -155,25 +169,25 @@
                                 width: 36px;
                                 height: 36px;
                                 border-radius: 50%;
-                                border: 1px solid var(--color-border);
-                                color: var(--color-text-main);
+                                border: none; /* Sem borda */
+                                /* Fundo escuro no modo claro, claro no modo escuro */
+                                background: var(--color-text-main); 
+                                /* Ícone claro no modo claro, escuro no modo escuro */
+                                color: var(--color-bg-main) !important;
                                 transition: all 0.2s ease;
-                                background: var(--color-bg-main);
                                 text-decoration: none !important;
-                                
-                                /* IMPORTANTE: Remove a setinha de link externo do tema */
-                                background-image: none !important;
+                                background-image: none !important; /* Remove seta de link */
                                 padding-right: 0 !important;
                             }
                         
                             .share-btn:hover {
-                                border-color: var(--color-text-link);
-                                color: var(--color-text-link);
-                                background: var(--color-bg-sub);
+                                /* Cor de destaque do tema no hover */
+                                background: var(--color-text-link); 
+                                color: var(--color-bg-main) !important;
                                 transform: translateY(-2px);
+                                box-shadow: 0 4px 8px rgba(0,0,0,0.15);
                             }
                         
-                            /* Estilo para os ícones Font Awesome */
                             .share-btn i {
                                 font-size: 16px;
                             }
@@ -193,44 +207,45 @@
                         
                             .contact-cta a:hover { text-decoration: underline; }
                         
-                            .citation-wrapper {
+                             /* --- Área Como Citar (Recolhível) --- */
+                            details.citation-details {
+                                width: 100%;
+                                border-top: 1px solid var(--color-border-light);
+                                padding-top: 15px;
+                            }
+
+                            summary.citation-trigger {
+                                cursor: pointer;
+                                font-size: 0.85rem;
+                                color: var(--color-text-sub);
+                                font-weight: 600;
+                                list-style: none; /* Remove seta padrão do navegador */
+                                display: flex;
+                                align-items: center;
+                                gap: 8px;
+                                transition: color 0.2s;
+                            }
+                            
+                            summary.citation-trigger:hover {
+                                color: var(--color-text-main);
+                            }
+
+                            /* Remove seta padrão no Chrome/Safari */
+                            summary.citation-trigger::-webkit-details-marker {
+                                display: none;
+                            }
+
+                            .citation-container {
+                                margin-top: 15px;
                                 background-color: var(--color-bg-sub);
                                 border: 1px solid var(--color-border-light);
                                 border-radius: 6px;
                                 padding: 15px;
-                            }
-                        
-                            .citation-header {
                                 display: flex;
-                                justify-content: space-between;
-                                align-items: center;
-                                margin-bottom: 8px;
+                                flex-direction: column;
+                                gap: 10px;
                             }
-                        
-                            .citation-label {
-                                font-size: 0.75rem;
-                                text-transform: uppercase;
-                                letter-spacing: 1px;
-                                font-weight: 600;
-                                color: var(--color-text-sub);
-                            }
-                        
-                            .copy-btn {
-                                background: transparent;
-                                border: 1px solid var(--color-border);
-                                color: var(--color-text-sub);
-                                cursor: pointer;
-                                font-size: 0.7rem;
-                                padding: 2px 8px;
-                                border-radius: 4px;
-                                transition: all 0.2s;
-                            }
-                        
-                            .copy-btn:hover {
-                                border-color: var(--color-text-link);
-                                color: var(--color-text-link);
-                            }
-                        
+
                             .citation-text {
                                 font-family: monospace;
                                 font-size: 0.8rem;
@@ -239,41 +254,79 @@
                                 word-break: break-word;
                             }
 
-                            @media (max-width: 600px) {
-                                .meta-actions { flex-direction: column; align-items: flex-start; }
-                                .contact-cta { text-align: left; margin-top: 10px; }
+                            .citation-actions {
+                                display: flex;
+                                justify-content: flex-end;
+                            }
+
+                            .copy-btn {
+                                background: transparent;
+                                border: 1px solid var(--color-border);
+                                color: var(--color-text-sub);
+                                cursor: pointer;
+                                font-size: 0.75rem;
+                                padding: 4px 12px;
+                                border-radius: 4px;
+                                transition: all 0.2s;
+                                font-weight: 600;
+                            }
+                        
+                            .copy-btn:hover {
+                                border-color: var(--color-text-link);
+                                color: var(--color-text-link);
+                                background: var(--color-bg-main);
+                            }
+
+
+                            @media (max-width: 768px) {
+                                .meta-actions { 
+                                    flex-direction: column; 
+                                    align-items: flex-start;
+                                    gap: 20px;
+                                }
+                                .contact-cta { 
+                                    text-align: left; 
+                                }
                             }
                         </style>
 
                         <div class="meta-actions">
-                            <div class="share-buttons">
-                                <a href="https://wa.me/?text={{ page.title | url_encode }}%20-%20{{ site.url }}{{ page.url }}" target="_blank" class="share-btn" title="WhatsApp">
-                                    <i class="fa-brands fa-whatsapp"></i>
-                                </a>
-                                <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ page.url }}" target="_blank" class="share-btn" title="X / Twitter">
-                                    <i class="fa-brands fa-x-twitter"></i>
-                                </a>
-                                <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title | url_encode }}" target="_blank" class="share-btn" title="LinkedIn">
-                                    <i class="fa-brands fa-linkedin-in"></i>
-                                </a>
-                                <a href="mailto:?subject={{ page.title | url_encode }}&body=Olha que texto interessante: {{ site.url }}{{ page.url }}" class="share-btn" title="E-mail">
-                                    <i class="fa-regular fa-envelope"></i>
-                                </a>
+                            <div class="share-wrapper">
+                                <span class="share-label">Compartilhe:</span>
+                                <div class="share-buttons">
+                                    <a href="https://wa.me/?text={{ page.title | url_encode }}%20-%20{{ site.url }}{{ page.url }}" target="_blank" class="share-btn" title="WhatsApp">
+                                        <i class="fa-brands fa-whatsapp"></i>
+                                    </a>
+                                    <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ page.url }}" target="_blank" class="share-btn" title="X / Twitter">
+                                        <i class="fa-brands fa-x-twitter"></i>
+                                    </a>
+                                    <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title | url_encode }}" target="_blank" class="share-btn" title="LinkedIn">
+                                        <i class="fa-brands fa-linkedin-in"></i>
+                                    </a>
+                                    <a href="mailto:?subject={{ page.title | url_encode }}&body=Olha que texto interessante: {{ site.url }}{{ page.url }}" class="share-btn" title="E-mail">
+                                        <i class="fa-solid fa-envelope"></i>
+                                    </a>
+                                </div>
                             </div>
                         
                             <div class="contact-cta">
                                 Gostou do texto? Vamos conversar.<br>
-                                <a href="mailto:seuemail@gmail.com">Entre em contato por e-mail</a>
+                                <a href="mailto:marcosramon@gmail.com">Entre em contato por e-mail</a>
                             </div>
                         </div>
                     
-                        <div class="citation-wrapper">
-                            <div class="citation-header">
-                                <span class="citation-label">Como citar</span>
-                                <button class="copy-btn" onclick="copyCitation()">COPIAR</button>
+                        <details class="citation-details">
+                            <summary class="citation-trigger">
+                                <i class="fa-solid fa-chevron-down" style="font-size: 0.7rem;"></i>
+                                Como citar este texto
+                            </summary>
+                            <div class="citation-container">
+                                <div class="citation-text" id="citation-content">RAMON, Marcos. <strong>{{ page.title }}</strong>. {{ site.time | date: "%Y" }}. Disponível em: &lt;{{ site.url }}{{ page.url }}&gt;. Acesso em: <span id="access-date"></span>.</div>
+                                <div class="citation-actions">
+                                    <button class="copy-btn" onclick="copyCitation()">COPIAR CITAÇÃO</button>
+                                </div>
                             </div>
-                            <div class="citation-text" id="citation-content">RAMON, Marcos. <strong>{{ page.title }}</strong>. {{ site.time | date: "%Y" }}. Disponível em: &lt;{{ site.url }}{{ page.url }}&gt;. Acesso em: <span id="access-date"></span>.</div>
-                        </div>
+                        </details>
                      </div>
 
                      <script>
@@ -311,6 +364,19 @@
                                 
                                 metaBlock.style.display = 'block';
                             }
+
+                            // Ícone da citação (mudar seta ao abrir/fechar)
+                            const details = document.querySelector('.citation-details');
+                            const icon = details.querySelector('.citation-trigger i');
+                            details.addEventListener('toggle', (event) => {
+                                if (details.open) {
+                                    icon.classList.remove('fa-chevron-down');
+                                    icon.classList.add('fa-chevron-up');
+                                } else {
+                                    icon.classList.remove('fa-chevron-up');
+                                    icon.classList.add('fa-chevron-down');
+                                }
+                            });
                         });
 
                         function copyCitation() {
@@ -319,7 +385,13 @@
                                 const btn = document.querySelector('.copy-btn');
                                 const originalText = btn.textContent;
                                 btn.textContent = "COPIADO!";
-                                setTimeout(() => { btn.textContent = originalText; }, 2000);
+                                btn.style.borderColor = "var(--color-text-link)";
+                                btn.style.color = "var(--color-text-link)";
+                                setTimeout(() => { 
+                                    btn.textContent = originalText; 
+                                    btn.style.borderColor = "";
+                                    btn.style.color = "";
+                                }, 2500);
                             });
                         }
                      </script>
