@@ -31,8 +31,6 @@ preferences:
 
 # To enable a homepage, change the value to true and add content to _includes/Homepage.html
 # If enable : false, notes feed will be as homepage. 
-  homepage: 
-    enabled: true ##If you need a homepage, change this to true and edit _includes/Homepage.html
 
 encoding: utf-8
 
@@ -89,7 +87,7 @@ defaults:
       path: "" # um escopo vazio se aplica a todos os arquivos
     values:
       image: /assets/img/gephi2.png
-- scope:
+  - scope:
       path: ""
       type: news
     values:
