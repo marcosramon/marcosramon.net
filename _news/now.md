@@ -1,7 +1,7 @@
 ---
 layout: Post
 title: Now
-inline: true
+inline: false
 date: 2025-12-23 10:00:00-0300
 ---
 
