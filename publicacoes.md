@@ -8,25 +8,38 @@ content-type: post
 ---
 
 <style>
-  /* Fonte do sistema */
+  /* --- Configurações Base --- */
   .publications-wrapper {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     max-width: 100%;
   }
 
-  /* Cabeçalho do Ano */
+  /* --- Estilos Padrão (Modo Claro) --- */
+  /* Força cores base para garantir contraste */
+  :root {
+    --pub-heading-color: #333;
+    --pub-title-color: #111;
+    --pub-text-color: #444;
+    --pub-meta-color: #666;
+    --pub-border-color: #e0e0e0;
+    --pub-btn-hover-bg: rgba(0,0,0,0.05);
+    --pub-citation-bg: #f9f9f9;
+    --pub-citation-border: #eee;
+  }
+
+  /* --- Cabeçalho do Ano --- */
   .pub-year-heading {
     margin-top: 40px;
     margin-bottom: 20px;
     padding-bottom: 10px;
-    border-bottom: 1px solid #e0e0e0;
+    border-bottom: 1px solid var(--pub-border-color);
     font-size: 1.5rem;
     font-weight: 600;
-    color: #333;
-    opacity: 0.9;
+    color: var(--pub-heading-color);
+    opacity: 1; /* Removi opacidade para melhorar leitura */
   }
   
-  /* Item da publicação */
+  /* --- Item da Publicação --- */
   .pub-item {
     margin-bottom: 35px;
     display: flex;
@@ -37,33 +50,32 @@ content-type: post
   .pub-title {
     font-weight: 700;
     font-size: 1.1rem;
-    color: #000;
+    color: var(--pub-title-color);
     margin-bottom: 4px;
     line-height: 1.4;
   }
 
   .pub-authors {
     font-size: 0.95rem;
-    color: #555;
+    color: var(--pub-text-color);
     font-style: italic;
     margin-bottom: 4px;
   }
 
   .pub-venue {
     font-size: 0.9rem;
-    color: #666;
+    color: var(--pub-meta-color);
     margin-bottom: 8px;
   }
 
-  /* ISBN e Informações Extras */
   .pub-isbn {
     font-size: 0.85rem;
-    color: #777;
+    color: var(--pub-meta-color);
     margin-left: 10px;
     font-weight: normal;
   }
 
-  /* Botões (Agora usando a cor do link do tema) */
+  /* --- Botões --- */
   .pub-buttons {
     display: flex;
     gap: 10px;
@@ -75,24 +87,26 @@ content-type: post
   .pub-btn {
     display: inline-block;
     padding: 3px 10px;
-    border: 1px solid currentColor; /* Pega a cor do texto (azul do tema) */
+    border: 1px solid currentColor;
     border-radius: 4px;
     font-size: 0.75rem;
     font-weight: 600;
     text-transform: uppercase;
     text-decoration: none !important;
     background-color: transparent;
+    /* A cor é herdada do link do tema, não definimos fixo aqui */
     opacity: 0.9;
     transition: all 0.2s ease;
   }
 
   .pub-btn:hover {
-    background-color: rgba(0,0,0,0.05); /* Fundo sutil ao passar o mouse */
+    background-color: var(--pub-btn-hover-bg);
     opacity: 1;
     transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
   }
 
-  /* Área "Como Citar" (Collapsible) */
+  /* --- Citação --- */
   details.pub-citation {
     margin-top: 10px;
     width: 100%;
@@ -101,37 +115,63 @@ content-type: post
   summary.citation-trigger {
     cursor: pointer;
     font-size: 0.8rem;
-    color: #888;
-    list-style: none; /* Remove a seta padrão em alguns browsers */
+    color: var(--pub-meta-color);
     font-weight: 500;
+    list-style: none;
   }
   
   summary.citation-trigger:hover {
-    color: #555;
+    color: var(--pub-text-color);
     text-decoration: underline;
   }
 
   .citation-content {
     margin-top: 8px;
     padding: 10px;
-    background-color: #f9f9f9;
-    border: 1px solid #eee;
+    background-color: var(--pub-citation-bg);
+    border: 1px solid var(--pub-citation-border);
     border-radius: 4px;
     font-size: 0.85rem;
-    font-family: monospace; /* Fonte de código para copiar fácil */
-    color: #555;
-    white-space: pre-wrap; /* Mantém quebras de linha se houver */
+    font-family: monospace;
+    color: var(--pub-text-color);
+    white-space: pre-wrap;
   }
 
-  /* Modo Escuro */
+  /* --- MODO ESCURO (Dark Mode) --- */
+  /* Detecta preferência do sistema ou classe do tema */
   @media (prefers-color-scheme: dark) {
-    .pub-year-heading { color: #eee; border-color: #444; }
-    .pub-title { color: #f0f0f0; }
-    .pub-authors { color: #bbb; }
-    .pub-venue, .pub-isbn { color: #999; }
-    .citation-content { background-color: #222; border-color: #444; color: #ccc; }
-    .pub-btn:hover { background-color: rgba(255,255,255,0.1); }
+    :root {
+      --pub-heading-color: #f0f0f0;
+      --pub-title-color: #ffffff;
+      --pub-text-color: #cccccc;
+      --pub-meta-color: #aaaaaa;
+      --pub-border-color: #444444;
+      --pub-btn-hover-bg: rgba(255,255,255,0.1);
+      --pub-citation-bg: #2a2a2a;
+      --pub-citation-border: #444;
+    }
   }
+
+  /* Suporte extra caso seu site use uma classe .dark-mode no body via JS */
+  body.dark-mode, body[data-theme="dark"] {
+      --pub-heading-color: #f0f0f0;
+      --pub-title-color: #ffffff;
+      --pub-text-color: #cccccc;
+      --pub-meta-color: #aaaaaa;
+      --pub-border-color: #444444;
+      --pub-btn-hover-bg: rgba(255,255,255,0.1);
+      --pub-citation-bg: #2a2a2a;
+      --pub-citation-border: #444;
+  }
+  
+  /* Força a aplicação das variáveis nos elementos */
+  .pub-year-heading { color: var(--pub-heading-color); border-color: var(--pub-border-color); }
+  .pub-title { color: var(--pub-title-color); }
+  .pub-authors { color: var(--pub-text-color); }
+  .pub-venue { color: var(--pub-meta-color); }
+  .pub-isbn { color: var(--pub-meta-color); }
+  .citation-content { background-color: var(--pub-citation-bg); border-color: var(--pub-citation-border); color: var(--pub-text-color); }
+  summary.citation-trigger { color: var(--pub-meta-color); }
 </style>
 
 <div class="publications-wrapper">
