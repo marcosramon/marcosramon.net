@@ -30,7 +30,7 @@ content-type: static
     gap: 10px;
     padding: 8px 16px;
     border: 1px solid var(--color-border);
-    border-radius: 30px; /* Botões arredondados estilo "pill" */
+    border-radius: 30px; /* Botões arredondados */
     text-decoration: none !important;
     color: var(--color-text-main) !important;
     font-size: 0.9rem;
@@ -86,7 +86,7 @@ content-type: static
     font-weight: 600;
     color: var(--color-text-sub);
     text-align: right;
-    padding-top: 2px; /* Alinha com o título */
+    padding-top: 2px;
   }
 
   .cv-content {
@@ -97,7 +97,7 @@ content-type: static
   }
 
   .cv-item:last-child .cv-content {
-    border-left: 2px solid transparent; /* Remove linha do último item */
+    border-left: 2px solid transparent;
   }
 
   .cv-main-text {
@@ -121,11 +121,11 @@ content-type: static
     margin-bottom: 5px;
   }
 
-  /* --- Tags de Competências/Idiomas --- */
+  /* --- Tags de Competências/Idiomas (Corrigido) --- */
   .skills-list {
     display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
+    flex-wrap: wrap; /* Garante a quebra de linha no celular */
+    gap: 10px;       /* Espaçamento consistente */
     list-style: none;
     padding: 0;
     margin: 0;
@@ -134,10 +134,19 @@ content-type: static
   .skill-tag {
     background: var(--color-bg-sub);
     border: 1px solid var(--color-border-light);
-    padding: 5px 12px;
-    border-radius: 4px;
+    padding: 6px 14px;
+    border-radius: 20px; /* Estilo Pílula (arredondado) */
     font-size: 0.85rem;
+    font-weight: 500;
     color: var(--color-text-main);
+    transition: all 0.2s ease;
+    line-height: 1.2;
+    cursor: default;
+  }
+
+  .skill-tag:hover {
+    border-color: var(--color-text-link);
+    transform: translateY(-1px);
   }
 
   /* --- Responsividade --- */
@@ -150,6 +159,7 @@ content-type: static
       width: 100%;
       text-align: left;
       margin-bottom: 5px;
+      color: var(--color-text-link); /* Destaque na data no mobile */
     }
     .cv-content {
       border-left: none;
@@ -256,24 +266,32 @@ content-type: static
 
   <div class="cv-section">
     <div class="cv-title"><i class="fa-solid fa-language"></i> Idiomas</div>
+    
     <div class="cv-item">
       <div class="cv-date">Inglês</div>
       <div class="cv-content" style="border-left: none; padding-left: 0;">
-        <span class="skill-tag">Compreende Bem</span>
-        <span class="skill-tag">Lê Bem</span>
-        <span class="skill-tag">Fala Razoavelmente</span>
+        <div class="skills-list"> <span class="skill-tag">Compreende Bem</span>
+          <span class="skill-tag">Lê Bem</span>
+          <span class="skill-tag">Fala Razoavelmente</span>
+        </div>
       </div>
     </div>
+    
     <div class="cv-item">
       <div class="cv-date">Espanhol</div>
       <div class="cv-content" style="border-left: none; padding-left: 0;">
-        <span class="skill-tag">Lê Razoavelmente</span>
+        <div class="skills-list">
+          <span class="skill-tag">Lê Razoavelmente</span>
+        </div>
       </div>
     </div>
+    
     <div class="cv-item">
       <div class="cv-date">Francês</div>
       <div class="cv-content" style="border-left: none; padding-left: 0;">
-        <span class="skill-tag">Lê Razoavelmente</span>
+        <div class="skills-list">
+          <span class="skill-tag">Lê Razoavelmente</span>
+        </div>
       </div>
     </div>
   </div>
