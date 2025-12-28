@@ -30,7 +30,7 @@ Este site é publicado com <a href="https://obsidian.md/">Obsidian</a>, <a href=
 
 ## Vida acadêmica
 
-Aqui segue o [link do meu currículo lattes](http://lattes.cnpq.br/9538072103558772) e do [Orcid](https://orcid.org/0000-0002-8720-8706). Se quiser saber mais, acesse outros dados sobre minha [[Vida acadêmica]]. Quem tiver interesse em trocar ideias sobre a pesquisa é só mandar um [email](mailto:marcosramon@gmail.com).
+Aqui seguem alguns dados resumidos sobre a minha <a href="https://marcosramon.net/cv/">vida acadêmica</a>. Se quiser saber mais, veja o [link do meu currículo lattes](http://lattes.cnpq.br/9538072103558772) ou do [Orcid](https://orcid.org/0000-0002-8720-8706). Quem tiver interesse em trocar ideias sobre pesquisa é só mandar um [email](mailto:marcos.ferreira@gmail.com).
 
 ## Conexões e Links
 
@@ -124,6 +124,6 @@ Ramon, Marcos. **A releitura como forma de reencontro.** Disponível em: <https:
 
 Este é um site pessoal e eu autorizo o compartilhamento, a distribuição e a remixagem de tudo que tem aqui (exceto aquilo que não for de minha autoria, porque aí não depende de mim), desde que o propósito disso não envolva fins comerciais e desde que seja mencionada a fonte original. Mais informações sobre essa licença de uso nesse [link](http://creativecommons.org/licenses/by-nc-sa/3.0/br/).
 
-<img src="assets/img/Pasted image 20250302190730.png" width="150" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);>
+<img src="assets/img/Pasted image 20250302190730.png" width="150" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
 [^1]: Um jardim digital é um espaço online para ideias em constante evolução, e, portanto, diferente de um blog tradicional. Em vez de textos apenas organizados por data, ele funciona como um ambiente exploratório, onde notas e reflexões se conectam organicamente. É um conceito que quer resgatar a liberdade criativa dos primeiros dias da web. É possível?
