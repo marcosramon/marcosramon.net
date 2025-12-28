@@ -28,7 +28,7 @@ watching:
     comment: "Ok"
   - title: "Stranger Things"
     obs: "Temp. Final"
-    rating: 3
+    rating: 1
     comment: "Ruim"
   - title: "Família Soprano"
     obs: "Acho que estou na 3ª temporada"
