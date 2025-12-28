@@ -120,7 +120,7 @@ author: Marcos Ramon
 </style>
 
 <div class="now-intro">
-  Neste momento estou entrando de férias e aproveitando para recarregar as energias e atualizar meus materiais de trabalho para o próximo semestre.
+  Neste momento estou entrando de férias e aproveitando para organizar as coisas e atualizar meus materiais de trabalho para o próximo semestre.
 </div>
 
 <div class="now-grid">
@@ -152,9 +152,16 @@ author: Marcos Ramon
     <h3><i class="fa-solid fa-tv"></i> Assistindo</h3>
     
     <div class="media-item">
-      <span class="media-title">Os Bons Companheiros</span>
+      <span class="media-title">Os bons companheiros</span>
       <span class="rating">
         <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i>
+      </span>
+    </div>
+
+    <div class="media-item">
+      <span class="media-title">Uma batalha após a outra</span>
+      <span class="rating">
+        <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-regular fa-star"></i>
       </span>
     </div>
 
@@ -202,14 +209,14 @@ author: Marcos Ramon
   </div>
 
   <div class="now-section full-width">
-    <h3><i class="fa-solid fa-code"></i> Meta & Site</h3>
-    <p>Atualizei o layout e os recursos do site (agora com rodapé dinâmico e página de publicações organizada). Estou animado para voltar a escrever com mais frequência.</p>
-    <p><small><em>Update técnico: Implementações feitas com auxílio do Gemini.</em></small></p>
+    <h3><i class="fa-solid fa-code"></i>Site</h3>
+    <p>Atualizei o layout e os recursos do site. Estou animado para voltar a escrever com mais frequência.</p>
+    <p><small><em>Fiz as alterações usando o Gemini pra modificar o código, e funcionou direitinho.</em></small></p>
   </div>
 
 </div>
 
 <div class="now-footer">
-  <span><i class="fa-regular fa-clock"></i> <strong>Última atualização:</strong> 23 de dezembro de 2025</span>
+  <span><i class="fa-regular fa-clock"></i> <strong>Última atualização:</strong> 27 de dezembro de 2025</span>
   <span><a href="https://nownownow.com/about" target="_blank">O que é uma página Now?</a></span>
 </div>
