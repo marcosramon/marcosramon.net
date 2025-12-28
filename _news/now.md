@@ -4,20 +4,20 @@ title: Now
 date: 2025-12-27
 author: Marcos Ramon
 
-# LISTA DE FOCO E TRABALHO
+# TRABALHO, PESQUISA E OUTRAS COISAS
 focus:
   - "Estou planejando a disciplina de Estética com base nos novos cursos do MASP que fiz neste último semestre."
   - "Preciso gravar vídeos e atualizar textos para o curso de IA na Educação, que vai ter nova turma."
   - "Como sempre, preciso revisar meu materiais didáticos de Filosofia para as aulas do ano que vem."
 
-# O QUE ESTÁ LENDO (Título, Autor, Nota de 1 a 5, Comentário curto)
+# LEITURAS (Título, Autor, Nota de 1 a 5, Comentário curto)
 reading:
   - title: "O Aleph"
     author: "Jorge Luis Borges"
     rating: 5
     comment: "Relendo"
 
-# O QUE ESTÁ ASSISTINDO
+# ASSISTINDO
 watching:
   - title: "Os bons companheiros"
     rating: 5
@@ -34,7 +34,7 @@ watching:
     rating: 4
     comment: "Bom"
 
-# O QUE ESTÁ JOGANDO
+# JOGANDO (OU QUERENDO JOGAR)
 playing:
   - title: "Fez"
     status: "Comprei em uma promoção no Steam (sempre está em promoção, na verdade) e quero ver se jogo"
