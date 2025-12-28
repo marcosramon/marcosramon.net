@@ -85,38 +85,44 @@ layout: default
                         }
                         .now-list li:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0;}
                         
-                        /* Mídia (Livros, Filmes) - VOLTOU AO FORMATO ORIGINAL */
+                        /* --- ITEM DE MÍDIA (RESPONSIVO) --- */
                         .media-item { 
-                            display: flex; 
-                            justify-content: space-between; 
+                            /* Transforma em um grid flexível */
+                            display: flex;
+                            justify-content: space-between;
                             align-items: center;
-                            flex-wrap: wrap; 
-                            gap: 10px;
-                            margin-bottom: 12px; 
+                            flex-wrap: wrap; /* Permite quebrar linha se não couber */
+                            gap: 8px;
+                            margin-bottom: 15px; 
                             border-bottom: 1px dashed var(--color-border-light); 
-                            padding-bottom: 10px;
+                            padding-bottom: 12px;
                         }
                         .media-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
                         
                         .media-info {
-                            display: flex;
-                            flex-direction: column;
-                            max-width: 70%;
+                            /* Ocupa o espaço disponível, mas tem um mínimo para não esmagar */
+                            flex: 1 1 200px; 
+                            padding-right: 10px;
                         }
 
                         .media-title { 
+                            display: block;
                             font-weight: 600; 
                             font-size: 1rem;
                             color: var(--color-text-main); 
+                            line-height: 1.3;
                         }
                         
                         .media-meta { 
+                            display: block;
                             font-size: 0.85rem; 
                             color: var(--color-text-sub); 
+                            margin-top: 3px;
                         }
                         
                         /* Estrelas */
                         .rating { 
+                            /* Não deixa quebrar linha DENTRO das estrelas */
                             white-space: nowrap; 
                             font-size: 0.8rem; 
                             color: #f59e0b; 
@@ -124,18 +130,20 @@ layout: default
                             padding: 4px 8px;
                             border-radius: 4px;
                             border: 1px solid var(--color-border-light);
+                            /* No celular, se não couber, vai para baixo alinhado à esquerda */
+                            margin-top: 4px;
                         }
                         .rating .fa-regular { color: var(--color-border); opacity: 0.5; }
                         .rating-label { font-size: 0.75rem; color: var(--color-text-main); margin-left: 6px; font-weight: normal; }
 
-                        /* --- Área de Comentário Geral da Seção --- */
+                        /* --- Comentário Geral (Fonte Reduzida) --- */
                         .section-comment {
                             margin-top: 20px;
                             padding-top: 15px;
                             border-top: 1px solid var(--color-border);
-                            font-size: 0.95rem;
-                            line-height: 1.6;
-                            color: var(--color-text-main);
+                            font-size: 0.9rem; /* FONTE MENOR AQUI */
+                            line-height: 1.5;
+                            color: var(--color-text-sub); /* Cor mais suave */
                             font-style: italic;
                         }
                      </style>
@@ -213,7 +221,7 @@ layout: default
 
                         {% if page.playing %}
                         <div class="now-section">
-                            <h3><i class="fa-solid fa-gamepad"></i> Jogando (ou querendo jogar)</h3>
+                            <h3><i class="fa-solid fa-gamepad"></i> Jogando</h3>
                             {% for item in page.playing %}
                             <div class="media-item">
                                 <div class="media-info">
