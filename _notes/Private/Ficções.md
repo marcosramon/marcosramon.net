@@ -4,7 +4,7 @@ title: Ficções
 feed: hide
 date: 2025-12-27
 permalink: /ficcoes
-image: ficcoes-sp.png
+image: /assets/img/ficcoes-sp.png
 ---
 
 <style>
