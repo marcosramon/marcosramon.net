@@ -43,10 +43,10 @@ watching_comment: "Tô assistindo muita coisa de gangster ultimamente. Stranger 
 # JOGANDO
 playing:
   - title: "Fez"
-    status: "Na fila"
+    rating: "0"
   - title: "Egg"
     link: "https://terrycavanagh.itch.io/egg"
-    status: "Na fila"
+    rating: "0"
 playing_comment: "Comprei 'Fez' em uma promoção no Steam (sempre está em promoção, na verdade) e quero ver se jogo nas férias. O 'Egg' é um jogo que estou curioso pra experimentar porque é do mesmo criador de VVVVVV."
 
 # META
