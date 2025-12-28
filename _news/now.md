@@ -24,20 +24,20 @@ watching:
     comment: "Tô assistindo muita coisa de gangster"
   - title: "Pluribus"
     rating: 3
-    comment: "Ok por enquanto"
+    comment: "Ok, por enquanto"
   - title: "Stranger Things"
     obs: "Temp. Final"
     rating: 3
     comment: "Ruim"
-- title: "Uma batalha após a outra"
-    obs: "Temp. Final"
+  - title: "Uma batalha após a outra"
+    obs: "Muito longo, às vezes cansativo"
     rating: 4
     comment: "Bom"
 
 # JOGANDO (OU QUERENDO JOGAR)
 playing:
   - title: "Fez"
-    status: "Comprei em uma promoção no Steam (sempre está em promoção, na verdade) e quero ver se jogo"
+    status: "Comprei em uma promoção no Steam (sempre está em promoção, na verdade) e quero ver se jogo agora. Conheci quando assisti <i>Indie Game - The Movie</i>"
   - title: "Egg"
     link: "https://terrycavanagh.itch.io/egg"
     status: "Ouvi falar bem desse jogo que é do mesmo criador de VVVVVV"
