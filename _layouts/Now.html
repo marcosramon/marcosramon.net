@@ -32,7 +32,7 @@ layout: default
                      </p>
 
                      <style>
-                        /* Introdução */
+                        /* --- Layout Geral --- */
                         .now-intro { 
                             font-size: 1.1rem; 
                             line-height: 1.6; 
@@ -42,7 +42,6 @@ layout: default
                             padding-bottom: 20px;
                         }
 
-                        /* Container Principal - AGORA EM COLUNA ÚNICA */
                         .now-grid { 
                             display: flex; 
                             flex-direction: column; 
@@ -50,17 +49,16 @@ layout: default
                             margin-bottom: 3rem; 
                         }
 
-                        /* Cartões */
                         .now-section { 
                             background: var(--color-bg-sub); 
                             padding: 1.8rem; 
-                            border-radius: 12px; /* Cantos mais arredondados */
+                            border-radius: 12px; 
                             border: 1px solid var(--color-border-light); 
                         }
 
                         .now-section h3 { 
                             margin-top: 0; 
-                            margin-bottom: 1.2rem; 
+                            margin-bottom: 1.5rem; 
                             font-size: 1.2rem; 
                             border-bottom: 1px solid var(--color-border); 
                             padding-bottom: 0.8rem; 
@@ -75,7 +73,7 @@ layout: default
                             font-size: 1.1rem; 
                         }
                         
-                        /* Listas */
+                        /* Listas Foco */
                         .now-list { list-style: none !important; padding: 0 !important; margin: 0 !important; }
                         .now-list li { 
                             margin-bottom: 1rem; 
@@ -87,33 +85,44 @@ layout: default
                         }
                         .now-list li:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0;}
                         
-                        /* Mídia (Livros, Filmes) */
+                        /* --- ESTRUTURA DOS ITENS DE MÍDIA (LIVROS/FILMES/JOGOS) --- */
                         .media-item { 
                             display: flex; 
-                            justify-content: space-between; 
-                            align-items: center; /* Alinhamento centralizado verticalmente */
-                            flex-wrap: wrap; 
-                            gap: 10px;
-                            margin-bottom: 12px; 
-                            border-bottom: 1px dashed var(--color-border-light); 
-                            padding-bottom: 10px;
+                            flex-direction: column; /* Importante: Empilha Cabeçalho e Comentário */
+                            margin-bottom: 20px; 
+                            border-bottom: 1px solid var(--color-border-light); 
+                            padding-bottom: 20px;
                         }
                         .media-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
                         
+                        /* Linha do Topo (Título + Estrelas) */
+                        .media-header {
+                            display: flex;
+                            justify-content: space-between;
+                            align-items: flex-start;
+                            width: 100%;
+                            flex-wrap: wrap;
+                            gap: 10px;
+                            margin-bottom: 8px;
+                        }
+
                         .media-info {
                             display: flex;
                             flex-direction: column;
+                            max-width: 70%; /* Garante espaço para as estrelas não quebrarem feio */
                         }
 
                         .media-title { 
-                            font-weight: 600; 
-                            font-size: 1rem;
+                            font-weight: 700; 
+                            font-size: 1.05rem;
                             color: var(--color-text-main); 
+                            line-height: 1.3;
                         }
                         
                         .media-meta { 
                             font-size: 0.85rem; 
                             color: var(--color-text-sub); 
+                            margin-top: 2px;
                         }
                         
                         /* Estrelas */
@@ -121,13 +130,32 @@ layout: default
                             white-space: nowrap; 
                             font-size: 0.8rem; 
                             color: #f59e0b; 
-                            background: var(--color-bg-main); /* Fundo nas estrelas para destaque */
+                            background: var(--color-bg-main); 
                             padding: 4px 8px;
-                            border-radius: 4px;
+                            border-radius: 6px;
                             border: 1px solid var(--color-border-light);
+                            height: fit-content;
                         }
-                        .rating .fa-regular { color: var(--color-border); opacity: 0.5; }
-                        .rating-label { font-size: 0.75rem; color: var(--color-text-main); margin-left: 6px; font-weight: normal; }
+                        .rating .fa-regular { color: var(--color-border); opacity: 0.6; }
+
+                        /* --- Caixa de Comentário Longo --- */
+                        .media-comment {
+                            width: 100%;
+                            background-color: rgba(0,0,0,0.03); /* Fundo muito sutil para destacar */
+                            padding: 10px 12px;
+                            border-radius: 6px;
+                            font-size: 0.9rem;
+                            line-height: 1.5;
+                            color: var(--color-text-main);
+                            font-style: italic;
+                            margin-top: 5px;
+                            border-left: 3px solid var(--color-border); /* Linha lateral de destaque */
+                        }
+
+                        /* Ajuste para modo escuro do fundo do comentário */
+                        @media (prefers-color-scheme: dark) {
+                            .media-comment { background-color: rgba(255,255,255,0.05); }
+                        }
                      </style>
 
                      <div class="now-intro">
@@ -138,7 +166,7 @@ layout: default
 
                         {% if page.focus %}
                         <div class="now-section">
-                            <h3><i class="fa-solid fa-briefcase"></i> Trabalho, pesquisa e essas coisas</h3>
+                            <h3><i class="fa-solid fa-briefcase"></i> Trabalho, pesquisa e coisas desse tipo</h3>
                             <ul class="now-list">
                                 {% for item in page.focus %}
                                 <li>{{ item }}</li>
@@ -149,19 +177,23 @@ layout: default
 
                         {% if page.reading %}
                         <div class="now-section">
-                            <h3><i class="fa-solid fa-book-open"></i> Lendo</h3>
+                            <h3><i class="fa-solid fa-book-open"></i> Leituras</h3>
                             {% for item in page.reading %}
                             <div class="media-item">
-                                <div class="media-info">
-                                    <span class="media-title">{{ item.title }}</span>
-                                    <span class="media-meta">{{ item.author }}</span>
+                                <div class="media-header">
+                                    <div class="media-info">
+                                        <span class="media-title">{{ item.title }}</span>
+                                        <span class="media-meta">{{ item.author }}</span>
+                                    </div>
+                                    {% if item.rating %}
+                                    <span class="rating">
+                                        {% assign rating = item.rating %}
+                                        {% for i in (1..5) %}{% if i <= rating %}<i class="fa-solid fa-star"></i>{% else %}<i class="fa-regular fa-star"></i>{% endif %}{% endfor %}
+                                    </span>
+                                    {% endif %}
                                 </div>
-                                {% if item.rating %}
-                                <span class="rating">
-                                    {% assign rating = item.rating %}
-                                    {% for i in (1..5) %}{% if i <= rating %}<i class="fa-solid fa-star"></i>{% else %}<i class="fa-regular fa-star"></i>{% endif %}{% endfor %}
-                                    {% if item.comment %}<span class="rating-label">{{ item.comment }}</span>{% endif %}
-                                </span>
+                                {% if item.comment %}
+                                    <div class="media-comment">{{ item.comment }}</div>
                                 {% endif %}
                             </div>
                             {% endfor %}
@@ -173,16 +205,20 @@ layout: default
                             <h3><i class="fa-solid fa-tv"></i> Assistindo</h3>
                             {% for item in page.watching %}
                             <div class="media-item">
-                                <div class="media-info">
-                                    <span class="media-title">{{ item.title }}</span>
-                                    {% if item.obs %}<span class="media-meta">{{ item.obs }}</span>{% endif %}
+                                <div class="media-header">
+                                    <div class="media-info">
+                                        <span class="media-title">{{ item.title }}</span>
+                                        {% if item.obs %}<span class="media-meta">{{ item.obs }}</span>{% endif %}
+                                    </div>
+                                    {% if item.rating %}
+                                    <span class="rating">
+                                        {% assign rating = item.rating %}
+                                        {% for i in (1..5) %}{% if i <= rating %}<i class="fa-solid fa-star"></i>{% else %}<i class="fa-regular fa-star"></i>{% endif %}{% endfor %}
+                                    </span>
+                                    {% endif %}
                                 </div>
-                                {% if item.rating %}
-                                <span class="rating">
-                                    {% assign rating = item.rating %}
-                                    {% for i in (1..5) %}{% if i <= rating %}<i class="fa-solid fa-star"></i>{% else %}<i class="fa-regular fa-star"></i>{% endif %}{% endfor %}
-                                    {% if item.comment %}<span class="rating-label">{{ item.comment }}</span>{% endif %}
-                                </span>
+                                {% if item.comment %}
+                                    <div class="media-comment">{{ item.comment }}</div>
                                 {% endif %}
                             </div>
                             {% endfor %}
@@ -194,14 +230,21 @@ layout: default
                             <h3><i class="fa-solid fa-gamepad"></i> Jogando (ou querendo jogar)</h3>
                             {% for item in page.playing %}
                             <div class="media-item">
-                                <div class="media-info">
-                                    <span class="media-title">
-                                        {% if item.link %}<a href="{{ item.link }}" target="_blank">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}
+                                <div class="media-header">
+                                    <div class="media-info">
+                                        <span class="media-title">
+                                            {% if item.link %}<a href="{{ item.link }}" target="_blank">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}
+                                        </span>
+                                    </div>
+                                    {% if item.status %}
+                                    <span class="rating" style="color: var(--color-text-sub); border:none; background:none; padding:0;">
+                                        <small style="text-transform: uppercase; font-weight: bold;">{{ item.status }}</small>
                                     </span>
+                                    {% endif %}
                                 </div>
-                                <span class="rating">
-                                    {% if item.status %}<span class="rating-label">{{ item.status }}</span>{% endif %}
-                                </span>
+                                {% if item.comment %}
+                                    <div class="media-comment">{{ item.comment }}</div>
+                                {% endif %}
                             </div>
                             {% endfor %}
                         </div>
