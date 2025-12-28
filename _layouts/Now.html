@@ -85,44 +85,38 @@ layout: default
                         }
                         .now-list li:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0;}
                         
-                        /* --- ITEM DE MÍDIA (RESPONSIVO) --- */
+                        /* Mídia (Livros, Filmes) */
                         .media-item { 
-                            /* Transforma em um grid flexível */
-                            display: flex;
-                            justify-content: space-between;
+                            display: flex; 
+                            justify-content: space-between; 
                             align-items: center;
-                            flex-wrap: wrap; /* Permite quebrar linha se não couber */
-                            gap: 8px;
-                            margin-bottom: 15px; 
+                            flex-wrap: wrap; 
+                            gap: 10px;
+                            margin-bottom: 12px; 
                             border-bottom: 1px dashed var(--color-border-light); 
-                            padding-bottom: 12px;
+                            padding-bottom: 10px;
                         }
                         .media-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
                         
                         .media-info {
-                            /* Ocupa o espaço disponível, mas tem um mínimo para não esmagar */
-                            flex: 1 1 200px; 
-                            padding-right: 10px;
+                            display: flex;
+                            flex-direction: column;
+                            max-width: 70%;
                         }
 
                         .media-title { 
-                            display: block;
                             font-weight: 600; 
                             font-size: 1rem;
                             color: var(--color-text-main); 
-                            line-height: 1.3;
                         }
                         
                         .media-meta { 
-                            display: block;
                             font-size: 0.85rem; 
                             color: var(--color-text-sub); 
-                            margin-top: 3px;
                         }
                         
                         /* Estrelas */
                         .rating { 
-                            /* Não deixa quebrar linha DENTRO das estrelas */
                             white-space: nowrap; 
                             font-size: 0.8rem; 
                             color: #f59e0b; 
@@ -130,20 +124,18 @@ layout: default
                             padding: 4px 8px;
                             border-radius: 4px;
                             border: 1px solid var(--color-border-light);
-                            /* No celular, se não couber, vai para baixo alinhado à esquerda */
-                            margin-top: 4px;
                         }
                         .rating .fa-regular { color: var(--color-border); opacity: 0.5; }
                         .rating-label { font-size: 0.75rem; color: var(--color-text-main); margin-left: 6px; font-weight: normal; }
 
-                        /* --- Comentário Geral (Fonte Reduzida) --- */
+                        /* --- Comentário Geral --- */
                         .section-comment {
                             margin-top: 20px;
                             padding-top: 15px;
                             border-top: 1px solid var(--color-border);
-                            font-size: 0.9rem; /* FONTE MENOR AQUI */
-                            line-height: 1.5;
-                            color: var(--color-text-sub); /* Cor mais suave */
+                            font-size: 0.95rem;
+                            line-height: 1.6;
+                            color: var(--color-text-main);
                             font-style: italic;
                         }
                      </style>
@@ -219,6 +211,35 @@ layout: default
                         </div>
                         {% endif %}
 
+                        {% if page.listening %}
+                        <div class="now-section">
+                            <h3><i class="fa-solid fa-headphones"></i> Ouvindo</h3>
+                            {% for item in page.listening %}
+                            <div class="media-item">
+                                <div class="media-info">
+                                    <span class="media-title">
+                                        {% if item.link %}<a href="{{ item.link }}" target="_blank">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}
+                                    </span>
+                                    {% if item.artist %}<span class="media-meta">{{ item.artist }}</span>{% endif %}
+                                </div>
+                                {% if item.rating %}
+                                <span class="rating">
+                                    {% assign rating = item.rating %}
+                                    {% for i in (1..5) %}{% if i <= rating %}<i class="fa-solid fa-star"></i>{% else %}<i class="fa-regular fa-star"></i>{% endif %}{% endfor %}
+                                    {% if item.comment %}<span class="rating-label">{{ item.comment }}</span>{% endif %}
+                                </span>
+                                {% endif %}
+                            </div>
+                            {% endfor %}
+
+                            {% if page.listening_comment %}
+                            <div class="section-comment">
+                                {{ page.listening_comment | markdownify }}
+                            </div>
+                            {% endif %}
+                        </div>
+                        {% endif %}
+
                         {% if page.playing %}
                         <div class="now-section">
                             <h3><i class="fa-solid fa-gamepad"></i> Jogando</h3>
@@ -229,9 +250,17 @@ layout: default
                                         {% if item.link %}<a href="{{ item.link }}" target="_blank">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}
                                     </span>
                                 </div>
+                                {% if item.rating %}
                                 <span class="rating">
-                                    {% if item.status %}<span class="rating-label">{{ item.status }}</span>{% endif %}
+                                    {% assign rating = item.rating %}
+                                    {% for i in (1..5) %}{% if i <= rating %}<i class="fa-solid fa-star"></i>{% else %}<i class="fa-regular fa-star"></i>{% endif %}{% endfor %}
+                                    {% if item.comment %}<span class="rating-label">{{ item.comment }}</span>{% endif %}
                                 </span>
+                                {% elsif item.status %}
+                                <span class="rating" style="color: var(--color-text-sub); border:none; background:none; padding:0;">
+                                    <small style="text-transform: uppercase; font-weight: bold;">{{ item.status }}</small>
+                                </span>
+                                {% endif %}
                             </div>
                             {% endfor %}
 
