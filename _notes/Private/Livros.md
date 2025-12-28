@@ -4,7 +4,7 @@ title: Livros
 feed: hide
 author: Marcos Ramon
 date: 2025-06-25
-description: Livros publicados | Marcos Ramon
+description: Livros publicados por Marcos Ramon
 image: descompasso-div.png
 permalink: livros
 ---
@@ -169,7 +169,7 @@ permalink: livros
 
 <div class="books-intro">
   <p>
-    Tenho dois livros autopublicados disponíveis em formato ebook na Amazon. Se você já leu algum deles, ficarei muito feliz com sua avaliação nas redes de leitura.
+    Tenho dois livros autopublicados disponíveis em formato ebook na Amazon. Se você já leu algum deles, agradeço se fizer uma avaliação na Amazon, Goodreads, Skoob em algum outro lugar semelhante.
   </p>
   
   <div class="intro-links">
