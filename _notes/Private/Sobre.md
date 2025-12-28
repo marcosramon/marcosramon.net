@@ -124,6 +124,6 @@ Ramon, Marcos. **A releitura como forma de reencontro.** Disponível em: <https:
 
 Este é um site pessoal e eu autorizo o compartilhamento, a distribuição e a remixagem de tudo que tem aqui (exceto aquilo que não for de minha autoria, porque aí não depende de mim), desde que o propósito disso não envolva fins comerciais e desde que seja mencionada a fonte original. Mais informações sobre essa licença de uso nesse [link](http://creativecommons.org/licenses/by-nc-sa/3.0/br/).
 
-<img src="assets/img/Pasted image 20250302190730.png" width="150" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+<img src="assets/img/Pasted image 20250302190730.png" width="150">
 
 [^1]: Um jardim digital é um espaço online para ideias em constante evolução, e, portanto, diferente de um blog tradicional. Em vez de textos apenas organizados por data, ele funciona como um ambiente exploratório, onde notas e reflexões se conectam organicamente. É um conceito que quer resgatar a liberdade criativa dos primeiros dias da web. É possível?
