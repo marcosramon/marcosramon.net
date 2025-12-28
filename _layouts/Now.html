@@ -68,7 +68,7 @@ layout: default
 
                         {% if page.focus %}
                         <div class="now-section full-width">
-                            <h3><i class="fa-solid fa-briefcase"></i> Foco Profissional & Estudos</h3>
+                            <h3><i class="fa-solid fa-briefcase"></i> Trabalho, pesquisa e esse tipo de coisa</h3>
                             <ul class="now-list">
                                 {% for item in page.focus %}
                                 <li>{{ item }}</li>
@@ -79,7 +79,7 @@ layout: default
 
                         {% if page.reading %}
                         <div class="now-section">
-                            <h3><i class="fa-solid fa-book-open"></i> Lendo</h3>
+                            <h3><i class="fa-solid fa-book-open"></i> Leituras</h3>
                             {% for item in page.reading %}
                             <div class="media-item">
                                 <span class="media-title">{{ item.title }}</span>
@@ -117,7 +117,7 @@ layout: default
 
                         {% if page.playing %}
                         <div class="now-section">
-                            <h3><i class="fa-solid fa-gamepad"></i> Jogando</h3>
+                            <h3><i class="fa-solid fa-gamepad"></i> Jogando (ou querendo jogar)</h3>
                             {% for item in page.playing %}
                             <div class="media-item">
                                 <span class="media-title">
@@ -133,7 +133,7 @@ layout: default
 
                         {% if page.meta_update %}
                         <div class="now-section full-width">
-                            <h3><i class="fa-solid fa-code"></i> Meta & Site</h3>
+                            <h3><i class="fa-solid fa-code"></i> Site</h3>
                             <p style="font-size: 0.9rem;">{{ page.meta_update }}</p>
                         </div>
                         {% endif %}
