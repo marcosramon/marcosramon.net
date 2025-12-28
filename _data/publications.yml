@@ -1,50 +1,212 @@
+# 2025
+- title: "A integração de Dança e Filosofia no Ensino Médio: uma abordagem pedagógica de autoconhecimento e expressão corporal"
+  type: "Artigo em Periódico"
+  authors: "Cinthia Nepomuceno Xavier, Marcos Ramon Gomes Ferreira"
+  year: 2025
+  venue: "Relatos de Experiências Integradoras Exitosas"
+  citation: |
+    XAVIER, C. N.; FERREIRA, M. R. G. A integração de Dança e Filosofia no Ensino Médio. Relatos de Experiências Integradoras Exitosas, v.1, p. 46-51, 2025.
+  links:
+    - label: Link
+      url: "https://editora.ifb.edu.br/"
+
 - title: "Práticas pedagógicas em Filosofia para uma formação omnilateral no Ensino Médio Integrado"
+  type: "Capítulo de Livro"
   authors: "Marcos Ramon Gomes Ferreira"
   year: 2025
-  venue: "Ensino médio integrado: políticas, currículos e práticas."
-  type: "Capítulo de livro"
-  isbn: "978-65-6074-046-4"  
-  citation: |                
-    FERREIRA, Marcos Ramon Gomes. Práticas pedagógicas em Filosofia para uma formação omnilateral no Ensino Médio Integrado. In: SILVA, Cláudio Nei Nascimento. Ensino médio integrado: políticas, currículos e práticas. Brasília, DF: Editora IFB: Editora Nova Paideia, 2025.
+  venue: "Ensino Médio Integrado: políticas, currículos e práticas (Vol. 3)"
+  isbn: "978-65-6074-046-4"
+  citation: |
+    FERREIRA, M. R. G. Práticas pedagógicas em Filosofia para uma formação omnilateral. In: Ensino Médio Integrado: políticas, currículos e práticas. Brasília: Editora IFB, 2025. v.3, p. 131-149.
   links:
     - label: PDF
-      url: "https://drive.google.com/file/d/1qBYc0tW-b_T8_xC2zTFwPEvYVzcbGQPx/view?usp=drive_link"
+      url: "#"
+
+- title: "Metodologias ativas no ensino de Filosofia: inovação pedagógica no Ensino Médio Integrado"
+  type: "Anais de Evento"
+  authors: "Marcos Ramon Gomes Ferreira"
+  year: 2025
+  venue: "II Simpósio de Integração, Inovação e Tecnologia (SIIT)"
+  citation: |
+    FERREIRA, M. R. G. Metodologias ativas no ensino de Filosofia. In: Anais do II Simpósio de Integração, Inovação e Tecnologia. Brasília, 2025.
+  links:
     - label: Link
-      url: "https://editora.ifb.edu.br/editora/livros-editora-ifb/"
+      url: "https://www.even3.com.br/sit2025/"
 
 - title: "Uma experiência artístico-pedagógica em Introdução à Estética e História da Arte"
+  type: "Anais de Evento"
   authors: "Cristiane Terraza, Marcos Ramon Gomes Ferreira"
   year: 2025
   venue: "IX Colóquio Arte em Trânsito"
-  type: "Artigo publicado em Anais"
-  isbn: "978-65-272-1718-3"  
-  citation: |                
-    TERRAZA, CRISTIANE; FERREIRA, Marcos Ramon Gomes. UMA EXPERIÊNCIA ARTÍSTICO-PEDAGÓGICA EM "INTRODUÇÃO À ESTÉTICA E HISTÓRIA DA ARTE". In: Anais do Colóquio Arte em Trânsito: arte como território na escola. Anais...Juiz de Fora(MG) MAMM, 2025. Disponível em: https//www.even3.com.br/anais/ix-coloquio-arte-em-transito/1136948-UMA-EXPERIENCIA-ARTISTICO-PEDAGOGICA-EM-INTRODUCAO-A-ESTETICA-E-HISTORIA-DA-ARTE. Acesso em: dd/mm/aaaa
+  isbn: "978-65-272-1718-3"
+  citation: |
+    TERRAZA, C.; FERREIRA, M. R. G. Uma experiência artístico-pedagógica em Introdução à Estética e História da Arte. In: Anais do Colóquio Arte em Trânsito. Juiz de Fora: MAMM, 2025.
   links:
-    - label: PDF
-      url: "https://drive.google.com/file/d/1qBYc0tW-b_T8_xC2zTFwPEvYVzcbGQPx/view?usp=drive_link"
     - label: Link
-      url: "https://www.even3.com.br/anais/ix-coloquio-arte-em-transito/1136948-uma-experiencia-artistico-pedagogica-em-introducao-a-estetica-e-historia-da-arte"
+      url: "https://www.even3.com.br/anais/ix-coloquio-arte-em-transito/"
+
+# 2024
+- title: "Educação Especial Inclusiva (EEI) na Educação Profissional e Tecnológica"
+  type: "Artigo em Periódico"
+  authors: "Anna Vanessa Lima de Oliveira, Marcos Ramon Gomes Ferreira"
+  year: 2024
+  venue: "Revista Brasileira de Educação Profissional e Tecnológica"
+  citation: |
+    OLIVEIRA, A. V. L.; FERREIRA, M. R. G. Educação Especial Inclusiva (EEI) na Educação Profissional e Tecnológica. RBEPT, v.3, 2024.
+  links:
+    - label: DOI
+      url: "https://doi.org/10.15628/rbept.2024.12750"
 
 - title: "Consumo cultural, algoritmos e a ascensão da comodidade"
+  type: "Anais de Evento"
   authors: "Marcos Ramon Gomes Ferreira, Gisele Nunes Brasil"
   year: 2024
-  venue: "IV Encontro Nacional da ABCiber"
-  type: "Artigo publicado em Anais"
-  issn: 2175-2389
-  citation: |                
-    FERREIRA, Marcos Ramon Gomes; BRASIL, Gisele Nunes. Consumo cultural, algoritmos e a ascensão da comodidade. IV Encontro Nacional da ABCiber. Perspectivas Interdisciplinares e Reconfigurações na Cibercultura:
-    Dados, Algoritmos e Inteligência Artificial. Disponível em: https://abciber.org.br/simposios/index.php/virtualabciber/virtual2024/paper/view/2500 Acesso em: dd/mm/aaaa
+  venue: "IV Encontro Virtual da ABCiber"
+  citation: |
+    FERREIRA, M. R. G.; BRASIL, G. N. Consumo cultural, algoritmos e a ascensão da comodidade. In: IV Encontro Virtual da ABCiber, 2024.
+  links:
+    - label: PDF
+      url: "https://abciber.org.br/"
+
+# 2023
+- title: "A afetividade no contexto educacional: a atuação dos servidores técnicos no Ensino Médio Integrado"
+  type: "Artigo em Periódico"
+  authors: "Madelon A. Nascimento, Marcos Ramon Gomes Ferreira"
+  year: 2023
+  venue: "Revista Eixo"
+  citation: |
+    NASCIMENTO, M. A.; FERREIRA, M. R. G. A afetividade no contexto educacional. Revista Eixo, v.12, p.71, 2023.
   links:
     - label: Link
-      url: "https://abciber.org.br/simposios/index.php/virtualabciber/virtual2024/schedConf/presentations?searchInitial=F&track="
-    - label: PDF
-      url: "https://drive.google.com/file/d/1_80WTLBk5f3w5BmH2w5yHK-5xQZjwE7h/view?usp=drive_link"
+      url: "http://revistaeixo.ifb.edu.br/"
 
-- title: "O conceito de técnica em Simondon"
-  authors: "Marcos Ramon"
-  year: 2023
-  venue: "Cadernos de Tecnologia"
+# 2022
+- title: "A experiência da integração no Curso de Licenciatura em Dança do IFB"
+  type: "Capítulo de Livro"
+  authors: "Marcos Ramon Gomes Ferreira"
+  year: 2022
+  venue: "Experiências em Movimento: celebração dos 10 anos da Licenciatura em Dança"
+  isbn: "978-85-64124-89-9"
+  citation: |
+    FERREIRA, M. R. G. A experiência da integração no Curso de Licenciatura em Dança do IFB. In: Experiências em Movimento. Brasília: Editora IFB, 2022.
+  links:
+    - label: Link
+      url: "http://revistaeixo.ifb.edu.br/"
+
+# 2021
+- title: "Cinema, ensino e aprendizagem: um relato em defesa do espectador na educação para a cultura"
+  type: "Capítulo de Livro"
+  authors: "Angélica M. S. Sousa, Marcos Ramon Gomes Ferreira"
+  year: 2021
+  venue: "Educação Estética: diálogos com a Teoria Histórico-Cultural"
+  isbn: "978-65-5869-248-5"
+  citation: |
+    SOUSA, A. M. S.; FERREIRA, M. R. G. Cinema, ensino e aprendizagem. In: Educação Estética. São Carlos: Pedro & João Editores, 2021.
+  links:
+    - label: Link
+      url: "https://pedroejoaoeditores.com.br/"
+
+# 2020
+- title: "A Mentoria como proposta pedagógica preparatória para ingresso no mundo do trabalho"
+  type: "Artigo em Periódico"
+  authors: "Marcela S. C. Brito, Marcos Ramon Gomes Ferreira"
+  year: 2020
+  venue: "Humanidades & Inovação"
+  citation: |
+    BRITO, M. S. C.; FERREIRA, M. R. G. A Mentoria como proposta pedagógica. Humanidades & Inovação, v.7, p.269-281, 2020.
+  links:
+    - label: Link
+      url: "https://revista.unitins.br/"
+
+# 2019
+- title: "A educação estética na educação profissional: o Instituto Federal de Brasília e suas práticas"
+  type: "Artigo em Periódico"
+  authors: "Cristiane Terraza, Tereza Ramos, Lina Castro, Marcos Ramon G. Ferreira"
+  year: 2019
+  venue: "Revista Eixo"
+  citation: |
+    TERRAZA, C.; et al. A educação estética na educação profissional. Revista Eixo, v.8, p.43-53, 2019.
+  links:
+    - label: Link
+      url: "http://revistaeixo.ifb.edu.br/"
+
+- title: "Os impactos da cibercultura e da tecnologia digital em nossa percepção estética"
+  type: "Artigo em Periódico"
+  authors: "Marcos Ramon Gomes Ferreira"
+  year: 2019
+  venue: "Revista Eixo"
+  citation: |
+    FERREIRA, M. R. G. Os impactos da cibercultura e da tecnologia digital em nossa percepção estética. Revista Eixo, v.8, p.88-97, 2019.
+  links:
+    - label: Link
+      url: "http://revistaeixo.ifb.edu.br/"
+
+# 2018
+- title: "Escola e experiência estética: uma abordagem da estética e da arte a partir do Iluminismo"
+  type: "Capítulo de Livro"
+  authors: "Marcos Ramon Gomes Ferreira, Cristiane Terraza"
+  year: 2018
+  venue: "Os Riscos da Arte: Formação e Mediação"
+  citation: |
+    FERREIRA, M. R. G.; TERRAZA, C. Escola e experiência estética. In: Os Riscos da Arte. Lisboa: CIEBA, 2018. v.2.
   links:
     - label: PDF
+      url: "#"
+
+# 2017
+- title: "Reflexões sobre a implantação do curso técnico em Eventos Integrado ao Ensino Médio no IFB"
+  type: "Capítulo de Livro"
+  authors: "Glauco Feijó, Marcos Ramon Ferreira, et al."
+  year: 2017
+  venue: "Ensino Médio Integrado no Brasil: fundamentos, práticas e desafios"
+  citation: |
+    FEIJÓ, G. V.; FERREIRA, M. R. G.; et al. Reflexões sobre a implantação do curso técnico em Eventos. In: Ensino Médio Integrado no Brasil. Brasília: Editora IFB, 2017.
+  links:
+    - label: Link
+      url: "#"
+
+# 2015
+- title: "O conhecimento transdisciplinar como via de compreensão da Comunicação e da Cibercultura"
+  type: "Anais de Evento"
+  authors: "Marcos Ramon Gomes Ferreira"
+  year: 2015
+  venue: "24º Encontro Nacional Compós"
+  citation: |
+    FERREIRA, M. R. G. O conhecimento transdisciplinar como via de compreensão da Comunicação e da Cibercultura. In: 24º Encontro Nacional Compós, 2015.
+  links:
+    - label: PDF
+      url: "http://compos.org.br/"
+
+- title: "Cibercultura e novas formas de interagir e conhecer"
+  type: "Artigo em Periódico"
+  authors: "Marcos Ramon Gomes Ferreira"
+  year: 2015
+  venue: "Interin (UTP)"
+  citation: |
+    FERREIRA, M. R. G. Cibercultura e novas formas de interagir e conhecer. Interin, v.20, p.4-21, 2015.
+  links:
+    - label: Link
+      url: "http://interin.utp.br/"
+
+# 2014
+- title: "A colaboração online e os dilemas da vida em sociedade no século XXI"
+  type: "Artigo em Periódico"
+  authors: "Marcos Ramon Gomes Ferreira"
+  year: 2014
+  venue: "E-COM (Belo Horizonte)"
+  citation: |
+    FERREIRA, M. R. G. A colaboração online e os dilemas da vida em sociedade no século XXI. E-COM, v.7, 2014.
+  links:
+    - label: Link
+      url: "#"
+
+- title: "Comunicação ibero-americana: os desafios da Internacionalização"
+  type: "Capítulo de Livro"
+  authors: "Marcos Ramon Gomes Ferreira"
+  year: 2014
+  venue: "Comunicação, colaboração online e complexidade"
+  citation: |
+    FERREIRA, M. R. G. Comunicação ibero-americana. In: Comunicação, colaboração online e complexidade. Braga: CECS, 2014.
+  links:
+    - label: Link
       url: "#"
