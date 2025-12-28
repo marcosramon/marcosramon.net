@@ -4,6 +4,7 @@ title: Currículo
 permalink: /cv/
 date: 2025-01-01
 description: Currículo Acadêmico e Profissional de Marcos Ramon.
+content-type: static
 ---
 
 <style>
@@ -217,8 +218,8 @@ description: Currículo Acadêmico e Profissional de Marcos Ramon.
         <div class="cv-desc">
           Atuação no ensino de Filosofia e em cursos de Licenciatura em Dança e Mestrado Profissional (ProfEPT).
           Coordenador do Grupo Interdisciplinar de Pesquisa em Filosofia e Cultura.
-          Coordenador de pesquisa (2018-2019).
           Coordenador de Comunicação (2023-2024).
+          Coordenador de Pesquisa (2018-2019).
         </div>
       </div>
     </div>
