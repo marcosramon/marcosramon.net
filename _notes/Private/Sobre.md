@@ -5,7 +5,7 @@ date: 2025-06-25
 permalink: /sobre
 author: Marcos Ramon
 excerpt: Marcos Ramon, professor de filosofia no IFB, pesquisando estética, cibercultura e ensino.
-og_image: /arquivos/tolis2023 1.jpg
+image: /assets/img/tolis2023%201.jpg
 feed: hide
 ---
 
