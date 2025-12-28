@@ -47,7 +47,7 @@ permalink: livros
   .book-cover img {
     width: 100%;
     border-radius: 5px;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.15); /* Sombra elegante */
+    box-shadow: 0 5px 15px rgba(0,0,0,0.15);
     transition: transform 0.2s ease;
   }
 
@@ -80,7 +80,7 @@ permalink: livros
 
   /* Botões */
   .book-actions {
-    margin-top: auto; /* Empurra os botões para baixo se sobrar espaço */
+    margin-top: auto;
     display: flex;
     gap: 10px;
     flex-wrap: wrap;
@@ -89,13 +89,14 @@ permalink: livros
   .action-btn {
     display: inline-flex;
     align-items: center;
+    justify-content: center;
     gap: 8px;
-    padding: 8px 16px;
+    padding: 10px 20px; /* Aumentei a área de toque */
     border: 1px solid var(--color-border);
-    border-radius: 4px;
+    border-radius: 6px;
     text-decoration: none !important;
     color: var(--color-text-main) !important;
-    font-size: 0.9rem;
+    font-size: 0.95rem;
     font-weight: 600;
     background: var(--color-bg-sub);
     transition: all 0.2s ease;
@@ -105,12 +106,13 @@ permalink: livros
     border-color: var(--color-text-link);
     color: var(--color-text-link) !important;
     transform: translateY(-2px);
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   }
 
   .action-btn.primary {
     border-color: var(--color-text-link);
     color: var(--color-text-link) !important;
+    background: rgba(0,0,0,0.02);
   }
 
   /* Seção de Contato */
@@ -122,21 +124,42 @@ permalink: livros
     border: 1px solid var(--color-border-light);
   }
 
-  /* Responsividade para Celular */
+  /* --- RESPONSIVIDADE (CELULAR) --- */
   @media (max-width: 768px) {
     .book-item {
       flex-direction: column;
-      align-items: center;
-      text-align: center;
+      align-items: center; /* Centraliza a capa */
+      text-align: left;    /* Mantém o texto alinhado à esquerda para leitura */
       gap: 20px;
     }
     
     .book-cover {
-      width: 160px;
+      width: 140px; /* Capa menor no celular */
+      margin-bottom: 5px;
+    }
+
+    .book-title {
+      font-size: 1.3rem;
+      text-align: center; /* Título centralizado fica bom */
+    }
+
+    .book-desc {
+      text-align: left; /* CORREÇÃO: Descrição alinhada à esquerda */
+      font-size: 0.95rem;
     }
 
     .book-actions {
-      justify-content: center;
+      width: 100%;
+      flex-direction: column; /* Botões empilhados */
+    }
+
+    .action-btn {
+      width: 100%; /* Botão largura total */
+    }
+    
+    .intro-links .action-btn {
+        width: 100%;
+        justify-content: flex-start;
     }
   }
 </style>
