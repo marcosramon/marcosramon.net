@@ -1,7 +1,7 @@
 ---
 layout: Now
 title: Now
-date: 2025-12-27
+date: 2025-12-28
 author: Marcos Ramon
 
 # TRABALHO, PESQUISA
@@ -40,13 +40,21 @@ watching:
     comment: "Bom"
 watching_comment: "Tô assistindo muita coisa de gangster ultimamente. Stranger Things é um caso curioso, porque gostava muito e agora acho horrível."
 
+# OUVINDO
+listening:
+  - title: "Hard Fork"
+    rating: 5
+    comment: "Podcast"
+  - title: "This is the Sea"
+    artist: "The Waterboys"
+    rating: 4
+listening_comment: "The Waterboys é bom. Sigo descobrindo coisas dos anos 80 pra ouvir."
+
 # JOGANDO
 playing:
   - title: "Fez"
-    rating: "0"
   - title: "Egg"
     link: "https://terrycavanagh.itch.io/egg"
-    rating: "0"
 playing_comment: "Comprei 'Fez' em uma promoção no Steam (sempre está em promoção, na verdade) e quero ver se jogo nas férias. O 'Egg' é um jogo que estou curioso pra experimentar porque é do mesmo criador de VVVVVV."
 
 # META
