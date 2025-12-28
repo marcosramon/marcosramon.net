@@ -91,12 +91,12 @@ permalink: livros
     align-items: center;
     justify-content: center;
     gap: 8px;
-    padding: 10px 20px; /* Aumentei a área de toque */
+    padding: 8px 16px; /* Padding reduzido para botões mais compactos */
     border: 1px solid var(--color-border);
     border-radius: 6px;
     text-decoration: none !important;
     color: var(--color-text-main) !important;
-    font-size: 0.95rem;
+    font-size: 0.9rem;
     font-weight: 600;
     background: var(--color-bg-sub);
     transition: all 0.2s ease;
@@ -128,37 +128,40 @@ permalink: livros
   @media (max-width: 768px) {
     .book-item {
       flex-direction: column;
-      align-items: center; /* Centraliza a capa */
-      text-align: left;    /* Mantém o texto alinhado à esquerda para leitura */
-      gap: 20px;
+      align-items: flex-start; /* Alinha tudo à esquerda */
+      text-align: left;
+      gap: 15px;
     }
     
     .book-cover {
-      width: 140px; /* Capa menor no celular */
+      width: 120px; /* Capa menor e alinhada à esquerda */
       margin-bottom: 5px;
     }
 
     .book-title {
       font-size: 1.3rem;
-      text-align: center; /* Título centralizado fica bom */
+      text-align: left; /* Título à esquerda */
     }
 
     .book-desc {
-      text-align: left; /* CORREÇÃO: Descrição alinhada à esquerda */
+      text-align: left;
       font-size: 0.95rem;
     }
 
     .book-actions {
       width: 100%;
-      flex-direction: column; /* Botões empilhados */
+      flex-direction: row; /* Botões lado a lado se couberem */
+      justify-content: flex-start; /* Alinhados à esquerda */
     }
 
     .action-btn {
-      width: 100%; /* Botão largura total */
+      width: auto; /* Tamanho natural do botão */
+      font-size: 0.85rem; /* Fonte um pouco menor no celular */
+      padding: 8px 12px;
     }
     
     .intro-links .action-btn {
-        width: 100%;
+        width: auto;
         justify-content: flex-start;
     }
   }
@@ -171,10 +174,10 @@ permalink: livros
   
   <div class="intro-links">
     <a href="https://www.goodreads.com/author/show/16012578.Marcos_Ramon" target="_blank" class="action-btn">
-      <i class="fa-brands fa-goodreads"></i> Perfil no Goodreads
+      <i class="fa-brands fa-goodreads"></i> Goodreads
     </a>
     <a href="https://www.skoob.com.br/autor/23478-marcos-ramon" target="_blank" class="action-btn">
-      <i class="fa-solid fa-book"></i> Perfil no Skoob
+      <i class="fa-solid fa-book"></i> Skoob
     </a>
   </div>
 </div>
@@ -216,9 +219,6 @@ permalink: livros
     <div class="book-actions">
       <a href="https://amzn.to/41rUU4n" target="_blank" class="action-btn primary">
         <i class="fa-brands fa-amazon"></i> Comprar eBook na Amazon
-      </a>
-      <a href="https://www.skoob.com.br/descompasso-841935ed847109.html" target="_blank" class="action-btn">
-        <i class="fa-solid fa-book-open"></i> Ver no Skoob
       </a>
     </div>
   </div>
