@@ -35,7 +35,7 @@ watching:
     rating: 4
     comment: "Bom"
   - title: "Uma batalha após a outra"
-    obs: "Temp. Final"
+    obs: "Um pouco cansativo"
     rating: 4
     comment: "Bom"
 watching_comment: "Tô assistindo muita coisa de gangster ultimamente. Stranger Things é um caso curioso, porque gostava muito e agora acho horrível."
