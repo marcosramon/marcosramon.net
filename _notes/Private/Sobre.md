@@ -9,7 +9,7 @@ image: /assets/img/tolis2023%201.jpg
 feed: hide
 ---
 
-<img src="assets/img/tolis2023 1.jpg" width="300">
+<img src="assets/img/tolis2023 1.jpg" width="300" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
 Meu nome é [[Marcos Ramon]]. Sou professor de Filosofia no Instituto Federal de Brasília, onde pesquiso cibercultura, estética e cultura digital. 
 
