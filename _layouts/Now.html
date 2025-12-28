@@ -168,7 +168,7 @@ layout: default
                                 </div>
                                 {% if item.rating %}
                                 <span class="rating">
-                                    {% assign rating = item.rating %}
+                                    {% assign rating = item.rating | plus: 0 %}
                                     {% for i in (1..5) %}{% if i <= rating %}<i class="fa-solid fa-star"></i>{% else %}<i class="fa-regular fa-star"></i>{% endif %}{% endfor %}
                                     {% if item.comment %}<span class="rating-label">{{ item.comment }}</span>{% endif %}
                                 </span>
@@ -179,33 +179,6 @@ layout: default
                             {% if page.reading_comment %}
                             <div class="section-comment">
                                 {{ page.reading_comment | markdownify }}
-                            </div>
-                            {% endif %}
-                        </div>
-                        {% endif %}
-
-                        {% if page.watching %}
-                        <div class="now-section">
-                            <h3><i class="fa-solid fa-tv"></i> Assistindo</h3>
-                            {% for item in page.watching %}
-                            <div class="media-item">
-                                <div class="media-info">
-                                    <span class="media-title">{{ item.title }}</span>
-                                    {% if item.obs %}<span class="media-meta">{{ item.obs }}</span>{% endif %}
-                                </div>
-                                {% if item.rating %}
-                                <span class="rating">
-                                    {% assign rating = item.rating %}
-                                    {% for i in (1..5) %}{% if i <= rating %}<i class="fa-solid fa-star"></i>{% else %}<i class="fa-regular fa-star"></i>{% endif %}{% endfor %}
-                                    {% if item.comment %}<span class="rating-label">{{ item.comment }}</span>{% endif %}
-                                </span>
-                                {% endif %}
-                            </div>
-                            {% endfor %}
-
-                            {% if page.watching_comment %}
-                            <div class="section-comment">
-                                {{ page.watching_comment | markdownify }}
                             </div>
                             {% endif %}
                         </div>
@@ -224,7 +197,7 @@ layout: default
                                 </div>
                                 {% if item.rating %}
                                 <span class="rating">
-                                    {% assign rating = item.rating %}
+                                    {% assign rating = item.rating | plus: 0 %}
                                     {% for i in (1..5) %}{% if i <= rating %}<i class="fa-solid fa-star"></i>{% else %}<i class="fa-regular fa-star"></i>{% endif %}{% endfor %}
                                     {% if item.comment %}<span class="rating-label">{{ item.comment }}</span>{% endif %}
                                 </span>
@@ -235,6 +208,33 @@ layout: default
                             {% if page.listening_comment %}
                             <div class="section-comment">
                                 {{ page.listening_comment | markdownify }}
+                            </div>
+                            {% endif %}
+                        </div>
+                        {% endif %}
+
+                        {% if page.watching %}
+                        <div class="now-section">
+                            <h3><i class="fa-solid fa-tv"></i> Assistindo</h3>
+                            {% for item in page.watching %}
+                            <div class="media-item">
+                                <div class="media-info">
+                                    <span class="media-title">{{ item.title }}</span>
+                                    {% if item.obs %}<span class="media-meta">{{ item.obs }}</span>{% endif %}
+                                </div>
+                                {% if item.rating %}
+                                <span class="rating">
+                                    {% assign rating = item.rating | plus: 0 %}
+                                    {% for i in (1..5) %}{% if i <= rating %}<i class="fa-solid fa-star"></i>{% else %}<i class="fa-regular fa-star"></i>{% endif %}{% endfor %}
+                                    {% if item.comment %}<span class="rating-label">{{ item.comment }}</span>{% endif %}
+                                </span>
+                                {% endif %}
+                            </div>
+                            {% endfor %}
+
+                            {% if page.watching_comment %}
+                            <div class="section-comment">
+                                {{ page.watching_comment | markdownify }}
                             </div>
                             {% endif %}
                         </div>
@@ -252,7 +252,7 @@ layout: default
                                 </div>
                                 {% if item.rating %}
                                 <span class="rating">
-                                    {% assign rating = item.rating %}
+                                    {% assign rating = item.rating | plus: 0 %}
                                     {% for i in (1..5) %}{% if i <= rating %}<i class="fa-solid fa-star"></i>{% else %}<i class="fa-regular fa-star"></i>{% endif %}{% endfor %}
                                     {% if item.comment %}<span class="rating-label">{{ item.comment }}</span>{% endif %}
                                 </span>
