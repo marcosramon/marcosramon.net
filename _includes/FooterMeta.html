@@ -254,7 +254,6 @@
   .leia-tambem-wrapper {
     margin-top: 40px;
     padding-top: 20px;
-    /* border-top removido para tirar a linha */
     border-top: none; 
   }
 
@@ -265,15 +264,19 @@
     text-transform: uppercase;
     letter-spacing: 1px;
     color: var(--color-text-sub);
-    margin-bottom: 15px;
+    
+    /* AQUI ESTÁ A CORREÇÃO DA LINHA */
+    border-bottom: 1px solid var(--color-border-light); /* A linha fica no título */
+    padding-bottom: 10px; /* Espaço entre o texto "LEIA TAMBÉM" e a linha */
+    margin-bottom: 15px;  /* Espaço entre a linha e o primeiro link */
   }
 
   /* Configuração da Lista */
   .related-list {
     list-style: disc; 
     padding-left: 20px;
-    border-top: 1px solid var(--color-border-light);
     margin: 0;
+    border-top: none; /* Removi a borda daqui para não duplicar */
   }
   
   .related-list a {
