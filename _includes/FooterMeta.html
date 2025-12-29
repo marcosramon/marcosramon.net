@@ -211,3 +211,71 @@
         });
     });
 </script>
+
+{% if page.related %}
+<div class="leia-tambem-wrapper">
+  <h3>LEIA TAMBÉM:</h3>
+  <ul class="related-list">
+    {% for item in page.related %}
+      {% comment %} 
+        Tenta encontrar o post pelo Título exato. 
+        Se você usa títulos diferentes no arquivo e no link, me avise.
+      {% endcomment %}
+      {% assign related_post = site.posts | where: "title", item | first %}
+      
+      {% if related_post %}
+        <li>
+          <a href="{{ related_post.url | relative_url }}">{{ related_post.title }}</a>
+        </li>
+      {% else %}
+        {% assign related_note = site.notes | where: "title", item | first %}
+        {% if related_note %}
+          <li>
+            <a href="{{ related_note.url | relative_url }}">{{ related_note.title }}</a>
+          </li>
+        {% else %}
+          <li>{{ item }} (Link não encontrado)</li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+
+<style>
+  .leia-tambem-wrapper {
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid var(--color-border-light);
+  }
+
+  .leia-tambem-wrapper h3 {
+    font-size: 1rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--color-text-sub);
+    margin-bottom: 15px;
+  }
+
+  .related-list {
+    list-style: disc; /* Ou 'none' se preferir sem bolinhas */
+    padding-left: 20px;
+    margin: 0;
+  }
+
+  .related-list li {
+    margin-bottom: 8px;
+    font-size: 1.05rem;
+  }
+
+  .related-list a {
+    text-decoration: none;
+    color: var(--color-text-link);
+    font-weight: 500;
+  }
+
+  .related-list a:hover {
+    text-decoration: underline;
+  }
+</style>
+{% endif %}
