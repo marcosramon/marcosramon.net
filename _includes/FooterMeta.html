@@ -216,16 +216,24 @@
 <div class="leia-tambem-wrapper">
   <h3>LEIA TAMBÉM:</h3>
   <ul class="related-list">
-    {% for item in page.related %}
-      
-      {% assign related_doc = site.posts | where: "title", item | first %}
-      
-      {% unless related_doc %}
-        {% assign related_doc = site.notes | where: "title", item | first %}
-      {% endunless %}
+    
+    {% comment %} Cria uma lista única com tudo (Posts, Notas e Páginas) {% endcomment %}
+    {% assign all_content = site.posts | concat: site.notes | concat: site.pages %}
 
+    {% for item in page.related %}
+      {% assign related_doc = nil %}
+      
+      {% assign related_doc = all_content | where: "title", item | first %}
+      
       {% unless related_doc %}
-        {% assign related_doc = site.pages | where: "title", item | first %}
+        {% assign item_slug = item | slugify %}
+        {% for doc in all_content %}
+          {% assign doc_slug = doc.title | slugify %}
+          {% if doc_slug == item_slug %}
+            {% assign related_doc = doc %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
       {% endunless %}
       
       {% if related_doc %}
@@ -235,7 +243,7 @@
       {% else %}
         <li style="opacity: 0.6;">
           {{ item }} 
-          <small style="color: #d9534f;">(Título não encontrado. Verifique se está <strong>idêntico</strong> ao do arquivo)</small>
+          <small style="color: #d9534f; font-size: 0.8em;">(Não encontrado)</small>
         </li>
       {% endif %}
     {% endfor %}
