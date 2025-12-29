@@ -213,11 +213,11 @@
 </script>
 
 {% if page.related %}
-<div class="leia-tambem-wrapper">
-  <h3>LEIA TAMBÉM:</h3>
-  <ul class="related-list">
+<div class="leia-tambem">
+  <h2>Leia também:</h2>
+  <ul>
     
-    {% comment %} Cria uma lista única com tudo (Posts, Notas e Páginas) {% endcomment %}
+    {% comment %} Busca inteligente em Posts, Notas e Páginas {% endcomment %}
     {% assign all_content = site.posts | concat: site.notes | concat: site.pages %}
 
     {% for item in page.related %}
@@ -242,51 +242,10 @@
         </li>
       {% else %}
         <li style="opacity: 0.6;">
-          {{ item }} 
-          <small style="color: #d9534f; font-size: 0.8em;">(Não encontrado)</small>
+          {{ item }} <small style="color: #d9534f; font-size: 0.8em;">(Verifique o título)</small>
         </li>
       {% endif %}
     {% endfor %}
   </ul>
 </div>
-
-<style>
-  .leia-tambem-wrapper {
-    margin-top: 40px;
-    padding-top: 20px;
-    border-top: none; 
-  }
-
-  /* Estilo do Título "LEIA TAMBÉM" */
-  .leia-tambem-wrapper h3 {
-    font-size: 1rem;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    color: var(--color-text-sub);
-    
-    /* AQUI ESTÁ A CORREÇÃO DA LINHA */
-    border-bottom: 1px solid var(--color-border-light); /* A linha fica no título */
-    padding-bottom: 10px; /* Espaço entre o texto "LEIA TAMBÉM" e a linha */
-    margin-bottom: 15px;  /* Espaço entre a linha e o primeiro link */
-  }
-
-  /* Configuração da Lista */
-  .related-list {
-    list-style: disc; 
-    padding-left: 20px;
-    margin: 0;
-    border-top: none; /* Removi a borda daqui para não duplicar */
-  }
-  
-  .related-list a {
-    text-decoration: none;
-    color: var(--color-text-link);
-    font-weight: 500;
-  }
-
-  .related-list a:hover {
-    text-decoration: underline;
-  }
-</style>
 {% endif %}
