@@ -10,9 +10,9 @@ description: A consciência da morte é algo que só faz sentido para o ser huma
 permalink: ser-imortal-e-insignificante
 author: Marcos Ramon
 related:
-  - Uma morte criativa
-  - A vida é uma espera
   - Interesse pela vida
+  - A vida é uma espera
+  - Uma morte criativativa
 image:
   path: /assets/img/agua.jpg
   alt: uma pessoa boiando na água
