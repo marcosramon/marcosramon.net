@@ -257,28 +257,26 @@
     border-top: 1px solid var(--color-border-light);
   }
 
+  /* Estilo do Título "LEIA TAMBÉM" */
   .leia-tambem-wrapper h3 {
     font-size: 1rem;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 1px;
     color: var(--color-text-sub);
-    margin-bottom: 15px; /* Reduzi um pouco aqui também para aproximar o título */
+    margin-bottom: 15px;
   }
 
+  /* Configuração da Lista */
   .related-list {
     list-style: disc; 
     padding-left: 20px;
     margin: 0;
   }
 
-  .related-list li {
-    /* CORREÇÃO: Reduzi de 18px para 10px para ficar mais compacto */
-    margin-bottom: 10px; 
-    font-size: 1.05rem;
-    line-height: 1.5;
-  }
-
+  /* REMOVI as regras de margem do 'li'. 
+     Agora ele vai herdar o espaçamento padrão do seu tema (igual ao print 2). */
+  
   .related-list a {
     text-decoration: none;
     color: var(--color-text-link);
