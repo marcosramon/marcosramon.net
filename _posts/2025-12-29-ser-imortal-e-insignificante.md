@@ -12,7 +12,7 @@ author: Marcos Ramon
 related:
   - Interesse pela vida
   - A vida é uma espera
-  - Uma morte criativativa
+  - Uma morte criativa
 image:
   path: /assets/img/agua.jpg
   alt: uma pessoa boiando na água
