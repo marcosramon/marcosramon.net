@@ -217,25 +217,26 @@
   <h3>LEIA TAMBÉM:</h3>
   <ul class="related-list">
     {% for item in page.related %}
-      {% comment %} 
-        Tenta encontrar o post pelo Título exato. 
-        Se você usa títulos diferentes no arquivo e no link, me avise.
-      {% endcomment %}
-      {% assign related_post = site.posts | where: "title", item | first %}
       
-      {% if related_post %}
+      {% assign related_doc = site.posts | where: "title", item | first %}
+      
+      {% unless related_doc %}
+        {% assign related_doc = site.notes | where: "title", item | first %}
+      {% endunless %}
+
+      {% unless related_doc %}
+        {% assign related_doc = site.pages | where: "title", item | first %}
+      {% endunless %}
+      
+      {% if related_doc %}
         <li>
-          <a href="{{ related_post.url | relative_url }}">{{ related_post.title }}</a>
+          <a href="{{ related_doc.url | relative_url }}">{{ related_doc.title }}</a>
         </li>
       {% else %}
-        {% assign related_note = site.notes | where: "title", item | first %}
-        {% if related_note %}
-          <li>
-            <a href="{{ related_note.url | relative_url }}">{{ related_note.title }}</a>
-          </li>
-        {% else %}
-          <li>{{ item }} (Link não encontrado)</li>
-        {% endif %}
+        <li style="opacity: 0.6;">
+          {{ item }} 
+          <small style="color: #d9534f;">(Título não encontrado. Verifique se está <strong>idêntico</strong> ao do arquivo)</small>
+        </li>
       {% endif %}
     {% endfor %}
   </ul>
@@ -258,7 +259,7 @@
   }
 
   .related-list {
-    list-style: disc; /* Ou 'none' se preferir sem bolinhas */
+    list-style: disc; 
     padding-left: 20px;
     margin: 0;
   }
