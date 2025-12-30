@@ -28,7 +28,7 @@ Essa capacidade, esse dom de viver no presente, pode ser vista tanto como uma d�
 
 A vontade de existir, a insistência em continuar existindo, é uma forma de esforço contínuo. Não vai dar em nada (vamos morrer), mas é o que dá sentido à vida.
 
-Pensar nisso, ou na possibilidade de viver é eternamente, é totalmente improdutivo, insignificante, perturbador. 
+Pensar nisso, ou na possibilidade de viver eternamente, é totalmente improdutivo, insignificante, perturbador. 
 
 <img src="/assets/img/agua.jpg">
 <small>*Fonte: <a href="https://pin.it/2CRBAhlcl">https://pin.it/2CRBAhlcl</a>*</small>
