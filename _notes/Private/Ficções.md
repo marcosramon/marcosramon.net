@@ -2,9 +2,9 @@
 layout: Post
 title: Ficções
 feed: hide
-date: 2025-12-27
+date: 2026-01-07
 permalink: /ficcoes
-image: /assets/img/ficcoes-sp.png
+image: ficcoes-sp.png
 ---
 
 <style>
@@ -14,7 +14,7 @@ image: /assets/img/ficcoes-sp.png
     max-width: 100%;
   }
 
-  /* Imagem Banner (Opcional, se quiser manter a wide no topo) */
+  /* Imagem Banner */
   .podcast-banner {
     width: 100%;
     border-radius: 8px;
@@ -111,7 +111,7 @@ image: /assets/img/ficcoes-sp.png
     <div class="section-title">Onde ouvir (+500 episódios)</div>
     
     <div class="listen-grid">
-      <a href="https://open.spotify.com/show/..." target="_blank" class="listen-btn">
+      <a href="https://open.spotify.com/show/1smphr2Sl3kHncMYB984rc?si=545bce8419e14da7" target="_blank" class="listen-btn">
         <i class="fa-brands fa-spotify"></i> Spotify
       </a>
       
@@ -127,12 +127,12 @@ image: /assets/img/ficcoes-sp.png
         <i class="fa-solid fa-rss"></i> Pocket Casts
       </a>
 
-      <a href="https://overcast.fm/itunes967600465/fic-es" target="_blank" class="listen-btn">
-        <i class="fa-solid fa-headphones"></i> Overcast
-      </a>
-
       <a href="https://tunein.com/podcasts/Culture/Fices-p610099/" target="_blank" class="listen-btn">
         <i class="fa-solid fa-radio"></i> TuneIn
+      </a>
+
+      <a href="https://anchor.fm/s/a9c85b0/podcast/rss" target="_blank" class="listen-btn">
+        <i class="fa-solid fa-rss"></i> RSS Feed
       </a>
     </div>
   </div>
