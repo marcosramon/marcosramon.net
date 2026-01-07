@@ -1,4 +1,42 @@
 <style>
+    .leia-tambem-wrapper {
+        margin-top: 40px;
+        padding-top: 20px;
+        border-top: none; 
+    }
+
+    /* Estilo do Título "LEIA TAMBÉM" */
+    .leia-tambem-wrapper h3 {
+        font-size: 1rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        color: var(--color-text-sub);
+        
+        border-bottom: 1px solid var(--color-border-light); 
+        padding-bottom: 10px; 
+        margin-bottom: 20px;
+    }
+
+    /* Configuração da Lista */
+    .related-list {
+        list-style: disc; 
+        padding-left: 20px;
+        margin: 0;
+        border-top: none;
+    }
+    
+    .related-list a {
+        text-decoration: none;
+        color: var(--color-text-link);
+        font-weight: 500;
+    }
+
+    .related-list a:hover {
+        text-decoration: underline;
+    }
+
+    /* --- Estilos do Rodapé (Compartilhar, Contato, Citar) --- */
     .post-footer-meta {
         margin-top: 50px;
         margin-bottom: 40px;
@@ -161,16 +199,31 @@
     <div class="share-wrapper">
         <span class="share-label">Compartilhe:</span>
         <div class="share-buttons">
-            <a href="https://wa.me/?text={{ page.title | url_encode }}%20-%20{{ site.url }}{{ page.url }}" target="_blank" class="share-btn" title="WhatsApp"><i class="fa-brands fa-whatsapp"></i></a>
-            <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ page.url }}" target="_blank" class="share-btn" title="X / Twitter"><i class="fa-brands fa-x-twitter"></i></a>
-            <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title | url_encode }}" target="_blank" class="share-btn" title="LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a>
-            <a href="mailto:?subject={{ page.title | url_encode }}&body=Olha que texto interessante: {{ site.url }}{{ page.url }}" class="share-btn" title="E-mail"><i class="fa-solid fa-envelope"></i></a>
+            <a href="https://wa.me/?text={{ page.title | url_encode }}%20-%20{{ site.url }}{{ page.url }}" target="_blank" class="share-btn" title="WhatsApp">
+                <i class="fa-brands fa-whatsapp"></i>
+            </a>
+            
+            <a href="https://bsky.app/intent/compose?text={{ page.title | url_encode }}%20-%20{{ site.url }}{{ page.url }}" target="_blank" class="share-btn" title="Bluesky">
+                <i class="fa-brands fa-bluesky"></i>
+            </a>
+
+            <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title | url_encode }}" target="_blank" class="share-btn" title="LinkedIn">
+                <i class="fa-brands fa-linkedin-in"></i>
+            </a>
+            
+            <a href="mailto:?subject={{ page.title | url_encode }}&body=Li esse texto: {{ site.url }}{{ page.url }}" class="share-btn" title="E-mail">
+                <i class="fa-solid fa-envelope"></i>
+            </a>
+
+            <a href="{{ '/feed.xml' | relative_url }}" target="_blank" class="share-btn" title="RSS Feed">
+                <i class="fa-solid fa-rss"></i>
+            </a>
         </div>
     </div>
 
     <div class="contact-cta">
         Gostou do texto? Vamos conversar.<br>
-        <a href="mailto:marcosramon@gmail.com">Entre em contato por e-mail</a>
+        <a href="mailto:marcos.ferreira@ifb.edu.br">Entre em contato por e-mail</a>
     </div>
 </div>
 
@@ -186,31 +239,6 @@
         </div>
     </div>
 </details>
-
-<script>
-    document.addEventListener("DOMContentLoaded", function() {
-        const details = document.querySelector('.citation-details');
-        if(details) {
-            const icon = details.querySelector('.citation-trigger i');
-            details.addEventListener('toggle', (event) => {
-                if (details.open) {
-                    icon.classList.remove('fa-chevron-down');
-                    icon.classList.add('fa-chevron-up');
-                } else {
-                    icon.classList.remove('fa-chevron-up');
-                    icon.classList.add('fa-chevron-down');
-                }
-            });
-        }
-        
-        // Preenche a data se ainda não foi preenchida pelo script do Post.html
-        const dateElements = document.querySelectorAll('.access-date-dynamic');
-        const today = new Date().toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit', year: 'numeric' });
-        dateElements.forEach(el => {
-            if(el.textContent === "") el.textContent = today;
-        });
-    });
-</script>
 
 {% if page.related %}
 <div class="leia-tambem">
@@ -249,3 +277,28 @@
   </ul>
 </div>
 {% endif %}
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const details = document.querySelector('.citation-details');
+        if(details) {
+            const icon = details.querySelector('.citation-trigger i');
+            details.addEventListener('toggle', (event) => {
+                if (details.open) {
+                    icon.classList.remove('fa-chevron-down');
+                    icon.classList.add('fa-chevron-up');
+                } else {
+                    icon.classList.remove('fa-chevron-up');
+                    icon.classList.add('fa-chevron-down');
+                }
+            });
+        }
+        
+        // Preenche a data se ainda não foi preenchida pelo script do Post.html
+        const dateElements = document.querySelectorAll('.access-date-dynamic');
+        const today = new Date().toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit', year: 'numeric' });
+        dateElements.forEach(el => {
+            if(el.textContent === "") el.textContent = today;
+        });
+    });
+</script>
