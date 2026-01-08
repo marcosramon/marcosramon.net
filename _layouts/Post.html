@@ -97,18 +97,96 @@
             {%- endif -%}
 
 
-            {%- if page.permalink == "/posts" -%}
-            <div class="column is-6-widescreen  is-8-desktop is-8-tablet is-12-mobile">
-                <h5 class="meta-title"><a href="/">← Voltar</a></h5>
-                <div class="jumbo">{{page.title}}</div>
-                    {%- include Content.html -%}
-                    {% for post in site.posts %}
-                        <div class="list-feed"> 
-                        <a href="{{ site.baseurl }}{{post.url}}" style="text-decoration: none;display: flex;justify-content: space-between;flex-direction: row;width: 100%;">
-                            <div class="writinglist-title">{{post.title }}</div>
-                        </a>
+{%- if page.permalink == "/posts" -%}
+            <div class="column is-6-widescreen is-8-desktop is-8-tablet is-12-mobile">
+                
+                <div style="margin-bottom: 40px;">
+                    <h5 class="meta-title"><a href="/">← Voltar</a></h5>
+                    <div class="jumbo" style="margin-bottom: 10px;">{{page.title}}</div>
+                    <div style="font-size: 1.1rem; color: var(--color-text-main);">
+                        {%- include Content.html -%}
+                    </div>
+                </div>
+
+                <style>
+                    .blog-year-header {
+                        font-size: 1.8rem;
+                        font-weight: 700;
+                        color: var(--color-text-main);
+                        margin-top: 50px;
+                        margin-bottom: 20px;
+                        opacity: 0.8;
+                    }
+                    
+                    /* Flexbox para alinhar Data à esquerda e Título à direita */
+                    .blog-post-item {
+                        display: flex;
+                        align-items: baseline;
+                        margin-bottom: 12px;
+                        line-height: 1.5;
+                    }
+
+                    .blog-post-date {
+                        flex: 0 0 70px; /* Largura fixa para a data */
+                        font-family: monospace; /* Fonte mono para alinhar números */
+                        font-size: 0.95rem;
+                        color: var(--color-text-sub);
+                        padding-right: 15px;
+                    }
+
+                    .blog-post-link {
+                        flex: 1; /* Ocupa o resto do espaço */
+                    }
+
+                    .blog-post-link a {
+                        color: var(--color-text-link);
+                        text-decoration: underline;
+                        font-weight: 500;
+                        font-size: 1.05rem;
+                    }
+
+                    .blog-post-link a:hover {
+                        color: var(--color-text-main);
+                        background-color: var(--color-bg-sub);
+                    }
+                </style>
+
+                {% assign postsByYear = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+                
+                {% for year in postsByYear %}
+                    <h2 class="blog-year-header">{{ year.name }}</h2>
+                    
+                    <div class="blog-year-list">
+                        {% for post in year.items %}
+                        <div class="blog-post-item">
+                            
+                            <div class="blog-post-date">
+                                {% assign m = post.date | date: "%-m" %}
+                                {% case m %}
+                                    {% when '1' %}Jan
+                                    {% when '2' %}Fev
+                                    {% when '3' %}Mar
+                                    {% when '4' %}Abr
+                                    {% when '5' %}Mai
+                                    {% when '6' %}Jun
+                                    {% when '7' %}Jul
+                                    {% when '8' %}Ago
+                                    {% when '9' %}Set
+                                    {% when '10' %}Out
+                                    {% when '11' %}Nov
+                                    {% when '12' %}Dez
+                                {% endcase %}
+                                {{ post.date | date: "%d" }}
+                            </div>
+
+                            <div class="blog-post-link">
+                                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                            </div>
                         </div>
-                    {%- endfor -%}
+                        {% endfor %}
+                    </div>
+                {% endfor %}
+
             </div> 
             {%- endif -%}
 
