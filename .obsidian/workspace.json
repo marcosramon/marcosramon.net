@@ -4,255 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "dd48db99b09e93d8",
+        "id": "9ac8015f7bb9e925",
         "type": "tabs",
         "children": [
           {
-            "id": "f59fdd454537537e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "91b269e2ba468b23",
+            "id": "ad6ebf11a1dc50b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2014-01-24-espetaculo.md",
+                "file": "_posts/2026-02-03-hourly-comic-day-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2014-01-24-espetaculo"
-            }
-          },
-          {
-            "id": "fda978714cd1eb4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes"
-            }
-          },
-          {
-            "id": "4fa66abda5639d46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/lists.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lists"
-            }
-          },
-          {
-            "id": "3e3527795e76a4ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/Public/Pesquisa sobre o ensino de Filosofia.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Pesquisa sobre o ensino de Filosofia"
-            }
-          },
-          {
-            "id": "60adea2cda3e03bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/Public/As metodologias ativas no ensino.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "As metodologias ativas no ensino"
-            }
-          },
-          {
-            "id": "bf8885c0ef7ca3cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-06-27-o-conhecimento-acessível.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-27-o-conhecimento-acessível"
-            }
-          },
-          {
-            "id": "ed2376f9e9747924",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-09-13-adeus-substack.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-13-adeus-substack"
-            }
-          },
-          {
-            "id": "e35ea6c759248080",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-11-12-olhar-o-que-passa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-12-olhar-o-que-passa"
-            }
-          },
-          {
-            "id": "a0e19659aecd3fa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_news/novo-episodio.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "novo-episodio"
-            }
-          },
-          {
-            "id": "de0a620cf407e83e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-12-22-sem-ter-como-escapar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-22-sem-ter-como-escapar"
-            }
-          },
-          {
-            "id": "784bcfd758bcf103",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-12-29-ser-imortal-e-insignificante.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-29-ser-imortal-e-insignificante"
-            }
-          },
-          {
-            "id": "b5561b9742340fa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/Private/Vida acadêmica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vida acadêmica"
-            }
-          },
-          {
-            "id": "d3d11bf7103e5788",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "2610ff1d68fe97db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-06-08-estado-de-animo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-08-estado-de-animo"
-            }
-          },
-          {
-            "id": "72f46e7ac98b4e28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-06-06-um-novo-jeito-de-falar-o-nome-do-tecnico-da-selecao.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-06-um-novo-jeito-de-falar-o-nome-do-tecnico-da-selecao"
-            }
-          },
-          {
-            "id": "bc125afc0d66e84a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-03-26-como-criar-um-indice-de-posts-no-obsidian-publish.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-26-como-criar-um-indice-de-posts-no-obsidian-publish"
-            }
-          },
-          {
-            "id": "7d70b495991392f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-06-27-o-conhecimento-acessível.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-27-o-conhecimento-acessível"
+              "title": "2026-02-03-hourly-comic-day-2026"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -411,10 +180,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "784bcfd758bcf103",
+  "active": "ad6ebf11a1dc50b7",
   "lastOpenFiles": [
-    "_posts/2025-12-22-sem-ter-como-escapar.md",
     "_posts/2025-12-29-ser-imortal-e-insignificante.md",
+    "_posts/2026-02-03-hourly-comic-day-2026.md",
+    "assets/img/hourly4.jpg",
+    "assets/img/hourly3.jpg",
+    "assets/img/hourly2.jpg",
+    "assets/img/hourly1.jpg",
+    "Untitled.base",
+    "_posts/2017-03-05-uma-vida-sem-reflexao.md",
+    "_posts/2024-11-12-olhar-o-que-passa.md",
+    "_posts/2025-09-13-adeus-substack.md",
+    "_posts/2025-06-27-o-conhecimento-acessível.md",
+    "_notes/Public/As metodologias ativas no ensino.md",
+    "_notes/Public/Pesquisa sobre o ensino de Filosofia.md",
+    "pages/lists.md",
+    "templates/Notes.md",
+    "_posts/2014-01-24-espetaculo.md",
+    "_posts/2025-03-26-como-criar-um-indice-de-posts-no-obsidian-publish.md",
+    "_posts/2025-06-06-um-novo-jeito-de-falar-o-nome-do-tecnico-da-selecao.md",
+    "_posts/2025-06-08-estado-de-animo.md",
+    "_notes/Private/Vida acadêmica.md",
+    "2026-01-21.md",
+    "_news/ficcoes-560.md",
+    "_posts/2025-12-22-sem-ter-como-escapar.md",
     "assets/img/agua.jpg",
     "_news/now.md",
     "cv.md",
@@ -423,40 +213,19 @@
     "_news/novo-episodio.md",
     "_notes/Public/Borges.md",
     "_notes/Public/Sobre Van Gogh.md",
-    "_notes/Public/Pesquisa sobre o ensino de Filosofia.md",
     "_notes/Public/PodcastFriday.md",
-    "_notes/Public/PodcastFriday dia 2.md",
-    "_notes/Public/Tempo.md",
-    "_notes/Public/Filosofia.md",
-    "_notes/Public/Estamos perdidos.md",
-    "_notes/Private/Sobre.md",
-    "Marcos Ramon.md",
-    "_posts/2017-02-12-aprender-a-perder.md",
-    "_posts/2017-02-13-colagem.md",
-    "_posts/2017-02-13-o-tempo.md",
-    "_posts/2025-03-17-o-que-ainda-falta.md",
-    "_posts/2023-03-07-eu-e-o-tempo.md",
-    "publicacoes.md",
-    "_notes/Private/Textos Acadêmicos.md",
     "_news",
     "_includes/FooterMeta.html",
     "_data/publications.yml",
     "_data",
-    "_notes/Public/Visualizando letras de música como networks.md",
-    "_posts/2024-11-26-espaco.md",
     "assets/img/caindo.gif",
     "assets/img/Studies_Hands.jpg",
     "assets/img/socrates_teaching.jpg",
     "assets/img/martin-claret.png",
     "assets/img/martin-claret.jpg",
-    "assets/img/obsidian-indice.png",
-    "assets/img/obsidian-mais-recentes.png",
-    "assets/img/ancelotti.png",
-    "assets/img/loom1.gif",
     "scripts python/atualizar_posts.py",
     "scripts python/remover_hashtags.py",
     "scripts python/atualizar_leia_tambem.py",
-    "_site/note/Teste-de-controle-notes.html",
-    "_site/pesquisa-sobre-o-ensino-de-filosofia.html"
+    "_site/note/Teste-de-controle-notes.html"
   ]
 }
