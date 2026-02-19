@@ -8,7 +8,7 @@
     XAVIER, C. N.; FERREIRA, M. R. G. A integração de Dança e Filosofia no Ensino Médio. Relatos de Experiências Integradoras Exitosas, v.1, p. 46-51, 2025.
   links:
     - label: Link
-      url: "https://editora.ifb.edu.br/"
+      url: "https://editora.ifb.edu.br/editora/livros-editora-ifb/relatos-de-experi%C3%AAncias-integradoras-exitosas-2024/"
 
 - title: "Práticas pedagógicas em Filosofia para uma formação omnilateral no Ensino Médio Integrado"
   type: "Capítulo de Livro"
@@ -20,7 +20,7 @@
     FERREIRA, M. R. G. Práticas pedagógicas em Filosofia para uma formação omnilateral. In: Ensino Médio Integrado: políticas, currículos e práticas. Brasília: Editora IFB, 2025. v.3, p. 131-149.
   links:
     - label: PDF
-      url: "#"
+      url: "https://ojs.novapaideia.org/index.php/editoranovapaideia/article/view/715"
 
 - title: "Metodologias ativas no ensino de Filosofia: inovação pedagógica no Ensino Médio Integrado"
   type: "Anais de Evento"
@@ -66,7 +66,7 @@
     FERREIRA, M. R. G.; BRASIL, G. N. Consumo cultural, algoritmos e a ascensão da comodidade. In: IV Encontro Virtual da ABCiber, 2024.
   links:
     - label: PDF
-      url: "https://abciber.org.br/"
+      url: "https://abciber.org.br/simposios/index.php/virtualabciber/virtual2024/paper/view/2500/1296"
 
 # 2023
 - title: "A afetividade no contexto educacional: a atuação dos servidores técnicos no Ensino Médio Integrado"
@@ -78,7 +78,7 @@
     NASCIMENTO, M. A.; FERREIRA, M. R. G. A afetividade no contexto educacional. Revista Eixo, v.12, p.71, 2023.
   links:
     - label: Link
-      url: "http://revistaeixo.ifb.edu.br/"
+      url: "https://arquivorevistaeixo.ifb.edu.br/index.php/RevistaEixo/article/view/1023"
 
 # 2022
 - title: "A experiência da integração no Curso de Licenciatura em Dança do IFB"
@@ -90,8 +90,8 @@
   citation: |
     FERREIRA, M. R. G. A experiência da integração no Curso de Licenciatura em Dança do IFB. In: Experiências em Movimento. Brasília: Editora IFB, 2022.
   links:
-    - label: Link
-      url: "http://revistaeixo.ifb.edu.br/"
+    - label: PDF
+      url: "https://editora.ifb.edu.br/editora/livros-editora-ifb/experi%C3%AAncias-em-movimento-celebra%C3%A7%C3%A3o-dos-10-anos-da-licenciatura-em-dan%C3%A7a-do-ifb/?file=/documents/90/151-91-PB.pdf"
 
 # 2021
 - title: "Cinema, ensino e aprendizagem: um relato em defesa do espectador na educação para a cultura"
@@ -104,7 +104,7 @@
     SOUSA, A. M. S.; FERREIRA, M. R. G. Cinema, ensino e aprendizagem. In: Educação Estética. São Carlos: Pedro & João Editores, 2021.
   links:
     - label: Link
-      url: "https://pedroejoaoeditores.com.br/"
+      url: "https://pedroejoaoeditores.com.br/site/educacao-estetica-dialogos-com-a-teoria-historico-cultural/"
 
 # 2020
 - title: "A Mentoria como proposta pedagógica preparatória para ingresso no mundo do trabalho"
@@ -115,8 +115,8 @@
   citation: |
     BRITO, M. S. C.; FERREIRA, M. R. G. A Mentoria como proposta pedagógica. Humanidades & Inovação, v.7, p.269-281, 2020.
   links:
-    - label: Link
-      url: "https://revista.unitins.br/"
+    - label: PDF
+      url: "https://revista.unitins.br/index.php/humanidadeseinovacao/article/view/2591/1576"
 
 # 2019
 - title: "A educação estética na educação profissional: o Instituto Federal de Brasília e suas práticas"
@@ -128,7 +128,7 @@
     TERRAZA, C.; et al. A educação estética na educação profissional. Revista Eixo, v.8, p.43-53, 2019.
   links:
     - label: Link
-      url: "http://revistaeixo.ifb.edu.br/"
+      url: "https://arquivorevistaeixo.ifb.edu.br/index.php/RevistaEixo/article/view/774"
 
 - title: "Os impactos da cibercultura e da tecnologia digital em nossa percepção estética"
   type: "Artigo em Periódico"
@@ -139,7 +139,7 @@
     FERREIRA, M. R. G. Os impactos da cibercultura e da tecnologia digital em nossa percepção estética. Revista Eixo, v.8, p.88-97, 2019.
   links:
     - label: Link
-      url: "http://revistaeixo.ifb.edu.br/"
+      url: "https://arquivorevistaeixo.ifb.edu.br/index.php/RevistaEixo/article/view/779"
 
 # 2018
 - title: "Escola e experiência estética: uma abordagem da estética e da arte a partir do Iluminismo"
@@ -147,11 +147,12 @@
   authors: "Marcos Ramon Gomes Ferreira, Cristiane Terraza"
   year: 2018
   venue: "Os Riscos da Arte: Formação e Mediação"
+  isbn: "978-989-8944-00-9"
   citation: |
-    FERREIRA, M. R. G.; TERRAZA, C. Escola e experiência estética. In: Os Riscos da Arte. Lisboa: CIEBA, 2018. v.2.
+    FERREIRA, M. R. G.; TERRAZA, C. Escola e experiência estética. In: Os Riscos da Arte. Lisboa: CIEBA, 2018. v.2, p. 105-114.
   links:
-    - label: PDF
-      url: "#"
+    - label: Link
+      url: "https://repositorio.ulisboa.pt/handle/10451/37440"
 
 # 2017
 - title: "Reflexões sobre a implantação do curso técnico em Eventos Integrado ao Ensino Médio no IFB"
@@ -159,8 +160,21 @@
   authors: "Glauco Feijó, Marcos Ramon Ferreira, et al."
   year: 2017
   venue: "Ensino Médio Integrado no Brasil: fundamentos, práticas e desafios"
+  isbn: "978-85-64124-49-3"
   citation: |
-    FEIJÓ, G. V.; FERREIRA, M. R. G.; et al. Reflexões sobre a implantação do curso técnico em Eventos. In: Ensino Médio Integrado no Brasil. Brasília: Editora IFB, 2017.
+    FEIJÓ, G. V.; FERREIRA, M. R. G.; et al. Reflexões sobre a implantação do curso técnico em Eventos. In: Ensino Médio Integrado no Brasil. Brasília: Editora IFB, 2017. v.1, p. 479-497.
+  links:
+    - label: Link
+      url: "#"
+
+- title: "A experiência de implantação de um curso de Ensino Médio Integrado no IFB - Campus Brasília"
+  type: "Capítulo de Livro"
+  authors: "Glauco Vaz Feijó, Marcos Ramon Gomes Ferreira, et al."
+  year: 2017
+  venue: "Ensino e Pesquisa em História e Humanidades nos Institutos Federais de Educação, Ciência e Tecnologia: desafios e perspectivas"
+  isbn: "978-85-64124-48-6"
+  citation: |
+    FEIJÓ, G. V.; FERREIRA, M. R. G.; et al. A experiência de implantação de um curso de Ensino Médio Integrado no IFB - Campus Brasília. In: Ensino e Pesquisa em História e Humanidades nos Institutos Federais. Brasília: Editora IFB, 2017. v.1, p. 223-235.
   links:
     - label: Link
       url: "#"
@@ -200,13 +214,116 @@
     - label: Link
       url: "#"
 
+- title: "A complexidade como alternativa e crítica à simplificação do conhecimento"
+  type: "Artigo em Periódico"
+  authors: "Marcos Ramon Gomes Ferreira"
+  year: 2014
+  venue: "RIT - Revista Inovação Tecnológica"
+  citation: |
+    FERREIRA, M. R. G. A complexidade como alternativa e crítica à simplificação do conhecimento. RIT - Revista Inovação Tecnológica, v.4, p.109-125, 2014.
+  links:
+    - label: Link
+      url: "http://www.faculdadeflamingo.com.br/ojs/index.php/rit/article/view/148/125"
+
+- title: "Cibercultura e transformação acelerada nas formas de interação"
+  type: "Artigo em Periódico"
+  authors: "Marcos Ramon Gomes Ferreira"
+  year: 2014
+  venue: "Lumina (UFJF. Online)"
+  citation: |
+    FERREIRA, M. R. G. Cibercultura e transformação acelerada nas formas de interação. Lumina (UFJF. Online), v.8, p.1-15, 2014.
+  links:
+    - label: Link
+      url: "http://lumina.ufjf.emnuvens.com.br/lumina/article/view/332"
+
+- title: "O imaginário da cibercultura como nova possibilidade de experiência do tempo e do consumo"
+  type: "Artigo em Periódico"
+  authors: "Marcos Ramon Gomes Ferreira, Christina Maria Pedrazza Sêga"
+  year: 2014
+  venue: "Revista de Estudos Universitários"
+  citation: |
+    FERREIRA, M. R. G.; SEGA, C. M. P. O imaginário da cibercultura como nova possibilidade de experiência do tempo e do consumo. Revista de Estudos Universitários, v.40, p.83-99, 2014.
+  links:
+    - label: Link
+      url: "http://periodicos.uniso.br/"
+
 - title: "Comunicação ibero-americana: os desafios da Internacionalização"
   type: "Capítulo de Livro"
   authors: "Marcos Ramon Gomes Ferreira"
   year: 2014
   venue: "Comunicação, colaboração online e complexidade"
+  isbn: "978-989-8600-29-5"
   citation: |
-    FERREIRA, M. R. G. Comunicação ibero-americana. In: Comunicação, colaboração online e complexidade. Braga: CECS, 2014.
+    FERREIRA, M. R. G. Comunicação ibero-americana. In: Comunicação, colaboração online e complexidade. Braga: CECS, 2014. p. 302-310.
+  links:
+    - label: Link
+      url: "#"
+
+- title: "A construção de identidades nos ambientes online: reflexões a partir da complexidade"
+  type: "Anais de Evento"
+  authors: "Marcos Ramon Gomes Ferreira"
+  year: 2014
+  venue: "VI Seminário de Mídia e Cultura (SEMIC 2014)"
+  citation: |
+    FERREIRA, M. R. G. A construção de identidades nos ambientes online: reflexões a partir da complexidade. In: VI Seminário de Mídia e Cultura. Goiânia, 2014. p. 73-85.
+  links:
+    - label: Link
+      url: "http://ficufg.blog.br/semic/anais/2014-2/"
+
+- title: "Cibercultura, Comunicação e Temporalidade"
+  type: "Anais de Evento"
+  authors: "Marcos Ramon Gomes Ferreira"
+  year: 2014
+  venue: "4ª Conferência ICA de Comunicação na América Latina"
+  citation: |
+    FERREIRA, M. R. G. Cibercultura, Comunicação e Temporalidade. In: Anais 4ª Conferência ICA de Comunicação da América Latina. Brasília, 2014. p. 1331-1338.
+  links:
+    - label: Link
+      url: "http://ica2014.com.br/"
+
+- title: "Comunicação, colaboração online e complexidade"
+  type: "Anais de Evento"
+  authors: "Marcos Ramon Gomes Ferreira"
+  year: 2014
+  venue: "II Congresso Mundial de Comunicação Ibero-americana"
+  isbn: "978-989-8600-29-5"
+  citation: |
+    FERREIRA, M. R. G. Comunicação, colaboração online e complexidade. In: II Congresso Mundial de Comunicação Ibero-americana. Braga: CECS/Universidade do Minho, 2014. p. 302-310.
+  links:
+    - label: Link
+      url: "http://www.lasics.uminho.pt/ojs/index.php/cecs_ebooks/issue/view/154"
+
+- title: "Estetização do consumo da música no ciberespaço"
+  type: "Anais de Evento"
+  authors: "Marcos Ramon Gomes Ferreira"
+  year: 2014
+  venue: "VIII Simpósio Nacional da ABCiber"
+  citation: |
+    FERREIRA, M. R. G. Estetização do consumo da música no ciberespaço. In: VIII Simpósio Nacional da ABCiber. São Paulo, 2014.
+  links:
+    - label: Link
+      url: "http://www.abciber.org.br/simposio2014/"
+
+# 2012
+- title: "Cibercultura: novo paradigma ou eterno retorno do mesmo?"
+  type: "Anais de Evento"
+  authors: "Marcos Ramon Gomes Ferreira"
+  year: 2012
+  venue: "VI Simpósio Nacional da Associação Brasileira de Pesquisadores em Cibercultura (ABCIBER)"
+  citation: |
+    FERREIRA, M. R. G. Cibercultura: novo paradigma ou eterno retorno do mesmo? In: VI Simpósio Nacional da ABCiber. Novo Hamburgo - RS, 2012.
+  links:
+    - label: Link
+      url: "#"
+
+# 2007
+- title: "Ética e Estética em Schopenhauer"
+  type: "Anais de Evento"
+  authors: "Marcos Ramon Gomes Ferreira"
+  year: 2007
+  venue: "XV Semana de Filosofia: Ética: Discursos Possíveis?"
+  citation: |
+    FERREIRA, M. R. G. Ética e Estética em Schopenhauer. In: Anais de Filosofia. São Luís: EDUFMA, 2007. v.1.
   links:
     - label: Link
       url: "#"
