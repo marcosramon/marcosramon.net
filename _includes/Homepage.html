@@ -1,51 +1,120 @@
 <div class="home-intro">
   
   <div class="jumbo">{{site.heading}} </div>
+
+  <!-- Sugestão 5: Bio com links separados em linha própria -->
   <div class="home-sub-text"> 
-    <h3>
+    <h3 style="margin-bottom: 0;">
       Sou professor de Filosofia no IFB, onde pesquiso estética, cibercultura e tecnologias educacionais.
-      Links: <a href="{{'/posts' | relative_url}}"> blog</a>, <a href="{{'/publicacoes' | relative_url}}"> publicações</a> e <a href="{{'/ficcoes' | relative_url}}"> podcast</a>.
-    </h3> 
+    </h3>
+    <div class="home-links" style="margin-top: 12px; display: flex; flex-wrap: wrap; gap: 8px;">
+      <a href="{{'/posts' | relative_url}}" class="home-link-chip">blog</a>
+      <a href="{{'/publicacoes' | relative_url}}" class="home-link-chip">publicações</a>
+      <a href="{{'/ficcoes' | relative_url}}" class="home-link-chip">podcast</a>
+    </div>
   </div>
 
-  <div class="updates-wrapper" style="margin-top: 60px; font-family: inherit; text-align: left;">
+  <style>
+    /* === Sugestão 5: Chips de link === */
+    .home-link-chip {
+      display: inline-block;
+      padding: 4px 14px;
+      border: 1px solid var(--color-border-light);
+      border-radius: 20px;
+      font-size: 0.95rem;
+      color: var(--color-text-link);
+      text-decoration: none;
+      transition: background-color 0.15s, border-color 0.15s;
+    }
 
+    .home-link-chip:hover {
+      background-color: var(--color-bg-sub);
+      border-color: var(--color-text-link);
+    }
+
+    /* === Sugestão 1: Data compacta em linha única === */
+    .home-date {
+      flex: 0 0 100px;
+      font-family: monospace;
+      font-size: 0.85rem;
+      color: var(--color-text-sub);
+      white-space: nowrap;
+      text-transform: lowercase;
+    }
+
+    /* === Sugestão 2: Distinção visual entre seções === */
+    .home-section-title {
+      margin-bottom: 20px;
+      border-bottom: 1px solid var(--color-border-light);
+      padding-bottom: 10px;
+      font-size: 1.2rem;
+      color: var(--color-text-main);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .home-section-icon {
+      font-size: 0.85rem;
+      opacity: 0.5;
+    }
+
+    .home-item {
+      display: flex;
+      margin-bottom: 15px;
+      align-items: baseline;
+      font-size: 1.1rem;
+    }
+
+    .home-item-content {
+      flex: 1;
+    }
+
+    .home-item-content a.home-item-title {
+      font-weight: 600;
+      text-decoration: none;
+    }
+
+    /* === Sugestão 3: Link "ver todos" === */
+    .home-see-all {
+      display: inline-block;
+      margin-top: 8px;
+      font-size: 0.9rem;
+      color: var(--color-text-sub);
+      text-decoration: none;
+      transition: color 0.15s;
+    }
+
+    .home-see-all:hover {
+      color: var(--color-text-link);
+    }
+  </style>
+
+  <!-- Sugestão 6: margin-top reduzido de 60px para 40px -->
+  <div class="updates-wrapper" style="margin-top: 40px; font-family: inherit; text-align: left;">
+
+    <!-- === NOVIDADES === -->
     <div class="news-section" style="margin-bottom: 50px;">
-      <h3 style="margin-bottom: 20px; border-bottom: 1px solid var(--color-border-light); padding-bottom: 10px; font-size: 1.2rem; color: var(--color-text-main);">
-        Novidades
+      <h3 class="home-section-title">
+        <span class="home-section-icon">✦</span> Novidades
       </h3>
 
       {% assign news = site.news | sort: 'date' | reverse %}
       
       <div class="news-list">
         {% for item in news limit:3 %}
-          <div class="news-item" style="display: flex; margin-bottom: 15px; align-items: baseline; font-size: 1.1rem;">
+          <div class="home-item">
             
-            <div class="news-date" style="flex: 0 0 100px; color: var(--color-text-sub); font-size: 1rem;">
-              {% assign m = item.date | date: "%-m" %}
-              {{ item.date | date: "%d" }}
-              {% case m %}
-                {% when '1' %}Jan
-                {% when '2' %}Fev
-                {% when '3' %}Mar
-                {% when '4' %}Abr
-                {% when '5' %}Mai
-                {% when '6' %}Jun
-                {% when '7' %}Jul
-                {% when '8' %}Ago
-                {% when '9' %}Set
-                {% when '10' %}Out
-                {% when '11' %}Nov
-                {% when '12' %}Dez
-              {% endcase %}
-              {{ item.date | date: "%Y" }}
+            <!-- Sugestão 1: Data compacta "01 jan 2026" -->
+            <div class="home-date">
+              {{ item.date | date: "%d" }}&nbsp;{% assign m = item.date | date: "%-m" %}{% case m %}{% when '1' %}jan{% when '2' %}fev{% when '3' %}mar{% when '4' %}abr{% when '5' %}mai{% when '6' %}jun{% when '7' %}jul{% when '8' %}ago{% when '9' %}set{% when '10' %}out{% when '11' %}nov{% when '12' %}dez{% endcase %}&nbsp;{{ item.date | date: "%Y" }}
             </div>
 
-            <div class="news-content" style="flex: 1;">
+            <div class="home-item-content">
               {% if item.inline %}
                 {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
               {% else %}
-                <a class="news-title" href="{{ item.url | relative_url }}" style="font-weight: 600; text-decoration: none;">
+                <a class="home-item-title" href="{{ item.url | relative_url }}">
                   {{ item.title }}
                 </a>
               {% endif %}
@@ -56,37 +125,23 @@
       </div>
     </div>
 
+    <!-- === POSTS MAIS RECENTES === -->
     <div class="latest-posts-section">
-      <h3 style="margin-bottom: 20px; border-bottom: 1px solid var(--color-border-light); padding-bottom: 10px; font-size: 1.2rem; color: var(--color-text-main);">
-        Posts mais recentes
+      <h3 class="home-section-title">
+        <span class="home-section-icon">◉</span> Posts mais recentes
       </h3>
 
       <div class="posts-list">
         {% for post in site.posts limit:3 %}
-          <div class="post-item" style="display: flex; margin-bottom: 15px; align-items: baseline; font-size: 1.1rem;">
+          <div class="home-item">
             
-            <div class="post-date" style="flex: 0 0 100px; color: var(--color-text-sub); font-size: 1rem;">
-              {% assign m = post.date | date: "%-m" %}
-              {{ post.date | date: "%d" }}
-              {% case m %}
-                {% when '1' %}Jan
-                {% when '2' %}Fev
-                {% when '3' %}Mar
-                {% when '4' %}Abr
-                {% when '5' %}Mai
-                {% when '6' %}Jun
-                {% when '7' %}Jul
-                {% when '8' %}Ago
-                {% when '9' %}Set
-                {% when '10' %}Out
-                {% when '11' %}Nov
-                {% when '12' %}Dez
-              {% endcase %}
-              {{ post.date | date: "%Y" }}
+            <!-- Sugestão 1: Data compacta "03 fev 2026" -->
+            <div class="home-date">
+              {{ post.date | date: "%d" }}&nbsp;{% assign m = post.date | date: "%-m" %}{% case m %}{% when '1' %}jan{% when '2' %}fev{% when '3' %}mar{% when '4' %}abr{% when '5' %}mai{% when '6' %}jun{% when '7' %}jul{% when '8' %}ago{% when '9' %}set{% when '10' %}out{% when '11' %}nov{% when '12' %}dez{% endcase %}&nbsp;{{ post.date | date: "%Y" }}
             </div>
 
-            <div class="post-content" style="flex: 1;">
-              <a href="{{ post.url | relative_url }}" style="font-weight: 600; text-decoration: none;">
+            <div class="home-item-content">
+              <a class="home-item-title" href="{{ post.url | relative_url }}">
                 {{ post.title }}
               </a>
             </div>
@@ -94,6 +149,9 @@
           </div>
         {% endfor %}
       </div>
+
+      <!-- Sugestão 3: Link "ver todos" -->
+      <a href="{{ '/posts' | relative_url }}" class="home-see-all">ver todos →</a>
     </div>
 
   </div> </div>
