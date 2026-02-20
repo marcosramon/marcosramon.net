@@ -1,7 +1,7 @@
 ---
 layout: Post
 title: Novo texto
-inline: true
+inline: false
 date: 2025-12-22 10:00:00-0300
 author: Marcos Ramon
 ---
