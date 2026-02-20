@@ -1,66 +1,38 @@
 ---
 layout: Now
 title: Now
-date: 2025-12-28
+date: 2026-02-20
 author: Marcos Ramon
 
-# TRABALHO, PESQUISA
-focus:
-  - "Estou planejando a disciplina de Estética com base nos novos cursos do MASP que fiz neste último semestre."
-  - "Preciso gravar vídeos e atualizar textos para o curso de IA na Educação, que vai ter nova turma."
-  - "Como sempre, preciso revisar meu materiais didáticos de Filosofia para as aulas do ano que vem."
+# FOCO ATUAL (texto livre, aparece como parágrafo)
+focus: "O semestre começou muito corrido, com muitas atividades e coisas para fazer. No momento estou afundado no planejamento das aulas regulares, começando um projeto de pesquisa sobre criatividade e ensino de filosofia e iniciando a adequação do meu curso Aplicações da Inteligência Artificial na Educação Profissional (vai começar uma nova turma agora). Já estou começando a receber convites para participar de eventos em junho e dezembro. Que coisa..."
 
-# LENDO
+# LENDO (um item)
 reading:
-  - title: "O Aleph"
-    author: "Jorge Luis Borges"
-    rating: 5
-    comment: "Relendo"
-reading_comment: "Vez ou outra volto aos mesmos textos, meio que seguindo a máxima de Schopenhauer, de que reler é mais importante do ler."
+  - title: "Cartas e outro textos"
+    author: "Gilles Deleuze"
+    comment: ""
+reading_comment: "As cartas no começo são boas (algumas, pelo menos). Os textos filosóficos, até agora, são muito chatos."
 
-# ASSISTINDO
-watching:
-  - title: "Os bons companheiros"
-    rating: 5
-    comment: "Muito bom"
-  - title: "Pluribus"
-    rating: 3
-    comment: "Ok"
-  - title: "Stranger Things"
-    obs: "Temp. Final"
-    rating: 1
-    comment: "Ruim"
-  - title: "Família Soprano"
-    obs: "Acho que estou na 3ª temporada"
-    rating: 4
-    comment: "Bom"
-  - title: "Uma batalha após a outra"
-    obs: "Um pouco cansativo"
-    rating: 4
-    comment: "Bom"
-watching_comment: "Tô assistindo muita coisa de gangster ultimamente. Stranger Things é um caso curioso, porque gostava muito e agora acho horrível."
-
-# OUVINDO
+# OUVINDO (um ou dois itens, sem rating)
 listening:
-  - title: "Hard Fork"
-    rating: 5
-    comment: "Podcast"
-  - title: "This is the Sea"
-    artist: "The Waterboys"
-    rating: 4
-listening_comment: "The Waterboys é bom. Sigo descobrindo coisas dos anos 80 pra ouvir."
+  - title: "Rattlesnakes"
+    artist: "Loyd Cole and the Commotions""
+  - title: "VCO 2.0"
+    comment: "podcast"
+listening_comment: ""
 
-# JOGANDO
+# ASSISTINDO (dois itens, sem rating individual)
+watching:
+  - title: "Hamnet: a vida antes de Hamlet"
+    obs: ""
+  - title: "O agente secreto"
+watching_comment: "Estou an lista do Oscar deste ano."
+
+# JOGANDO (itens simples, sem rating)
 playing:
-  - title: "Fez"
-  - title: "Egg"
-    link: "https://terrycavanagh.itch.io/egg"
-playing_comment: "Comprei 'Fez' em uma promoção no Steam (sempre está em promoção, na verdade) e quero ver se jogo nas férias. O 'Egg' é um jogo que estou curioso pra experimentar porque é do mesmo criador de VVVVVV."
-
-# META
-meta_update: "Atualizei o layout e recursos do site. Usei o Gemini para alterar o código, e funcionou direitinho."
+  - title: "Suoer Smash Bros. Ultimate"
+playing_comment: ""
 ---
 
-<small><i>Esse texto é atualizado constantemente com as coisas que estou fazendo no momento. Inspirado em [nownownow.com](https://nownownow.com/about).</i></small>
-
-Neste momento estou entrando de férias e vou aproveitar para atualizar meus cursos para o próximo semestre. Mas quero descansar um pouco também. Quem sabe...
+<small><i>Atualizado constantemente. Inspirado em [nownownow.com](https://nownownow.com/about).</i></small>
