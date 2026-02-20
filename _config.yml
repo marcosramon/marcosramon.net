@@ -52,7 +52,6 @@ collections:
     permalink: /post/:title
   news:
     output: true
-    permalink: /news/:title
     sort_by: date
     sort_order: reverse
 
@@ -77,13 +76,13 @@ defaults:
     values:
       layout: Post
       permalink: /post/:title
-      content-type: post
+      content_type: post
   - scope:
       path: ""
       type: notes
     values:
       layout: Post
-      content-type: notes
+      content_type: notes
   - scope:
       path: "" # um escopo vazio se aplica a todos os arquivos
     values:
@@ -94,7 +93,7 @@ defaults:
     values:
       layout: Post           
       permalink: /news/:title
-      content-type: post     
+      content_type: post     
 
 # Exclude from processing
 exclude:
