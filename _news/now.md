@@ -27,14 +27,16 @@ watching:
   - title: "Hamnet: a vida antes de Hamlet"
     obs: ""
   - title: "O agente secreto"
-watching_comment: "Estou an lista do Oscar deste ano."
+watching_comment: "Estou na lista do Oscar deste ano."
 
 # JOGANDO (itens simples, sem rating)
 playing:
-  - title: "Suoer Smash Bros. Ultimate"
+  - title: "Super Smash Bros. Ultimate"
 playing_comment: ""
 ---
 
 <small><i>Atualizado constantemente. Inspirado em [nownownow.com](https://nownownow.com/about).</i></small>
 
-O semestre começou muito corrido, com muitas atividades e coisas para fazer. No momento estou afundado no planejamento das aulas regulares, começando um projeto de pesquisa sobre criatividade e ensino de filosofia e iniciando a adequação do meu curso Aplicações da Inteligência Artificial na Educação Profissional (vai começar uma nova turma agora). Já estou começando a receber convites para participar de eventos em junho e dezembro. Que coisa..
+O semestre começou muito corrido, com muitas atividades e coisas para fazer. 
+No momento estou afundado no planejamento das aulas regulares, começando um projeto de pesquisa sobre criatividade e ensino de filosofia e iniciando a adequação do meu curso "[Aplicações da Inteligência Artificial na Educação Profissional)](https://www.ifb.edu.br/brasilia/40044-ifb-campus-brasilia-oferta-500-vagas-no-curso-a-distancia-aplicacoes-da-inteligencia-artificial-na-educacao-profissional". Vai começar uma nova turma agora. As inscrições mal abriram e esgotaram as 500 vagas em menos de uma semana, mas alguns materiais vão ficar disponíveis no meu canal do YouTube.
+Também já estou começando a receber convites para participar de eventos em junho e dezembro. Que coisa...
