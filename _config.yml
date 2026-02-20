@@ -76,13 +76,13 @@ defaults:
     values:
       layout: Post
       permalink: /post/:title
-      content_type: post
+      content-type: post
   - scope:
       path: ""
       type: notes
     values:
       layout: Post
-      content_type: notes
+      content-type: notes
   - scope:
       path: "" # um escopo vazio se aplica a todos os arquivos
     values:
@@ -93,7 +93,7 @@ defaults:
     values:
       layout: Post           
       permalink: /news/:title
-      content_type: post     
+      content-type: post     
 
 # Exclude from processing
 exclude:
