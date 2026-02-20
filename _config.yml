@@ -52,6 +52,7 @@ collections:
     permalink: /post/:title
   news:
     output: true
+    permalink: /news/:title
     sort_by: date
     sort_order: reverse
 
