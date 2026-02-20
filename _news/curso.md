@@ -1,7 +1,7 @@
 ---
 layout: Post
 title: Atualizando o curso de IA na Educação
-inline: false
+inline: true
 date: 2026-02-20 19:33:00-0300
 author: Marcos Ramon
 ---
