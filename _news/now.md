@@ -5,7 +5,7 @@ date: 2026-02-20
 author: Marcos Ramon
 
 # FOCO ATUAL (texto livre, aparece como parágrafo)
-focus: "O semestre começou muito corrido, com muitas atividades e coisas para fazer. No momento estou afundado no planejamento das aulas regulares, começando um projeto de pesquisa sobre criatividade e ensino de filosofia e iniciando a adequação do meu curso Aplicações da Inteligência Artificial na Educação Profissional (vai começar uma nova turma agora). Já estou começando a receber convites para participar de eventos em junho e dezembro. Que coisa..."
+focus: "Realizando a adequação do curso Aplicações da Inteligência Artificial na Educação Profissional"
 
 # LENDO (um item)
 reading:
@@ -36,3 +36,5 @@ playing_comment: ""
 ---
 
 <small><i>Atualizado constantemente. Inspirado em [nownownow.com](https://nownownow.com/about).</i></small>
+
+O semestre começou muito corrido, com muitas atividades e coisas para fazer. No momento estou afundado no planejamento das aulas regulares, começando um projeto de pesquisa sobre criatividade e ensino de filosofia e iniciando a adequação do meu curso Aplicações da Inteligência Artificial na Educação Profissional (vai começar uma nova turma agora). Já estou começando a receber convites para participar de eventos em junho e dezembro. Que coisa..
