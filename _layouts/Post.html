@@ -56,7 +56,7 @@
             </div>
             {%- endif -%}
 
-            {%- if page.content_type == "notes" -%}
+            {%- if page.content-type == "notes" -%}
             <div class="column is-5-widescreen  is-6-desktop is-8-tablet is-12-mobile">
                     <div class="note-page-section">
                         <div>
@@ -109,36 +109,6 @@
                 </div>
 
                 <style>
-                    /* === Navegação por ano === */
-                    .blog-year-nav {
-                        display: flex;
-                        flex-wrap: wrap;
-                        gap: 4px 0;
-                        margin-bottom: 36px;
-                        font-size: 0.85rem;
-                        line-height: 1;
-                    }
-
-                    .blog-year-nav a {
-                        color: var(--color-text-sub);
-                        text-decoration: none;
-                        padding: 4px 8px;
-                        border-radius: 4px;
-                        transition: color 0.15s, background-color 0.15s;
-                    }
-
-                    .blog-year-nav a:hover {
-                        color: var(--color-text-main);
-                        background-color: var(--color-bg-sub);
-                    }
-
-                    .blog-year-nav .separator {
-                        color: var(--color-border-light);
-                        padding: 4px 2px;
-                        user-select: none;
-                    }
-
-                    /* === Cabeçalho de ano === */
                     .blog-year-header {
                         font-size: 1.8rem;
                         font-weight: 700;
@@ -146,17 +116,9 @@
                         margin-top: 50px;
                         margin-bottom: 20px;
                         opacity: 0.8;
-                        scroll-margin-top: 24px;
                     }
-
-                    .blog-year-divider {
-                        border: none;
-                        border-top: 1px solid var(--color-border-light);
-                        margin-top: 40px;
-                        margin-bottom: 0;
-                    }
-
-                    /* === Item de post === */
+                    
+                    /* Flexbox para alinhar Data à esquerda e Título à direita */
                     .blog-post-item {
                         display: flex;
                         align-items: baseline;
@@ -165,17 +127,15 @@
                     }
 
                     .blog-post-date {
-                        flex: 0 0 70px;
-                        font-family: monospace;
-                        font-size: 0.85rem;
+                        flex: 0 0 70px; /* Largura fixa para a data */
+                        font-family: monospace; /* Fonte mono para alinhar números */
+                        font-size: 0.95rem;
                         color: var(--color-text-sub);
                         padding-right: 15px;
-                        white-space: nowrap;
-                        text-transform: lowercase;
                     }
 
                     .blog-post-link {
-                        flex: 1;
+                        flex: 1; /* Ocupa o resto do espaço */
                     }
 
                     .blog-post-link a {
@@ -189,163 +149,48 @@
                         color: var(--color-text-main);
                         background-color: var(--color-bg-sub);
                     }
-
-                    /* === Post mais recente com destaque === */
-                    .blog-post-item.is-latest {
-                        padding: 14px 0 14px 14px;
-                        border-left: 3px solid var(--color-text-link);
-                        margin-bottom: 20px;
-                    }
-
-                    .blog-post-item.is-latest .blog-post-link a {
-                        font-size: 1.15rem;
-                        font-weight: 600;
-                    }
-
-                    .blog-post-excerpt {
-                        font-size: 0.92rem;
-                        color: var(--color-text-sub);
-                        margin-top: 4px;
-                        line-height: 1.45;
-                    }
-
-                    /* === Excerpt: wrapper flex com coluna para título + excerpt === */
-                    .blog-post-link-with-excerpt {
-                        flex: 1;
-                        display: flex;
-                        flex-direction: column;
-                    }
-
-                    /* === Botão voltar ao topo === */
-                    .back-to-top {
-                        position: fixed;
-                        bottom: 28px;
-                        right: 28px;
-                        width: 40px;
-                        height: 40px;
-                        border-radius: 50%;
-                        background: var(--color-bg-sub, #f0f0f0);
-                        border: 1px solid var(--color-border-light, #ddd);
-                        color: var(--color-text-sub);
-                        font-size: 1.1rem;
-                        cursor: pointer;
-                        display: flex;
-                        align-items: center;
-                        justify-content: center;
-                        opacity: 0;
-                        visibility: hidden;
-                        transition: opacity 0.25s, visibility 0.25s, background-color 0.15s;
-                        z-index: 100;
-                        line-height: 1;
-                    }
-
-                    .back-to-top.is-visible {
-                        opacity: 1;
-                        visibility: visible;
-                    }
-
-                    .back-to-top:hover {
-                        background: var(--color-text-link);
-                        color: #fff;
-                        border-color: var(--color-text-link);
-                    }
-
-                    @media (max-width: 768px) {
-                        .back-to-top {
-                            bottom: 18px;
-                            right: 18px;
-                            width: 36px;
-                            height: 36px;
-                            font-size: 1rem;
-                        }
-                    }
                 </style>
 
                 {% assign postsByYear = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
                 
-                <!-- Sugestão 4: Navegação rápida por ano -->
-                <nav class="blog-year-nav" aria-label="Navegar por ano">
-                    {% for year in postsByYear %}
-                        {% unless forloop.first %}<span class="separator">·</span>{% endunless %}
-                        <a href="#ano-{{ year.name }}">{{ year.name }}</a>
-                    {% endfor %}
-                </nav>
-
-                {% assign total_post_count = 0 %}
                 {% for year in postsByYear %}
-                    
-                    <!-- Sugestão 5: Separador entre anos (exceto antes do primeiro) -->
-                    {% unless forloop.first %}
-                        <hr class="blog-year-divider">
-                    {% endunless %}
-
-                    <h2 class="blog-year-header" id="ano-{{ year.name }}">{{ year.name }}</h2>
+                    <h2 class="blog-year-header">{{ year.name }}</h2>
                     
                     <div class="blog-year-list">
                         {% for post in year.items %}
-                        {% assign total_post_count = total_post_count | plus: 1 %}
-                        {% assign show_excerpt = false %}
-                        
-                        <!-- Sugestão 1 & 2: Excerpt e destaque nos 5 primeiros posts -->
-                        {% if total_post_count <= 5 %}
-                            {% assign show_excerpt = true %}
-                        {% endif %}
-
-                        <div class="blog-post-item{% if total_post_count == 1 %} is-latest{% endif %}">
+                        <div class="blog-post-item">
                             
-                            <!-- Sugestão 6: Data compacta em linha única (ex: "03 fev") -->
                             <div class="blog-post-date">
-                                {{ post.date | date: "%d" }}&nbsp;{% assign m = post.date | date: "%-m" %}{% case m %}{% when '1' %}jan{% when '2' %}fev{% when '3' %}mar{% when '4' %}abr{% when '5' %}mai{% when '6' %}jun{% when '7' %}jul{% when '8' %}ago{% when '9' %}set{% when '10' %}out{% when '11' %}nov{% when '12' %}dez{% endcase %}
+                                {% assign m = post.date | date: "%-m" %}
+                                {% case m %}
+                                    {% when '1' %}Jan
+                                    {% when '2' %}Fev
+                                    {% when '3' %}Mar
+                                    {% when '4' %}Abr
+                                    {% when '5' %}Mai
+                                    {% when '6' %}Jun
+                                    {% when '7' %}Jul
+                                    {% when '8' %}Ago
+                                    {% when '9' %}Set
+                                    {% when '10' %}Out
+                                    {% when '11' %}Nov
+                                    {% when '12' %}Dez
+                                {% endcase %}
+                                {{ post.date | date: "%d" }}
                             </div>
 
-                            {% if show_excerpt %}
-                            <div class="blog-post-link-with-excerpt">
-                                <div class="blog-post-link">
-                                    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-                                </div>
-                                {% if post.excerpt %}
-                                <div class="blog-post-excerpt">
-                                    {{ post.excerpt | strip_html | truncatewords: 20 }}
-                                </div>
-                                {% endif %}
-                            </div>
-                            {% else %}
                             <div class="blog-post-link">
                                 <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
                             </div>
-                            {% endif %}
                         </div>
                         {% endfor %}
                     </div>
                 {% endfor %}
 
-                <!-- Sugestão 7: Botão voltar ao topo -->
-                <button class="back-to-top" id="backToTop" aria-label="Voltar ao topo" title="Voltar ao topo">↑</button>
-
-                <script>
-                (function() {
-                    var btn = document.getElementById('backToTop');
-                    if (!btn) return;
-                    var threshold = 600;
-
-                    window.addEventListener('scroll', function() {
-                        if (window.scrollY > threshold) {
-                            btn.classList.add('is-visible');
-                        } else {
-                            btn.classList.remove('is-visible');
-                        }
-                    }, { passive: true });
-
-                    btn.addEventListener('click', function() {
-                        window.scrollTo({ top: 0, behavior: 'smooth' });
-                    });
-                })();
-                </script>
-
             </div> 
             {%- endif -%}
 
-             {%- if page.content_type == "post"  -%}
+             {%- if page.content-type == "post"  -%}
              <div class="column is-5-widescreen  is-6-desktop is-8-tablet is-12-mobile">
                      <div class="note-page-section">
                          <div>
@@ -428,7 +273,7 @@
              </div>
              {%- endif -%}
 
-            {%- if page.content_type == "static" -%}
+            {%- if page.content-type == "static" -%}
             <div class="column is-5-widescreen  is-6-desktop is-8-tablet is-12-mobile">
                         <div class="jumbo">{{page.title}}</div>                        
                         {%- include Content.html -%}
