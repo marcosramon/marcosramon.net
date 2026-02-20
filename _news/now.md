@@ -17,7 +17,7 @@ reading_comment: "As cartas no começo são boas (algumas, pelo menos). Os texto
 # OUVINDO (um ou dois itens, sem rating)
 listening:
   - title: "Rattlesnakes"
-    artist: "Loyd Cole and the Commotions""
+    artist: "Loyd Cole and the Commotions"
   - title: "VCO 2.0"
     comment: "podcast"
 listening_comment: ""
