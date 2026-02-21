@@ -32,256 +32,231 @@ layout: default
                      </p>
 
                      <style>
-                        /* --- Layout Geral --- */
-                        .now-intro { 
-                            font-size: 1.1rem; 
-                            line-height: 1.6; 
-                            margin-bottom: 2.5rem; 
-                            color: var(--color-text-main); 
+                        /* --- Intro --- */
+                        .now-intro {
+                            font-size: 1.05rem;
+                            line-height: 1.7;
+                            margin-bottom: 2.5rem;
+                            color: var(--color-text-main);
                             border-bottom: 1px solid var(--color-border-light);
-                            padding-bottom: 20px;
+                            padding-bottom: 1.5rem;
                         }
 
-                        .now-grid { 
-                            display: flex; 
-                            flex-direction: column; 
-                            gap: 2rem; 
-                            margin-bottom: 3rem; 
+                        /* --- Foco (parágrafo de trabalho) --- */
+                        .now-focus {
+                            margin-bottom: 2.5rem;
+                            padding-bottom: 1.5rem;
+                            border-bottom: 1px solid var(--color-border-light);
                         }
-
-                        .now-section { 
-                            background: var(--color-bg-sub); 
-                            padding: 1.8rem; 
-                            border-radius: 12px; 
-                            border: 1px solid var(--color-border-light); 
+                        .now-focus-label {
+                            font-size: 0.7rem;
+                            text-transform: uppercase;
+                            letter-spacing: 0.12em;
+                            color: var(--color-text-sub);
+                            font-weight: 600;
+                            margin-bottom: 0.6rem;
                         }
-
-                        .now-section h3 { 
-                            margin-top: 0; 
-                            margin-bottom: 1.2rem; 
-                            font-size: 1.2rem; 
-                            border-bottom: 1px solid var(--color-border); 
-                            padding-bottom: 0.8rem; 
-                            display: flex; 
-                            align-items: center; 
-                            gap: 12px; 
-                            color: var(--color-text-main); 
-                        }
-                        
-                        .now-section h3 i { 
-                            color: var(--color-text-link); 
-                            font-size: 1.1rem; 
-                        }
-                        
-                        /* Listas Foco */
-                        .now-list { list-style: none !important; padding: 0 !important; margin: 0 !important; }
-                        .now-list li { 
-                            margin-bottom: 1rem; 
-                            line-height: 1.5; 
-                            padding-left: 0 !important; 
-                            border-bottom: 1px dashed var(--color-border-light); 
-                            padding-bottom: 10px; 
+                        .now-focus p {
                             font-size: 1rem;
+                            line-height: 1.65;
+                            margin: 0;
+                            color: var(--color-text-main);
                         }
-                        .now-list li:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0;}
-                        
-                        /* Mídia (Livros, Filmes) */
-                        .media-item { 
-                            display: flex; 
-                            justify-content: space-between; 
-                            align-items: center;
-                            flex-wrap: wrap; 
-                            gap: 10px;
-                            margin-bottom: 12px; 
-                            border-bottom: 1px dashed var(--color-border-light); 
-                            padding-bottom: 10px;
-                        }
-                        .media-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
-                        
-                        .media-info {
+
+                        /* --- Grid de seções --- */
+                        .now-grid {
                             display: flex;
                             flex-direction: column;
-                            max-width: 70%;
+                            gap: 2rem;
+                            margin-bottom: 3rem;
                         }
 
-                        .media-title { 
-                            font-weight: 600; 
-                            font-size: 1rem;
-                            color: var(--color-text-main); 
+                        /* --- Seção individual --- */
+                        .now-section {
+                            display: flex;
+                            flex-direction: column;
+                            gap: 0.5rem;
                         }
-                        
-                        .media-meta { 
-                            font-size: 0.85rem; 
-                            color: var(--color-text-sub); 
-                        }
-                        
-                        /* Estrelas */
-                        .rating { 
-                            white-space: nowrap; 
-                            font-size: 0.8rem; 
-                            color: #f59e0b; 
-                            background: var(--color-bg-main); 
-                            padding: 4px 8px;
-                            border-radius: 4px;
-                            border: 1px solid var(--color-border-light);
-                        }
-                        .rating .fa-regular { color: var(--color-border); opacity: 0.5; }
-                        .rating-label { font-size: 0.75rem; color: var(--color-text-main); margin-left: 6px; font-weight: normal; }
 
-                        /* --- Comentário Geral --- */
-                        .section-comment {
-                            margin-top: 20px;
-                            padding-top: 15px;
-                            border-top: 1px solid var(--color-border);
-                            font-size: 0.95rem;
-                            line-height: 1.6;
+                        .now-section-label {
+                            font-size: 0.7rem;
+                            text-transform: uppercase;
+                            letter-spacing: 0.12em;
+                            color: var(--color-text-sub);
+                            font-weight: 600;
+                            display: flex;
+                            align-items: center;
+                            gap: 7px;
+                            margin-bottom: 0.4rem;
+                        }
+
+                        /* --- Lista de itens de mídia --- */
+                        .now-items {
+                            list-style: none;
+                            padding: 0;
+                            margin: 0;
+                        }
+
+                        .now-item {
+                            display: flex;
+                            align-items: baseline;
+                            gap: 0.5rem;
+                            padding: 0.35rem 0;
+                            border-bottom: 1px dashed var(--color-border-light);
+                            font-size: 0.98rem;
+                        }
+                        .now-item:last-child {
+                            border-bottom: none;
+                        }
+
+                        .now-item-title {
+                            font-weight: 600;
                             color: var(--color-text-main);
+                        }
+                        .now-item-title a {
+                            color: inherit;
+                            text-decoration: underline;
+                            text-decoration-color: var(--color-border);
+                            text-underline-offset: 3px;
+                        }
+                        .now-item-title a:hover {
+                            text-decoration-color: var(--color-text-link);
+                        }
+
+                        .now-item-meta {
+                            font-size: 0.88rem;
+                            color: var(--color-text-sub);
+                        }
+
+                        /* --- Comentário de seção --- */
+                        .now-comment {
+                            margin-top: 0.6rem;
+                            font-size: 0.92rem;
+                            line-height: 1.6;
+                            color: var(--color-text-sub);
                             font-style: italic;
+                        }
+
+                        /* --- Rodapé de data --- */
+                        .now-footer {
+                            margin-top: 2rem;
+                            font-size: 0.8rem;
+                            color: var(--color-text-sub);
+                            text-align: center;
                         }
                      </style>
 
+                     <!-- Introdução (corpo do markdown) -->
                      <div class="now-intro">
                         {{ content }}
                      </div>
 
+                     <!-- Foco / Trabalho -->
+                     {% if page.focus %}
+                     <div class="now-focus">
+                         <div class="now-focus-label"><i class="fa-solid fa-briefcase"></i> Trabalho</div>
+                         <p>{{ page.focus }}</p>
+                     </div>
+                     {% endif %}
+
                      <div class="now-grid">
 
-                        {% if page.focus %}
-                        <div class="now-section">
-                            <h3><i class="fa-solid fa-briefcase"></i> Trabalho, pesquisa e essas coisas</h3>
-                            <ul class="now-list">
-                                {% for item in page.focus %}
-                                <li>{{ item }}</li>
-                                {% endfor %}
-                            </ul>
-                        </div>
-                        {% endif %}
-
+                        <!-- Lendo -->
                         {% if page.reading %}
                         <div class="now-section">
-                            <h3><i class="fa-solid fa-book-open"></i> Lendo</h3>
-                            {% for item in page.reading %}
-                            <div class="media-item">
-                                <div class="media-info">
-                                    <span class="media-title">{{ item.title }}</span>
-                                    <span class="media-meta">{{ item.author }}</span>
-                                </div>
-                                {% if item.rating %}
-                                <span class="rating">
-                                    {% assign rating = item.rating | plus: 0 %}
-                                    {% for i in (1..5) %}{% if i <= rating %}<i class="fa-solid fa-star"></i>{% else %}<i class="fa-regular fa-star"></i>{% endif %}{% endfor %}
-                                    {% if item.comment %}<span class="rating-label">{{ item.comment }}</span>{% endif %}
-                                </span>
-                                {% endif %}
-                            </div>
-                            {% endfor %}
-                            
+                            <div class="now-section-label"><i class="fa-solid fa-book-open"></i> Lendo</div>
+                            <ul class="now-items">
+                                {% for item in page.reading %}
+                                <li class="now-item">
+                                    <span class="now-item-title">{{ item.title }}</span>
+                                    {% if item.author or item.comment %}
+                                    <span class="now-item-meta">
+                                        {% if item.author %}{{ item.author }}{% endif %}{% if item.author and item.comment %} · {% endif %}{% if item.comment %}{{ item.comment }}{% endif %}
+                                    </span>
+                                    {% endif %}
+                                </li>
+                                {% endfor %}
+                            </ul>
                             {% if page.reading_comment %}
-                            <div class="section-comment">
-                                {{ page.reading_comment | markdownify }}
-                            </div>
+                            <div class="now-comment">{{ page.reading_comment }}</div>
                             {% endif %}
                         </div>
                         {% endif %}
 
+                        <!-- Ouvindo -->
                         {% if page.listening %}
                         <div class="now-section">
-                            <h3><i class="fa-solid fa-headphones"></i> Ouvindo</h3>
-                            {% for item in page.listening %}
-                            <div class="media-item">
-                                <div class="media-info">
-                                    <span class="media-title">
+                            <div class="now-section-label"><i class="fa-solid fa-headphones"></i> Ouvindo</div>
+                            <ul class="now-items">
+                                {% for item in page.listening %}
+                                <li class="now-item">
+                                    <span class="now-item-title">
                                         {% if item.link %}<a href="{{ item.link }}" target="_blank">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}
                                     </span>
-                                    {% if item.artist %}<span class="media-meta">{{ item.artist }}</span>{% endif %}
-                                </div>
-                                {% if item.rating %}
-                                <span class="rating">
-                                    {% assign rating = item.rating | plus: 0 %}
-                                    {% for i in (1..5) %}{% if i <= rating %}<i class="fa-solid fa-star"></i>{% else %}<i class="fa-regular fa-star"></i>{% endif %}{% endfor %}
-                                    {% if item.comment %}<span class="rating-label">{{ item.comment }}</span>{% endif %}
-                                </span>
-                                {% endif %}
-                            </div>
-                            {% endfor %}
-
+                                    {% if item.artist or item.comment %}
+                                    <span class="now-item-meta">
+                                        {% if item.artist %}{{ item.artist }}{% endif %}{% if item.artist and item.comment %} · {% endif %}{% if item.comment %}{{ item.comment }}{% endif %}
+                                    </span>
+                                    {% endif %}
+                                </li>
+                                {% endfor %}
+                            </ul>
                             {% if page.listening_comment %}
-                            <div class="section-comment">
-                                {{ page.listening_comment | markdownify }}
-                            </div>
+                            <div class="now-comment">{{ page.listening_comment }}</div>
                             {% endif %}
                         </div>
                         {% endif %}
 
+                        <!-- Assistindo -->
                         {% if page.watching %}
                         <div class="now-section">
-                            <h3><i class="fa-solid fa-tv"></i> Assistindo</h3>
-                            {% for item in page.watching %}
-                            <div class="media-item">
-                                <div class="media-info">
-                                    <span class="media-title">{{ item.title }}</span>
-                                    {% if item.obs %}<span class="media-meta">{{ item.obs }}</span>{% endif %}
-                                </div>
-                                {% if item.rating %}
-                                <span class="rating">
-                                    {% assign rating = item.rating | plus: 0 %}
-                                    {% for i in (1..5) %}{% if i <= rating %}<i class="fa-solid fa-star"></i>{% else %}<i class="fa-regular fa-star"></i>{% endif %}{% endfor %}
-                                    {% if item.comment %}<span class="rating-label">{{ item.comment }}</span>{% endif %}
-                                </span>
-                                {% endif %}
-                            </div>
-                            {% endfor %}
-
+                            <div class="now-section-label"><i class="fa-solid fa-tv"></i> Assistindo</div>
+                            <ul class="now-items">
+                                {% for item in page.watching %}
+                                <li class="now-item">
+                                    <span class="now-item-title">{{ item.title }}</span>
+                                    {% if item.obs %}
+                                    <span class="now-item-meta">{{ item.obs }}</span>
+                                    {% endif %}
+                                </li>
+                                {% endfor %}
+                            </ul>
                             {% if page.watching_comment %}
-                            <div class="section-comment">
-                                {{ page.watching_comment | markdownify }}
-                            </div>
+                            <div class="now-comment">{{ page.watching_comment }}</div>
                             {% endif %}
                         </div>
                         {% endif %}
 
+                        <!-- Jogando -->
                         {% if page.playing %}
                         <div class="now-section">
-                            <h3><i class="fa-solid fa-gamepad"></i> Jogando</h3>
-                            {% for item in page.playing %}
-                            <div class="media-item">
-                                <div class="media-info">
-                                    <span class="media-title">
+                            <div class="now-section-label"><i class="fa-solid fa-gamepad"></i> Jogando</div>
+                            <ul class="now-items">
+                                {% for item in page.playing %}
+                                <li class="now-item">
+                                    <span class="now-item-title">
                                         {% if item.link %}<a href="{{ item.link }}" target="_blank">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}
                                     </span>
-                                </div>
-                                {% if item.rating %}
-                                <span class="rating">
-                                    {% assign rating = item.rating | plus: 0 %}
-                                    {% for i in (1..5) %}{% if i <= rating %}<i class="fa-solid fa-star"></i>{% else %}<i class="fa-regular fa-star"></i>{% endif %}{% endfor %}
-                                    {% if item.comment %}<span class="rating-label">{{ item.comment }}</span>{% endif %}
-                                </span>
-                                {% elsif item.status %}
-                                <span class="rating" style="color: var(--color-text-sub); border:none; background:none; padding:0;">
-                                    <small style="text-transform: uppercase; font-weight: bold;">{{ item.status }}</small>
-                                </span>
-                                {% endif %}
-                            </div>
-                            {% endfor %}
-
+                                </li>
+                                {% endfor %}
+                            </ul>
                             {% if page.playing_comment %}
-                            <div class="section-comment">
-                                {{ page.playing_comment | markdownify }}
-                            </div>
+                            <div class="now-comment">{{ page.playing_comment }}</div>
                             {% endif %}
                         </div>
                         {% endif %}
 
+                        <!-- Site / Meta -->
                         {% if page.meta_update %}
                         <div class="now-section">
-                            <h3><i class="fa-solid fa-code"></i> Site</h3>
-                            <p style="font-size: 0.95rem; line-height: 1.5;">{{ page.meta_update }}</p>
+                            <div class="now-section-label"><i class="fa-solid fa-code"></i> Site</div>
+                            <p style="font-size: 0.95rem; line-height: 1.5; margin: 0; color: var(--color-text-main);">{{ page.meta_update }}</p>
                         </div>
                         {% endif %}
 
                      </div>
-                     
-                     <div style="margin-top: 20px; font-size: 0.8rem; color: var(--color-text-sub); text-align: center;">
+
+                     <div class="now-footer">
                         <i class="fa-regular fa-clock"></i> <strong>Última atualização:</strong> {{ page.date | date: "%d/%m/%Y" }}
                      </div>
 
