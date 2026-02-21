@@ -109,6 +109,35 @@
                 </div>
 
                 <style>
+                    /* === Navegação por ano === */
+                    .blog-year-nav {
+                        display: flex;
+                        flex-wrap: wrap;
+                        gap: 4px;
+                        margin-bottom: 36px;
+                        font-size: 0.85rem;
+                    }
+
+                    .blog-year-nav a {
+                        color: var(--color-text-sub);
+                        text-decoration: none;
+                        padding: 4px 8px;
+                        border-radius: 4px;
+                        transition: color 0.15s, background-color 0.15s;
+                    }
+
+                    .blog-year-nav a:hover {
+                        color: var(--color-text-main);
+                        background-color: var(--color-bg-sub);
+                    }
+
+                    .blog-year-nav .separator {
+                        color: var(--color-border-light);
+                        padding: 4px 2px;
+                        user-select: none;
+                    }
+
+                    /* === Cabeçalho de ano === */
                     .blog-year-header {
                         font-size: 1.8rem;
                         font-weight: 700;
@@ -116,9 +145,17 @@
                         margin-top: 50px;
                         margin-bottom: 20px;
                         opacity: 0.8;
+                        scroll-margin-top: 24px;
                     }
-                    
-                    /* Flexbox para alinhar Data à esquerda e Título à direita */
+
+                    .blog-year-divider {
+                        border: none;
+                        border-top: 1px solid var(--color-border-light);
+                        margin-top: 40px;
+                        margin-bottom: 0;
+                    }
+
+                    /* === Item de post === */
                     .blog-post-item {
                         display: flex;
                         align-items: baseline;
@@ -127,15 +164,17 @@
                     }
 
                     .blog-post-date {
-                        flex: 0 0 70px; /* Largura fixa para a data */
-                        font-family: monospace; /* Fonte mono para alinhar números */
-                        font-size: 0.95rem;
+                        flex: 0 0 70px;
+                        font-family: monospace;
+                        font-size: 0.85rem;
                         color: var(--color-text-sub);
                         padding-right: 15px;
+                        white-space: nowrap;
+                        text-transform: lowercase;
                     }
 
                     .blog-post-link {
-                        flex: 1; /* Ocupa o resto do espaço */
+                        flex: 1;
                     }
 
                     .blog-post-link a {
@@ -149,34 +188,75 @@
                         color: var(--color-text-main);
                         background-color: var(--color-bg-sub);
                     }
+
+                    /* === Destaque para posts recentes === */
+                    .blog-post-item.is-recent {
+                        padding: 10px 0 10px 14px;
+                        border-left: 3px solid var(--color-text-link);
+                        margin-bottom: 16px;
+                    }
+
+                    .blog-post-item.is-recent .blog-post-link a {
+                        font-size: 1.1rem;
+                        font-weight: 600;
+                    }
+
+                    /* === Botão voltar ao topo === */
+                    .back-to-top {
+                        position: fixed;
+                        bottom: 28px;
+                        right: 28px;
+                        width: 40px;
+                        height: 40px;
+                        border-radius: 50%;
+                        background: var(--color-bg-sub);
+                        border: 1px solid var(--color-border-light);
+                        color: var(--color-text-sub);
+                        font-size: 1.1rem;
+                        cursor: pointer;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        opacity: 0;
+                        visibility: hidden;
+                        transition: opacity 0.25s, visibility 0.25s, background-color 0.15s;
+                        z-index: 100;
+                    }
+
+                    .back-to-top.is-visible {
+                        opacity: 1;
+                        visibility: visible;
+                    }
+
+                    .back-to-top:hover {
+                        background: var(--color-text-link);
+                        color: #fff;
+                        border-color: var(--color-text-link);
+                    }
                 </style>
 
                 {% assign postsByYear = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+
+                <!-- Navegação por ano -->
+                <nav class="blog-year-nav" aria-label="Navegar por ano">
+                    {% for year in postsByYear %}
+                        {% unless forloop.first %}<span class="separator">·</span>{% endunless %}
+                        <a href="#ano-{{ year.name }}">{{ year.name }}</a>
+                    {% endfor %}
+                </nav>
                 
+                {% assign post_count = 0 %}
                 {% for year in postsByYear %}
-                    <h2 class="blog-year-header">{{ year.name }}</h2>
+                    {% unless forloop.first %}<hr class="blog-year-divider">{% endunless %}
+                    <h2 class="blog-year-header" id="ano-{{ year.name }}">{{ year.name }}</h2>
                     
                     <div class="blog-year-list">
                         {% for post in year.items %}
-                        <div class="blog-post-item">
+                        {% assign post_count = post_count | plus: 1 %}
+                        <div class="blog-post-item{% if post_count <= 5 %} is-recent{% endif %}">
                             
                             <div class="blog-post-date">
-                                {% assign m = post.date | date: "%-m" %}
-                                {% case m %}
-                                    {% when '1' %}Jan
-                                    {% when '2' %}Fev
-                                    {% when '3' %}Mar
-                                    {% when '4' %}Abr
-                                    {% when '5' %}Mai
-                                    {% when '6' %}Jun
-                                    {% when '7' %}Jul
-                                    {% when '8' %}Ago
-                                    {% when '9' %}Set
-                                    {% when '10' %}Out
-                                    {% when '11' %}Nov
-                                    {% when '12' %}Dez
-                                {% endcase %}
-                                {{ post.date | date: "%d" }}
+                                {{ post.date | date: "%d" }}&nbsp;{% assign m = post.date | date: "%-m" %}{% case m %}{% when '1' %}jan{% when '2' %}fev{% when '3' %}mar{% when '4' %}abr{% when '5' %}mai{% when '6' %}jun{% when '7' %}jul{% when '8' %}ago{% when '9' %}set{% when '10' %}out{% when '11' %}nov{% when '12' %}dez{% endcase %}
                             </div>
 
                             <div class="blog-post-link">
@@ -186,6 +266,26 @@
                         {% endfor %}
                     </div>
                 {% endfor %}
+
+                <!-- Botão voltar ao topo -->
+                <button class="back-to-top" id="backToTop" aria-label="Voltar ao topo" title="Voltar ao topo">↑</button>
+
+                <script>
+                (function() {
+                    var btn = document.getElementById('backToTop');
+                    if (!btn) return;
+                    window.addEventListener('scroll', function() {
+                        if (window.scrollY > 600) {
+                            btn.classList.add('is-visible');
+                        } else {
+                            btn.classList.remove('is-visible');
+                        }
+                    }, { passive: true });
+                    btn.addEventListener('click', function() {
+                        window.scrollTo({ top: 0, behavior: 'smooth' });
+                    });
+                })();
+                </script>
 
             </div> 
             {%- endif -%}
