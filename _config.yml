@@ -91,9 +91,8 @@ defaults:
       path: ""
       type: news
     values:
-      layout: Post           
+      layout: NewsPost
       permalink: /news/:title
-      content-type: post     
 
 # Exclude from processing
 exclude:
