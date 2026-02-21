@@ -5,28 +5,17 @@ date: 2025-06-25
 permalink: /sobre
 author: Marcos Ramon
 excerpt: Marcos Ramon, professor de filosofia no IFB, pesquisando estética, cibercultura e ensino.
-image: /assets/img/tolis2023%201.jpg
+image: /assets/img/tolis2023-1.jpg
 feed: hide
 ---
 
-<img src="assets/img/tolis2023 1.jpg" width="300" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+<img src="assets/img/tolis2023-1.jpg" width="300" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
-Meu nome é [[Marcos Ramon]]. Sou professor de Filosofia no Instituto Federal de Brasília, onde pesquiso cibercultura, estética e cultura digital. 
+Meu nome é Marcos Ramon. Sou professor de Filosofia no Instituto Federal de Brasília, onde pesquiso cibercultura, estética e cultura digital. 
 
 Aqui você vai encontrar uma série de textos e publicações que tenho feito ao longo dos anos, assim como indicações dos meus podcasts e vídeos. É tudo feito por puro diletantismo. Então, encare esses materiais como trabalhos em processo. 😉
 
 Para ver todos os textos do blog, utilize o <a href="https://marcosramon.net/posts">índice</a> ou explore o site de outras formas. 👇🏻
-
-## Como funciona este site?
-
-Este site é um espaço de ideias interconectadas, organizado de maneira não linear, semelhante a um [jardim digital](https://maggieappleton.com/garden-history)[^1]. Aqui, não há uma hierarquia rígida a ser seguida; as conexões surgem organicamente por meio de links internos, permitindo que os temas se cruzem e evoluam com o tempo, no estilo de um [wiki](https://pt.wikipedia.org/wiki/Wiki).
-
-Na página <a href="https://marcosramon.net/notes">Wiki</a> você encontra uma combinação de wiki pessoal, textos ou anotações relacionadas à minha pesquisa e interesses acadêmicos. Já em <a href="https://marcosramon.net/posts">Blog</a> você pode ler os textos em formato de crônica e reflexões sobre o cotidiano que escrevo regularmente. Abaixo dos textos você vai ver indicações para outras publicações dentro site, sendo essa uma outra forma de navegar aqui. 
-
-Não há seção de comentário no site, mas se quiser conversar sobre qualquer texto ou publicação, mande um <a href="mailto:marcosramon@gmail.com">email</a>.
-
-### Sobre o site
-Este site é publicado com <a href="https://obsidian.md/">Obsidian</a>, <a href="https://jekyllrb.com/">Jekyll</a> e <a href="https://pages.github.com/">GitHub Pages</a>. O template que utilizo é uma versão customizada de <a href="https://jekyll-garden.github.io/">Jekyll Garden</a>.
 
 ## Vida acadêmica
 
@@ -119,6 +108,18 @@ Para citar qualquer texto deste site em formato acadêmico, utilize o [modelo de
 
 ### 📄 Exemplo
 Ramon, Marcos. **A releitura como forma de reencontro.** Disponível em: <https://marcosramon.net/a-releitura-como-forma-de-reencontro>. Acesso em: 2 mar. 2025.
+
+## Como funciona este site?
+
+Este site é um espaço de ideias interconectadas, organizado de maneira não linear, semelhante a um [jardim digital](https://maggieappleton.com/garden-history)[^1]. Aqui, não há uma hierarquia rígida a ser seguida; as conexões surgem organicamente por meio de links internos, permitindo que os temas se cruzem e evoluam com o tempo, no estilo de um [wiki](https://pt.wikipedia.org/wiki/Wiki).
+
+Na página <a href="https://marcosramon.net/notes">Wiki</a> você encontra uma combinação de wiki pessoal, textos ou anotações relacionadas à minha pesquisa e interesses acadêmicos. Já em <a href="https://marcosramon.net/posts">Blog</a> você pode ler os textos em formato de crônica e reflexões sobre o cotidiano que escrevo regularmente. Abaixo dos textos você vai ver indicações para outras publicações dentro site, sendo essa uma outra forma de navegar aqui. 
+
+Não há seção de comentário no site, mas se quiser conversar sobre qualquer texto ou publicação, mande um <a href="mailto:marcosramon@gmail.com">email</a>.
+
+### Sobre o site
+Este site é publicado com <a href="https://obsidian.md/">Obsidian</a>, <a href="https://jekyllrb.com/">Jekyll</a> e <a href="https://pages.github.com/">GitHub Pages</a>. O template que utilizo é uma versão customizada de <a href="https://jekyll-garden.github.io/">Jekyll Garden</a>.
+
 
 ## Uso e compartilhamento
 
