@@ -102,13 +102,6 @@ Aqui seguem alguns dados resumidos sobre a minha <a href="https://marcosramon.ne
   </a>
 </div>
 
-## Como citar
-
-Para citar qualquer texto deste site em formato acadêmico, utilize o [modelo de referência para sites da ABNT](https://normaliza.ifb.edu.br/doku.php?id=referencias:modelos_de_referencias:documentos_em_meio_eletronico:documentos_de_acesso_exclusivo_em_meio_eletronico):
-
-### 📄 Exemplo
-Ramon, Marcos. **A releitura como forma de reencontro.** Disponível em: <https://marcosramon.net/a-releitura-como-forma-de-reencontro>. Acesso em: 2 mar. 2025.
-
 ## Como funciona este site?
 
 Este site é um espaço de ideias interconectadas, organizado de maneira não linear, semelhante a um [jardim digital](https://maggieappleton.com/garden-history)[^1]. Aqui, não há uma hierarquia rígida a ser seguida; as conexões surgem organicamente por meio de links internos, permitindo que os temas se cruzem e evoluam com o tempo, no estilo de um [wiki](https://pt.wikipedia.org/wiki/Wiki).
@@ -120,6 +113,12 @@ Não há seção de comentário no site, mas se quiser conversar sobre qualquer 
 ### Sobre o site
 Este site é publicado com <a href="https://obsidian.md/">Obsidian</a>, <a href="https://jekyllrb.com/">Jekyll</a> e <a href="https://pages.github.com/">GitHub Pages</a>. O template que utilizo é uma versão customizada de <a href="https://jekyll-garden.github.io/">Jekyll Garden</a>.
 
+## Como citar
+
+Para citar qualquer texto deste site em formato acadêmico, utilize o [modelo de referência para sites da ABNT](https://normaliza.ifb.edu.br/doku.php?id=referencias:modelos_de_referencias:documentos_em_meio_eletronico:documentos_de_acesso_exclusivo_em_meio_eletronico):
+
+### 📄 Exemplo
+Ramon, Marcos. **A releitura como forma de reencontro.** Disponível em: <https://marcosramon.net/a-releitura-como-forma-de-reencontro>. Acesso em: 2 mar. 2025.
 
 ## Uso e compartilhamento
 
