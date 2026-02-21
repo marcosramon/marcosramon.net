@@ -4,8 +4,43 @@
   <div class="home-sub-text"> 
     <h3>
       Sou professor de Filosofia no IFB, onde pesquiso estética, cibercultura e tecnologias educacionais.
-      Links: <a href="{{'/posts' | relative_url}}"> blog</a>, <a href="{{'/publicacoes' | relative_url}}"> publicações</a> e <a href="{{'/ficcoes' | relative_url}}"> podcast</a>.
     </h3> 
+      <div class="home-links" style="margin-top: 12px; display: flex; flex-wrap: wrap; gap: 8px;">
+      <a href="{{'/posts' | relative_url}}" class="home-link-chip">blog</a>
+      <a href="{{'/publicacoes' | relative_url}}" class="home-link-chip">publicações</a>
+      <a href="{{'/ficcoes' | relative_url}}" class="home-link-chip">podcast</a>
+    </div>
+
+  <style>
+    .home-link-chip {
+      display: inline-block;
+      padding: 4px 14px;
+      border: 1px solid var(--color-border-light);
+      border-radius: 20px;
+      font-size: 0.95rem;
+      color: var(--color-text-link);
+      text-decoration: none;
+      transition: background-color 0.15s, border-color 0.15s;
+    }
+
+    .home-link-chip:hover {
+      background-color: var(--color-bg-sub);
+      border-color: var(--color-text-link);
+    }
+
+    .home-see-all {
+      display: inline-block;
+      margin-top: 8px;
+      font-size: 0.9rem;
+      color: var(--color-text-sub);
+      text-decoration: none;
+      transition: color 0.15s;
+    }
+
+    .home-see-all:hover {
+      color: var(--color-text-link);
+    }
+  </style>
   </div>
 
   <div class="updates-wrapper" style="margin-top: 60px; font-family: inherit; text-align: left;">
@@ -94,6 +129,7 @@
           </div>
         {% endfor %}
       </div>
+      <a href="{{ '/posts' | relative_url }}" class="home-see-all">ver todos →</a>
     </div>
 
   </div> </div>
