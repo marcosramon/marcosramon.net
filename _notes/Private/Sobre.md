@@ -19,7 +19,7 @@ Para ver todos os textos do blog, utilize o <a href="https://marcosramon.net/pos
 
 ## Vida acadêmica
 
-Aqui seguem alguns dados resumidos sobre a minha <a href="https://marcosramon.net/cv/">vida acadêmica</a>. Se quiser saber mais, veja o [link do meu currículo lattes](http://lattes.cnpq.br/9538072103558772) ou do [Orcid](https://orcid.org/0000-0002-8720-8706). Quem tiver interesse em trocar ideias sobre pesquisa é só mandar um [email](mailto:marcos.ferreira@gmail.com).
+Aqui seguem alguns dados resumidos sobre a minha <a href="https://marcosramon.net/cv/">vida acadêmica</a>. Se quiser saber mais, veja o [link do meu currículo lattes](http://lattes.cnpq.br/9538072103558772) ou do [Orcid](https://orcid.org/0000-0002-8720-8706).
 
 ## Conexões e Links
 
