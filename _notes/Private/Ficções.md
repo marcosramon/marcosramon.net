@@ -2,7 +2,7 @@
 layout: Post
 title: Ficções
 feed: hide
-date: 2026-02-26
+date: 2026-02-21
 permalink: /ficcoes
 image: ficcoes-sp.png
 author: Marcos Ramon
